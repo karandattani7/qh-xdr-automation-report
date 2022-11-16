@@ -1,0 +1,75 @@
+{
+  "uid" : "c46c2f3f14d853ef",
+  "name" : "Verify that User is able to add and apply one filter in Playbooks-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to add and apply one filter in Playbooks-Light",
+  "historyId" : "28aa6dfcda62f83b03f1103577f3252",
+  "time" : {
+    "start" : 1668547146404,
+    "stop" : 1668547192189,
+    "duration" : 45785
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to add and apply one filter in Playbooks-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "733388128a519e5f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668513789617,
+        "stop" : 1668513837007,
+        "duration" : 47390
+      }
+    }, {
+      "uid" : "555d46b0f66147a7",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504218122,
+        "stop" : 1668504222552,
+        "duration" : 4430
+      }
+    }, {
+      "uid" : "d20499a5e9fc746a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668501378522,
+        "stop" : 1668501424001,
+        "duration" : 45479
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c46c2f3f14d853ef.json",
+  "parameterValues" : [ ]
+}

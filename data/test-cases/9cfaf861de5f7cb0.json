@@ -1,0 +1,48 @@
+{
+  "uid" : "9cfaf861de5f7cb0",
+  "name" : "Verify that clicking on Delete icon on external function block shows Delete block modal-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that clicking on Delete icon on external function block shows Delete block modal-Dark",
+  "historyId" : "119d4e53c1644fe69571084e3ae6f6ef",
+  "time" : {
+    "start" : 1668423203001,
+    "stop" : 1668423251054,
+    "duration" : 48053
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Delete icon on external function block shows Delete block modal-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9cfaf861de5f7cb0.json",
+  "parameterValues" : [ ]
+}

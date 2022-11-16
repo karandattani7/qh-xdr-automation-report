@@ -1,0 +1,67 @@
+{
+  "uid" : "9ab64062b31b2154",
+  "name" : "Verify that deleting external function block from main canvas area, closes the right panel and removes block from main canvas area-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that deleting external function block from main canvas area, closes the right panel and removes block from main canvas area-Dark",
+  "historyId" : "4d7adcf838c0b8b3714f7bbe180f560a",
+  "time" : {
+    "start" : 1668579731955,
+    "stop" : 1668579788347,
+    "duration" : 56392
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that deleting external function block from main canvas area, closes the right panel and removes block from main canvas area-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3c6304074bfbdf8d",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668545882123,
+        "stop" : 1668545885511,
+        "duration" : 3388
+      }
+    }, {
+      "uid" : "5927130b065cf560",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668423718859,
+        "stop" : 1668423769928,
+        "duration" : 51069
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9ab64062b31b2154.json",
+  "parameterValues" : [ ]
+}

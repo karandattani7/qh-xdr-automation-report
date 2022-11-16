@@ -1,0 +1,50 @@
+{
+  "uid" : "7e01d9a1aad781c9",
+  "name" : "Verify that clicking on 'Configure Instance' button in Connector Details right panel opens Configure Instance form with selected connector name-Light",
+  "fullName" : "Connector Test Light theme.Verify that clicking on 'Configure Instance' button in Connector Details right panel opens Configure Instance form with selected connector name-Light",
+  "historyId" : "895b28a0ec6aa2e143c89d57ba603cff",
+  "time" : {
+    "start" : 1668258563877,
+    "stop" : 1668258594491,
+    "duration" : 30614
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on 'Configure Instance' button in Connector Details right panel opens Configure Instance form with selected connector name-Light"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7e01d9a1aad781c9.json",
+  "parameterValues" : [ ]
+}

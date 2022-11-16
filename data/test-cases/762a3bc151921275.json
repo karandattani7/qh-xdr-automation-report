@@ -1,0 +1,48 @@
+{
+  "uid" : "762a3bc151921275",
+  "name" : "Verify that User is able to clear search field using cross (x) icon after selecting playbook.name with non-existing playbook name value in Draft Playbooks tab-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to clear search field using cross (x) icon after selecting playbook.name with non-existing playbook name value in Draft Playbooks tab-Light",
+  "historyId" : "6ec8c3c70e2b2e1bd508f5da9b0d1468",
+  "time" : {
+    "start" : 1668512504373,
+    "stop" : 1668512541306,
+    "duration" : 36933
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to clear search field using cross (x) icon after selecting playbook.name with non-existing playbook name value in Draft Playbooks tab-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "762a3bc151921275.json",
+  "parameterValues" : [ ]
+}

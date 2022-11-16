@@ -1,0 +1,48 @@
+{
+  "uid" : "1b0261af7350fd0e",
+  "name" : "Verify User is able to see checkbox before PLAYBOOK NAME column for each row in Published Playbooks-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify User is able to see checkbox before PLAYBOOK NAME column for each row in Published Playbooks-Dark",
+  "historyId" : "88fc179b06d77f7d2457a591acd94a4c",
+  "time" : {
+    "start" : 1668543249498,
+    "stop" : 1668543264021,
+    "duration" : 14523
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User is able to see checkbox before PLAYBOOK NAME column for each row in Published Playbooks-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1b0261af7350fd0e.json",
+  "parameterValues" : [ ]
+}

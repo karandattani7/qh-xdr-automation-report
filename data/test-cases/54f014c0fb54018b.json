@@ -1,0 +1,50 @@
+{
+  "uid" : "54f014c0fb54018b",
+  "name" : "Verify that file is downloaded, after clicking on export button of Admin Dashboard Page.-Dark",
+  "fullName" : "Dashboard Test Dark theme-Admin.Verify that file is downloaded, after clicking on export button of Admin Dashboard Page.-Dark",
+  "historyId" : "23e822a995845c4b70b51e3f68734d04",
+  "time" : {
+    "start" : 1668261709076,
+    "stop" : 1668261738192,
+    "duration" : 29116
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Dashboard Test Dark theme-Admin"
+  }, {
+    "name" : "testClass",
+    "value" : "Dashboard Test Dark theme-Admin"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that file is downloaded, after clicking on export button of Admin Dashboard Page.-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Dashboard Test Dark theme-Admin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "54f014c0fb54018b.json",
+  "parameterValues" : [ ]
+}

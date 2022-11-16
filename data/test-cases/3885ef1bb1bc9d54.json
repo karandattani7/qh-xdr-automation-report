@@ -1,0 +1,50 @@
+{
+  "uid" : "3885ef1bb1bc9d54",
+  "name" : "Verify that adding quick filter on Enrichment connector tab is not added in Ingestion and Response tab when switching to Ingestion and Response tab-Dark",
+  "fullName" : "Connector Test Dark theme.Verify that adding quick filter on Enrichment connector tab is not added in Ingestion and Response tab when switching to Ingestion and Response tab-Dark",
+  "historyId" : "29d723dcd400fc8bf9df2f69bfbaafc8",
+  "time" : {
+    "start" : 1668256641476,
+    "stop" : 1668256699218,
+    "duration" : 57742
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that adding quick filter on Enrichment connector tab is not added in Ingestion and Response tab when switching to Ingestion and Response tab-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3885ef1bb1bc9d54.json",
+  "parameterValues" : [ ]
+}

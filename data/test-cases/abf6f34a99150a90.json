@@ -1,0 +1,48 @@
+{
+  "uid" : "abf6f34a99150a90",
+  "name" : "Verify User should be able to scroll up and down to see list of Published Playbooks in Published Playbooks tab-Light",
+  "fullName" : "Playbook Test Light theme.Verify User should be able to scroll up and down to see list of Published Playbooks in Published Playbooks tab-Light",
+  "historyId" : "cd5a3b9f08ffd939f3ba25c86090be49",
+  "time" : {
+    "start" : 1668501863572,
+    "stop" : 1668501885544,
+    "duration" : 21972
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User should be able to scroll up and down to see list of Published Playbooks in Published Playbooks tab-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "abf6f34a99150a90.json",
+  "parameterValues" : [ ]
+}

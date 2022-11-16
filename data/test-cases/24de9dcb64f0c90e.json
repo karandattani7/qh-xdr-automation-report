@@ -1,0 +1,67 @@
+{
+  "uid" : "24de9dcb64f0c90e",
+  "name" : "Verify that From Date and To Date calendar is shown for Created On and Updated On AVAILABLE FILTERS in Add Filter window-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that From Date and To Date calendar is shown for Created On and Updated On AVAILABLE FILTERS in Add Filter window-Dark",
+  "historyId" : "c944613b3afd9dc589aac18f14fd40be",
+  "time" : {
+    "start" : 1668577636039,
+    "stop" : 1668577686337,
+    "duration" : 50298
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that From Date and To Date calendar is shown for Created On and Updated On AVAILABLE FILTERS in Add Filter window-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "272db9e70ca8c80a",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668545753102,
+        "stop" : 1668545756492,
+        "duration" : 3390
+      }
+    }, {
+      "uid" : "9e3134110e4ca545",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668421724272,
+        "stop" : 1668421774461,
+        "duration" : 50189
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "24de9dcb64f0c90e.json",
+  "parameterValues" : [ ]
+}

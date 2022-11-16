@@ -1,0 +1,66 @@
+{
+  "uid" : "3b18ec64d9ca3dea",
+  "name" : "Verify that success toast notification is shown after a saved filter is deleted in Incident Add Filter modal-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that success toast notification is shown after a saved filter is deleted in Incident Add Filter modal-Dark",
+  "historyId" : "ac520704a9fe6dd535d2e694e4d471eb",
+  "time" : {
+    "start" : 1668499434145,
+    "stop" : 1668499476441,
+    "duration" : 42296
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that success toast notification is shown after a saved filter is deleted in Incident Add Filter modal-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c06d0762a8bc8935",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668429278050,
+        "stop" : 1668429320579,
+        "duration" : 42529
+      }
+    }, {
+      "uid" : "563aa9a2754b1135",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668414253315,
+        "stop" : 1668414296687,
+        "duration" : 43372
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3b18ec64d9ca3dea.json",
+  "parameterValues" : [ ]
+}

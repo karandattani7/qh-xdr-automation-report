@@ -1,0 +1,48 @@
+{
+  "uid" : "7e56d229eded7544",
+  "name" : "Verify User gets a toast notification on exporting specific playbook-Light",
+  "fullName" : "Playbook Test Light theme.Verify User gets a toast notification on exporting specific playbook-Light",
+  "historyId" : "d3bb666089479ddb3c03dc4c0770fc05",
+  "time" : {
+    "start" : 1668511631212,
+    "stop" : 1668511669949,
+    "duration" : 38737
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User gets a toast notification on exporting specific playbook-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7e56d229eded7544.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,66 @@
+{
+  "uid" : "c8caf4fe327ce0e",
+  "name" : "Verify that in Incident Add Filter modal, user is able to apply a saved filter on Incidents list-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that in Incident Add Filter modal, user is able to apply a saved filter on Incidents list-Dark",
+  "historyId" : "7ed6ad4bd21e6e819aba1ed01a29c1e1",
+  "time" : {
+    "start" : 1668499871567,
+    "stop" : 1668499896493,
+    "duration" : 24926
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Incident Add Filter modal, user is able to apply a saved filter on Incidents list-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3d1d145900c6fa98",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668429709392,
+        "stop" : 1668429734332,
+        "duration" : 24940
+      }
+    }, {
+      "uid" : "b97e41ca234b32c0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668414691533,
+        "stop" : 1668414717076,
+        "duration" : 25543
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c8caf4fe327ce0e.json",
+  "parameterValues" : [ ]
+}

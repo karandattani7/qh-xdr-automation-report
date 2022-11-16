@@ -1,0 +1,67 @@
+{
+  "uid" : "844326f59ebe175c",
+  "name" : "Verify that dragging and dropping 'Call External Function' block on main canvas area opens Call External Function right panel initial view-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that dragging and dropping 'Call External Function' block on main canvas area opens Call External Function right panel initial view-Dark",
+  "historyId" : "451c678c32e26b351f35052e34356467",
+  "time" : {
+    "start" : 1668579006269,
+    "stop" : 1668579055310,
+    "duration" : 49041
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that dragging and dropping 'Call External Function' block on main canvas area opens Call External Function right panel initial view-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "84f3ac2a576d013b",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668545837894,
+        "stop" : 1668545841309,
+        "duration" : 3415
+      }
+    }, {
+      "uid" : "ab0280b4519247f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668423027821,
+        "stop" : 1668423073990,
+        "duration" : 46169
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "844326f59ebe175c.json",
+  "parameterValues" : [ ]
+}

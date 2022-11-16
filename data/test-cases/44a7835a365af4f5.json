@@ -1,0 +1,74 @@
+{
+  "uid" : "44a7835a365af4f5",
+  "name" : "Verify that after 5 tags are selected the other tag checkboxes are disabled in Tags field of Create Playbook form-Light",
+  "fullName" : "Playbook Test Light theme.Verify that after 5 tags are selected the other tag checkboxes are disabled in Tags field of Create Playbook form-Light",
+  "historyId" : "30f8f1a4ea76d64b4d683ed6cbd2731a",
+  "time" : {
+    "start" : 1668544533845,
+    "stop" : 1668544562717,
+    "duration" : 28872
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that after 5 tags are selected the other tag checkboxes are disabled in Tags field of Create Playbook form-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8baf25caf592c39a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668510940800,
+        "stop" : 1668510970976,
+        "duration" : 30176
+      }
+    }, {
+      "uid" : "1b387d12b45f4b6b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668502687158,
+        "stop" : 1668502717261,
+        "duration" : 30103
+      }
+    }, {
+      "uid" : "397eea4f9dde3d44",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668498752033,
+        "stop" : 1668498780777,
+        "duration" : 28744
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "44a7835a365af4f5.json",
+  "parameterValues" : [ ]
+}

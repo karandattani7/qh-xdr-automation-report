@@ -1,0 +1,50 @@
+{
+  "uid" : "50e9e32c8b2ad3f4",
+  "name" : "Verify that User is able to click on “Export Audit Report” and Export the Audit Report for a incident using the Incident Canvas modal.-Light",
+  "fullName" : "Incident Test Light theme.Verify that User is able to click on “Export Audit Report” and Export the Audit Report for a incident using the Incident Canvas modal.-Light",
+  "historyId" : "1a331f4083e2e782359ab06bb5330b77",
+  "time" : {
+    "start" : 1668434450734,
+    "stop" : 1668434506176,
+    "duration" : 55442
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to click on “Export Audit Report” and Export the Audit Report for a incident using the Incident Canvas modal.-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "50e9e32c8b2ad3f4.json",
+  "parameterValues" : [ ]
+}

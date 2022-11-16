@@ -1,0 +1,48 @@
+{
+  "uid" : "f74b0fe7d8578c12",
+  "name" : "Verify that Playbook Details right panel is shown in expanded state when user lands on Playbook Editor page-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that Playbook Details right panel is shown in expanded state when user lands on Playbook Editor page-Dark",
+  "historyId" : "ad7eea36b2b30dd6e238ae5b91a4f23b",
+  "time" : {
+    "start" : 1668545547610,
+    "stop" : 1668545576963,
+    "duration" : 29353
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Playbook Details right panel is shown in expanded state when user lands on Playbook Editor page-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f74b0fe7d8578c12.json",
+  "parameterValues" : [ ]
+}

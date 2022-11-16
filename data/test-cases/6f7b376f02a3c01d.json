@@ -1,0 +1,48 @@
+{
+  "uid" : "6f7b376f02a3c01d",
+  "name" : "Verify that user is able to add filter block by providing values to Name and Condition field in Filter right panel-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that user is able to add filter block by providing values to Name and Condition field in Filter right panel-Dark",
+  "historyId" : "50742e4e2e4491eb419ef219f6fe13c3",
+  "time" : {
+    "start" : 1668424910082,
+    "stop" : 1668425003368,
+    "duration" : 93286
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to add filter block by providing values to Name and Condition field in Filter right panel-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6f7b376f02a3c01d.json",
+  "parameterValues" : [ ]
+}

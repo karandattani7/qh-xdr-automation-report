@@ -1,0 +1,66 @@
+{
+  "uid" : "ae0fa86f332cba71",
+  "name" : "Verify that on top of Base Alerts List tables 'Base Alerts (n)' title is shown with count in brackets-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that on top of Base Alerts List tables 'Base Alerts (n)' title is shown with count in brackets-Dark",
+  "historyId" : "c12d759ae1ce831f0ddc1fc3617833fd",
+  "time" : {
+    "start" : 1668497848266,
+    "stop" : 1668497875680,
+    "duration" : 27414
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that on top of Base Alerts List tables 'Base Alerts (n)' title is shown with count in brackets-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6fbfc2b07fda81a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668427603273,
+        "stop" : 1668427630706,
+        "duration" : 27433
+      }
+    }, {
+      "uid" : "4d80eb8a8c2ec205",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668412588755,
+        "stop" : 1668412616480,
+        "duration" : 27725
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ae0fa86f332cba71.json",
+  "parameterValues" : [ ]
+}

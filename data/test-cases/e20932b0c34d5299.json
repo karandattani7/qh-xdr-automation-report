@@ -1,0 +1,50 @@
+{
+  "uid" : "e20932b0c34d5299",
+  "name" : "Verify that in Incident Right panel, clicking on 'Playbook Actions' enabled button shows upward dropdown with list of Playbooks and its status-Light",
+  "fullName" : "Incident Test Light theme.Verify that in Incident Right panel, clicking on 'Playbook Actions' enabled button shows upward dropdown with list of Playbooks and its status-Light",
+  "historyId" : "a65a2fa70e887e52f665b60b553f5686",
+  "time" : {
+    "start" : 1668429863007,
+    "stop" : 1668429892141,
+    "duration" : 29134
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Incident Right panel, clicking on 'Playbook Actions' enabled button shows upward dropdown with list of Playbooks and its status-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e20932b0c34d5299.json",
+  "parameterValues" : [ ]
+}

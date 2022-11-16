@@ -1,0 +1,66 @@
+{
+  "uid" : "50d915f04d57304a",
+  "name" : "Verify that User is able to see entries in Investigation Timeline section date-time wise in descending order on right side of “Incident Canvas/View Audit Report” modal-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that User is able to see entries in Investigation Timeline section date-time wise in descending order on right side of “Incident Canvas/View Audit Report” modal-Dark",
+  "historyId" : "164e0eccd3cb6311a8c3a447621d764e",
+  "time" : {
+    "start" : 1668504812627,
+    "stop" : 1668504845066,
+    "duration" : 32439
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to see entries in Investigation Timeline section date-time wise in descending order on right side of “Incident Canvas/View Audit Report” modal-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ab530d01516b498",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668434138186,
+        "stop" : 1668434178297,
+        "duration" : 40111
+      }
+    }, {
+      "uid" : "5c8d1b333cc4a51d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668419271131,
+        "stop" : 1668419311227,
+        "duration" : 40096
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "50d915f04d57304a.json",
+  "parameterValues" : [ ]
+}

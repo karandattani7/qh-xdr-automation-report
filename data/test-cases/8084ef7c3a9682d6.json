@@ -1,0 +1,48 @@
+{
+  "uid" : "8084ef7c3a9682d6",
+  "name" : "Verify that clicking on call external function block in main canvas area when external function is not added opens Right panel with list of external functions-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that clicking on call external function block in main canvas area when external function is not added opens Right panel with list of external functions-Dark",
+  "historyId" : "37b6facf4b4f7414ace17d93de86cc7",
+  "time" : {
+    "start" : 1668423251054,
+    "stop" : 1668423289510,
+    "duration" : 38456
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on call external function block in main canvas area when external function is not added opens Right panel with list of external functions-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8084ef7c3a9682d6.json",
+  "parameterValues" : [ ]
+}

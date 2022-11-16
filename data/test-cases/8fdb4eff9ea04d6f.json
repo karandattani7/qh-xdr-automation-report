@@ -1,0 +1,50 @@
+{
+  "uid" : "8fdb4eff9ea04d6f",
+  "name" : "Verify Admin is able to view timeframe breakpoints on each widget of Admin Dashboard Page.-Light",
+  "fullName" : "Dashboard Test Light theme-Admin.Verify Admin is able to view timeframe breakpoints on each widget of Admin Dashboard Page.-Light",
+  "historyId" : "f892f73792e8b2baa705301eaa79d98d",
+  "time" : {
+    "start" : 1668262827251,
+    "stop" : 1668262833661,
+    "duration" : 6410
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Dashboard Test Light theme-Admin"
+  }, {
+    "name" : "testClass",
+    "value" : "Dashboard Test Light theme-Admin"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Admin is able to view timeframe breakpoints on each widget of Admin Dashboard Page.-Light"
+  }, {
+    "name" : "package",
+    "value" : "Dashboard Test Light theme-Admin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8fdb4eff9ea04d6f.json",
+  "parameterValues" : [ ]
+}

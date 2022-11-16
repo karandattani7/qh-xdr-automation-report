@@ -1,0 +1,74 @@
+{
+  "uid" : "359cf3e04f942fec",
+  "name" : "Verify User is able to select/deselect checkbox before PLAYBOOK NAME column to select/deselect all rows in Draft Playbooks tab-Light",
+  "fullName" : "Playbook Test Light theme.Verify User is able to select/deselect checkbox before PLAYBOOK NAME column to select/deselect all rows in Draft Playbooks tab-Light",
+  "historyId" : "da58a69c4d9293e1095b5d4c0ff4cf23",
+  "time" : {
+    "start" : 1668543383702,
+    "stop" : 1668543461374,
+    "duration" : 77672
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User is able to select/deselect checkbox before PLAYBOOK NAME column to select/deselect all rows in Draft Playbooks tab-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4f0f1b4ab2527f0e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668509779602,
+        "stop" : 1668509820830,
+        "duration" : 41228
+      }
+    }, {
+      "uid" : "4c386a70e1ebff7e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668501631071,
+        "stop" : 1668501669184,
+        "duration" : 38113
+      }
+    }, {
+      "uid" : "4a067c3d0d49cc19",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668497615334,
+        "stop" : 1668497654243,
+        "duration" : 38909
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "359cf3e04f942fec.json",
+  "parameterValues" : [ ]
+}

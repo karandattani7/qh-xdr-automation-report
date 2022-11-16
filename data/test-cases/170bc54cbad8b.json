@@ -1,0 +1,75 @@
+{
+  "uid" : "170bc54cbad8b",
+  "name" : "Verify that hovering on decision block with added condition and clicking on Edit icon opens editable right panel with Cancel and Save Changes button-Light",
+  "fullName" : "Playbook Test Light theme.Verify that hovering on decision block with added condition and clicking on Edit icon opens editable right panel with Cancel and Save Changes button-Light",
+  "historyId" : "c82e8c5922d8050b87b97e4d83184260",
+  "time" : {
+    "start" : 1668548453540,
+    "stop" : 1668548517266,
+    "duration" : 63726
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that hovering on decision block with added condition and clicking on Edit icon opens editable right panel with Cancel and Save Changes button-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c74fd8af3d266990",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668515342523,
+        "stop" : 1668515406896,
+        "duration" : 64373
+      }
+    }, {
+      "uid" : "e6f8e7d93bf6c90b",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504338109,
+        "stop" : 1668504342605,
+        "duration" : 4496
+      }
+    }, {
+      "uid" : "c52b7441bcb15dad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668502697073,
+        "stop" : 1668502766172,
+        "duration" : 69099
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "170bc54cbad8b.json",
+  "parameterValues" : [ ]
+}

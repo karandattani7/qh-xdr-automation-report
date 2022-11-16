@@ -1,0 +1,67 @@
+{
+  "uid" : "97190f61678aa009",
+  "name" : "Verify that clicking on '>' arrow in front of right panel closes the External Function right panel-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that clicking on '>' arrow in front of right panel closes the External Function right panel-Dark",
+  "historyId" : "1baf45c53d0bd2f203772a503f7f3c28",
+  "time" : {
+    "start" : 1668578385559,
+    "stop" : 1668578432362,
+    "duration" : 46803
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on '>' arrow in front of right panel closes the External Function right panel-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6f1a7caf5229fdcd",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668545797150,
+        "stop" : 1668545800485,
+        "duration" : 3335
+      }
+    }, {
+      "uid" : "89ebb4958bd2e8e6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668422481200,
+        "stop" : 1668422527272,
+        "duration" : 46072
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "97190f61678aa009.json",
+  "parameterValues" : [ ]
+}

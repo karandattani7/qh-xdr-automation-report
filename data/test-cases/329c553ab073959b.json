@@ -1,0 +1,50 @@
+{
+  "uid" : "329c553ab073959b",
+  "name" : "Verify that user is able to click, hold and move the rectangle slider box to left and right on the x-axis in timeline graph in Incident Timeline view-Light",
+  "fullName" : "Incident Test Light theme.Verify that user is able to click, hold and move the rectangle slider box to left and right on the x-axis in timeline graph in Incident Timeline view-Light",
+  "historyId" : "77fb6b23c2be0c967817f038a0fa8c79",
+  "time" : {
+    "start" : 1668431763195,
+    "stop" : 1668431793852,
+    "duration" : 30657
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to click, hold and move the rectangle slider box to left and right on the x-axis in timeline graph in Incident Timeline view-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "329c553ab073959b.json",
+  "parameterValues" : [ ]
+}

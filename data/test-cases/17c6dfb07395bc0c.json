@@ -1,0 +1,48 @@
+{
+  "uid" : "17c6dfb07395bc0c",
+  "name" : "Verify in Published Playbooks tab and Draft Playbooks tab that clicking on 'Playbooks' in breadcrumbs of Copy Playbook form shows 'Work not saved' modal-Light",
+  "fullName" : "Playbook Test Light theme.Verify in Published Playbooks tab and Draft Playbooks tab that clicking on 'Playbooks' in breadcrumbs of Copy Playbook form shows 'Work not saved' modal-Light",
+  "historyId" : "cd385775e873c9de0795edad15836147",
+  "time" : {
+    "start" : 1668499555657,
+    "stop" : 1668499587238,
+    "duration" : 31581
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify in Published Playbooks tab and Draft Playbooks tab that clicking on 'Playbooks' in breadcrumbs of Copy Playbook form shows 'Work not saved' modal-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "17c6dfb07395bc0c.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,66 @@
+{
+  "uid" : "c17440a6fa1126b9",
+  "name" : "Verify that in Incident Add Filter modal, 'Filter already selected.'' error message is shown when user tries to add same filter to SELECTED FILTERS section-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that in Incident Add Filter modal, 'Filter already selected.'' error message is shown when user tries to add same filter to SELECTED FILTERS section-Dark",
+  "historyId" : "7f3e3d51a1a7178eb64baac3b4cc1707",
+  "time" : {
+    "start" : 1668500394740,
+    "stop" : 1668500430108,
+    "duration" : 35368
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Incident Add Filter modal, 'Filter already selected.'' error message is shown when user tries to add same filter to SELECTED FILTERS section-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "96ef84a0c4b79fc2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668430222468,
+        "stop" : 1668430258763,
+        "duration" : 36295
+      }
+    }, {
+      "uid" : "5b9d6696fcbc2197",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668415197958,
+        "stop" : 1668415234271,
+        "duration" : 36313
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c17440a6fa1126b9.json",
+  "parameterValues" : [ ]
+}

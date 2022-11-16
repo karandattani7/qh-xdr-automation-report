@@ -1,0 +1,48 @@
+{
+  "uid" : "8084e43706e47ea0",
+  "name" : "Verify that User is able to update Decision Block from main canvas area-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to update Decision Block from main canvas area-Light",
+  "historyId" : "49a42091dcf52dbe7ea8b97068a42800",
+  "time" : {
+    "start" : 1668504605911,
+    "stop" : 1668504662619,
+    "duration" : 56708
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to update Decision Block from main canvas area-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8084e43706e47ea0.json",
+  "parameterValues" : [ ]
+}

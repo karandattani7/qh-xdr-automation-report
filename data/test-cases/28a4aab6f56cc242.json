@@ -1,0 +1,67 @@
+{
+  "uid" : "28a4aab6f56cc242",
+  "name" : "Verify that decision right panel is opened when user clicks on Decision Block when right panel is in collapsed state-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that decision right panel is opened when user clicks on Decision Block when right panel is in collapsed state-Dark",
+  "historyId" : "6d957914273659ba05b1688fd44b0a58",
+  "time" : {
+    "start" : 1668581791239,
+    "stop" : 1668581830998,
+    "duration" : 39759
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that decision right panel is opened when user clicks on Decision Block when right panel is in collapsed state-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "95e8d47027efb0d8",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668546007493,
+        "stop" : 1668546010874,
+        "duration" : 3381
+      }
+    }, {
+      "uid" : "d819e1c1da646544",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668425656931,
+        "stop" : 1668425695592,
+        "duration" : 38661
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "28a4aab6f56cc242.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,50 @@
+{
+  "uid" : "6391a2e1f79a0489",
+  "name" : "Verify that Incident Summary right panel has 6 sections in it-Light",
+  "fullName" : "Incident Test Light theme.Verify that Incident Summary right panel has 6 sections in it-Light",
+  "historyId" : "ab8e243d38761448b48f3fdf217fda4",
+  "time" : {
+    "start" : 1668427690243,
+    "stop" : 1668427723559,
+    "duration" : 33316
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Incident Summary right panel has 6 sections in it-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6391a2e1f79a0489.json",
+  "parameterValues" : [ ]
+}

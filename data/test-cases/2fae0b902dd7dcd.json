@@ -1,0 +1,48 @@
+{
+  "uid" : "2fae0b902dd7dcd",
+  "name" : "Verify that User is able to see Edit, Delete icon when hovered on dragged blocks in Main Canvas area of Playbook Editor page-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to see Edit, Delete icon when hovered on dragged blocks in Main Canvas area of Playbook Editor page-Dark",
+  "historyId" : "f6a09b87beccf6a113885fc87e918ac5",
+  "time" : {
+    "start" : 1668422771252,
+    "stop" : 1668422809114,
+    "duration" : 37862
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to see Edit, Delete icon when hovered on dragged blocks in Main Canvas area of Playbook Editor page-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2fae0b902dd7dcd.json",
+  "parameterValues" : [ ]
+}

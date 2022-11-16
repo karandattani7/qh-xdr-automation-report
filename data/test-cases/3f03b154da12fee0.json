@@ -1,0 +1,50 @@
+{
+  "uid" : "3f03b154da12fee0",
+  "name" : "Verify that incidents in Incident list view are arranged in descending order of CREATED ON column i.e. latest on top in that particular duration-Light",
+  "fullName" : "Incident Test Light theme.Verify that incidents in Incident list view are arranged in descending order of CREATED ON column i.e. latest on top in that particular duration-Light",
+  "historyId" : "f64277da8c72f8efd62f8aa327720fa2",
+  "time" : {
+    "start" : 1668431936777,
+    "stop" : 1668432004531,
+    "duration" : 67754
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that incidents in Incident list view are arranged in descending order of CREATED ON column i.e. latest on top in that particular duration-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3f03b154da12fee0.json",
+  "parameterValues" : [ ]
+}

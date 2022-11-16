@@ -1,0 +1,48 @@
+{
+  "uid" : "293d9226b12e7623",
+  "name" : "Verify that after adding an internal function, the right panel should show Read only view with Edit button-Light",
+  "fullName" : "Playbook Test Light theme.Verify that after adding an internal function, the right panel should show Read only view with Edit button-Light",
+  "historyId" : "e0fc8763e41682a59c00751f13f762b3",
+  "time" : {
+    "start" : 1668501924011,
+    "stop" : 1668501988707,
+    "duration" : 64696
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that after adding an internal function, the right panel should show Read only view with Edit button-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "293d9226b12e7623.json",
+  "parameterValues" : [ ]
+}

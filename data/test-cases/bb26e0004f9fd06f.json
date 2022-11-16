@@ -1,0 +1,74 @@
+{
+  "uid" : "bb26e0004f9fd06f",
+  "name" : "Verify User is able to select/deselect checkbox before PLAYBOOK NAME column to select/deselect all rows in Published Playbooks tab-Light",
+  "fullName" : "Playbook Test Light theme.Verify User is able to select/deselect checkbox before PLAYBOOK NAME column to select/deselect all rows in Published Playbooks tab-Light",
+  "historyId" : "81858e246dbc3c3fd3edf6e67f263de4",
+  "time" : {
+    "start" : 1668543200627,
+    "stop" : 1668543251923,
+    "duration" : 51296
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User is able to select/deselect checkbox before PLAYBOOK NAME column to select/deselect all rows in Published Playbooks tab-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3b71313a275404a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668509604859,
+        "stop" : 1668509647733,
+        "duration" : 42874
+      }
+    }, {
+      "uid" : "8a738ba59a27c50a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668501465670,
+        "stop" : 1668501504625,
+        "duration" : 38955
+      }
+    }, {
+      "uid" : "870dfb8c8abe3294",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668497449183,
+        "stop" : 1668497488706,
+        "duration" : 39523
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bb26e0004f9fd06f.json",
+  "parameterValues" : [ ]
+}

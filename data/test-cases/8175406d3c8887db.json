@@ -1,0 +1,50 @@
+{
+  "uid" : "8175406d3c8887db",
+  "name" : "Verify that a progress toast notification is shown 'Playbook execution is in progress...' after user clicks on 'Execute' in Playbook Action modal-Light",
+  "fullName" : "Incident Test Light theme.Verify that a progress toast notification is shown 'Playbook execution is in progress...' after user clicks on 'Execute' in Playbook Action modal-Light",
+  "historyId" : "1e50c9cd72baa33676c2fa89c3557d2d",
+  "time" : {
+    "start" : 1668432992306,
+    "stop" : 1668433020976,
+    "duration" : 28670
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that a progress toast notification is shown 'Playbook execution is in progress...' after user clicks on 'Execute' in Playbook Action modal-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8175406d3c8887db.json",
+  "parameterValues" : [ ]
+}

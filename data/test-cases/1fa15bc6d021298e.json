@@ -1,0 +1,48 @@
+{
+  "uid" : "1fa15bc6d021298e",
+  "name" : "Verify that Y-axis level of Incident Timeline graph shows Severity 'Critical', 'High', 'Medium', 'Low'from top to bottom in Incident Timeline view-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that Y-axis level of Incident Timeline graph shows Severity 'Critical', 'High', 'Medium', 'Low'from top to bottom in Incident Timeline view-Dark",
+  "historyId" : "9cabb046030878ed9f91605cbbd450bf",
+  "time" : {
+    "start" : 1668412022499,
+    "stop" : 1668412047707,
+    "duration" : 25208
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Y-axis level of Incident Timeline graph shows Severity 'Critical', 'High', 'Medium', 'Low'from top to bottom in Incident Timeline view-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1fa15bc6d021298e.json",
+  "parameterValues" : [ ]
+}

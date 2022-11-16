@@ -1,0 +1,50 @@
+{
+  "uid" : "dcb88118df45712b",
+  "name" : "Verify that in Incident Summary right panel, clicking on a Playbook Actions button and then clicking Playbook's Run Playbook play icon opens Playbook Action modal-Light",
+  "fullName" : "Incident Test Light theme.Verify that in Incident Summary right panel, clicking on a Playbook Actions button and then clicking Playbook's Run Playbook play icon opens Playbook Action modal-Light",
+  "historyId" : "d912f3c4d6b9b8cc0f30364f5b326c16",
+  "time" : {
+    "start" : 1668429194477,
+    "stop" : 1668429224301,
+    "duration" : 29824
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Incident Summary right panel, clicking on a Playbook Actions button and then clicking Playbook's Run Playbook play icon opens Playbook Action modal-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dcb88118df45712b.json",
+  "parameterValues" : [ ]
+}

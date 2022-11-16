@@ -1,0 +1,66 @@
+{
+  "uid" : "1d8bf2677d1acb30",
+  "name" : "Verify that in Incident Summary right panel, under RESPONSE SUMMARY section, clicking on edit icon of Priority field opens Incident Priority modal-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that in Incident Summary right panel, under RESPONSE SUMMARY section, clicking on edit icon of Priority field opens Incident Priority modal-Dark",
+  "historyId" : "a76699b1b7327ae5d0a6edc150bda828",
+  "time" : {
+    "start" : 1668498077551,
+    "stop" : 1668498116106,
+    "duration" : 38555
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Incident Summary right panel, under RESPONSE SUMMARY section, clicking on edit icon of Priority field opens Incident Priority modal-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1ac59c91029e814b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668427871444,
+        "stop" : 1668427910014,
+        "duration" : 38570
+      }
+    }, {
+      "uid" : "94ce41f7954cbbd1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668412867244,
+        "stop" : 1668412906808,
+        "duration" : 39564
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1d8bf2677d1acb30.json",
+  "parameterValues" : [ ]
+}

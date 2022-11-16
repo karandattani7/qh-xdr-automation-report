@@ -1,0 +1,50 @@
+{
+  "uid" : "f1c3e8758689713c",
+  "name" : "Verify User should be able to see Connectors count on top of the table in Enrichment, Ingestion and Response Connectors tab-Light",
+  "fullName" : "Connector Test Light theme.Verify User should be able to see Connectors count on top of the table in Enrichment, Ingestion and Response Connectors tab-Light",
+  "historyId" : "3e78852f5c0ec61b28036a8f89833f85",
+  "time" : {
+    "start" : 1668259119264,
+    "stop" : 1668259149885,
+    "duration" : 30621
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User should be able to see Connectors count on top of the table in Enrichment, Ingestion and Response Connectors tab-Light"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f1c3e8758689713c.json",
+  "parameterValues" : [ ]
+}

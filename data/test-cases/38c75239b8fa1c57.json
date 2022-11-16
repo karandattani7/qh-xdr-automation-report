@@ -1,0 +1,74 @@
+{
+  "uid" : "38c75239b8fa1c57",
+  "name" : "Verify that User sees Published Playbooks tab by default-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User sees Published Playbooks tab by default-Light",
+  "historyId" : "f27f2ea4ba3d62c9c437b23c136ef609",
+  "time" : {
+    "start" : 1668543076123,
+    "stop" : 1668543088211,
+    "duration" : 12088
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User sees Published Playbooks tab by default-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3be71d0d239e32bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668509410769,
+        "stop" : 1668509423190,
+        "duration" : 12421
+      }
+    }, {
+      "uid" : "801e33e8e48fffd9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668501345221,
+        "stop" : 1668501356832,
+        "duration" : 11611
+      }
+    }, {
+      "uid" : "ff44f094079cefd3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668497329146,
+        "stop" : 1668497340680,
+        "duration" : 11534
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "38c75239b8fa1c57.json",
+  "parameterValues" : [ ]
+}

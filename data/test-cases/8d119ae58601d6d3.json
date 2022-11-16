@@ -1,0 +1,66 @@
+{
+  "uid" : "8d119ae58601d6d3",
+  "name" : "Verify that 'View Playbook Output' link is clickable under BASIC INFORMATION Section in Incident Summary right panel-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that 'View Playbook Output' link is clickable under BASIC INFORMATION Section in Incident Summary right panel-Dark",
+  "historyId" : "d222b5aae4d3f7c45bf514cbf8926cda",
+  "time" : {
+    "start" : 1668498019508,
+    "stop" : 1668498049577,
+    "duration" : 30069
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that 'View Playbook Output' link is clickable under BASIC INFORMATION Section in Incident Summary right panel-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f428ba87e8019da7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668427813284,
+        "stop" : 1668427843359,
+        "duration" : 30075
+      }
+    }, {
+      "uid" : "57ac7483fdfa463b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668412807940,
+        "stop" : 1668412838682,
+        "duration" : 30742
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8d119ae58601d6d3.json",
+  "parameterValues" : [ ]
+}

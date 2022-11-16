@@ -1,0 +1,48 @@
+{
+  "uid" : "de6412a3924e9fd5",
+  "name" : "Verify that user is able to update Decision Block from right panel with valid values, by clicking on Edit button in Read only view of added decision block-Light",
+  "fullName" : "Playbook Test Light theme.Verify that user is able to update Decision Block from right panel with valid values, by clicking on Edit button in Read only view of added decision block-Light",
+  "historyId" : "1febbeb9b6343946c074ec304d7b3c67",
+  "time" : {
+    "start" : 1668504553112,
+    "stop" : 1668504605910,
+    "duration" : 52798
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to update Decision Block from right panel with valid values, by clicking on Edit button in Read only view of added decision block-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "de6412a3924e9fd5.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,50 @@
+{
+  "uid" : "88d6ebe8dc93122e",
+  "name" : "Verify that clicking on Configure Instance button in Connectors page redirects to Configure Instance form-Dark",
+  "fullName" : "Connector Test Dark theme.Verify that clicking on Configure Instance button in Connectors page redirects to Configure Instance form-Dark",
+  "historyId" : "5380bd1a5517b48c7f0e9bd3d5e7c2e3",
+  "time" : {
+    "start" : 1668256699218,
+    "stop" : 1668256743935,
+    "duration" : 44717
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Configure Instance button in Connectors page redirects to Configure Instance form-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "88d6ebe8dc93122e.json",
+  "parameterValues" : [ ]
+}

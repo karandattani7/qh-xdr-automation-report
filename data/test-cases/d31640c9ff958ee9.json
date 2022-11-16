@@ -1,0 +1,75 @@
+{
+  "uid" : "d31640c9ff958ee9",
+  "name" : "Verify that given filter name by user is reflected on main canvas area on filter block after addition-Light",
+  "fullName" : "Playbook Test Light theme.Verify that given filter name by user is reflected on main canvas area on filter block after addition-Light",
+  "historyId" : "a86fe495f58e7ea8bb0ed7915128f25f",
+  "time" : {
+    "start" : 1668548669347,
+    "stop" : 1668548736865,
+    "duration" : 67518
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that given filter name by user is reflected on main canvas area on filter block after addition-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f36c566302227fcb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668515560110,
+        "stop" : 1668515628431,
+        "duration" : 68321
+      }
+    }, {
+      "uid" : "8ca3e75b6083b49b",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504351398,
+        "stop" : 1668504355894,
+        "duration" : 4496
+      }
+    }, {
+      "uid" : "44653c8df2e723e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668502931124,
+        "stop" : 1668503005611,
+        "duration" : 74487
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d31640c9ff958ee9.json",
+  "parameterValues" : [ ]
+}

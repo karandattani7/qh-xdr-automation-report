@@ -1,0 +1,50 @@
+{
+  "uid" : "864c7a0898560817",
+  "name" : "Verify that User is able to remove selected filter from SELECTED FILTERS section using cross icon of selected filter in Connectors Add Filter window-Dark",
+  "fullName" : "Connector Test Dark theme.Verify that User is able to remove selected filter from SELECTED FILTERS section using cross icon of selected filter in Connectors Add Filter window-Dark",
+  "historyId" : "51b535c4c7cb3704c0c216b9764fb420",
+  "time" : {
+    "start" : 1668257724227,
+    "stop" : 1668257805514,
+    "duration" : 81287
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to remove selected filter from SELECTED FILTERS section using cross icon of selected filter in Connectors Add Filter window-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "864c7a0898560817.json",
+  "parameterValues" : [ ]
+}

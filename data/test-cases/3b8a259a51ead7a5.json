@@ -1,0 +1,48 @@
+{
+  "uid" : "3b8a259a51ead7a5",
+  "name" : "Verify that clicking on enabled 'Create New Incident' button opens Create New Incident modal-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that clicking on enabled 'Create New Incident' button opens Create New Incident modal-Dark",
+  "historyId" : "b6e14c46deb8534a81f178dd13994635",
+  "time" : {
+    "start" : 1668427976201,
+    "stop" : 1668428006840,
+    "duration" : 30639
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on enabled 'Create New Incident' button opens Create New Incident modal-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3b8a259a51ead7a5.json",
+  "parameterValues" : [ ]
+}

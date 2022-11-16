@@ -1,0 +1,50 @@
+{
+  "uid" : "a577bf6f7290e3a3",
+  "name" : "Verify that Copy icon is shown in front of SESSION ID for each alert in User List view-Light",
+  "fullName" : "Incident Test Light theme.Verify that Copy icon is shown in front of SESSION ID for each alert in User List view-Light",
+  "historyId" : "6a16d2510c4fd1d8752b5dfd9a078ad",
+  "time" : {
+    "start" : 1668433020976,
+    "stop" : 1668433180970,
+    "duration" : 159994
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Copy icon is shown in front of SESSION ID for each alert in User List view-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a577bf6f7290e3a3.json",
+  "parameterValues" : [ ]
+}

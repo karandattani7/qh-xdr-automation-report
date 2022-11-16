@@ -1,0 +1,48 @@
+{
+  "uid" : "32eb2e278e09b247",
+  "name" : "Verify that User is able to select a function from list of internal function by clicking on it from the right panel-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to select a function from list of internal function by clicking on it from the right panel-Light",
+  "historyId" : "379cb9ba8c1867cc004c3cda5779f647",
+  "time" : {
+    "start" : 1668505418910,
+    "stop" : 1668505470529,
+    "duration" : 51619
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to select a function from list of internal function by clicking on it from the right panel-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "32eb2e278e09b247.json",
+  "parameterValues" : [ ]
+}

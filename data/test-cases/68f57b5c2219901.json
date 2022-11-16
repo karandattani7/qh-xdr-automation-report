@@ -1,0 +1,75 @@
+{
+  "uid" : "68f57b5c2219901",
+  "name" : "Verify that all the applied filters are removed from Playbook list view when refreshing browser after applying filters-Light",
+  "fullName" : "Playbook Test Light theme.Verify that all the applied filters are removed from Playbook list view when refreshing browser after applying filters-Light",
+  "historyId" : "aa07eda27dd9b89c28dea41268bc02a5",
+  "time" : {
+    "start" : 1668546895366,
+    "stop" : 1668546951104,
+    "duration" : 55738
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that all the applied filters are removed from Playbook list view when refreshing browser after applying filters-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8fa91531848e356c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668513553419,
+        "stop" : 1668513612778,
+        "duration" : 59359
+      }
+    }, {
+      "uid" : "842adb6989d91344",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Published Playbooks')])",
+      "time" : {
+        "start" : 1668504200370,
+        "stop" : 1668504204805,
+        "duration" : 4435
+      }
+    }, {
+      "uid" : "9db1db86a1ea4a1d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668501109469,
+        "stop" : 1668501165338,
+        "duration" : 55869
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "68f57b5c2219901.json",
+  "parameterValues" : [ ]
+}

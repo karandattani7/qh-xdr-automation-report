@@ -1,0 +1,48 @@
+{
+  "uid" : "7eab5b89a0d6fec2",
+  "name" : "Verify that in Function field, user is able to Search and select existing external function when updating an existing external function block in editable right panel-Light",
+  "fullName" : "Playbook Test Light theme.Verify that in Function field, user is able to Search and select existing external function when updating an existing external function block in editable right panel-Light",
+  "historyId" : "ffc7ff7424f2119b48483be668785a36",
+  "time" : {
+    "start" : 1668505844532,
+    "stop" : 1668505912888,
+    "duration" : 68356
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Function field, user is able to Search and select existing external function when updating an existing external function block in editable right panel-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7eab5b89a0d6fec2.json",
+  "parameterValues" : [ ]
+}

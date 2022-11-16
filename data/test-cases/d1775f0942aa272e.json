@@ -1,0 +1,76 @@
+{
+  "uid" : "d1775f0942aa272e",
+  "name" : "Verify that after removing applied filters and then clicking on + Add does not show Add Filter window with filters in it-Light",
+  "fullName" : "Playbook Test Light theme.Verify that after removing applied filters and then clicking on + Add does not show Add Filter window with filters in it-Light",
+  "historyId" : "3e610c9bb87de7681d7c78b14d071f43",
+  "time" : {
+    "start" : 1668547377999,
+    "stop" : 1668547440490,
+    "duration" : 62491
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that after removing applied filters and then clicking on + Add does not show Add Filter window with filters in it-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b85e148aeb12bbdf",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <em _ngcontent-tqx-c197=\"\" class=\"icon-close font-8 font-weight-bold\"></em> is not clickable at point (1154, 82). Other element would receive the click: <span class=\"noty-msg\">...</span>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668514030151,
+        "stop" : 1668514165737,
+        "duration" : 135586
+      }
+    }, {
+      "uid" : "65aa0666cee68327",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504235852,
+        "stop" : 1668504240291,
+        "duration" : 4439
+      }
+    }, {
+      "uid" : "f64d103d60658748",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668501606173,
+        "stop" : 1668501668529,
+        "duration" : 62356
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d1775f0942aa272e.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "62a0a61f651cb4aa",
+  "name" : "Verify that User is able to remove all the applied filters from Playbook list view using cross icon in Search filter component-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to remove all the applied filters from Playbook list view using cross icon in Search filter component-Dark",
+  "historyId" : "6364177c62da642ec66e65c65914e5ec",
+  "time" : {
+    "start" : 1668421956317,
+    "stop" : 1668422013033,
+    "duration" : 56716
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to remove all the applied filters from Playbook list view using cross icon in Search filter component-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "62a0a61f651cb4aa.json",
+  "parameterValues" : [ ]
+}

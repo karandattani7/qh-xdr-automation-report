@@ -1,0 +1,50 @@
+{
+  "uid" : "5c7296d576702914",
+  "name" : "Verify the breadcrumbs of Configure Instance form is as expected-Dark",
+  "fullName" : "Connector Test Dark theme.Verify the breadcrumbs of Configure Instance form is as expected-Dark",
+  "historyId" : "9af64d7f9a82313eb816bce7654bbe39",
+  "time" : {
+    "start" : 1668256459959,
+    "stop" : 1668256553378,
+    "duration" : 93419
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the breadcrumbs of Configure Instance form is as expected-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5c7296d576702914.json",
+  "parameterValues" : [ ]
+}

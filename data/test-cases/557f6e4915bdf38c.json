@@ -1,0 +1,48 @@
+{
+  "uid" : "557f6e4915bdf38c",
+  "name" : "Verify that 3 tabs List, Timeline, Correlation are visible in User View page-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that 3 tabs List, Timeline, Correlation are visible in User View page-Dark",
+  "historyId" : "290de6d18c71c9a3c1346b413b884266",
+  "time" : {
+    "start" : 1668432456355,
+    "stop" : 1668432510176,
+    "duration" : 53821
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that 3 tabs List, Timeline, Correlation are visible in User View page-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "557f6e4915bdf38c.json",
+  "parameterValues" : [ ]
+}

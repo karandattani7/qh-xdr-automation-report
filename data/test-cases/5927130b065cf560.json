@@ -1,0 +1,48 @@
+{
+  "uid" : "5927130b065cf560",
+  "name" : "Verify that deleting external function block from main canvas area, closes the right panel and removes block from main canvas area-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that deleting external function block from main canvas area, closes the right panel and removes block from main canvas area-Dark",
+  "historyId" : "4d7adcf838c0b8b3714f7bbe180f560a",
+  "time" : {
+    "start" : 1668423718859,
+    "stop" : 1668423769928,
+    "duration" : 51069
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that deleting external function block from main canvas area, closes the right panel and removes block from main canvas area-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5927130b065cf560.json",
+  "parameterValues" : [ ]
+}

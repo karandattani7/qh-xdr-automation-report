@@ -1,0 +1,48 @@
+{
+  "uid" : "61ed29984fd6806d",
+  "name" : "Verify that admin is able to check/uncheck Trigger checkboxes 'On Incident Creation' and 'On Incident Updation'-Light",
+  "fullName" : "Playbook Test Light theme.Verify that admin is able to check/uncheck Trigger checkboxes 'On Incident Creation' and 'On Incident Updation'-Light",
+  "historyId" : "47978a69dc857c8e2f8ee0163224395c",
+  "time" : {
+    "start" : 1668498609119,
+    "stop" : 1668498683654,
+    "duration" : 74535
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that admin is able to check/uncheck Trigger checkboxes 'On Incident Creation' and 'On Incident Updation'-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "61ed29984fd6806d.json",
+  "parameterValues" : [ ]
+}

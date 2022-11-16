@@ -1,0 +1,76 @@
+{
+  "uid" : "78f6e6ce2dbe26d6",
+  "name" : "Verify that filter right panel is opened when user clicks on Filter Block on main canvas area when right panel is in collapsed state-Light",
+  "fullName" : "Playbook Test Light theme.Verify that filter right panel is opened when user clicks on Filter Block on main canvas area when right panel is in collapsed state-Light",
+  "historyId" : "4af142c1f67994ad7a4db7ef9838baae",
+  "time" : {
+    "start" : 1668550642176,
+    "stop" : 1668550698681,
+    "duration" : 56505
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that filter right panel is opened when user clicks on Filter Block on main canvas area when right panel is in collapsed state-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "804c677773203e1d",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668516669600,
+        "stop" : 1668516673776,
+        "duration" : 4176
+      }
+    }, {
+      "uid" : "a9563c065261ed41",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668505142693,
+        "stop" : 1668505191136,
+        "duration" : 48443
+      }
+    }, {
+      "uid" : "96a39a17b277e3ec",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504524242,
+        "stop" : 1668504528699,
+        "duration" : 4457
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "78f6e6ce2dbe26d6.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "e4e23ff4317fd35d",
+  "name" : "Verify that User is able to scroll up and down inside Tags list in Tags field dropdown in Create Playbook form-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to scroll up and down inside Tags list in Tags field dropdown in Create Playbook form-Dark",
+  "historyId" : "32b424f53f2a99f4bdd976f261a065ed",
+  "time" : {
+    "start" : 1668544282285,
+    "stop" : 1668544305843,
+    "duration" : 23558
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to scroll up and down inside Tags list in Tags field dropdown in Create Playbook form-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e4e23ff4317fd35d.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "fe6e84059757fc64",
+  "name" : "Verify that all the applied filters are removed from Playbook list view when refreshing browser after applying filters-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that all the applied filters are removed from Playbook list view when refreshing browser after applying filters-Dark",
+  "historyId" : "dc9122a9b6cc86129698ae7365796f71",
+  "time" : {
+    "start" : 1668421896842,
+    "stop" : 1668421956317,
+    "duration" : 59475
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that all the applied filters are removed from Playbook list view when refreshing browser after applying filters-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fe6e84059757fc64.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,50 @@
+{
+  "uid" : "86fdfec4832b4626",
+  "name" : "Verify SOC Manager  is able to view 'Incident Associated' column sorted in Descending order on 'Highest Loaded Analyst' widget on SOC Manager Dashboard Page.-Dark",
+  "fullName" : "Dashboard Test Dark theme-SOC Manager.Verify SOC Manager  is able to view 'Incident Associated' column sorted in Descending order on 'Highest Loaded Analyst' widget on SOC Manager Dashboard Page.-Dark",
+  "historyId" : "5205268ba10e31799799bb229cf436df",
+  "time" : {
+    "start" : 1668262022098,
+    "stop" : 1668262031134,
+    "duration" : 9036
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "testClass",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify SOC Manager  is able to view 'Incident Associated' column sorted in Descending order on 'Highest Loaded Analyst' widget on SOC Manager Dashboard Page.-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "86fdfec4832b4626.json",
+  "parameterValues" : [ ]
+}

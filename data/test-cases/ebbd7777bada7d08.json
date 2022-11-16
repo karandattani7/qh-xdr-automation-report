@@ -1,0 +1,50 @@
+{
+  "uid" : "ebbd7777bada7d08",
+  "name" : "Verify user is able to save/update add SLA table for incident type without doing any changes-Dark",
+  "fullName" : "SLA Test Dark theme.Verify user is able to save/update add SLA table for incident type without doing any changes-Dark",
+  "historyId" : "e02a70b49b7e0678e8f5d4d32dd24a95",
+  "time" : {
+    "start" : 1668262518131,
+    "stop" : 1668262533407,
+    "duration" : 15276
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "SLA Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "SLA Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify user is able to save/update add SLA table for incident type without doing any changes-Dark"
+  }, {
+    "name" : "package",
+    "value" : "SLA Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ebbd7777bada7d08.json",
+  "parameterValues" : [ ]
+}

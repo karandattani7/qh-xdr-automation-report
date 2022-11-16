@@ -1,0 +1,76 @@
+{
+  "uid" : "efa1bc8bd5d37d5c",
+  "name" : "Verify that User is able to update an added external function-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to update an added external function-Light",
+  "historyId" : "4d0b08872ff884d466f09dfe3f288ec7",
+  "time" : {
+    "start" : 1668550981726,
+    "stop" : 1668551041135,
+    "duration" : 59409
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to update an added external function-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "28c93429472b017e",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668516694760,
+        "stop" : 1668516698956,
+        "duration" : 4196
+      }
+    }, {
+      "uid" : "145f12c5fa654209",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668505540746,
+        "stop" : 1668505602921,
+        "duration" : 62175
+      }
+    }, {
+      "uid" : "3867696a57f3ae61",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504551038,
+        "stop" : 1668504555519,
+        "duration" : 4481
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "efa1bc8bd5d37d5c.json",
+  "parameterValues" : [ ]
+}

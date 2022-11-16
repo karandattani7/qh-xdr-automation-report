@@ -1,0 +1,67 @@
+{
+  "uid" : "60b077e7c1de2d6c",
+  "name" : "Verify that in Playbook Add Filter window, clicking on Search Filter input field shows blinking cursor and filter entity.attribute list in dropdown to select from-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that in Playbook Add Filter window, clicking on Search Filter input field shows blinking cursor and filter entity.attribute list in dropdown to select from-Dark",
+  "historyId" : "82c3b3afc8d9e58190096efcf32b7b99",
+  "time" : {
+    "start" : 1668578344314,
+    "stop" : 1668578385559,
+    "duration" : 41245
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Playbook Add Filter window, clicking on Search Filter input field shows blinking cursor and filter entity.attribute list in dropdown to select from-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f068fcae86d95753",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668545793871,
+        "stop" : 1668545797149,
+        "duration" : 3278
+      }
+    }, {
+      "uid" : "9ed9de0c263cf03f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668422440087,
+        "stop" : 1668422481200,
+        "duration" : 41113
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "60b077e7c1de2d6c.json",
+  "parameterValues" : [ ]
+}

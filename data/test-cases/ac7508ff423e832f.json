@@ -1,0 +1,48 @@
+{
+  "uid" : "ac7508ff423e832f",
+  "name" : "Verify that user is able to draw connection line from added available block to Stop block in Playbook Editor page-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that user is able to draw connection line from added available block to Stop block in Playbook Editor page-Dark",
+  "historyId" : "75540e76c8187ce45383fd4443429027",
+  "time" : {
+    "start" : 1668421507091,
+    "stop" : 1668421543720,
+    "duration" : 36629
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to draw connection line from added available block to Stop block in Playbook Editor page-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ac7508ff423e832f.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,66 @@
+{
+  "uid" : "e17ab1f9c5dcda0a",
+  "name" : "Verify that user is able to create playbook from empty state from draft playbooks tab",
+  "fullName" : "Playbook Test Dark theme.Verify that user is able to create playbook from empty state from draft playbooks tab",
+  "historyId" : "beeea96a3baa66d9a206551e00a0af46",
+  "time" : {
+    "start" : 1668575020555,
+    "stop" : 1668575074975,
+    "duration" : 54420
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to create playbook from empty state from draft playbooks tab"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b1ae941acc59b096",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668543725709,
+        "stop" : 1668543778729,
+        "duration" : 53020
+      }
+    }, {
+      "uid" : "6624b5a37f8124bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668419143629,
+        "stop" : 1668419197908,
+        "duration" : 54279
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e17ab1f9c5dcda0a.json",
+  "parameterValues" : [ ]
+}

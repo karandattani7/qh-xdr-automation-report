@@ -1,0 +1,48 @@
+{
+  "uid" : "476790611b4ed9e6",
+  "name" : "Verify that the values filled in filter block right panel is correctly shown, in its read only view right panel-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that the values filled in filter block right panel is correctly shown, in its read only view right panel-Dark",
+  "historyId" : "d2953505250dc0a69e496fc839d04b9",
+  "time" : {
+    "start" : 1668425003368,
+    "stop" : 1668425083475,
+    "duration" : 80107
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that the values filled in filter block right panel is correctly shown, in its read only view right panel-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "476790611b4ed9e6.json",
+  "parameterValues" : [ ]
+}

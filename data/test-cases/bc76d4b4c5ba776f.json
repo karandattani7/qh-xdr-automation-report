@@ -1,0 +1,48 @@
+{
+  "uid" : "bc76d4b4c5ba776f",
+  "name" : "Verify that clicking on call external function block in main canvas area when external function is not added opens Right panel with list of external functions-Light",
+  "fullName" : "Playbook Test Light theme.Verify that clicking on call external function block in main canvas area when external function is not added opens Right panel with list of external functions-Light",
+  "historyId" : "238adccc5c94b6068a857b4b8dd5cd41",
+  "time" : {
+    "start" : 1668502523756,
+    "stop" : 1668502564436,
+    "duration" : 40680
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on call external function block in main canvas area when external function is not added opens Right panel with list of external functions-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bc76d4b4c5ba776f.json",
+  "parameterValues" : [ ]
+}

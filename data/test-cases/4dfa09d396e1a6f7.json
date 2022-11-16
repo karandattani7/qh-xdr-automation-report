@@ -1,0 +1,48 @@
+{
+  "uid" : "4dfa09d396e1a6f7",
+  "name" : "Verify that in clicking on Condition field shows dropdown with 3 options: Block, Incident, Incident.alert-Light",
+  "fullName" : "Playbook Test Light theme.Verify that in clicking on Condition field shows dropdown with 3 options: Block, Incident, Incident.alert-Light",
+  "historyId" : "82bf4e14ddff6750b06870268932afc3",
+  "time" : {
+    "start" : 1668515933308,
+    "stop" : 1668515967588,
+    "duration" : 34280
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in clicking on Condition field shows dropdown with 3 options: Block, Incident, Incident.alert-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4dfa09d396e1a6f7.json",
+  "parameterValues" : [ ]
+}

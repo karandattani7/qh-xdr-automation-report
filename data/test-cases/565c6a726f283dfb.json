@@ -1,0 +1,48 @@
+{
+  "uid" : "565c6a726f283dfb",
+  "name" : "Verify that in Playbook Add Filter window, an error message 'Please enter some value.' is shown when User does not enter any value for +playbook.name and +cre.name filter-Light",
+  "fullName" : "Playbook Test Light theme.Verify that in Playbook Add Filter window, an error message 'Please enter some value.' is shown when User does not enter any value for +playbook.name and +cre.name filter-Light",
+  "historyId" : "45843fb5753f6e6dd2aafd8eb407fe33",
+  "time" : {
+    "start" : 1668501042046,
+    "stop" : 1668501109469,
+    "duration" : 67423
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Playbook Add Filter window, an error message 'Please enter some value.' is shown when User does not enter any value for +playbook.name and +cre.name filter-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "565c6a726f283dfb.json",
+  "parameterValues" : [ ]
+}

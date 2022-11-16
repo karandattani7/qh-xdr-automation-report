@@ -1,0 +1,66 @@
+{
+  "uid" : "bf3cc4a8de33a6cb",
+  "name" : "Verify that Edit icon is shown on right for Priority, Assigned To, Status in RESPONSE SUMMARY section of Incident Summary right panel-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that Edit icon is shown on right for Priority, Assigned To, Status in RESPONSE SUMMARY section of Incident Summary right panel-Dark",
+  "historyId" : "f0e19fc4c7e95d42803c62913b54c3ae",
+  "time" : {
+    "start" : 1668497748930,
+    "stop" : 1668497775652,
+    "duration" : 26722
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Edit icon is shown on right for Priority, Assigned To, Status in RESPONSE SUMMARY section of Incident Summary right panel-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "db5a68b1c2315706",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668427445111,
+        "stop" : 1668427530040,
+        "duration" : 84929
+      }
+    }, {
+      "uid" : "ea3019fe56eac85e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668412487396,
+        "stop" : 1668412514947,
+        "duration" : 27551
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bf3cc4a8de33a6cb.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,50 @@
+{
+  "uid" : "162b3c9fb6580e8f",
+  "name" : "Verify that clicking on a specific Connector row opens Connector Details Right Panel in Enrichment, Ingestion and Response connector tab-Dark",
+  "fullName" : "Connector Test Dark theme.Verify that clicking on a specific Connector row opens Connector Details Right Panel in Enrichment, Ingestion and Response connector tab-Dark",
+  "historyId" : "51fe788c7bdd6568435c710f6c369f9",
+  "time" : {
+    "start" : 1668256842431,
+    "stop" : 1668256870282,
+    "duration" : 27851
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on a specific Connector row opens Connector Details Right Panel in Enrichment, Ingestion and Response connector tab-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "162b3c9fb6580e8f.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,74 @@
+{
+  "uid" : "71d7fa203cb6ccf8",
+  "name" : "Verify that an error message is shown when selecting more than 10 available parameters in Create Playbooks form-Light",
+  "fullName" : "Playbook Test Light theme.Verify that an error message is shown when selecting more than 10 available parameters in Create Playbooks form-Light",
+  "historyId" : "6bc9ec4ed6f9c6f3fbf6729176b36d03",
+  "time" : {
+    "start" : 1668544775916,
+    "stop" : 1668544800340,
+    "duration" : 24424
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that an error message is shown when selecting more than 10 available parameters in Create Playbooks form-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "84a5c92c9b7e2929",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668511264290,
+        "stop" : 1668511291176,
+        "duration" : 26886
+      }
+    }, {
+      "uid" : "a82178234bcefdff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668502943227,
+        "stop" : 1668502970170,
+        "duration" : 26943
+      }
+    }, {
+      "uid" : "b729174c87b066c3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668498993831,
+        "stop" : 1668499018362,
+        "duration" : 24531
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "71d7fa203cb6ccf8.json",
+  "parameterValues" : [ ]
+}

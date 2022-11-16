@@ -1,0 +1,76 @@
+{
+  "uid" : "e5d76a4b3b53efbd",
+  "name" : "Verify that user is able to see right panel of Decision block when user drags and drops the decision block from left panel of Playbook Editor-Light",
+  "fullName" : "Playbook Test Light theme.Verify that user is able to see right panel of Decision block when user drags and drops the decision block from left panel of Playbook Editor-Light",
+  "historyId" : "8d6f8b147afd47920d56bd6433aa0aeb",
+  "time" : {
+    "start" : 1668549465471,
+    "stop" : 1668549516354,
+    "duration" : 50883
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to see right panel of Decision block when user drags and drops the decision block from left panel of Playbook Editor-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9d6ffa97efeb6ea0",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668516581601,
+        "stop" : 1668516585788,
+        "duration" : 4187
+      }
+    }, {
+      "uid" : "21823c01b097b581",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504430971,
+        "stop" : 1668504435457,
+        "duration" : 4486
+      }
+    }, {
+      "uid" : "b1737809d6ce7d58",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668503822063,
+        "stop" : 1668503876185,
+        "duration" : 54122
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e5d76a4b3b53efbd.json",
+  "parameterValues" : [ ]
+}

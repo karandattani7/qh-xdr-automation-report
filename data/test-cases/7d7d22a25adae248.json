@@ -1,0 +1,48 @@
+{
+  "uid" : "7d7d22a25adae248",
+  "name" : "Verify that given decision name by user is reflected on main canvas area on decision block after addition-Light",
+  "fullName" : "Playbook Test Light theme.Verify that given decision name by user is reflected on main canvas area on decision block after addition-Light",
+  "historyId" : "50b00ef5e51851381aefbcddaf660e9f",
+  "time" : {
+    "start" : 1668502650630,
+    "stop" : 1668502697073,
+    "duration" : 46443
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that given decision name by user is reflected on main canvas area on decision block after addition-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7d7d22a25adae248.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "974e1c19f9d462ad",
+  "name" : "Verify that user is able to see two tabs 'Incidents' and 'Base Alerts' when on Incidents page-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that user is able to see two tabs 'Incidents' and 'Base Alerts' when on Incidents page-Dark",
+  "historyId" : "87c1f66d7d4a1522a5d2ceebed021b33",
+  "time" : {
+    "start" : 1668426795582,
+    "stop" : 1668426808743,
+    "duration" : 13161
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to see two tabs 'Incidents' and 'Base Alerts' when on Incidents page-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "974e1c19f9d462ad.json",
+  "parameterValues" : [ ]
+}

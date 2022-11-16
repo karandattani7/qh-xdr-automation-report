@@ -1,0 +1,48 @@
+{
+  "uid" : "b4f33215b1ec5ea3",
+  "name" : "Verify that User is able to see added quick filters count in search filter component in Draft Playbooks-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to see added quick filters count in search filter component in Draft Playbooks-Light",
+  "historyId" : "bb6a1c77f32f3096fb51f38a825c0c2f",
+  "time" : {
+    "start" : 1668512562091,
+    "stop" : 1668512590164,
+    "duration" : 28073
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to see added quick filters count in search filter component in Draft Playbooks-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b4f33215b1ec5ea3.json",
+  "parameterValues" : [ ]
+}

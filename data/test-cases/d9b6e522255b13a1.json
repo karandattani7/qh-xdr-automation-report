@@ -1,0 +1,48 @@
+{
+  "uid" : "d9b6e522255b13a1",
+  "name" : "Verify is user is able to able to select and save an internal function block successfully in Playbook Editor page-Light",
+  "fullName" : "Playbook Test Light theme.Verify is user is able to able to select and save an internal function block successfully in Playbook Editor page-Light",
+  "historyId" : "e40496b15be9e28adf25fcd4d376f80d",
+  "time" : {
+    "start" : 1668503231757,
+    "stop" : 1668503285047,
+    "duration" : 53290
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify is user is able to able to select and save an internal function block successfully in Playbook Editor page-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d9b6e522255b13a1.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,66 @@
+{
+  "uid" : "6a8db1eafa3854e7",
+  "name" : "Verify the Severity wise Incidents count is shown in Incident Timeline view-Dark",
+  "fullName" : "Incident Test Dark theme.Verify the Severity wise Incidents count is shown in Incident Timeline view-Dark",
+  "historyId" : "bff0db542de0a370e9e44d09235696d5",
+  "time" : {
+    "start" : 1668497546076,
+    "stop" : 1668497570607,
+    "duration" : 24531
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the Severity wise Incidents count is shown in Incident Timeline view-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9ed8743b5770626b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668427241583,
+        "stop" : 1668427266224,
+        "duration" : 24641
+      }
+    }, {
+      "uid" : "41d17559cb187148",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668412279714,
+        "stop" : 1668412304920,
+        "duration" : 25206
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6a8db1eafa3854e7.json",
+  "parameterValues" : [ ]
+}

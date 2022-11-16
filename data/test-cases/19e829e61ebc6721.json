@@ -1,0 +1,48 @@
+{
+  "uid" : "19e829e61ebc6721",
+  "name" : "Verify that Search field also gets collapsed when Available Parameters is collapsed in Create Playbook form -Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that Search field also gets collapsed when Available Parameters is collapsed in Create Playbook form -Dark",
+  "historyId" : "cc1d54e92975d5ec7c0fa6ecf2782a11",
+  "time" : {
+    "start" : 1668419532739,
+    "stop" : 1668419555954,
+    "duration" : 23215
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Search field also gets collapsed when Available Parameters is collapsed in Create Playbook form -Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "19e829e61ebc6721.json",
+  "parameterValues" : [ ]
+}

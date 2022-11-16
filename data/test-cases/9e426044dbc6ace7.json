@@ -1,0 +1,48 @@
+{
+  "uid" : "9e426044dbc6ace7",
+  "name" : "Verify that Incidents count is shown in List view like 'Incidents (32)'-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that Incidents count is shown in List view like 'Incidents (32)'-Dark",
+  "historyId" : "66f833efe6f654cb85533b74f23ecb80",
+  "time" : {
+    "start" : 1668412565612,
+    "stop" : 1668412588755,
+    "duration" : 23143
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Incidents count is shown in List view like 'Incidents (32)'-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9e426044dbc6ace7.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "3021bb7bf3a07af1",
+  "name" : "Verify that the title of User Correlation view right panel is 'Attribute Details'-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that the title of User Correlation view right panel is 'Attribute Details'-Dark",
+  "historyId" : "cc8e5ada9a540ed1cf5179f5b926fddf",
+  "time" : {
+    "start" : 1668433254524,
+    "stop" : 1668433297989,
+    "duration" : 43465
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that the title of User Correlation view right panel is 'Attribute Details'-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3021bb7bf3a07af1.json",
+  "parameterValues" : [ ]
+}

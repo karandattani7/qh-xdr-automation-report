@@ -1,0 +1,48 @@
+{
+  "uid" : "40e7fff848d52625",
+  "name" : "Verify that User is not be able to delete connecting line of Decision to Yes block and Decision to No block-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is not be able to delete connecting line of Decision to Yes block and Decision to No block-Light",
+  "historyId" : "6bc5cb45bebc79cdf1bf8735a2d93ccd",
+  "time" : {
+    "start" : 1668515791090,
+    "stop" : 1668515837337,
+    "duration" : 46247
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is not be able to delete connecting line of Decision to Yes block and Decision to No block-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "40e7fff848d52625.json",
+  "parameterValues" : [ ]
+}

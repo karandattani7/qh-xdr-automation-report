@@ -1,0 +1,50 @@
+{
+  "uid" : "521ccf8879c219b3",
+  "name" : "Verify the column names of Enrichment Connectors, Ingestion Connectors, Response Connectors table is as expected-Dark",
+  "fullName" : "Connector Test Dark theme.Verify the column names of Enrichment Connectors, Ingestion Connectors, Response Connectors table is as expected-Dark",
+  "historyId" : "6f26cfeac31ecdb9bb68eaf2a079e296",
+  "time" : {
+    "start" : 1668256768668,
+    "stop" : 1668256796236,
+    "duration" : 27568
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the column names of Enrichment Connectors, Ingestion Connectors, Response Connectors table is as expected-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "521ccf8879c219b3.json",
+  "parameterValues" : [ ]
+}

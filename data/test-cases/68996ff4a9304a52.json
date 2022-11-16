@@ -1,0 +1,50 @@
+{
+  "uid" : "68996ff4a9304a52",
+  "name" : "Verify that total of the 'Severity' wise incidents in legend should be equal to 'Total incidents' displayed inside the donut chart of 'Overall Incident Summary' in SOC Manager Dashboard page-Dark",
+  "fullName" : "Dashboard Test Dark theme-SOC Manager.Verify that total of the 'Severity' wise incidents in legend should be equal to 'Total incidents' displayed inside the donut chart of 'Overall Incident Summary' in SOC Manager Dashboard page-Dark",
+  "historyId" : "c8821ecc612e3535ea16901f804d9f5e",
+  "time" : {
+    "start" : 1668261927698,
+    "stop" : 1668261943597,
+    "duration" : 15899
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "testClass",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that total of the 'Severity' wise incidents in legend should be equal to 'Total incidents' displayed inside the donut chart of 'Overall Incident Summary' in SOC Manager Dashboard page-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "68996ff4a9304a52.json",
+  "parameterValues" : [ ]
+}

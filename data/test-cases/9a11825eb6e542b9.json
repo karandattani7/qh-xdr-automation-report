@@ -1,0 +1,50 @@
+{
+  "uid" : "9a11825eb6e542b9",
+  "name" : "Verify that in SLA Configuration tab, after SLAs are added for all incident type, a toast notification is shown 'SLA added for all incident types' when clicking on 'Add SLA For Incident Type' button-Dark",
+  "fullName" : "SLA Test Dark theme.Verify that in SLA Configuration tab, after SLAs are added for all incident type, a toast notification is shown 'SLA added for all incident types' when clicking on 'Add SLA For Incident Type' button-Dark",
+  "historyId" : "ae660911f415737c4fdc178af0560c0a",
+  "time" : {
+    "start" : 1668262550268,
+    "stop" : 1668262597690,
+    "duration" : 47422
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "SLA Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "SLA Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in SLA Configuration tab, after SLAs are added for all incident type, a toast notification is shown 'SLA added for all incident types' when clicking on 'Add SLA For Incident Type' button-Dark"
+  }, {
+    "name" : "package",
+    "value" : "SLA Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9a11825eb6e542b9.json",
+  "parameterValues" : [ ]
+}

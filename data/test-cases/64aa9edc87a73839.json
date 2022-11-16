@@ -1,0 +1,48 @@
+{
+  "uid" : "64aa9edc87a73839",
+  "name" : "Verify User is able to see all 7 columns showing playbook details in Draft Playbooks-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify User is able to see all 7 columns showing playbook details in Draft Playbooks-Dark",
+  "historyId" : "7d0bbf14c832e55bbba97d5b67150de5",
+  "time" : {
+    "start" : 1668418023937,
+    "stop" : 1668418046378,
+    "duration" : 22441
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User is able to see all 7 columns showing playbook details in Draft Playbooks-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "64aa9edc87a73839.json",
+  "parameterValues" : [ ]
+}

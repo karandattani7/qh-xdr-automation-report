@@ -1,0 +1,67 @@
+{
+  "uid" : "390d3fe0c2801d49",
+  "name" : "Verify that user should see truncated text for playbook description after 5-7 lines and more link to see full description and less link to see incomplete text.-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that user should see truncated text for playbook description after 5-7 lines and more link to see full description and less link to see incomplete text.-Dark",
+  "historyId" : "4ae1cf1ef3c238c3a9589daffd388191",
+  "time" : {
+    "start" : 1668580015054,
+    "stop" : 1668580079805,
+    "duration" : 64751
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user should see truncated text for playbook description after 5-7 lines and more link to see full description and less link to see incomplete text.-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c3c7152ccc01c5bb",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668545902412,
+        "stop" : 1668545905789,
+        "duration" : 3377
+      }
+    }, {
+      "uid" : "4e63d40bea8cf0b5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668423975455,
+        "stop" : 1668424023829,
+        "duration" : 48374
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "390d3fe0c2801d49.json",
+  "parameterValues" : [ ]
+}

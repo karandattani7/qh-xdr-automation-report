@@ -1,0 +1,76 @@
+{
+  "uid" : "b243f0860146cea1",
+  "name" : "Verify that user is able to move Filter block in main canvas area-Light",
+  "fullName" : "Playbook Test Light theme.Verify that user is able to move Filter block in main canvas area-Light",
+  "historyId" : "ff17dc8f1d86e0e5f750bbc10ded5903",
+  "time" : {
+    "start" : 1668549366116,
+    "stop" : 1668549414170,
+    "duration" : 48054
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to move Filter block in main canvas area-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3652d367caa25639",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668516573227,
+        "stop" : 1668516577383,
+        "duration" : 4156
+      }
+    }, {
+      "uid" : "539614e292868b76",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504421851,
+        "stop" : 1668504426414,
+        "duration" : 4563
+      }
+    }, {
+      "uid" : "1a2d5a54a5addcc4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668503712645,
+        "stop" : 1668503765092,
+        "duration" : 52447
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b243f0860146cea1.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "65930f5b6707a504",
+  "name" : "Verify that user is able to completely replace the added internal function with another internal function by using Function dropdown in Editable right panel-Light",
+  "fullName" : "Playbook Test Light theme.Verify that user is able to completely replace the added internal function with another internal function by using Function dropdown in Editable right panel-Light",
+  "historyId" : "4be06f05723035b212d38a5882fb6ed3",
+  "time" : {
+    "start" : 1668505363521,
+    "stop" : 1668505418910,
+    "duration" : 55389
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to completely replace the added internal function with another internal function by using Function dropdown in Editable right panel-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "65930f5b6707a504.json",
+  "parameterValues" : [ ]
+}

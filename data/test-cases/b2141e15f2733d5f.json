@@ -1,0 +1,76 @@
+{
+  "uid" : "b2141e15f2733d5f",
+  "name" : "Verify User is able to delete individual Draft Playbook, multiple draft playbooks and all draft playbooks using checkbox-Light",
+  "fullName" : "Playbook Test Light theme.Verify User is able to delete individual Draft Playbook, multiple draft playbooks and all draft playbooks using checkbox-Light",
+  "historyId" : "f0ae3deb634f2ee96126046ce0c598c0",
+  "time" : {
+    "start" : 1668552511044,
+    "stop" : 1668552749095,
+    "duration" : 238051
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User is able to delete individual Draft Playbook, multiple draft playbooks and all draft playbooks using checkbox-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "bf977df1c15e9a28",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668516782744,
+        "stop" : 1668516786919,
+        "duration" : 4175
+      }
+    }, {
+      "uid" : "b791b99ae9020cb3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668507093897,
+        "stop" : 1668507340322,
+        "duration" : 246425
+      }
+    }, {
+      "uid" : "2961e152e938e9ab",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504644922,
+        "stop" : 1668504649405,
+        "duration" : 4483
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b2141e15f2733d5f.json",
+  "parameterValues" : [ ]
+}

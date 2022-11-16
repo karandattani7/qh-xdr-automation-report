@@ -1,0 +1,48 @@
+{
+  "uid" : "d819e1c1da646544",
+  "name" : "Verify that decision right panel is opened when user clicks on Decision Block when right panel is in collapsed state-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that decision right panel is opened when user clicks on Decision Block when right panel is in collapsed state-Dark",
+  "historyId" : "6d957914273659ba05b1688fd44b0a58",
+  "time" : {
+    "start" : 1668425656931,
+    "stop" : 1668425695592,
+    "duration" : 38661
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that decision right panel is opened when user clicks on Decision Block when right panel is in collapsed state-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d819e1c1da646544.json",
+  "parameterValues" : [ ]
+}

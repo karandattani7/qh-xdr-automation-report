@@ -1,0 +1,50 @@
+{
+  "uid" : "8c765bd067ce4347",
+  "name" : "Verify that clicking on Delete icon shows Delete SLA For Incident Type modal in SLA Configuration tab-Light",
+  "fullName" : "SLA Test Light theme.Verify that clicking on Delete icon shows Delete SLA For Incident Type modal in SLA Configuration tab-Light",
+  "historyId" : "a7f33e715cc2aee9ab4050d2d57564de",
+  "time" : {
+    "start" : 1668263472475,
+    "stop" : 1668263494506,
+    "duration" : 22031
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "SLA Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "SLA Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Delete icon shows Delete SLA For Incident Type modal in SLA Configuration tab-Light"
+  }, {
+    "name" : "package",
+    "value" : "SLA Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8c765bd067ce4347.json",
+  "parameterValues" : [ ]
+}

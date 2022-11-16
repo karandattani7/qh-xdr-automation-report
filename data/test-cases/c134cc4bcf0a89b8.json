@@ -1,0 +1,50 @@
+{
+  "uid" : "c134cc4bcf0a89b8",
+  "name" : "Verify the filtering of incidents list in list view is as expected when selecting individual quick filter or combination of quick filters-Light",
+  "fullName" : "Incident Test Light theme.Verify the filtering of incidents list in list view is as expected when selecting individual quick filter or combination of quick filters-Light",
+  "historyId" : "14c10f33c37dfcefec2d9f9f10bcff53",
+  "time" : {
+    "start" : 1668429394180,
+    "stop" : 1668429439935,
+    "duration" : 45755
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the filtering of incidents list in list view is as expected when selecting individual quick filter or combination of quick filters-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c134cc4bcf0a89b8.json",
+  "parameterValues" : [ ]
+}

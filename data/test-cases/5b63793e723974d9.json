@@ -1,0 +1,48 @@
+{
+  "uid" : "5b63793e723974d9",
+  "name" : "Verify that clicking on Cancel in selected function form shows list of internal functions right panel again-Light",
+  "fullName" : "Playbook Test Light theme.Verify that clicking on Cancel in selected function form shows list of internal functions right panel again-Light",
+  "historyId" : "359f0c5267c3e3a1ae1ba85bd6e1e1cb",
+  "time" : {
+    "start" : 1668501865990,
+    "stop" : 1668501924011,
+    "duration" : 58021
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Cancel in selected function form shows list of internal functions right panel again-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5b63793e723974d9.json",
+  "parameterValues" : [ ]
+}

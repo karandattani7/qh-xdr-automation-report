@@ -1,0 +1,48 @@
+{
+  "uid" : "b791b99ae9020cb3",
+  "name" : "Verify User is able to delete individual Draft Playbook, multiple draft playbooks and all draft playbooks using checkbox-Light",
+  "fullName" : "Playbook Test Light theme.Verify User is able to delete individual Draft Playbook, multiple draft playbooks and all draft playbooks using checkbox-Light",
+  "historyId" : "f0ae3deb634f2ee96126046ce0c598c0",
+  "time" : {
+    "start" : 1668507093897,
+    "stop" : 1668507340322,
+    "duration" : 246425
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User is able to delete individual Draft Playbook, multiple draft playbooks and all draft playbooks using checkbox-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b791b99ae9020cb3.json",
+  "parameterValues" : [ ]
+}

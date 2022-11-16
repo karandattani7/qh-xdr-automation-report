@@ -1,0 +1,48 @@
+{
+  "uid" : "891b569f710b2b63",
+  "name" : "Verify that User is be able to see Search Filter component in Published Playbooks and Draft Playbooks tab-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is be able to see Search Filter component in Published Playbooks and Draft Playbooks tab-Light",
+  "historyId" : "9f84dde0c8c33f5f8f09de83b133eeeb",
+  "time" : {
+    "start" : 1668512661002,
+    "stop" : 1668512692620,
+    "duration" : 31618
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is be able to see Search Filter component in Published Playbooks and Draft Playbooks tab-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "891b569f710b2b63.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "e76e448f54246e77",
+  "name" : "Verify that Playbook Details right panel should be updated if playbook fields are updated in Create Playbook form-Light",
+  "fullName" : "Playbook Test Light theme.Verify that Playbook Details right panel should be updated if playbook fields are updated in Create Playbook form-Light",
+  "historyId" : "4c0fc19da96baefa3ad13386a2f36d12",
+  "time" : {
+    "start" : 1668501797137,
+    "stop" : 1668501865989,
+    "duration" : 68852
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Playbook Details right panel should be updated if playbook fields are updated in Create Playbook form-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e76e448f54246e77.json",
+  "parameterValues" : [ ]
+}

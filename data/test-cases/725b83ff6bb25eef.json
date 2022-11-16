@@ -1,0 +1,48 @@
+{
+  "uid" : "725b83ff6bb25eef",
+  "name" : "Verify that in User Correlation view, the title of 'Key Attributes' table is 'Key Attributes'-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that in User Correlation view, the title of 'Key Attributes' table is 'Key Attributes'-Dark",
+  "historyId" : "3550d4ecbea938333f6221cb18190b44",
+  "time" : {
+    "start" : 1668418252000,
+    "stop" : 1668418302225,
+    "duration" : 50225
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in User Correlation view, the title of 'Key Attributes' table is 'Key Attributes'-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "725b83ff6bb25eef.json",
+  "parameterValues" : [ ]
+}

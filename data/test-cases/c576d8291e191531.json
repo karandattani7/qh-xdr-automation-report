@@ -1,0 +1,48 @@
+{
+  "uid" : "c576d8291e191531",
+  "name" : "Verify the saved created flow for Dragged blocks with no connection lines in Playbook Editor page is as expected-Light",
+  "fullName" : "Playbook Test Light theme.Verify the saved created flow for Dragged blocks with no connection lines in Playbook Editor page is as expected-Light",
+  "historyId" : "cd70c847f8e6ac62e0ceb92876606af7",
+  "time" : {
+    "start" : 1668506691914,
+    "stop" : 1668506753208,
+    "duration" : 61294
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the saved created flow for Dragged blocks with no connection lines in Playbook Editor page is as expected-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c576d8291e191531.json",
+  "parameterValues" : [ ]
+}

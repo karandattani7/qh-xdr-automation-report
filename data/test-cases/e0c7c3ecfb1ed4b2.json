@@ -1,0 +1,67 @@
+{
+  "uid" : "e0c7c3ecfb1ed4b2",
+  "name" : "Verify that User is able to move the whole diagram inside the Main Canvas area in Playbook Editor page-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to move the whole diagram inside the Main Canvas area in Playbook Editor page-Dark",
+  "historyId" : "5e2625070671d9b557b7488a9863f5f9",
+  "time" : {
+    "start" : 1668583178597,
+    "stop" : 1668583234024,
+    "duration" : 55427
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to move the whole diagram inside the Main Canvas area in Playbook Editor page-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d85b76ded793d207",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668546075344,
+        "stop" : 1668546078836,
+        "duration" : 3492
+      }
+    }, {
+      "uid" : "5e231f449bfa3825",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668426797248,
+        "stop" : 1668426850642,
+        "duration" : 53394
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e0c7c3ecfb1ed4b2.json",
+  "parameterValues" : [ ]
+}

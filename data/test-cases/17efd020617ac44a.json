@@ -1,0 +1,48 @@
+{
+  "uid" : "17efd020617ac44a",
+  "name" : "Verify that User is able to remove selected filter from SELECTED FILTERS section using cross icon of selected filter in Add Filter window-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to remove selected filter from SELECTED FILTERS section using cross icon of selected filter in Add Filter window-Dark",
+  "historyId" : "8c34a476d251e74172d92dddf5587d1d",
+  "time" : {
+    "start" : 1668421672740,
+    "stop" : 1668421724272,
+    "duration" : 51532
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to remove selected filter from SELECTED FILTERS section using cross icon of selected filter in Add Filter window-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "17efd020617ac44a.json",
+  "parameterValues" : [ ]
+}

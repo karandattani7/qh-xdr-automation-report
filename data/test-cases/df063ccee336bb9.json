@@ -1,0 +1,50 @@
+{
+  "uid" : "df063ccee336bb9",
+  "name" : "Verify that turning ON the Configured Connectors shown only those connectors which have '[tick icon] Configured' in TENANT INSTANCE column in Enrichment, Ingestion and Response connector tab-Dark",
+  "fullName" : "Connector Test Dark theme.Verify that turning ON the Configured Connectors shown only those connectors which have '[tick icon] Configured' in TENANT INSTANCE column in Enrichment, Ingestion and Response connector tab-Dark",
+  "historyId" : "36df2e5caada69fe88d0efcf7f707b57",
+  "time" : {
+    "start" : 1668257038760,
+    "stop" : 1668257083936,
+    "duration" : 45176
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that turning ON the Configured Connectors shown only those connectors which have '[tick icon] Configured' in TENANT INSTANCE column in Enrichment, Ingestion and Response connector tab-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "df063ccee336bb9.json",
+  "parameterValues" : [ ]
+}

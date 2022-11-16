@@ -1,0 +1,50 @@
+{
+  "uid" : "aae91fd8510122f0",
+  "name" : "Verify that SOC Manager user is able to see Export button on top right in Dashboard tab of SOC Manager Dashboard page-Dark",
+  "fullName" : "Dashboard Test Dark theme-SOC Manager.Verify that SOC Manager user is able to see Export button on top right in Dashboard tab of SOC Manager Dashboard page-Dark",
+  "historyId" : "ade7358fba3d84b0bfd9de26d17d5c31",
+  "time" : {
+    "start" : 1668261882657,
+    "stop" : 1668261893075,
+    "duration" : 10418
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "testClass",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that SOC Manager user is able to see Export button on top right in Dashboard tab of SOC Manager Dashboard page-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aae91fd8510122f0.json",
+  "parameterValues" : [ ]
+}

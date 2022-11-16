@@ -1,0 +1,66 @@
+{
+  "uid" : "6546866e5ebf7678",
+  "name" : "Verify that 'View Details' is clickable in the 9th column of incident row in the Incident List view-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that 'View Details' is clickable in the 9th column of incident row in the Incident List view-Dark",
+  "historyId" : "244b377f8690999e9021bcbf766209b4",
+  "time" : {
+    "start" : 1668497995748,
+    "stop" : 1668498019508,
+    "duration" : 23760
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that 'View Details' is clickable in the 9th column of incident row in the Incident List view-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "68b51a6d3ea7e992",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668427789508,
+        "stop" : 1668427813284,
+        "duration" : 23776
+      }
+    }, {
+      "uid" : "107b43146367ba3e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668412783633,
+        "stop" : 1668412807939,
+        "duration" : 24306
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6546866e5ebf7678.json",
+  "parameterValues" : [ ]
+}

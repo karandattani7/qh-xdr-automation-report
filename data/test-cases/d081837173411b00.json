@@ -1,0 +1,50 @@
+{
+  "uid" : "d081837173411b00",
+  "name" : "Verify that user is able to expand and collapse 'Default' panel in SLA Configuration tab-Light",
+  "fullName" : "SLA Test Light theme.Verify that user is able to expand and collapse 'Default' panel in SLA Configuration tab-Light",
+  "historyId" : "1843c9e68b0a96981cd53b7ad0b1e93a",
+  "time" : {
+    "start" : 1668263370884,
+    "stop" : 1668263386507,
+    "duration" : 15623
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "SLA Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "SLA Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to expand and collapse 'Default' panel in SLA Configuration tab-Light"
+  }, {
+    "name" : "package",
+    "value" : "SLA Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d081837173411b00.json",
+  "parameterValues" : [ ]
+}

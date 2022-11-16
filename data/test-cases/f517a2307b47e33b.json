@@ -1,0 +1,48 @@
+{
+  "uid" : "f517a2307b47e33b",
+  "name" : "Verify that clicking on Cancel when updating decision block in right panel, discards the changes and closes the right panel-Light",
+  "fullName" : "Playbook Test Light theme.Verify that clicking on Cancel when updating decision block in right panel, discards the changes and closes the right panel-Light",
+  "historyId" : "e8df83e55a0f3b20bc37e110dc8e1fbd",
+  "time" : {
+    "start" : 1668504958284,
+    "stop" : 1668505024251,
+    "duration" : 65967
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Cancel when updating decision block in right panel, discards the changes and closes the right panel-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f517a2307b47e33b.json",
+  "parameterValues" : [ ]
+}

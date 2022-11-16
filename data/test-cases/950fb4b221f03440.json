@@ -1,0 +1,66 @@
+{
+  "uid" : "950fb4b221f03440",
+  "name" : "Verify that in Incidents List view, the heading *Severity is shown on top right of Severity wise count distribution box-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that in Incidents List view, the heading *Severity is shown on top right of Severity wise count distribution box-Dark",
+  "historyId" : "a03dbdb5f2c284fc72cd026f1b5a1954",
+  "time" : {
+    "start" : 1668502619996,
+    "stop" : 1668502656696,
+    "duration" : 36700
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Incidents List view, the heading *Severity is shown on top right of Severity wise count distribution box-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d8320cda18c7e20",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668432340633,
+        "stop" : 1668432424522,
+        "duration" : 83889
+      }
+    }, {
+      "uid" : "a4a189bdab1bea42",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668417445880,
+        "stop" : 1668417482140,
+        "duration" : 36260
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "950fb4b221f03440.json",
+  "parameterValues" : [ ]
+}

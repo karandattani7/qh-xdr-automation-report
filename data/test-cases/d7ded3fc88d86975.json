@@ -1,0 +1,74 @@
+{
+  "uid" : "d7ded3fc88d86975",
+  "name" : "Verify that User is able to save playbook with 'On Incident Updation' trigger checkbox selected-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to save playbook with 'On Incident Updation' trigger checkbox selected-Light",
+  "historyId" : "5dcc8c7975676ccafc6bec51b5926d61",
+  "time" : {
+    "start" : 1668545012571,
+    "stop" : 1668545042768,
+    "duration" : 30197
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to save playbook with 'On Incident Updation' trigger checkbox selected-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ba0d7d54994bf4a5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668511514482,
+        "stop" : 1668511546233,
+        "duration" : 31751
+      }
+    }, {
+      "uid" : "80cedbf80844751f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668503193487,
+        "stop" : 1668503225522,
+        "duration" : 32035
+      }
+    }, {
+      "uid" : "5f79aae82e35e0dd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668499230914,
+        "stop" : 1668499261043,
+        "duration" : 30129
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d7ded3fc88d86975.json",
+  "parameterValues" : [ ]
+}

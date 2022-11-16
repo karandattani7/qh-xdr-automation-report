@@ -1,0 +1,48 @@
+{
+  "uid" : "9ed9de0c263cf03f",
+  "name" : "Verify that in Playbook Add Filter window, clicking on Search Filter input field shows blinking cursor and filter entity.attribute list in dropdown to select from-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that in Playbook Add Filter window, clicking on Search Filter input field shows blinking cursor and filter entity.attribute list in dropdown to select from-Dark",
+  "historyId" : "82c3b3afc8d9e58190096efcf32b7b99",
+  "time" : {
+    "start" : 1668422440087,
+    "stop" : 1668422481200,
+    "duration" : 41113
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Playbook Add Filter window, clicking on Search Filter input field shows blinking cursor and filter entity.attribute list in dropdown to select from-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9ed9de0c263cf03f.json",
+  "parameterValues" : [ ]
+}

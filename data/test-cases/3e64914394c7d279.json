@@ -1,0 +1,75 @@
+{
+  "uid" : "3e64914394c7d279",
+  "name" : "Verify that in Playbook Add Filter window, clicking on Search Filter input field shows blinking cursor and filter entity.attribute list in dropdown to select from-Light",
+  "fullName" : "Playbook Test Light theme.Verify that in Playbook Add Filter window, clicking on Search Filter input field shows blinking cursor and filter entity.attribute list in dropdown to select from-Light",
+  "historyId" : "ff04f8fc6f80020aca297faada3dc142",
+  "time" : {
+    "start" : 1668547440490,
+    "stop" : 1668547480114,
+    "duration" : 39624
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Playbook Add Filter window, clicking on Search Filter input field shows blinking cursor and filter entity.attribute list in dropdown to select from-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fb4fea3119373a53",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668514165737,
+        "stop" : 1668514206993,
+        "duration" : 41256
+      }
+    }, {
+      "uid" : "2d7f3152a81aed4c",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504240291,
+        "stop" : 1668504244788,
+        "duration" : 4497
+      }
+    }, {
+      "uid" : "b5b56afa26b3158e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668501668529,
+        "stop" : 1668501707951,
+        "duration" : 39422
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3e64914394c7d279.json",
+  "parameterValues" : [ ]
+}

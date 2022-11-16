@@ -1,0 +1,74 @@
+{
+  "uid" : "874d93f85e074027",
+  "name" : "Verify User is able to select/deselect checkbox for a single row in Draft Playbooks tab-Light",
+  "fullName" : "Playbook Test Light theme.Verify User is able to select/deselect checkbox for a single row in Draft Playbooks tab-Light",
+  "historyId" : "d7af7b3998083d818970fa5f6e446a8f",
+  "time" : {
+    "start" : 1668543461374,
+    "stop" : 1668543487910,
+    "duration" : 26536
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User is able to select/deselect checkbox for a single row in Draft Playbooks tab-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8ea12ef2a5a64f8f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668509820830,
+        "stop" : 1668509847435,
+        "duration" : 26605
+      }
+    }, {
+      "uid" : "33c984ac37055ad0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668501669184,
+        "stop" : 1668501694976,
+        "duration" : 25792
+      }
+    }, {
+      "uid" : "429a6a03ed8a7adc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668497654243,
+        "stop" : 1668497680174,
+        "duration" : 25931
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "874d93f85e074027.json",
+  "parameterValues" : [ ]
+}

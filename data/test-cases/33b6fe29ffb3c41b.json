@@ -1,0 +1,48 @@
+{
+  "uid" : "33b6fe29ffb3c41b",
+  "name" : "Verify that in Incident Add Filter modal, the 'Saved Filter' tab empty view is as expected when no Saved Filters are there-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that in Incident Add Filter modal, the 'Saved Filter' tab empty view is as expected when no Saved Filters are there-Dark",
+  "historyId" : "4ee0b2b85a52d41f4fdccefdbb35cc5",
+  "time" : {
+    "start" : 1668431829564,
+    "stop" : 1668431862371,
+    "duration" : 32807
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Incident Add Filter modal, the 'Saved Filter' tab empty view is as expected when no Saved Filters are there-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "33b6fe29ffb3c41b.json",
+  "parameterValues" : [ ]
+}

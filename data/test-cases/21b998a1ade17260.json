@@ -1,0 +1,67 @@
+{
+  "uid" : "21b998a1ade17260",
+  "name" : "Verify that after dragging 'Call External Function' to main canvas of playbook editor page, the block is displayed with text 'Call External Function'-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that after dragging 'Call External Function' to main canvas of playbook editor page, the block is displayed with text 'Call External Function'-Dark",
+  "historyId" : "7129f131a910f3be2feaca0905f9de76",
+  "time" : {
+    "start" : 1668579138983,
+    "stop" : 1668579188200,
+    "duration" : 49217
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that after dragging 'Call External Function' to main canvas of playbook editor page, the block is displayed with text 'Call External Function'-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c64d5a0471f51d02",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668545848113,
+        "stop" : 1668545851558,
+        "duration" : 3445
+      }
+    }, {
+      "uid" : "e39daa4f10ad782b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668423155200,
+        "stop" : 1668423203001,
+        "duration" : 47801
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "21b998a1ade17260.json",
+  "parameterValues" : [ ]
+}

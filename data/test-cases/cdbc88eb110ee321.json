@@ -1,0 +1,66 @@
+{
+  "uid" : "cdbc88eb110ee321",
+  "name" : "Verify that in Incident Summary right panel, under BASIC INFORMATION, clicking on edit icon of Incident Name field opens Incident Name modal-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that in Incident Summary right panel, under BASIC INFORMATION, clicking on edit icon of Incident Name field opens Incident Name modal-Dark",
+  "historyId" : "264ce320eb4f53699827dc2013f7cc04",
+  "time" : {
+    "start" : 1668498049577,
+    "stop" : 1668498077551,
+    "duration" : 27974
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Incident Summary right panel, under BASIC INFORMATION, clicking on edit icon of Incident Name field opens Incident Name modal-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9d146ff7ce47f84f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668427843359,
+        "stop" : 1668427871444,
+        "duration" : 28085
+      }
+    }, {
+      "uid" : "9af9d406a4bc14d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668412838682,
+        "stop" : 1668412867244,
+        "duration" : 28562
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cdbc88eb110ee321.json",
+  "parameterValues" : [ ]
+}

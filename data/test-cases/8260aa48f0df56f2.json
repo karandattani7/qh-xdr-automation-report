@@ -1,0 +1,48 @@
+{
+  "uid" : "8260aa48f0df56f2",
+  "name" : "Verify empty view of draft playbooks page is displayed when the only single draft playbook is deleted from the list-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify empty view of draft playbooks page is displayed when the only single draft playbook is deleted from the list-Dark",
+  "historyId" : "2be8e8bf085805911d8a19a011afb3af",
+  "time" : {
+    "start" : 1668419197908,
+    "stop" : 1668419219506,
+    "duration" : 21598
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify empty view of draft playbooks page is displayed when the only single draft playbook is deleted from the list-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8260aa48f0df56f2.json",
+  "parameterValues" : [ ]
+}

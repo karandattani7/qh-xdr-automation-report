@@ -1,0 +1,48 @@
+{
+  "uid" : "77a5b8cb2d200c72",
+  "name" : "Verify that User is be able to see Search Filter component in List and Timeline view of Incidents tab-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that User is be able to see Search Filter component in List and Timeline view of Incidents tab-Dark",
+  "historyId" : "9a7d5175abfff5aacaafbe38e9bc0f3b",
+  "time" : {
+    "start" : 1668426954292,
+    "stop" : 1668426988488,
+    "duration" : 34196
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is be able to see Search Filter component in List and Timeline view of Incidents tab-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "77a5b8cb2d200c72.json",
+  "parameterValues" : [ ]
+}

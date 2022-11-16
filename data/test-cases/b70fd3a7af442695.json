@@ -1,0 +1,66 @@
+{
+  "uid" : "b70fd3a7af442695",
+  "name" : "Verify that base alerts list gets filtered with different combinations of alert ID filter-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that base alerts list gets filtered with different combinations of alert ID filter-Dark",
+  "historyId" : "37dcd619d4be0aff8dff5cda8555c6eb",
+  "time" : {
+    "start" : 1668500791023,
+    "stop" : 1668500883021,
+    "duration" : 91998
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that base alerts list gets filtered with different combinations of alert ID filter-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ba9ce4d970ecc662",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668430594163,
+        "stop" : 1668430687870,
+        "duration" : 93707
+      }
+    }, {
+      "uid" : "9e340298055da695",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668415596898,
+        "stop" : 1668415690627,
+        "duration" : 93729
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b70fd3a7af442695.json",
+  "parameterValues" : [ ]
+}

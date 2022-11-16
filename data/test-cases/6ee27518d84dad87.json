@@ -1,0 +1,66 @@
+{
+  "uid" : "6ee27518d84dad87",
+  "name" : "Verify that by default Base Alerts view table shows all base alerts of Last 7 days in descending order of Created On-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that by default Base Alerts view table shows all base alerts of Last 7 days in descending order of Created On-Dark",
+  "historyId" : "133febcca4b76b720b136135fcb45d28",
+  "time" : {
+    "start" : 1668502017590,
+    "stop" : 1668502076673,
+    "duration" : 59083
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that by default Base Alerts view table shows all base alerts of Last 7 days in descending order of Created On-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9cb4a9e5b26eef44",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668431644783,
+        "stop" : 1668431704694,
+        "duration" : 59911
+      }
+    }, {
+      "uid" : "3613a504e6c3c75e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668416774768,
+        "stop" : 1668416832679,
+        "duration" : 57911
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6ee27518d84dad87.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,66 @@
+{
+  "uid" : "2ea7d2f64104bc29",
+  "name" : "Verify that clicking on Cross icon (Close) in User List and Timeline page - Add Filter window closes the Add Filter window-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that clicking on Cross icon (Close) in User List and Timeline page - Add Filter window closes the Add Filter window-Dark",
+  "historyId" : "799f99f544e8fa89311562c5413ead93",
+  "time" : {
+    "start" : 1668504065096,
+    "stop" : 1668504220067,
+    "duration" : 154971
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Cross icon (Close) in User List and Timeline page - Add Filter window closes the Add Filter window-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "28551415040dc6a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668433461573,
+        "stop" : 1668433570565,
+        "duration" : 108992
+      }
+    }, {
+      "uid" : "fb8826e2d12c1da8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668418574457,
+        "stop" : 1668418685321,
+        "duration" : 110864
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2ea7d2f64104bc29.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,50 @@
+{
+  "uid" : "b38a768fb230d338",
+  "name" : "Verify SOC Manager  is able to view and click on the 'Type' Dropdown on 'Mean time to Remediate' widget of SOC Manager Dashboard Page.-Dark",
+  "fullName" : "Dashboard Test Dark theme-SOC Manager.Verify SOC Manager  is able to view and click on the 'Type' Dropdown on 'Mean time to Remediate' widget of SOC Manager Dashboard Page.-Dark",
+  "historyId" : "1ef916431de05290cfeed541c2a68080",
+  "time" : {
+    "start" : 1668261983394,
+    "stop" : 1668262011058,
+    "duration" : 27664
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "testClass",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify SOC Manager  is able to view and click on the 'Type' Dropdown on 'Mean time to Remediate' widget of SOC Manager Dashboard Page.-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b38a768fb230d338.json",
+  "parameterValues" : [ ]
+}

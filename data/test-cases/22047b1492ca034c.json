@@ -1,0 +1,66 @@
+{
+  "uid" : "22047b1492ca034c",
+  "name" : "Verify User should be able to see actions 'Edit', 'Copy', 'Export', and 'Delete' for playbooks in Draft Playbooks-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify User should be able to see actions 'Edit', 'Copy', 'Export', and 'Delete' for playbooks in Draft Playbooks-Dark",
+  "historyId" : "5916535e725dfb1a119a439e97ccf087",
+  "time" : {
+    "start" : 1668576389166,
+    "stop" : 1668576410951,
+    "duration" : 21785
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User should be able to see actions 'Edit', 'Copy', 'Export', and 'Delete' for playbooks in Draft Playbooks-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a12fa1fe6b8a7e51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668545024886,
+        "stop" : 1668545045653,
+        "duration" : 20767
+      }
+    }, {
+      "uid" : "b6b015f2e9009a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668420456644,
+        "stop" : 1668420478244,
+        "duration" : 21600
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "22047b1492ca034c.json",
+  "parameterValues" : [ ]
+}

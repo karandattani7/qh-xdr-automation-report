@@ -1,0 +1,50 @@
+{
+  "uid" : "438138f623469a91",
+  "name" : "Verify that user is able to add and apply more than one filter in Incidents list view-Light",
+  "fullName" : "Incident Test Light theme.Verify that user is able to add and apply more than one filter in Incidents list view-Light",
+  "historyId" : "f05d231e52c1c9360a72e26666853ee6",
+  "time" : {
+    "start" : 1668429328431,
+    "stop" : 1668429359034,
+    "duration" : 30603
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to add and apply more than one filter in Incidents list view-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "438138f623469a91.json",
+  "parameterValues" : [ ]
+}

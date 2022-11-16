@@ -1,0 +1,50 @@
+{
+  "uid" : "aa1b2a5d7c4dc71d",
+  "name" : "Verify that in User List view, in Unassociated Alerts clicking on enabled Quarantine button opens Quarantine modal-Light",
+  "fullName" : "Incident Test Light theme.Verify that in User List view, in Unassociated Alerts clicking on enabled Quarantine button opens Quarantine modal-Light",
+  "historyId" : "fe93abe0d7266d859d67fe5b0cd3aac1",
+  "time" : {
+    "start" : 1668433587076,
+    "stop" : 1668433643401,
+    "duration" : 56325
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in User List view, in Unassociated Alerts clicking on enabled Quarantine button opens Quarantine modal-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aa1b2a5d7c4dc71d.json",
+  "parameterValues" : [ ]
+}

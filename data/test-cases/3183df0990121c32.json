@@ -1,0 +1,50 @@
+{
+  "uid" : "3183df0990121c32",
+  "name" : "Verify that in SLA Configuration tab, the Investigation value < Remediation value < Closed value for that particular Severity row in a SLA panel-Dark",
+  "fullName" : "SLA Test Dark theme.Verify that in SLA Configuration tab, the Investigation value < Remediation value < Closed value for that particular Severity row in a SLA panel-Dark",
+  "historyId" : "94d79eb9f53bb9c8a0564831c53bc183",
+  "time" : {
+    "start" : 1668262345457,
+    "stop" : 1668262360166,
+    "duration" : 14709
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "SLA Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "SLA Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in SLA Configuration tab, the Investigation value < Remediation value < Closed value for that particular Severity row in a SLA panel-Dark"
+  }, {
+    "name" : "package",
+    "value" : "SLA Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3183df0990121c32.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,66 @@
+{
+  "uid" : "a6b11f80c6d811d3",
+  "name" : "Verify that clicking on a colored circle inside the timeline graph increases the circle size and opens right panel in Incident Timeline view-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that clicking on a colored circle inside the timeline graph increases the circle size and opens right panel in Incident Timeline view-Dark",
+  "historyId" : "4485093572d8e7187553515d4a063d4d",
+  "time" : {
+    "start" : 1668501729828,
+    "stop" : 1668501769893,
+    "duration" : 40065
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on a colored circle inside the timeline graph increases the circle size and opens right panel in Incident Timeline view-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "181731b5cee72347",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668431323876,
+        "stop" : 1668431365561,
+        "duration" : 41685
+      }
+    }, {
+      "uid" : "be2a3296dc300a11",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668416480195,
+        "stop" : 1668416521230,
+        "duration" : 41035
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a6b11f80c6d811d3.json",
+  "parameterValues" : [ ]
+}

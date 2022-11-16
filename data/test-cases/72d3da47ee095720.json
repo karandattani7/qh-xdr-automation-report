@@ -1,0 +1,48 @@
+{
+  "uid" : "72d3da47ee095720",
+  "name" : "Verify that clearing the entered text in Search field of Available Parameters shows the complete list of Available Parameters again-Light",
+  "fullName" : "Playbook Test Light theme.Verify that clearing the entered text in Search field of Available Parameters shows the complete list of Available Parameters again-Light",
+  "historyId" : "4b3ffdb79215810956bb0d0f1ceabbcf",
+  "time" : {
+    "start" : 1668511229959,
+    "stop" : 1668511264290,
+    "duration" : 34331
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clearing the entered text in Search field of Available Parameters shows the complete list of Available Parameters again-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "72d3da47ee095720.json",
+  "parameterValues" : [ ]
+}

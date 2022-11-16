@@ -1,0 +1,67 @@
+{
+  "uid" : "afdde2526a5e08fd",
+  "name" : "Verify User is able to select/deselect checkbox before PLAYBOOK NAME column to select/deselect all rows in Draft Playbooks tab-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify User is able to select/deselect checkbox before PLAYBOOK NAME column to select/deselect all rows in Draft Playbooks tab-Dark",
+  "historyId" : "34c0ced1d6d774840685148f1b88a2c2",
+  "time" : {
+    "start" : 1668574213906,
+    "stop" : 1668574248317,
+    "duration" : 34411
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User is able to select/deselect checkbox before PLAYBOOK NAME column to select/deselect all rows in Draft Playbooks tab-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e449bd0b98f050d2",
+      "status" : "failed",
+      "statusDetails" : "NoSuchElementError: No element found using locator: By(xpath, //tbody)",
+      "time" : {
+        "start" : 1668542778039,
+        "stop" : 1668542866187,
+        "duration" : 88148
+      }
+    }, {
+      "uid" : "d6ce2daa964a3888",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668418258612,
+        "stop" : 1668418300393,
+        "duration" : 41781
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "afdde2526a5e08fd.json",
+  "parameterValues" : [ ]
+}

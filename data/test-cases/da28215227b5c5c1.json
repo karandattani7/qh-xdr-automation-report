@@ -1,0 +1,66 @@
+{
+  "uid" : "da28215227b5c5c1",
+  "name" : "Verify that clicking on help icon on Base Alerts page redirects to contextual help page-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that clicking on help icon on Base Alerts page redirects to contextual help page-Dark",
+  "historyId" : "5a0b2e75af8e1ec948383b01196cab53",
+  "time" : {
+    "start" : 1668497402852,
+    "stop" : 1668497432158,
+    "duration" : 29306
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on help icon on Base Alerts page redirects to contextual help page-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "91d843d4f7de988a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668427097740,
+        "stop" : 1668427127227,
+        "duration" : 29487
+      }
+    }, {
+      "uid" : "c297da22ddfa0149",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668412133422,
+        "stop" : 1668412163272,
+        "duration" : 29850
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "da28215227b5c5c1.json",
+  "parameterValues" : [ ]
+}

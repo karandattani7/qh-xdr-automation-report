@@ -1,0 +1,74 @@
+{
+  "uid" : "7710be79b6e9d2ab",
+  "name" : "Verify User should be able to sort playbooks based on Created On and Updated On column in ascending and descending order in Published Playbooks-Light",
+  "fullName" : "Playbook Test Light theme.Verify User should be able to sort playbooks based on Created On and Updated On column in ascending and descending order in Published Playbooks-Light",
+  "historyId" : "5cba194b4acaa4d973b676b3ed194520",
+  "time" : {
+    "start" : 1668543717322,
+    "stop" : 1668543808239,
+    "duration" : 90917
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User should be able to sort playbooks based on Created On and Updated On column in ascending and descending order in Published Playbooks-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8625e072bc29fa9f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668510040767,
+        "stop" : 1668510137115,
+        "duration" : 96348
+      }
+    }, {
+      "uid" : "6684f7cf8185b5a8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668501885544,
+        "stop" : 1668501972221,
+        "duration" : 86677
+      }
+    }, {
+      "uid" : "982e8aca4d668df8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668497906364,
+        "stop" : 1668497995340,
+        "duration" : 88976
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7710be79b6e9d2ab.json",
+  "parameterValues" : [ ]
+}

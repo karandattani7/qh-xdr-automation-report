@@ -1,0 +1,50 @@
+{
+  "uid" : "86b0a887fb858e6c",
+  "name" : "Verify that in Incident Add Filter window, clicking on cross x icon before Add+ button clears the Search Filter field after selecting '+ incident.name' or '+ incident.id' or 'assignee.name'-Light",
+  "fullName" : "Incident Test Light theme.Verify that in Incident Add Filter window, clicking on cross x icon before Add+ button clears the Search Filter field after selecting '+ incident.name' or '+ incident.id' or 'assignee.name'-Light",
+  "historyId" : "90e210ac5dd6dfd04d585f69b2c4a622",
+  "time" : {
+    "start" : 1668430601452,
+    "stop" : 1668430650278,
+    "duration" : 48826
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Incident Add Filter window, clicking on cross x icon before Add+ button clears the Search Filter field after selecting '+ incident.name' or '+ incident.id' or 'assignee.name'-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "86b0a887fb858e6c.json",
+  "parameterValues" : [ ]
+}

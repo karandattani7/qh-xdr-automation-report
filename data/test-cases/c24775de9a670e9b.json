@@ -1,0 +1,48 @@
+{
+  "uid" : "c24775de9a670e9b",
+  "name" : "Verify that in Function field, user is able to Search and select existing external function when updating an existing external function block in editable right panel-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that in Function field, user is able to Search and select existing external function when updating an existing external function block in editable right panel-Dark",
+  "historyId" : "706ecec6f71da84b13f9e5cebb4d84ec",
+  "time" : {
+    "start" : 1668426341731,
+    "stop" : 1668426409868,
+    "duration" : 68137
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Function field, user is able to Search and select existing external function when updating an existing external function block in editable right panel-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c24775de9a670e9b.json",
+  "parameterValues" : [ ]
+}

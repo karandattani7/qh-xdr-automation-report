@@ -1,0 +1,76 @@
+{
+  "uid" : "ed13edd8b353f6a6",
+  "name" : "Verify that clicking on 'Publish Playbook' of 'Validation Successful' modal, closes the modal and User gets redirected to Published Playbooks tab-Light",
+  "fullName" : "Playbook Test Light theme.Verify that clicking on 'Publish Playbook' of 'Validation Successful' modal, closes the modal and User gets redirected to Published Playbooks tab-Light",
+  "historyId" : "d149cbd333e5cec1084e1bbb457e9e1b",
+  "time" : {
+    "start" : 1668551675225,
+    "stop" : 1668551750244,
+    "duration" : 75019
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on 'Publish Playbook' of 'Validation Successful' modal, closes the modal and User gets redirected to Published Playbooks tab-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "693a51eb0d095359",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668516740777,
+        "stop" : 1668516744962,
+        "duration" : 4185
+      }
+    }, {
+      "uid" : "bc32b0b55b3153a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668506225041,
+        "stop" : 1668506303588,
+        "duration" : 78547
+      }
+    }, {
+      "uid" : "1e07be08e4a9e661",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504600379,
+        "stop" : 1668504604886,
+        "duration" : 4507
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ed13edd8b353f6a6.json",
+  "parameterValues" : [ ]
+}

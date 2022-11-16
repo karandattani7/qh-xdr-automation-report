@@ -1,0 +1,48 @@
+{
+  "uid" : "84a5c92c9b7e2929",
+  "name" : "Verify that an error message is shown when selecting more than 10 available parameters in Create Playbooks form-Light",
+  "fullName" : "Playbook Test Light theme.Verify that an error message is shown when selecting more than 10 available parameters in Create Playbooks form-Light",
+  "historyId" : "6bc9ec4ed6f9c6f3fbf6729176b36d03",
+  "time" : {
+    "start" : 1668511264290,
+    "stop" : 1668511291176,
+    "duration" : 26886
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that an error message is shown when selecting more than 10 available parameters in Create Playbooks form-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "84a5c92c9b7e2929.json",
+  "parameterValues" : [ ]
+}

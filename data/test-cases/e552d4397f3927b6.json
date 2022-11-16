@@ -1,0 +1,76 @@
+{
+  "uid" : "e552d4397f3927b6",
+  "name" : "Verify that user is able to see right panel of Filter block when user drags and drops the Filter block from left panel of Playbook Editor-Light",
+  "fullName" : "Playbook Test Light theme.Verify that user is able to see right panel of Filter block when user drags and drops the Filter block from left panel of Playbook Editor-Light",
+  "historyId" : "cb46d8dd1caff7080b638525513a624e",
+  "time" : {
+    "start" : 1668549516355,
+    "stop" : 1668549567179,
+    "duration" : 50824
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to see right panel of Filter block when user drags and drops the Filter block from left panel of Playbook Editor-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a27e0a8e2bb51177",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668516585788,
+        "stop" : 1668516589962,
+        "duration" : 4174
+      }
+    }, {
+      "uid" : "c38375b901c9e3c5",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504435457,
+        "stop" : 1668504440002,
+        "duration" : 4545
+      }
+    }, {
+      "uid" : "371a8e61f7493b3d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668503876185,
+        "stop" : 1668503930375,
+        "duration" : 54190
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e552d4397f3927b6.json",
+  "parameterValues" : [ ]
+}

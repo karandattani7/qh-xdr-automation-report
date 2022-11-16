@@ -1,0 +1,66 @@
+{
+  "uid" : "e23f5333ca32cedf",
+  "name" : "Verify that in Base Alert summary right panel, clicking on Tactics and Techniques links in MITRE TTP field in BASIC INFORMATION section, opens another browser tab showing tactics and techniques information respectively-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that in Base Alert summary right panel, clicking on Tactics and Techniques links in MITRE TTP field in BASIC INFORMATION section, opens another browser tab showing tactics and techniques information respectively-Dark",
+  "historyId" : "fa052c477a814b39b143c20632cc571",
+  "time" : {
+    "start" : 1668498811195,
+    "stop" : 1668498846578,
+    "duration" : 35383
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Base Alert summary right panel, clicking on Tactics and Techniques links in MITRE TTP field in BASIC INFORMATION section, opens another browser tab showing tactics and techniques information respectively-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6c829a77b3a0f326",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668428605176,
+        "stop" : 1668428630437,
+        "duration" : 25261
+      }
+    }, {
+      "uid" : "7389acdad156773",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668413577587,
+        "stop" : 1668413629062,
+        "duration" : 51475
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e23f5333ca32cedf.json",
+  "parameterValues" : [ ]
+}

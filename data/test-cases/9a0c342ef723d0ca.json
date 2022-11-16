@@ -1,0 +1,50 @@
+{
+  "uid" : "9a0c342ef723d0ca",
+  "name" : "Verify the quick search filter list is as expected on Enrichment, Ingestion and Response connector tab-Dark",
+  "fullName" : "Connector Test Dark theme.Verify the quick search filter list is as expected on Enrichment, Ingestion and Response connector tab-Dark",
+  "historyId" : "feb325811e237157fa5d63a12ad05a31",
+  "time" : {
+    "start" : 1668257142572,
+    "stop" : 1668257182391,
+    "duration" : 39819
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the quick search filter list is as expected on Enrichment, Ingestion and Response connector tab-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9a0c342ef723d0ca.json",
+  "parameterValues" : [ ]
+}

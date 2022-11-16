@@ -1,0 +1,48 @@
+{
+  "uid" : "f14b37973a99b0f2",
+  "name" : "Verify User should be able to see actions 'Copy', 'Export', 'Move to Drafts' for playbooks in Published Playbooks-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify User should be able to see actions 'Copy', 'Export', 'Move to Drafts' for playbooks in Published Playbooks-Dark",
+  "historyId" : "8267fa8a22753f3d6f4e23594cafbc60",
+  "time" : {
+    "start" : 1668420433766,
+    "stop" : 1668420456644,
+    "duration" : 22878
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User should be able to see actions 'Copy', 'Export', 'Move to Drafts' for playbooks in Published Playbooks-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f14b37973a99b0f2.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "eca4558fa1c79d69",
+  "name" : "Verify that user is able to update/edit saved internal function details by using edit icon on saved internal function block in main canvas area-Light",
+  "fullName" : "Playbook Test Light theme.Verify that user is able to update/edit saved internal function details by using edit icon on saved internal function block in main canvas area-Light",
+  "historyId" : "9a7d2c56999b8e57cb12bba402c6ac9d",
+  "time" : {
+    "start" : 1668505309044,
+    "stop" : 1668505363520,
+    "duration" : 54476
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to update/edit saved internal function details by using edit icon on saved internal function block in main canvas area-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eca4558fa1c79d69.json",
+  "parameterValues" : [ ]
+}

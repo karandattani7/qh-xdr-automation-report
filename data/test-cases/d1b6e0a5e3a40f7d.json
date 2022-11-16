@@ -1,0 +1,68 @@
+{
+  "uid" : "d1b6e0a5e3a40f7d",
+  "name" : "Verify that after adding an internal function, the main canvas area shows the block with name given by user-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that after adding an internal function, the main canvas area shows the block with name given by user-Dark",
+  "historyId" : "ffdc60d967fb0ffd87d9b6c17523ab0",
+  "time" : {
+    "start" : 1668578681129,
+    "stop" : 1668578745749,
+    "duration" : 64620
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that after adding an internal function, the main canvas area shows the block with name given by user-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "24b6da997d84ad6b",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668545814100,
+        "stop" : 1668545817462,
+        "duration" : 3362
+      }
+    }, {
+      "uid" : "8f86aacc6fd5c055",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <em aria-hidden=\"true\" class=\"icon-close font-xl d-block font-weight-bold\"></em> is not clickable at point (974, 179). Other element would receive the click: <em aria-hidden=\"true\" class=\"icon-close font-xl d-block font-weight-bold\"></em>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668422753103,
+        "stop" : 1668422771251,
+        "duration" : 18148
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d1b6e0a5e3a40f7d.json",
+  "parameterValues" : [ ]
+}

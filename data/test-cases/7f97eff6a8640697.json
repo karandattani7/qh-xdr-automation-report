@@ -1,0 +1,66 @@
+{
+  "uid" : "7f97eff6a8640697",
+  "name" : "Verify that counts of Critical, High, Medium, Low severity incidents shown on top of table matches with number of rows in table for each severity-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that counts of Critical, High, Medium, Low severity incidents shown on top of table matches with number of rows in table for each severity-Dark",
+  "historyId" : "29862390695df6e1e71655d52e721534",
+  "time" : {
+    "start" : 1668502277234,
+    "stop" : 1668502353580,
+    "duration" : 76346
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that counts of Critical, High, Medium, Low severity incidents shown on top of table matches with number of rows in table for each severity-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2cebc5bd9f82077",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668431921951,
+        "stop" : 1668432043762,
+        "duration" : 121811
+      }
+    }, {
+      "uid" : "3410eb96226edc6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668417116469,
+        "stop" : 1668417197266,
+        "duration" : 80797
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7f97eff6a8640697.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "83977ee203d96bba",
+  "name" : "Verify that user is able to add and apply more than one filter in User List and Timeline view Add Filter window-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that user is able to add and apply more than one filter in User List and Timeline view Add Filter window-Dark",
+  "historyId" : "cebb01b68588310fded3f0418125fe96",
+  "time" : {
+    "start" : 1668418685321,
+    "stop" : 1668418741955,
+    "duration" : 56634
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to add and apply more than one filter in User List and Timeline view Add Filter window-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "83977ee203d96bba.json",
+  "parameterValues" : [ ]
+}

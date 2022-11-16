@@ -1,0 +1,48 @@
+{
+  "uid" : "1904d25e4ed84a2d",
+  "name" : "Verify that an error toast notification is shown when User creates a playbook with same name of an existing playbook-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that an error toast notification is shown when User creates a playbook with same name of an existing playbook-Dark",
+  "historyId" : "b3927a459eb2c2497c8d17372d9d84a3",
+  "time" : {
+    "start" : 1668419219506,
+    "stop" : 1668419263673,
+    "duration" : 44167
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that an error toast notification is shown when User creates a playbook with same name of an existing playbook-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1904d25e4ed84a2d.json",
+  "parameterValues" : [ ]
+}

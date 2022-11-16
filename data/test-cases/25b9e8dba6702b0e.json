@@ -1,0 +1,48 @@
+{
+  "uid" : "25b9e8dba6702b0e",
+  "name" : "Verify clicking on Playbooks on left sidebar panel opens Published Playbooks tab-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify clicking on Playbooks on left sidebar panel opens Published Playbooks tab-Dark",
+  "historyId" : "ddbfcef9866ffdcfb7430bfc150bb371",
+  "time" : {
+    "start" : 1668542468031,
+    "stop" : 1668542482781,
+    "duration" : 14750
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify clicking on Playbooks on left sidebar panel opens Published Playbooks tab-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "25b9e8dba6702b0e.json",
+  "parameterValues" : [ ]
+}

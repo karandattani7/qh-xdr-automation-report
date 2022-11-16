@@ -1,0 +1,74 @@
+{
+  "uid" : "2c47729a168695f2",
+  "name" : "Verify User gets a toast notification on exporting specific playbook-Light",
+  "fullName" : "Playbook Test Light theme.Verify User gets a toast notification on exporting specific playbook-Light",
+  "historyId" : "d3bb666089479ddb3c03dc4c0770fc05",
+  "time" : {
+    "start" : 1668545123489,
+    "stop" : 1668545160984,
+    "duration" : 37495
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User gets a toast notification on exporting specific playbook-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7e56d229eded7544",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668511631212,
+        "stop" : 1668511669949,
+        "duration" : 38737
+      }
+    }, {
+      "uid" : "f18332d2fe83773",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668503310617,
+        "stop" : 1668503348769,
+        "duration" : 38152
+      }
+    }, {
+      "uid" : "5323a32a2fe720a5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668499332052,
+        "stop" : 1668499369758,
+        "duration" : 37706
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2c47729a168695f2.json",
+  "parameterValues" : [ ]
+}

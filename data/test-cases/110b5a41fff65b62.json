@@ -1,0 +1,48 @@
+{
+  "uid" : "110b5a41fff65b62",
+  "name" : "Verify that clicking on Cancel when adding selected function shows list of external functions right panel again-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that clicking on Cancel when adding selected function shows list of external functions right panel again-Dark",
+  "historyId" : "bca31f49817264e92bf4f5f63eb5325f",
+  "time" : {
+    "start" : 1668423289510,
+    "stop" : 1668423341359,
+    "duration" : 51849
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Cancel when adding selected function shows list of external functions right panel again-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "110b5a41fff65b62.json",
+  "parameterValues" : [ ]
+}

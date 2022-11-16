@@ -1,0 +1,75 @@
+{
+  "uid" : "dac5a8587699e919",
+  "name" : "Verify that User is able to see added quick filters count in search filter component in Draft Playbooks-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to see added quick filters count in search filter component in Draft Playbooks-Light",
+  "historyId" : "bb6a1c77f32f3096fb51f38a825c0c2f",
+  "time" : {
+    "start" : 1668546012377,
+    "stop" : 1668546039502,
+    "duration" : 27125
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to see added quick filters count in search filter component in Draft Playbooks-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b4f33215b1ec5ea3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668512562091,
+        "stop" : 1668512590164,
+        "duration" : 28073
+      }
+    }, {
+      "uid" : "9a17e9e2c550f735",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504111135,
+        "stop" : 1668504115656,
+        "duration" : 4521
+      }
+    }, {
+      "uid" : "e2adbc90bad9e3c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668500249299,
+        "stop" : 1668500276407,
+        "duration" : 27108
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dac5a8587699e919.json",
+  "parameterValues" : [ ]
+}

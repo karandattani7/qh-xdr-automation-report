@@ -1,0 +1,67 @@
+{
+  "uid" : "86cc5672f313fcc7",
+  "name" : "Verify that User is able to see All Playbooks when 'My Playbooks' toggle is OFF in Draft Playbooks tab-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to see All Playbooks when 'My Playbooks' toggle is OFF in Draft Playbooks tab-Dark",
+  "historyId" : "4b1be39c0871627a169af9aa0e668800",
+  "time" : {
+    "start" : 1668577228268,
+    "stop" : 1668577260377,
+    "duration" : 32109
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to see All Playbooks when 'My Playbooks' toggle is OFF in Draft Playbooks tab-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ad19095507b05d69",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668545719163,
+        "stop" : 1668545722568,
+        "duration" : 3405
+      }
+    }, {
+      "uid" : "fdb7867f6368e2be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668421276407,
+        "stop" : 1668421347813,
+        "duration" : 71406
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "86cc5672f313fcc7.json",
+  "parameterValues" : [ ]
+}

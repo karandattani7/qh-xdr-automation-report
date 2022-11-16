@@ -1,0 +1,50 @@
+{
+  "uid" : "9a7c1b498bbb8be5",
+  "name" : "Verify User is able to scroll up and down using Page Up and Page Down key on playbook list in Published Playbooks tab-Light",
+  "fullName" : "Playbook Test Light theme.Verify User is able to scroll up and down using Page Up and Page Down key on playbook list in Published Playbooks tab-Light",
+  "historyId" : "2e00453db73321b95f2d0b1fda2f2e93",
+  "time" : {
+    "start" : 1668510193349,
+    "stop" : 1668510193352,
+    "duration" : 3
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User is able to scroll up and down using Page Up and Page Down key on playbook list in Published Playbooks tab-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9a7c1b498bbb8be5.json",
+  "parameterValues" : [ ]
+}

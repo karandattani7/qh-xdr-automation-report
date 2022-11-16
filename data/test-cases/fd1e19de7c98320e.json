@@ -1,0 +1,50 @@
+{
+  "uid" : "fd1e19de7c98320e",
+  "name" : "Verify that User is able to switch between AVAILABLE FILTERS entities and see the listed attributes in Connectors Add Filter window-Dark",
+  "fullName" : "Connector Test Dark theme.Verify that User is able to switch between AVAILABLE FILTERS entities and see the listed attributes in Connectors Add Filter window-Dark",
+  "historyId" : "e3fe56336313d7563dc887a2362d31d3",
+  "time" : {
+    "start" : 1668257083936,
+    "stop" : 1668257142572,
+    "duration" : 58636
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to switch between AVAILABLE FILTERS entities and see the listed attributes in Connectors Add Filter window-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fd1e19de7c98320e.json",
+  "parameterValues" : [ ]
+}

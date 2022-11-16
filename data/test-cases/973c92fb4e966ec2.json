@@ -1,0 +1,50 @@
+{
+  "uid" : "973c92fb4e966ec2",
+  "name" : "Verify that Analyst is able to view the 6 widget below 'Incident Timeline' view as Analyst Dashboard Page.-Dark",
+  "fullName" : "Dashboard Test Dark theme-Analyst.Verify that Analyst is able to view the 6 widget below 'Incident Timeline' view as Analyst Dashboard Page.-Dark",
+  "historyId" : "c680e4f68eb2a0edbdf8c21f19a15469",
+  "time" : {
+    "start" : 1668261632157,
+    "stop" : 1668261645547,
+    "duration" : 13390
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Dashboard Test Dark theme-Analyst"
+  }, {
+    "name" : "testClass",
+    "value" : "Dashboard Test Dark theme-Analyst"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Analyst is able to view the 6 widget below 'Incident Timeline' view as Analyst Dashboard Page.-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Dashboard Test Dark theme-Analyst"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "973c92fb4e966ec2.json",
+  "parameterValues" : [ ]
+}

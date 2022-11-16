@@ -1,0 +1,66 @@
+{
+  "uid" : "618733490842d815",
+  "name" : "Verify Tags column does not show more than 5 tags in Published Playbooks list-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify Tags column does not show more than 5 tags in Published Playbooks list-Dark",
+  "historyId" : "febdbb5465d11829911e4ebe5d6f9c34",
+  "time" : {
+    "start" : 1668574872763,
+    "stop" : 1668574895246,
+    "duration" : 22483
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Tags column does not show more than 5 tags in Published Playbooks list-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b7835e79dc9fb50d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668543583484,
+        "stop" : 1668543604185,
+        "duration" : 20701
+      }
+    }, {
+      "uid" : "52aef40cb358292d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668419015237,
+        "stop" : 1668419038939,
+        "duration" : 23702
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "618733490842d815.json",
+  "parameterValues" : [ ]
+}

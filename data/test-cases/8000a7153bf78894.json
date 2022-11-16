@@ -1,0 +1,76 @@
+{
+  "uid" : "8000a7153bf78894",
+  "name" : "Verify that after adding an internal function, the main canvas area shows the block with name given by user-Light",
+  "fullName" : "Playbook Test Light theme.Verify that after adding an internal function, the main canvas area shows the block with name given by user-Light",
+  "historyId" : "ae2eccd881404e3bbc2fb6e9055437c7",
+  "time" : {
+    "start" : 1668547751618,
+    "stop" : 1668547813195,
+    "duration" : 61577
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that after adding an internal function, the main canvas area shows the block with name given by user-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "107432e59e99bbe8",
+      "status" : "failed",
+      "statusDetails" : "Failed: stale element reference: element is not attached to the page document\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668514473037,
+        "stop" : 1668514541541,
+        "duration" : 68504
+      }
+    }, {
+      "uid" : "b5b633b4b080c7f1",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504267010,
+        "stop" : 1668504271461,
+        "duration" : 4451
+      }
+    }, {
+      "uid" : "918a0af576618b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668501988707,
+        "stop" : 1668502050682,
+        "duration" : 61975
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8000a7153bf78894.json",
+  "parameterValues" : [ ]
+}

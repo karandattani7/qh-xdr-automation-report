@@ -1,0 +1,50 @@
+{
+  "uid" : "f069623ac0015386",
+  "name" : "Verify that in SLA Configuration tab, the options for Hours and Days are as expected for each field in Severity vs Status table of SLA panel-Dark",
+  "fullName" : "SLA Test Dark theme.Verify that in SLA Configuration tab, the options for Hours and Days are as expected for each field in Severity vs Status table of SLA panel-Dark",
+  "historyId" : "e96c292a8dc547bed99e23be13608574",
+  "time" : {
+    "start" : 1668262323505,
+    "stop" : 1668262345457,
+    "duration" : 21952
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "SLA Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "SLA Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in SLA Configuration tab, the options for Hours and Days are as expected for each field in Severity vs Status table of SLA panel-Dark"
+  }, {
+    "name" : "package",
+    "value" : "SLA Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f069623ac0015386.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "9712fb8dd3d99987",
+  "name" : "Verify that User is able to see added quick filters count in search filter component in Draft Playbooks-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to see added quick filters count in search filter component in Draft Playbooks-Dark",
+  "historyId" : "c1d6e70a932685b95fcf3eff46bd6972",
+  "time" : {
+    "start" : 1668545478565,
+    "stop" : 1668545505700,
+    "duration" : 27135
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to see added quick filters count in search filter component in Draft Playbooks-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9712fb8dd3d99987.json",
+  "parameterValues" : [ ]
+}

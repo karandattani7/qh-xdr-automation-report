@@ -1,0 +1,76 @@
+{
+  "uid" : "dcab6e841b90da46",
+  "name" : "Verify that User is able to update Filter Block from main canvas area-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to update Filter Block from main canvas area-Light",
+  "historyId" : "1cf53d4246ecd190a0e2c6800a17cacb",
+  "time" : {
+    "start" : 1668550328856,
+    "stop" : 1668550409751,
+    "duration" : 80895
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to update Filter Block from main canvas area-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "32c641ef61280fcc",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668516648727,
+        "stop" : 1668516652899,
+        "duration" : 4172
+      }
+    }, {
+      "uid" : "1cad0aeac89fe5ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668504753543,
+        "stop" : 1668504840970,
+        "duration" : 87427
+      }
+    }, {
+      "uid" : "4a8c0f84cdb4e0f4",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504501862,
+        "stop" : 1668504506325,
+        "duration" : 4463
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dcab6e841b90da46.json",
+  "parameterValues" : [ ]
+}

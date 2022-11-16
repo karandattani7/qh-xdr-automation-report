@@ -1,0 +1,48 @@
+{
+  "uid" : "f233cfb89c4404f0",
+  "name" : "Verify User should be able to see Playbooks count on top of the table in Published Playbooks tab-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify User should be able to see Playbooks count on top of the table in Published Playbooks tab-Dark",
+  "historyId" : "5fbd8fcd96d6586617bfd90012501b78",
+  "time" : {
+    "start" : 1668418697788,
+    "stop" : 1668418729141,
+    "duration" : 31353
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User should be able to see Playbooks count on top of the table in Published Playbooks tab-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f233cfb89c4404f0.json",
+  "parameterValues" : [ ]
+}

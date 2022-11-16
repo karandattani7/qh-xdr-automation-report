@@ -1,0 +1,48 @@
+{
+  "uid" : "33a4f47183228b7e",
+  "name" : "Verify that User is able to select a external function from list by clicking on it-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to select a external function from list by clicking on it-Light",
+  "historyId" : "43127313508a2de2f0c2aa66b28ec638",
+  "time" : {
+    "start" : 1668505786632,
+    "stop" : 1668505844532,
+    "duration" : 57900
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to select a external function from list by clicking on it-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "33a4f47183228b7e.json",
+  "parameterValues" : [ ]
+}

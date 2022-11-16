@@ -1,0 +1,66 @@
+{
+  "uid" : "f0f8449d5a305be1",
+  "name" : "Verify that User is able to save playbook with 'On Incident Creation' trigger checkbox selected-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to save playbook with 'On Incident Creation' trigger checkbox selected-Dark",
+  "historyId" : "800fb9070cf84ee65bcc35ac1cd915c8",
+  "time" : {
+    "start" : 1668575800702,
+    "stop" : 1668575837413,
+    "duration" : 36711
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to save playbook with 'On Incident Creation' trigger checkbox selected-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "73c87920fd735fac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668544445361,
+        "stop" : 1668544480645,
+        "duration" : 35284
+      }
+    }, {
+      "uid" : "5f32df8525cdad81",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668419854694,
+        "stop" : 1668419891174,
+        "duration" : 36480
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f0f8449d5a305be1.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,79 @@
+{
+  "uid" : "ec4d18cc411044af",
+  "name" : "Verify User is able to scroll up and down using Page Up and Page Down key on playbook list in Published Playbooks tab-Light",
+  "fullName" : "Playbook Test Light theme.Verify User is able to scroll up and down using Page Up and Page Down key on playbook list in Published Playbooks tab-Light",
+  "historyId" : "2e00453db73321b95f2d0b1fda2f2e93",
+  "time" : {
+    "start" : 1668543860627,
+    "stop" : 1668543860628,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User is able to scroll up and down using Page Up and Page Down key on playbook list in Published Playbooks tab-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9a7c1b498bbb8be5",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1668510193349,
+        "stop" : 1668510193352,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "12ed1fca41003c5",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1668502024664,
+        "stop" : 1668502024664,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ed9323fc8a1e323b",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1668498048260,
+        "stop" : 1668498048262,
+        "duration" : 2
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ec4d18cc411044af.json",
+  "parameterValues" : [ ]
+}

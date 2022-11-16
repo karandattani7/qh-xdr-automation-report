@@ -1,0 +1,66 @@
+{
+  "uid" : "9d2468e6861396e2",
+  "name" : "Verify User is able to select/deselect checkbox for a single row in Base Alerts tab-Dark",
+  "fullName" : "Incident Test Dark theme.Verify User is able to select/deselect checkbox for a single row in Base Alerts tab-Dark",
+  "historyId" : "92dcdb8d1b0ec348189fd13dc14c800f",
+  "time" : {
+    "start" : 1668498144060,
+    "stop" : 1668498188611,
+    "duration" : 44551
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User is able to select/deselect checkbox for a single row in Base Alerts tab-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5afd5b3dda1c02ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668427938007,
+        "stop" : 1668427976201,
+        "duration" : 38194
+      }
+    }, {
+      "uid" : "bd2648d1c4e55d7d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668412935553,
+        "stop" : 1668412976084,
+        "duration" : 40531
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9d2468e6861396e2.json",
+  "parameterValues" : [ ]
+}

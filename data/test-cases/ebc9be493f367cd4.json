@@ -1,0 +1,48 @@
+{
+  "uid" : "ebc9be493f367cd4",
+  "name" : "Verify that From Date and To Date calendar is shown for Created On and Updated On AVAILABLE FILTERS in Add Filter window-Light",
+  "fullName" : "Playbook Test Light theme.Verify that From Date and To Date calendar is shown for Created On and Updated On AVAILABLE FILTERS in Add Filter window-Light",
+  "historyId" : "d6a7852abd701b0129483b5e9798a5e5",
+  "time" : {
+    "start" : 1668513379633,
+    "stop" : 1668513430378,
+    "duration" : 50745
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that From Date and To Date calendar is shown for Created On and Updated On AVAILABLE FILTERS in Add Filter window-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ebc9be493f367cd4.json",
+  "parameterValues" : [ ]
+}

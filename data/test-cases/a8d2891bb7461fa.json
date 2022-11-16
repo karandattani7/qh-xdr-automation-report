@@ -1,0 +1,66 @@
+{
+  "uid" : "a8d2891bb7461fa",
+  "name" : "Verify that under 'Incidents' tab, two tabs are visible 'List' and 'Timeline'-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that under 'Incidents' tab, two tabs are visible 'List' and 'Timeline'-Dark",
+  "historyId" : "db5a81b3564125437ced0bf057c0a260",
+  "time" : {
+    "start" : 1668497152973,
+    "stop" : 1668497175579,
+    "duration" : 22606
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that under 'Incidents' tab, two tabs are visible 'List' and 'Timeline'-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6fdee6b1eadf0c16",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668426845907,
+        "stop" : 1668426869165,
+        "duration" : 23258
+      }
+    }, {
+      "uid" : "a43e1c71743ce41b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668411877107,
+        "stop" : 1668411900405,
+        "duration" : 23298
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a8d2891bb7461fa.json",
+  "parameterValues" : [ ]
+}

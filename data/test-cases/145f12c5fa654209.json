@@ -1,0 +1,48 @@
+{
+  "uid" : "145f12c5fa654209",
+  "name" : "Verify that User is able to update an added external function-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to update an added external function-Light",
+  "historyId" : "4d0b08872ff884d466f09dfe3f288ec7",
+  "time" : {
+    "start" : 1668505540746,
+    "stop" : 1668505602921,
+    "duration" : 62175
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to update an added external function-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "145f12c5fa654209.json",
+  "parameterValues" : [ ]
+}

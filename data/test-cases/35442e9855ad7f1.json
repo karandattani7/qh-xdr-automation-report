@@ -1,0 +1,66 @@
+{
+  "uid" : "35442e9855ad7f1",
+  "name" : "Verify that in Select Incident modal, user is able to search and select Incident name to associate selected base alerts to selected incident-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that in Select Incident modal, user is able to search and select Incident name to associate selected base alerts to selected incident-Dark",
+  "historyId" : "b70f677b2869da3c38320eafb33aa659",
+  "time" : {
+    "start" : 1668498278902,
+    "stop" : 1668498348546,
+    "duration" : 69644
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Select Incident modal, user is able to search and select Incident name to associate selected base alerts to selected incident-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4759a76923965c35",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668428069925,
+        "stop" : 1668428154923,
+        "duration" : 84998
+      }
+    }, {
+      "uid" : "3d2028f36488fd02",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668413068099,
+        "stop" : 1668413126365,
+        "duration" : 58266
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "35442e9855ad7f1.json",
+  "parameterValues" : [ ]
+}

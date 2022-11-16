@@ -1,0 +1,48 @@
+{
+  "uid" : "5e231f449bfa3825",
+  "name" : "Verify that User is able to move the whole diagram inside the Main Canvas area in Playbook Editor page-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to move the whole diagram inside the Main Canvas area in Playbook Editor page-Dark",
+  "historyId" : "5e2625070671d9b557b7488a9863f5f9",
+  "time" : {
+    "start" : 1668426797248,
+    "stop" : 1668426850642,
+    "duration" : 53394
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to move the whole diagram inside the Main Canvas area in Playbook Editor page-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5e231f449bfa3825.json",
+  "parameterValues" : [ ]
+}

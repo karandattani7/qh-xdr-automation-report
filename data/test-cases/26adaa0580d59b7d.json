@@ -1,0 +1,74 @@
+{
+  "uid" : "26adaa0580d59b7d",
+  "name" : "Verify User should be able to scroll up and down to see list of Published Playbooks in Published Playbooks tab-Light",
+  "fullName" : "Playbook Test Light theme.Verify User should be able to scroll up and down to see list of Published Playbooks in Published Playbooks tab-Light",
+  "historyId" : "cd5a3b9f08ffd939f3ba25c86090be49",
+  "time" : {
+    "start" : 1668543695058,
+    "stop" : 1668543717322,
+    "duration" : 22264
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User should be able to scroll up and down to see list of Published Playbooks in Published Playbooks tab-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3a5de1fbbe7ffa70",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668510017706,
+        "stop" : 1668510040767,
+        "duration" : 23061
+      }
+    }, {
+      "uid" : "abf6f34a99150a90",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668501863572,
+        "stop" : 1668501885544,
+        "duration" : 21972
+      }
+    }, {
+      "uid" : "bbb42ec5e15b660c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668497884358,
+        "stop" : 1668497906364,
+        "duration" : 22006
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "26adaa0580d59b7d.json",
+  "parameterValues" : [ ]
+}

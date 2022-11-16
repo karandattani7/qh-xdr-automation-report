@@ -1,0 +1,76 @@
+{
+  "uid" : "cb415b37df797103",
+  "name" : "Verify that user is able to check the 'Pre-processing' checkbox in Filter Block right panel-Light",
+  "fullName" : "Playbook Test Light theme.Verify that user is able to check the 'Pre-processing' checkbox in Filter Block right panel-Light",
+  "historyId" : "6293cfaf05e19648a2b5b86b4677eae5",
+  "time" : {
+    "start" : 1668551415134,
+    "stop" : 1668551454069,
+    "duration" : 38935
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to check the 'Pre-processing' checkbox in Filter Block right panel-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9148ef064c0b2f48",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668516724009,
+        "stop" : 1668516728191,
+        "duration" : 4182
+      }
+    }, {
+      "uid" : "adaf3fc5e4200b80",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668505948632,
+        "stop" : 1668505990559,
+        "duration" : 41927
+      }
+    }, {
+      "uid" : "b0b0f692b2717566",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504582615,
+        "stop" : 1668504587067,
+        "duration" : 4452
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cb415b37df797103.json",
+  "parameterValues" : [ ]
+}

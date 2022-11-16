@@ -1,0 +1,66 @@
+{
+  "uid" : "5158189efa90c626",
+  "name" : "Verify that an error toast notification is shown when User creates a playbook with same name of an existing playbook-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that an error toast notification is shown when User creates a playbook with same name of an existing playbook-Dark",
+  "historyId" : "b3927a459eb2c2497c8d17372d9d84a3",
+  "time" : {
+    "start" : 1668575096706,
+    "stop" : 1668575142456,
+    "duration" : 45750
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that an error toast notification is shown when User creates a playbook with same name of an existing playbook-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "711391204c85b603",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668543799466,
+        "stop" : 1668543842839,
+        "duration" : 43373
+      }
+    }, {
+      "uid" : "1904d25e4ed84a2d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668419219506,
+        "stop" : 1668419263673,
+        "duration" : 44167
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5158189efa90c626.json",
+  "parameterValues" : [ ]
+}

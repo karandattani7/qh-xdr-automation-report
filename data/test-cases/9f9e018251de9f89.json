@@ -1,0 +1,48 @@
+{
+  "uid" : "9f9e018251de9f89",
+  "name" : "Verify that User is able to delete the decision block from main canvas area using delete icon available on hovering after adding a decision condition-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to delete the decision block from main canvas area using delete icon available on hovering after adding a decision condition-Dark",
+  "historyId" : "9ff4e65846b2345e3800a4b6511010d5",
+  "time" : {
+    "start" : 1668425128655,
+    "stop" : 1668425172792,
+    "duration" : 44137
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to delete the decision block from main canvas area using delete icon available on hovering after adding a decision condition-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9f9e018251de9f89.json",
+  "parameterValues" : [ ]
+}

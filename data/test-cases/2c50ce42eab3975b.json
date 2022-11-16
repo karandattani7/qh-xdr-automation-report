@@ -1,0 +1,66 @@
+{
+  "uid" : "2c50ce42eab3975b",
+  "name" : "Verify that user is able to expand and collapse Day dropdown inside timeline graph view area in Incident Timeline view-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that user is able to expand and collapse Day dropdown inside timeline graph view area in Incident Timeline view-Dark",
+  "historyId" : "65290d842f43dd785d7fd4ed38f7a3a1",
+  "time" : {
+    "start" : 1668497348483,
+    "stop" : 1668497377127,
+    "duration" : 28644
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to expand and collapse Day dropdown inside timeline graph view area in Incident Timeline view-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f165a345162dce32",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668427043007,
+        "stop" : 1668427071783,
+        "duration" : 28776
+      }
+    }, {
+      "uid" : "ded6053b1d788a50",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668412077842,
+        "stop" : 1668412107100,
+        "duration" : 29258
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2c50ce42eab3975b.json",
+  "parameterValues" : [ ]
+}

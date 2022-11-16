@@ -1,0 +1,79 @@
+{
+  "uid" : "3c6b12e02f01b965",
+  "name" : "Verify scroll up and down using up and down arrow key in Published Playbooks list-Light",
+  "fullName" : "Playbook Test Light theme.Verify scroll up and down using up and down arrow key in Published Playbooks list-Light",
+  "historyId" : "48cccc1ba2466ed176feff4da16f07a9",
+  "time" : {
+    "start" : 1668543830930,
+    "stop" : 1668543830931,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify scroll up and down using up and down arrow key in Published Playbooks list-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "88ac000110976d8e",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1668510161781,
+        "stop" : 1668510161784,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "94d8e2ef452a5eda",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1668501994770,
+        "stop" : 1668501994771,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "bffc9c288e6ea1c2",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1668498018049,
+        "stop" : 1668498018051,
+        "duration" : 2
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3c6b12e02f01b965.json",
+  "parameterValues" : [ ]
+}

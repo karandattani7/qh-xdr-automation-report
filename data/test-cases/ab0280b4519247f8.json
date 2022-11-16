@@ -1,0 +1,48 @@
+{
+  "uid" : "ab0280b4519247f8",
+  "name" : "Verify that dragging and dropping 'Call External Function' block on main canvas area opens Call External Function right panel initial view-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that dragging and dropping 'Call External Function' block on main canvas area opens Call External Function right panel initial view-Dark",
+  "historyId" : "451c678c32e26b351f35052e34356467",
+  "time" : {
+    "start" : 1668423027821,
+    "stop" : 1668423073990,
+    "duration" : 46169
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that dragging and dropping 'Call External Function' block on main canvas area opens Call External Function right panel initial view-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ab0280b4519247f8.json",
+  "parameterValues" : [ ]
+}

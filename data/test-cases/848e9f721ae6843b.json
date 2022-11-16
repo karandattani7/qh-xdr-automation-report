@@ -1,0 +1,75 @@
+{
+  "uid" : "848e9f721ae6843b",
+  "name" : "Verify that User is not be able to delete connecting line of Decision to Yes block and Decision to No block-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is not be able to delete connecting line of Decision to Yes block and Decision to No block-Light",
+  "historyId" : "6bc5cb45bebc79cdf1bf8735a2d93ccd",
+  "time" : {
+    "start" : 1668548899883,
+    "stop" : 1668548945765,
+    "duration" : 45882
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is not be able to delete connecting line of Decision to Yes block and Decision to No block-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "40e7fff848d52625",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668515791090,
+        "stop" : 1668515837337,
+        "duration" : 46247
+      }
+    }, {
+      "uid" : "63f96a4d83af9051",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504373569,
+        "stop" : 1668504377887,
+        "duration" : 4318
+      }
+    }, {
+      "uid" : "e1ca7b4ba5193ff5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668503181814,
+        "stop" : 1668503231757,
+        "duration" : 49943
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "848e9f721ae6843b.json",
+  "parameterValues" : [ ]
+}

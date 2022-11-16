@@ -1,0 +1,66 @@
+{
+  "uid" : "2959ce668af5d59",
+  "name" : "Verify that user is able to update Incident Name from Incident summary right panel using Incident Name modal-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that user is able to update Incident Name from Incident summary right panel using Incident Name modal-Dark",
+  "historyId" : "b4298678c6f025097adcc5627b10f8a2",
+  "time" : {
+    "start" : 1668501438216,
+    "stop" : 1668501474437,
+    "duration" : 36221
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to update Incident Name from Incident summary right panel using Incident Name modal-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5ec6027ebcbadb73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668431052670,
+        "stop" : 1668431089629,
+        "duration" : 36959
+      }
+    }, {
+      "uid" : "f7a2f357586ac748",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668416203021,
+        "stop" : 1668416240282,
+        "duration" : 37261
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2959ce668af5d59.json",
+  "parameterValues" : [ ]
+}

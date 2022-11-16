@@ -1,0 +1,76 @@
+{
+  "uid" : "285ad0ceb1081732",
+  "name" : "Verify a success toast notification is shown after saving the created flow in playbook editor page using 'Save' button-Light",
+  "fullName" : "Playbook Test Light theme.Verify a success toast notification is shown after saving the created flow in playbook editor page using 'Save' button-Light",
+  "historyId" : "6c74994803a17f4e2283b087a1d9bd0d",
+  "time" : {
+    "start" : 1668551454069,
+    "stop" : 1668551513175,
+    "duration" : 59106
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify a success toast notification is shown after saving the created flow in playbook editor page using 'Save' button-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "36526120b91d5bc8",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668516728191,
+        "stop" : 1668516732363,
+        "duration" : 4172
+      }
+    }, {
+      "uid" : "1f97a02b11f4c5a5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668505990559,
+        "stop" : 1668506054380,
+        "duration" : 63821
+      }
+    }, {
+      "uid" : "e9015b016c4e8ef9",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504587067,
+        "stop" : 1668504591479,
+        "duration" : 4412
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "285ad0ceb1081732.json",
+  "parameterValues" : [ ]
+}

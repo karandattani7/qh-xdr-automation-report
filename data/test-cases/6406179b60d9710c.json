@@ -1,0 +1,67 @@
+{
+  "uid" : "6406179b60d9710c",
+  "name" : "Verify that User is able to save playbook with No Tags selected-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to save playbook with No Tags selected-Dark",
+  "historyId" : "6487e9f3de86618e6b6acf0b9bf61105",
+  "time" : {
+    "start" : 1668575688001,
+    "stop" : 1668575720024,
+    "duration" : 32023
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to save playbook with No Tags selected-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "40fb701f7c0b6ed4",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <button _ngcontent-oqt-c179=\"\" rbac=\"\" entity=\"playbook_add\" checkentityprivileges=\"create\" class=\"btn btn-custom btn-primary btn-sm position-fixed header-btn-position\">...</button> is not clickable at point (1204, 25). Other element would receive the click: <span class=\"noty-msg\">...</span>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668544354344,
+        "stop" : 1668544413135,
+        "duration" : 58791
+      }
+    }, {
+      "uid" : "b5712b2d8ab8bad6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668419789234,
+        "stop" : 1668419821421,
+        "duration" : 32187
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6406179b60d9710c.json",
+  "parameterValues" : [ ]
+}

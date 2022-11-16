@@ -1,0 +1,76 @@
+{
+  "uid" : "c1df541b2bdd3efe",
+  "name" : "Verify that User is able to delete the filter block from main canvas area using delete icon available on hovering before adding a filter condition-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to delete the filter block from main canvas area using delete icon available on hovering before adding a filter condition-Light",
+  "historyId" : "be0259f59cf6459bf0b3bcc99a8dca9f",
+  "time" : {
+    "start" : 1668549705401,
+    "stop" : 1668549752661,
+    "duration" : 47260
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to delete the filter block from main canvas area using delete icon available on hovering before adding a filter condition-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "228f4f5420b74878",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668516602488,
+        "stop" : 1668516606671,
+        "duration" : 4183
+      }
+    }, {
+      "uid" : "4b09f15eeb5ce1ae",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504453350,
+        "stop" : 1668504457662,
+        "duration" : 4312
+      }
+    }, {
+      "uid" : "80053e3ea3420067",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668504126636,
+        "stop" : 1668504175075,
+        "duration" : 48439
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c1df541b2bdd3efe.json",
+  "parameterValues" : [ ]
+}

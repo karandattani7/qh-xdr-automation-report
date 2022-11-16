@@ -1,0 +1,75 @@
+{
+  "uid" : "47886b01ad7aa882",
+  "name" : "Verify that From Date and To Date calendar is shown for Created On and Updated On AVAILABLE FILTERS in Add Filter window-Light",
+  "fullName" : "Playbook Test Light theme.Verify that From Date and To Date calendar is shown for Created On and Updated On AVAILABLE FILTERS in Add Filter window-Light",
+  "historyId" : "d6a7852abd701b0129483b5e9798a5e5",
+  "time" : {
+    "start" : 1668546731327,
+    "stop" : 1668546779383,
+    "duration" : 48056
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that From Date and To Date calendar is shown for Created On and Updated On AVAILABLE FILTERS in Add Filter window-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ebc9be493f367cd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668513379633,
+        "stop" : 1668513430378,
+        "duration" : 50745
+      }
+    }, {
+      "uid" : "2a394a3dbb0d48c7",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Published Playbooks')])",
+      "time" : {
+        "start" : 1668504186918,
+        "stop" : 1668504191453,
+        "duration" : 4535
+      }
+    }, {
+      "uid" : "c987e41506d9bfb2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668500945640,
+        "stop" : 1668500993619,
+        "duration" : 47979
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "47886b01ad7aa882.json",
+  "parameterValues" : [ ]
+}

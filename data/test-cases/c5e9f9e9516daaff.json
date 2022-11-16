@@ -1,0 +1,76 @@
+{
+  "uid" : "c5e9f9e9516daaff",
+  "name" : "Verify that User is able to resize the mini canvas blue window on the Playbook Editor page-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to resize the mini canvas blue window on the Playbook Editor page-Light",
+  "historyId" : "139262ae3f4ee650cd9b2e97ef87fa57",
+  "time" : {
+    "start" : 1668552031375,
+    "stop" : 1668552076691,
+    "duration" : 45316
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to resize the mini canvas blue window on the Playbook Editor page-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "127fb80c69bc80e2",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668516757533,
+        "stop" : 1668516761751,
+        "duration" : 4218
+      }
+    }, {
+      "uid" : "c1c1b4967d8bfe80",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668506592517,
+        "stop" : 1668506641091,
+        "duration" : 48574
+      }
+    }, {
+      "uid" : "4afc10fe88e3c7b1",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504618407,
+        "stop" : 1668504622865,
+        "duration" : 4458
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c5e9f9e9516daaff.json",
+  "parameterValues" : [ ]
+}

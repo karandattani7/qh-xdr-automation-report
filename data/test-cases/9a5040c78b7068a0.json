@@ -1,0 +1,48 @@
+{
+  "uid" : "9a5040c78b7068a0",
+  "name" : "Verify that User is able to search and apply quick filters in Published Playbooks-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to search and apply quick filters in Published Playbooks-Light",
+  "historyId" : "5fcea2a9edd8f0ed1a1a55d368fa4290",
+  "time" : {
+    "start" : 1668503945828,
+    "stop" : 1668503977511,
+    "duration" : 31683
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to search and apply quick filters in Published Playbooks-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9a5040c78b7068a0.json",
+  "parameterValues" : [ ]
+}

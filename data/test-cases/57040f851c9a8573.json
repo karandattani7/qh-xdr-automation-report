@@ -1,0 +1,48 @@
+{
+  "uid" : "57040f851c9a8573",
+  "name" : "Verify that in Playbook Add Filter window, admin is able to remove multiple filters from SELECTED FILTERS section-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that in Playbook Add Filter window, admin is able to remove multiple filters from SELECTED FILTERS section-Dark",
+  "historyId" : "7a918d0a604b444bb520486938dc7d38",
+  "time" : {
+    "start" : 1668422308286,
+    "stop" : 1668422375006,
+    "duration" : 66720
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Playbook Add Filter window, admin is able to remove multiple filters from SELECTED FILTERS section-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "57040f851c9a8573.json",
+  "parameterValues" : [ ]
+}

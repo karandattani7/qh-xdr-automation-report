@@ -1,0 +1,48 @@
+{
+  "uid" : "3be71d0d239e32bb",
+  "name" : "Verify that User sees Published Playbooks tab by default-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User sees Published Playbooks tab by default-Light",
+  "historyId" : "f27f2ea4ba3d62c9c437b23c136ef609",
+  "time" : {
+    "start" : 1668509410769,
+    "stop" : 1668509423190,
+    "duration" : 12421
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User sees Published Playbooks tab by default-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3be71d0d239e32bb.json",
+  "parameterValues" : [ ]
+}

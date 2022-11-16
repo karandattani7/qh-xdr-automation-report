@@ -1,0 +1,66 @@
+{
+  "uid" : "a8d2deb1d0fc8a83",
+  "name" : "Verify that admin is able to check/uncheck Trigger checkboxes 'On Incident Creation' and 'On Incident Updation'-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that admin is able to check/uncheck Trigger checkboxes 'On Incident Creation' and 'On Incident Updation'-Dark",
+  "historyId" : "e83671cbfb0d7494d6bf2f9c1b3d7741",
+  "time" : {
+    "start" : 1668575173956,
+    "stop" : 1668575207755,
+    "duration" : 33799
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that admin is able to check/uncheck Trigger checkboxes 'On Incident Creation' and 'On Incident Updation'-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "147e474268531c2d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668543873050,
+        "stop" : 1668543905275,
+        "duration" : 32225
+      }
+    }, {
+      "uid" : "58d529f51710d93",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668419294505,
+        "stop" : 1668419327032,
+        "duration" : 32527
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a8d2deb1d0fc8a83.json",
+  "parameterValues" : [ ]
+}

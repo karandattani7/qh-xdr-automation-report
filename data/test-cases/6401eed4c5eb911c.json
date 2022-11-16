@@ -1,0 +1,67 @@
+{
+  "uid" : "6401eed4c5eb911c",
+  "name" : "Verify that in Function field, user is able to Search and select existing external function when updating an existing external function block in editable right panel-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that in Function field, user is able to Search and select existing external function when updating an existing external function block in editable right panel-Dark",
+  "historyId" : "706ecec6f71da84b13f9e5cebb4d84ec",
+  "time" : {
+    "start" : 1668582516278,
+    "stop" : 1668582588056,
+    "duration" : 71778
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Function field, user is able to Search and select existing external function when updating an existing external function block in editable right panel-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e40a595204c4201c",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668546048186,
+        "stop" : 1668546051642,
+        "duration" : 3456
+      }
+    }, {
+      "uid" : "c24775de9a670e9b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668426341731,
+        "stop" : 1668426409868,
+        "duration" : 68137
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6401eed4c5eb911c.json",
+  "parameterValues" : [ ]
+}

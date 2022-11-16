@@ -1,0 +1,75 @@
+{
+  "uid" : "778d885627a284ea",
+  "name" : "Verify the placeholder for Tags column when no Tags are selected while creating a playbook in Published Playbooks",
+  "fullName" : "Playbook Test Light theme.Verify the placeholder for Tags column when no Tags are selected while creating a playbook in Published Playbooks",
+  "historyId" : "70fba9d51c6e053fcb0d0763ba16a427",
+  "time" : {
+    "start" : 1668544045148,
+    "stop" : 1668544082161,
+    "duration" : 37013
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the placeholder for Tags column when no Tags are selected while creating a playbook in Published Playbooks"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7a7790d7afbda789",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668510401115,
+        "stop" : 1668510440718,
+        "duration" : 39603
+      }
+    }, {
+      "uid" : "4d584f429e689ced",
+      "status" : "failed",
+      "statusDetails" : "Expected false to be true.",
+      "time" : {
+        "start" : 1668502226313,
+        "stop" : 1668502263450,
+        "duration" : 37137
+      }
+    }, {
+      "uid" : "16e2a8be02c1b9f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668498264840,
+        "stop" : 1668498301750,
+        "duration" : 36910
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "778d885627a284ea.json",
+  "parameterValues" : [ ]
+}

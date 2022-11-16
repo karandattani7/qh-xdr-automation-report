@@ -1,0 +1,66 @@
+{
+  "uid" : "4ee85f60246c0f9e",
+  "name" : "Verify that in Incident Right panel, clicking on 'View Playbook Output >' link in BASIC INFORMATION section opens Playbook Output modal showing Default Playbook's output as filter is applied-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that in Incident Right panel, clicking on 'View Playbook Output >' link in BASIC INFORMATION section opens Playbook Output modal showing Default Playbook's output as filter is applied-Dark",
+  "historyId" : "9e7d55dff36f58e579929e3b630176b7",
+  "time" : {
+    "start" : 1668499652078,
+    "stop" : 1668499680995,
+    "duration" : 28917
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Incident Right panel, clicking on 'View Playbook Output >' link in BASIC INFORMATION section opens Playbook Output modal showing Default Playbook's output as filter is applied-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b6d8728fa48b7792",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668429489303,
+        "stop" : 1668429518341,
+        "duration" : 29038
+      }
+    }, {
+      "uid" : "136b5b6715faf18a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668414465622,
+        "stop" : 1668414495279,
+        "duration" : 29657
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4ee85f60246c0f9e.json",
+  "parameterValues" : [ ]
+}

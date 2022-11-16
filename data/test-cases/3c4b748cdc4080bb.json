@@ -1,0 +1,50 @@
+{
+  "uid" : "3c4b748cdc4080bb",
+  "name" : "Verify that User is able to see Incident Description information in Root Cause Analysis section on right side of “Incident Canvas/View Audit Report” modal-Light",
+  "fullName" : "Incident Test Light theme.Verify that User is able to see Incident Description information in Root Cause Analysis section on right side of “Incident Canvas/View Audit Report” modal-Light",
+  "historyId" : "c4e7b9521445d7f297cf8cd1e458c7d4",
+  "time" : {
+    "start" : 1668431229108,
+    "stop" : 1668431267690,
+    "duration" : 38582
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to see Incident Description information in Root Cause Analysis section on right side of “Incident Canvas/View Audit Report” modal-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3c4b748cdc4080bb.json",
+  "parameterValues" : [ ]
+}

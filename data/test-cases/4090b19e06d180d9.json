@@ -1,0 +1,50 @@
+{
+  "uid" : "4090b19e06d180d9",
+  "name" : "Verify the saved created flow for Dragged and filled block with connection lines in Playbook Editor page is as expected-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify the saved created flow for Dragged and filled block with connection lines in Playbook Editor page is as expected-Dark",
+  "historyId" : "c5d03d9b19a25119150e2e94ec599998",
+  "time" : {
+    "start" : 1668427253609,
+    "stop" : 1668427253610,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the saved created flow for Dragged and filled block with connection lines in Playbook Editor page is as expected-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4090b19e06d180d9.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,76 @@
+{
+  "uid" : "9b4391ec7734a044",
+  "name" : "Verify that user is able to completely replace the added external function with another external function by using Function dropdown in Editable right panel-Light",
+  "fullName" : "Playbook Test Light theme.Verify that user is able to completely replace the added external function with another external function by using Function dropdown in Editable right panel-Light",
+  "historyId" : "389e92eae3bc5463150801a91f512cea",
+  "time" : {
+    "start" : 1668550912967,
+    "stop" : 1668550981726,
+    "duration" : 68759
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to completely replace the added external function with another external function by using Function dropdown in Editable right panel-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "81f25d1af9ae6e43",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668516690605,
+        "stop" : 1668516694760,
+        "duration" : 4155
+      }
+    }, {
+      "uid" : "d77521b53be8f7e5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668505470529,
+        "stop" : 1668505540746,
+        "duration" : 70217
+      }
+    }, {
+      "uid" : "8c2b05db80dbe138",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504546607,
+        "stop" : 1668504551038,
+        "duration" : 4431
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9b4391ec7734a044.json",
+  "parameterValues" : [ ]
+}

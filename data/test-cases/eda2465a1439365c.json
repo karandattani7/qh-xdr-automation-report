@@ -1,0 +1,67 @@
+{
+  "uid" : "eda2465a1439365c",
+  "name" : "Verify that user is able to update Severity of Base Alert without Reason for change from Base Alert summary right panel-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that user is able to update Severity of Base Alert without Reason for change from Base Alert summary right panel-Dark",
+  "historyId" : "270396e211d002a5ed8a2ea2d6150901",
+  "time" : {
+    "start" : 1668498725988,
+    "stop" : 1668498770653,
+    "duration" : 44665
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to update Severity of Base Alert without Reason for change from Base Alert summary right panel-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "13dba51573668260",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668428519546,
+        "stop" : 1668428564268,
+        "duration" : 44722
+      }
+    }, {
+      "uid" : "3282ae4974a3ba14",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <em class=\"icon-edit m-0\"></em> is not clickable at point (1326, 551). Other element would receive the click: <button type=\"button\" class=\"btn btn-custom btn-primary btn-md w-100\">...</button>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668413495551,
+        "stop" : 1668413529589,
+        "duration" : 34038
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eda2465a1439365c.json",
+  "parameterValues" : [ ]
+}

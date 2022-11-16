@@ -1,0 +1,50 @@
+{
+  "uid" : "61656c3759eb2a8",
+  "name" : "Verify SOC Manager  is able to view 1 week, 1 month and 3 months of timeframe breakpoint on 'Analyst  Allocation by Incident Type' widget on SOC Manager Dashboard Page.-Dark",
+  "fullName" : "Dashboard Test Dark theme-SOC Manager.Verify SOC Manager  is able to view 1 week, 1 month and 3 months of timeframe breakpoint on 'Analyst  Allocation by Incident Type' widget on SOC Manager Dashboard Page.-Dark",
+  "historyId" : "c27e73d3b73977f21642c65eaa44dfb1",
+  "time" : {
+    "start" : 1668262097396,
+    "stop" : 1668262105560,
+    "duration" : 8164
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "testClass",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify SOC Manager  is able to view 1 week, 1 month and 3 months of timeframe breakpoint on 'Analyst  Allocation by Incident Type' widget on SOC Manager Dashboard Page.-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "61656c3759eb2a8.json",
+  "parameterValues" : [ ]
+}

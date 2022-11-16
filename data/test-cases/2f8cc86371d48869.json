@@ -1,0 +1,50 @@
+{
+  "uid" : "2f8cc86371d48869",
+  "name" : "Verify that 'Tenant Name' field is pre-filled in Add Instance form-Dark",
+  "fullName" : "Connector Test Dark theme.Verify that 'Tenant Name' field is pre-filled in Add Instance form-Dark",
+  "historyId" : "de38652c7dbccbbb91d6b53aab600196",
+  "time" : {
+    "start" : 1668256198308,
+    "stop" : 1668256211671,
+    "duration" : 13363
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that 'Tenant Name' field is pre-filled in Add Instance form-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2f8cc86371d48869.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,66 @@
+{
+  "uid" : "198a6db5c404ab43",
+  "name" : "Verify User should be able to sort playbooks based on Created On and Updated On column in ascending and descending order in Draft Playbooks-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify User should be able to sort playbooks based on Created On and Updated On column in ascending and descending order in Draft Playbooks-Dark",
+  "historyId" : "1c40928f558dae0c026513fef299d687",
+  "time" : {
+    "start" : 1668574356889,
+    "stop" : 1668574426786,
+    "duration" : 69897
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User should be able to sort playbooks based on Created On and Updated On column in ascending and descending order in Draft Playbooks-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ffaf63b92cf2b062",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668542973812,
+        "stop" : 1668543114658,
+        "duration" : 140846
+      }
+    }, {
+      "uid" : "261a5a89bf6acdba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668418410221,
+        "stop" : 1668418547201,
+        "duration" : 136980
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "198a6db5c404ab43.json",
+  "parameterValues" : [ ]
+}

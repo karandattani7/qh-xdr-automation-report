@@ -1,0 +1,76 @@
+{
+  "uid" : "7f50e7290c4b9a39",
+  "name" : "Verify that clicking on Delete icon on initial view of Call External Function Right Panel shows Delete Block modal-Light",
+  "fullName" : "Playbook Test Light theme.Verify that clicking on Delete icon on initial view of Call External Function Right Panel shows Delete Block modal-Light",
+  "historyId" : "3549ac571d67980c49a90af966f23e36",
+  "time" : {
+    "start" : 1668549752661,
+    "stop" : 1668549798897,
+    "duration" : 46236
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Delete icon on initial view of Call External Function Right Panel shows Delete Block modal-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9b75bb8052622f1f",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668516606671,
+        "stop" : 1668516610895,
+        "duration" : 4224
+      }
+    }, {
+      "uid" : "94ae918fab36a2e3",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504457662,
+        "stop" : 1668504462123,
+        "duration" : 4461
+      }
+    }, {
+      "uid" : "895ea1a3a3fd0715",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668504175075,
+        "stop" : 1668504222864,
+        "duration" : 47789
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7f50e7290c4b9a39.json",
+  "parameterValues" : [ ]
+}

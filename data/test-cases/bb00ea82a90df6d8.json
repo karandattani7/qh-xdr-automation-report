@@ -1,0 +1,67 @@
+{
+  "uid" : "bb00ea82a90df6d8",
+  "name" : "Verify that playbook list gets filtered correctly for different combinations of triggers filter-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that playbook list gets filtered correctly for different combinations of triggers filter-Dark",
+  "historyId" : "733c991145c3700178f57b53f0f35022",
+  "time" : {
+    "start" : 1668583969992,
+    "stop" : 1668584295618,
+    "duration" : 325626
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that playbook list gets filtered correctly for different combinations of triggers filter-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "439f17c660186781",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668546109432,
+        "stop" : 1668546112811,
+        "duration" : 3379
+      }
+    }, {
+      "uid" : "6a15c40a02fcc2a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668427505645,
+        "stop" : 1668427731911,
+        "duration" : 226266
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bb00ea82a90df6d8.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "c23eeaba66e55275",
+  "name" : "Verify that User is able to click on cross (x) to clear the quick filter search field after selecting playbook.name but without any value in Draft Playbooks tab-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to click on cross (x) to clear the quick filter search field after selecting playbook.name but without any value in Draft Playbooks tab-Light",
+  "historyId" : "9c0f1594e6fd169ec2112e875d62255a",
+  "time" : {
+    "start" : 1668512412136,
+    "stop" : 1668512439076,
+    "duration" : 26940
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to click on cross (x) to clear the quick filter search field after selecting playbook.name but without any value in Draft Playbooks tab-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c23eeaba66e55275.json",
+  "parameterValues" : [ ]
+}

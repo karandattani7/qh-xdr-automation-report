@@ -1,0 +1,66 @@
+{
+  "uid" : "8487ad2c3c3d275",
+  "name" : "Verify User is able to Export single, multiple and all Published playbooks using checkbox successfully-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify User is able to Export single, multiple and all Published playbooks using checkbox successfully-Dark",
+  "historyId" : "550edb504ca27e67d9e081801fa1cc56",
+  "time" : {
+    "start" : 1668576508261,
+    "stop" : 1668576573891,
+    "duration" : 65630
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User is able to Export single, multiple and all Published playbooks using checkbox successfully-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5f23149aa3d11e0b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668545139508,
+        "stop" : 1668545200951,
+        "duration" : 61443
+      }
+    }, {
+      "uid" : "d3e0f028db47d838",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668420575399,
+        "stop" : 1668420640425,
+        "duration" : 65026
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8487ad2c3c3d275.json",
+  "parameterValues" : [ ]
+}

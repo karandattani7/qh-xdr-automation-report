@@ -1,0 +1,48 @@
+{
+  "uid" : "b0a7fbe5273cb403",
+  "name" : "Verify that user is able to drag and drop the Decision block on main canvas area of Playbook Editor-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that user is able to drag and drop the Decision block on main canvas area of Playbook Editor-Dark",
+  "historyId" : "262da1d3d1fa4e5ae83e25d245498c3f",
+  "time" : {
+    "start" : 1668424209855,
+    "stop" : 1668424254461,
+    "duration" : 44606
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to drag and drop the Decision block on main canvas area of Playbook Editor-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b0a7fbe5273cb403.json",
+  "parameterValues" : [ ]
+}

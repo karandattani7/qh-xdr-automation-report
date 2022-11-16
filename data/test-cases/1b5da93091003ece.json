@@ -1,0 +1,50 @@
+{
+  "uid" : "1b5da93091003ece",
+  "name" : "Verify User is able to scroll up and down using Page Up and Page Down key on playbook list in Draft Playbooks tab-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify User is able to scroll up and down using Page Up and Page Down key on playbook list in Draft Playbooks tab-Dark",
+  "historyId" : "fe58b19e56beb626f0097238338727c9",
+  "time" : {
+    "start" : 1668418729143,
+    "stop" : 1668418729144,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User is able to scroll up and down using Page Up and Page Down key on playbook list in Draft Playbooks tab-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1b5da93091003ece.json",
+  "parameterValues" : [ ]
+}

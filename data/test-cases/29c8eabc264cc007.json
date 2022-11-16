@@ -1,0 +1,66 @@
+{
+  "uid" : "29c8eabc264cc007",
+  "name" : "Verify that the count of applied filters is shown in filter component in Playbook Output modal-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that the count of applied filters is shown in filter component in Playbook Output modal-Dark",
+  "historyId" : "70d0b561cf264dd0e7f1aae473f29fb",
+  "time" : {
+    "start" : 1668499476441,
+    "stop" : 1668499529750,
+    "duration" : 53309
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that the count of applied filters is shown in filter component in Playbook Output modal-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ccb433d04f235122",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668429320579,
+        "stop" : 1668429373667,
+        "duration" : 53088
+      }
+    }, {
+      "uid" : "bbb64304a5ad244e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668414296687,
+        "stop" : 1668414351291,
+        "duration" : 54604
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "29c8eabc264cc007.json",
+  "parameterValues" : [ ]
+}

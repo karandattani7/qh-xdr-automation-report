@@ -1,0 +1,48 @@
+{
+  "uid" : "d60a39e2f6fced7d",
+  "name" : "Verify that in Playbook Output modal's left side pane/window, the filter component is visible-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that in Playbook Output modal's left side pane/window, the filter component is visible-Dark",
+  "historyId" : "d4a36b0ee8ddda9c1818db17c0b9f6d8",
+  "time" : {
+    "start" : 1668413977085,
+    "stop" : 1668414009131,
+    "duration" : 32046
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Playbook Output modal's left side pane/window, the filter component is visible-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d60a39e2f6fced7d.json",
+  "parameterValues" : [ ]
+}

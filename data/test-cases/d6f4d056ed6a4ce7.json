@@ -1,0 +1,67 @@
+{
+  "uid" : "d6f4d056ed6a4ce7",
+  "name" : "Verify that when entering non-existing function name in Search field shows validation message below Search field 'No matching function found' in Call External Function right panel-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that when entering non-existing function name in Search field shows validation message below Search field 'No matching function found' in Call External Function right panel-Dark",
+  "historyId" : "5ec907259a8e8003fb02fc16f5df1a81",
+  "time" : {
+    "start" : 1668580295530,
+    "stop" : 1668580330674,
+    "duration" : 35144
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that when entering non-existing function name in Search field shows validation message below Search field 'No matching function found' in Call External Function right panel-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "361063f39deec488",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668545919477,
+        "stop" : 1668545922816,
+        "duration" : 3339
+      }
+    }, {
+      "uid" : "f1c25efde4544430",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668424177115,
+        "stop" : 1668424209855,
+        "duration" : 32740
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d6f4d056ed6a4ce7.json",
+  "parameterValues" : [ ]
+}

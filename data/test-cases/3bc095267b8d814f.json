@@ -1,0 +1,50 @@
+{
+  "uid" : "3bc095267b8d814f",
+  "name" : "Verify that user is able to add and apply more than one filter in Connectors-Dark",
+  "fullName" : "Connector Test Dark theme.Verify that user is able to add and apply more than one filter in Connectors-Dark",
+  "historyId" : "b633ad2e12e67680f8c2c02b87dacf2b",
+  "time" : {
+    "start" : 1668257805514,
+    "stop" : 1668257921962,
+    "duration" : 116448
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to add and apply more than one filter in Connectors-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3bc095267b8d814f.json",
+  "parameterValues" : [ ]
+}

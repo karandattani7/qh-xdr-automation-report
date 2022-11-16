@@ -1,0 +1,75 @@
+{
+  "uid" : "94857c8a2de12bd3",
+  "name" : "Verify that 5 blocks are there in the left panel of available blocks in the Playbook Editor page-Light",
+  "fullName" : "Playbook Test Light theme.Verify that 5 blocks are there in the left panel of available blocks in the Playbook Editor page-Light",
+  "historyId" : "a4e15b43b9c3927d0c1308fcf4d2f4a4",
+  "time" : {
+    "start" : 1668547955151,
+    "stop" : 1668547996332,
+    "duration" : 41181
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that 5 blocks are there in the left panel of available blocks in the Playbook Editor page-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "857e5ba4cf3780fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668514684994,
+        "stop" : 1668514726777,
+        "duration" : 41783
+      }
+    }, {
+      "uid" : "d981a56f5c48b1df",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504284908,
+        "stop" : 1668504289400,
+        "duration" : 4492
+      }
+    }, {
+      "uid" : "fa9fff88ebca2cdd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668502192755,
+        "stop" : 1668502234280,
+        "duration" : 41525
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "94857c8a2de12bd3.json",
+  "parameterValues" : [ ]
+}

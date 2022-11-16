@@ -1,0 +1,50 @@
+{
+  "uid" : "b385d189fb24e6d9",
+  "name" : "Verify that Admin is able to view the 4 widgets on Admin Dashboard Page.-Dark",
+  "fullName" : "Dashboard Test Dark theme-Admin.Verify that Admin is able to view the 4 widgets on Admin Dashboard Page.-Dark",
+  "historyId" : "f7dcf241e2035ab0bc3d37c4587e78f5",
+  "time" : {
+    "start" : 1668261738192,
+    "stop" : 1668261749604,
+    "duration" : 11412
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Dashboard Test Dark theme-Admin"
+  }, {
+    "name" : "testClass",
+    "value" : "Dashboard Test Dark theme-Admin"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Admin is able to view the 4 widgets on Admin Dashboard Page.-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Dashboard Test Dark theme-Admin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b385d189fb24e6d9.json",
+  "parameterValues" : [ ]
+}

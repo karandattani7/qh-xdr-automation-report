@@ -1,0 +1,66 @@
+{
+  "uid" : "3e3a471c724cbcbe",
+  "name" : "Verify that 'My Incidents' toggle is turned OFF by default in Incidents List view page-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that 'My Incidents' toggle is turned OFF by default in Incidents List view page-Dark",
+  "historyId" : "12214e75c78390150ede71e0a08f6767",
+  "time" : {
+    "start" : 1668497318912,
+    "stop" : 1668497348483,
+    "duration" : 29571
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that 'My Incidents' toggle is turned OFF by default in Incidents List view page-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ba3da0267cd71e45",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668427013314,
+        "stop" : 1668427043007,
+        "duration" : 29693
+      }
+    }, {
+      "uid" : "d04ad1729eb3e97c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668412047707,
+        "stop" : 1668412077842,
+        "duration" : 30135
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3e3a471c724cbcbe.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,50 @@
+{
+  "uid" : "af9c562133611219",
+  "name" : "Verify that in User Details right panel, there are 3 sections: INCIDENT DETAILS, USER DETAILS, KEY ATTRIBUTES-Light",
+  "fullName" : "Incident Test Light theme.Verify that in User Details right panel, there are 3 sections: INCIDENT DETAILS, USER DETAILS, KEY ATTRIBUTES-Light",
+  "historyId" : "6f83a98b7ac7aa9e671283b4eb532d17",
+  "time" : {
+    "start" : 1668433334589,
+    "stop" : 1668433384851,
+    "duration" : 50262
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in User Details right panel, there are 3 sections: INCIDENT DETAILS, USER DETAILS, KEY ATTRIBUTES-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "af9c562133611219.json",
+  "parameterValues" : [ ]
+}

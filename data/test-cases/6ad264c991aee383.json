@@ -1,0 +1,48 @@
+{
+  "uid" : "6ad264c991aee383",
+  "name" : "Verify that when entering non-existing function name in Search field shows validation message below Search field 'No matching function found' in Call External Function right panel-Light",
+  "fullName" : "Playbook Test Light theme.Verify that when entering non-existing function name in Search field shows validation message below Search field 'No matching function found' in Call External Function right panel-Light",
+  "historyId" : "3cb4462179cb6e79cc43313bb92d76b8",
+  "time" : {
+    "start" : 1668503522271,
+    "stop" : 1668503558512,
+    "duration" : 36241
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that when entering non-existing function name in Search field shows validation message below Search field 'No matching function found' in Call External Function right panel-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6ad264c991aee383.json",
+  "parameterValues" : [ ]
+}

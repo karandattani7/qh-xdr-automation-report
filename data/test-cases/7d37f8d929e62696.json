@@ -1,0 +1,50 @@
+{
+  "uid" : "7d37f8d929e62696",
+  "name" : "Verify clicking on help icon on Connectors tab redirects to contextual help page-Dark",
+  "fullName" : "Connector Test Dark theme.Verify clicking on help icon on Connectors tab redirects to contextual help page-Dark",
+  "historyId" : "c5224cb17494e09f29c6512fe9dcb5f6",
+  "time" : {
+    "start" : 1668256945247,
+    "stop" : 1668256967783,
+    "duration" : 22536
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify clicking on help icon on Connectors tab redirects to contextual help page-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7d37f8d929e62696.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "e796ad4fc81e354a",
+  "name" : "Verify that Playbook Details right panel should be updated if playbook fields are updated in Create Playbook form-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that Playbook Details right panel should be updated if playbook fields are updated in Create Playbook form-Dark",
+  "historyId" : "d76e8afc5e103854f950adddede60547",
+  "time" : {
+    "start" : 1668422572643,
+    "stop" : 1668422644689,
+    "duration" : 72046
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Playbook Details right panel should be updated if playbook fields are updated in Create Playbook form-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e796ad4fc81e354a.json",
+  "parameterValues" : [ ]
+}

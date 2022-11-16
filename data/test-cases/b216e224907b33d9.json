@@ -1,0 +1,48 @@
+{
+  "uid" : "b216e224907b33d9",
+  "name" : "Verify the column names of Draft Playbooks table are in uppercase-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify the column names of Draft Playbooks table are in uppercase-Dark",
+  "historyId" : "f334745035b61f907ca542fff04284b9",
+  "time" : {
+    "start" : 1668543405236,
+    "stop" : 1668543427315,
+    "duration" : 22079
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the column names of Draft Playbooks table are in uppercase-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b216e224907b33d9.json",
+  "parameterValues" : [ ]
+}

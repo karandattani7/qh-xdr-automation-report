@@ -1,0 +1,48 @@
+{
+  "uid" : "cb75307bd80e3f48",
+  "name" : "Verify that user is able to associate the selected one base alert with a new incident using 'Create New Incident' modal-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that user is able to associate the selected one base alert with a new incident using 'Create New Incident' modal-Dark",
+  "historyId" : "cfe38818fc0cffba94c848817c592c86",
+  "time" : {
+    "start" : 1668433691405,
+    "stop" : 1668433732698,
+    "duration" : 41293
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to associate the selected one base alert with a new incident using 'Create New Incident' modal-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cb75307bd80e3f48.json",
+  "parameterValues" : [ ]
+}

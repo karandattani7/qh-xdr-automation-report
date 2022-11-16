@@ -1,0 +1,66 @@
+{
+  "uid" : "1aaa9657329369e4",
+  "name" : "Verify that User is able to click on “Export Audit Report” and Export the Audit Report for a incident using the Incident Canvas modal.-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that User is able to click on “Export Audit Report” and Export the Audit Report for a incident using the Incident Canvas modal.-Dark",
+  "historyId" : "d91ed685c2468f7779954cc48bc3d9d4",
+  "time" : {
+    "start" : 1668504948148,
+    "stop" : 1668505003419,
+    "duration" : 55271
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to click on “Export Audit Report” and Export the Audit Report for a incident using the Incident Canvas modal.-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6da1e32cd273a23a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668434229122,
+        "stop" : 1668434284618,
+        "duration" : 55496
+      }
+    }, {
+      "uid" : "3fddd0679713bd23",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668419359142,
+        "stop" : 1668419414238,
+        "duration" : 55096
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1aaa9657329369e4.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,50 @@
+{
+  "uid" : "6969633d284440f5",
+  "name" : "Verify that in Incident Add Filter window, error message 'Please select a valid value' is shown when entering non-existing assignee name and clicking on Add+ button-Light",
+  "fullName" : "Incident Test Light theme.Verify that in Incident Add Filter window, error message 'Please select a valid value' is shown when entering non-existing assignee name and clicking on Add+ button-Light",
+  "historyId" : "55014e3fdbea0758dc6bdfc6a3e92356",
+  "time" : {
+    "start" : 1668430650278,
+    "stop" : 1668430680149,
+    "duration" : 29871
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Incident Add Filter window, error message 'Please select a valid value' is shown when entering non-existing assignee name and clicking on Add+ button-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6969633d284440f5.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,74 @@
+{
+  "uid" : "b0d19e3072fad93a",
+  "name" : "Verify that clicking on Close icon on Work not saved modal keeps User on Edit Playbook form (Draft) when editing playbook-Light",
+  "fullName" : "Playbook Test Light theme.Verify that clicking on Close icon on Work not saved modal keeps User on Edit Playbook form (Draft) when editing playbook-Light",
+  "historyId" : "af1048d6568ec302e884f032ade6dc96",
+  "time" : {
+    "start" : 1668545477253,
+    "stop" : 1668545500357,
+    "duration" : 23104
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Close icon on Work not saved modal keeps User on Edit Playbook form (Draft) when editing playbook-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ee6fc74f4e651664",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668512003845,
+        "stop" : 1668512028357,
+        "duration" : 24512
+      }
+    }, {
+      "uid" : "18870e6a055c7aee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668503674780,
+        "stop" : 1668503700155,
+        "duration" : 25375
+      }
+    }, {
+      "uid" : "8dfbc3b446385803",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668499686080,
+        "stop" : 1668499709322,
+        "duration" : 23242
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b0d19e3072fad93a.json",
+  "parameterValues" : [ ]
+}

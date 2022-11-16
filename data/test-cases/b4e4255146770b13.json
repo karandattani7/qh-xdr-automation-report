@@ -1,0 +1,67 @@
+{
+  "uid" : "b4e4255146770b13",
+  "name" : "Verify that User is able to see Edit and Delete option when hovered on Filter block on main canvas area of Playbook Editor-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to see Edit and Delete option when hovered on Filter block on main canvas area of Playbook Editor-Dark",
+  "historyId" : "894fcd01ca386ebf2800222f730d65e",
+  "time" : {
+    "start" : 1668580730657,
+    "stop" : 1668580777457,
+    "duration" : 46800
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to see Edit and Delete option when hovered on Filter block on main canvas area of Playbook Editor-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "926527d1ae5a23f8",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668545950117,
+        "stop" : 1668545953444,
+        "duration" : 3327
+      }
+    }, {
+      "uid" : "66861ee07f75c69c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668424611227,
+        "stop" : 1668424657846,
+        "duration" : 46619
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b4e4255146770b13.json",
+  "parameterValues" : [ ]
+}

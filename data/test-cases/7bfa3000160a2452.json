@@ -1,0 +1,48 @@
+{
+  "uid" : "7bfa3000160a2452",
+  "name" : "Verify User is able to select/deselect checkbox for multiple rows in Draft Playbooks tab-Light",
+  "fullName" : "Playbook Test Light theme.Verify User is able to select/deselect checkbox for multiple rows in Draft Playbooks tab-Light",
+  "historyId" : "75c5b4b751e902a3d78c46e21c3042cc",
+  "time" : {
+    "start" : 1668497732254,
+    "stop" : 1668497759346,
+    "duration" : 27092
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User is able to select/deselect checkbox for multiple rows in Draft Playbooks tab-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7bfa3000160a2452.json",
+  "parameterValues" : [ ]
+}

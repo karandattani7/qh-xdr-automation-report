@@ -1,0 +1,48 @@
+{
+  "uid" : "a12e7822885f9c78",
+  "name" : "Verify that User is able to see My Playbooks when 'My Playbooks' toggle is ON in Published Playbooks-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to see My Playbooks when 'My Playbooks' toggle is ON in Published Playbooks-Dark",
+  "historyId" : "7d8e52bc8392a7e00fe4f852f6b0c43a",
+  "time" : {
+    "start" : 1668421061243,
+    "stop" : 1668421180728,
+    "duration" : 119485
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to see My Playbooks when 'My Playbooks' toggle is ON in Published Playbooks-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a12e7822885f9c78.json",
+  "parameterValues" : [ ]
+}

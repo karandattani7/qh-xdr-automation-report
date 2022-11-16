@@ -1,0 +1,68 @@
+{
+  "uid" : "606f68ca3db37657",
+  "name" : "Verify the error toast notifications for different scenarios of created flow diagram when validating in Playbook Editor page is as expected-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify the error toast notifications for different scenarios of created flow diagram when validating in Playbook Editor page is as expected-Dark",
+  "historyId" : "d4356ee393a342a445d4d71693fe8107",
+  "time" : {
+    "start" : 1668582999517,
+    "stop" : 1668583178596,
+    "duration" : 179079
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the error toast notifications for different scenarios of created flow diagram when validating in Playbook Editor page is as expected-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ff9eb6df6de7bbae",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668546071959,
+        "stop" : 1668546075344,
+        "duration" : 3385
+      }
+    }, {
+      "uid" : "4514a602376fd99c",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <button _ngcontent-jkt-c190=\"\" type=\"button\" class=\"btn btn-link btn-md btn-custom validate-btn\">...</button> is not clickable at point (971, 27). Other element would receive the click: <div id=\"noty_layout__topRight\" role=\"alert\" aria-live=\"polite\" class=\"noty_layout\">...</div>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668426725730,
+        "stop" : 1668426797248,
+        "duration" : 71518
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "606f68ca3db37657.json",
+  "parameterValues" : [ ]
+}

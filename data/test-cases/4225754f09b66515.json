@@ -1,0 +1,48 @@
+{
+  "uid" : "4225754f09b66515",
+  "name" : "Verify that User is able to remove selected filter from SELECTED FILTERS section using cross icon of selected filter in Playbook Output Filter window-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that User is able to remove selected filter from SELECTED FILTERS section using cross icon of selected filter in Playbook Output Filter window-Dark",
+  "historyId" : "acc4dbe215d7e52d7386fc90929d0234",
+  "time" : {
+    "start" : 1668414495279,
+    "stop" : 1668414551866,
+    "duration" : 56587
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to remove selected filter from SELECTED FILTERS section using cross icon of selected filter in Playbook Output Filter window-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4225754f09b66515.json",
+  "parameterValues" : [ ]
+}

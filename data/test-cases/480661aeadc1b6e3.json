@@ -1,0 +1,50 @@
+{
+  "uid" : "480661aeadc1b6e3",
+  "name" : "Verify that success toast notification is shown after Delete, Kill, and Quarantine of Unassociated Alerts-Light",
+  "fullName" : "Incident Test Light theme.Verify that success toast notification is shown after Delete, Kill, and Quarantine of Unassociated Alerts-Light",
+  "historyId" : "a6ad6760336cd310353b8968bbfc5f39",
+  "time" : {
+    "start" : 1668433643401,
+    "stop" : 1668433700550,
+    "duration" : 57149
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that success toast notification is shown after Delete, Kill, and Quarantine of Unassociated Alerts-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "480661aeadc1b6e3.json",
+  "parameterValues" : [ ]
+}

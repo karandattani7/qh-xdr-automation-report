@@ -1,0 +1,74 @@
+{
+  "uid" : "7e515c860c1af1c3",
+  "name" : "Verify that clicking on 'Yes' button on Work not saved modal redirects back to Playbook list page (Published and Draft)-Light",
+  "fullName" : "Playbook Test Light theme.Verify that clicking on 'Yes' button on Work not saved modal redirects back to Playbook list page (Published and Draft)-Light",
+  "historyId" : "3c62ce723cbf6c5f5a31d7ba7fc73b58",
+  "time" : {
+    "start" : 1668544636439,
+    "stop" : 1668544666002,
+    "duration" : 29563
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on 'Yes' button on Work not saved modal redirects back to Playbook list page (Published and Draft)-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3624825fd5a367e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668511048281,
+        "stop" : 1668511147024,
+        "duration" : 98743
+      }
+    }, {
+      "uid" : "cea49df073e2b35f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668502795005,
+        "stop" : 1668502826719,
+        "duration" : 31714
+      }
+    }, {
+      "uid" : "fafd169594f1d7a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668498854191,
+        "stop" : 1668498883773,
+        "duration" : 29582
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7e515c860c1af1c3.json",
+  "parameterValues" : [ ]
+}

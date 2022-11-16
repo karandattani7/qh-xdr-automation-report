@@ -1,0 +1,74 @@
+{
+  "uid" : "73b153074857838f",
+  "name" : "Verify that clicking on create playbook button below 'No playbooks found' in empty state should redirect to create playbook form from published playbooks tab-Light",
+  "fullName" : "Playbook Test Light theme.Verify that clicking on create playbook button below 'No playbooks found' in empty state should redirect to create playbook form from published playbooks tab-Light",
+  "historyId" : "a2a372e66c52f91e835c18fa54dd9647",
+  "time" : {
+    "start" : 1668544122975,
+    "stop" : 1668544160427,
+    "duration" : 37452
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on create playbook button below 'No playbooks found' in empty state should redirect to create playbook form from published playbooks tab-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b5daea5a8aa9df22",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668510488624,
+        "stop" : 1668510527319,
+        "duration" : 38695
+      }
+    }, {
+      "uid" : "897ebf429791efc0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668502304025,
+        "stop" : 1668502341412,
+        "duration" : 37387
+      }
+    }, {
+      "uid" : "282379452283f463",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668498341904,
+        "stop" : 1668498379379,
+        "duration" : 37475
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "73b153074857838f.json",
+  "parameterValues" : [ ]
+}

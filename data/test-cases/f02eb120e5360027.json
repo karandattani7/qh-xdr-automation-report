@@ -1,0 +1,66 @@
+{
+  "uid" : "f02eb120e5360027",
+  "name" : "Verify that user is able to update Severity of Base Alert with Reason for change from Base Alert summary right panel-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that user is able to update Severity of Base Alert with Reason for change from Base Alert summary right panel-Dark",
+  "historyId" : "6669b6747e09c6206829314786bc8bf5",
+  "time" : {
+    "start" : 1668498683032,
+    "stop" : 1668498725988,
+    "duration" : 42956
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to update Severity of Base Alert with Reason for change from Base Alert summary right panel-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a27a3ef337a59c93",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668428476224,
+        "stop" : 1668428519546,
+        "duration" : 43322
+      }
+    }, {
+      "uid" : "22058fe9ff196cf8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668413451732,
+        "stop" : 1668413495550,
+        "duration" : 43818
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f02eb120e5360027.json",
+  "parameterValues" : [ ]
+}

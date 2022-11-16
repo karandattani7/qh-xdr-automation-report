@@ -1,0 +1,74 @@
+{
+  "uid" : "9501e48874d4815c",
+  "name" : "Verify that Search field also gets collapsed when Available Parameters is collapsed in Create Playbook form -Light",
+  "fullName" : "Playbook Test Light theme.Verify that Search field also gets collapsed when Available Parameters is collapsed in Create Playbook form -Light",
+  "historyId" : "651a77dab093727e7a72ad9f09667f30",
+  "time" : {
+    "start" : 1668544666002,
+    "stop" : 1668544689021,
+    "duration" : 23019
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Search field also gets collapsed when Available Parameters is collapsed in Create Playbook form -Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "101ae068f0a83c46",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668511147024,
+        "stop" : 1668511171189,
+        "duration" : 24165
+      }
+    }, {
+      "uid" : "f1e4cd3aa856ef1f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668502826719,
+        "stop" : 1668502850864,
+        "duration" : 24145
+      }
+    }, {
+      "uid" : "8bd9c77036b7d959",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668498883773,
+        "stop" : 1668498906885,
+        "duration" : 23112
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9501e48874d4815c.json",
+  "parameterValues" : [ ]
+}

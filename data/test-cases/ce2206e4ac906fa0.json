@@ -1,0 +1,48 @@
+{
+  "uid" : "ce2206e4ac906fa0",
+  "name" : "Verify that user is able to completely replace the added external function with another external function by using Function dropdown in Editable right panel-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that user is able to completely replace the added external function with another external function by using Function dropdown in Editable right panel-Dark",
+  "historyId" : "2efcf05cae7da0c78aaeb42bb5ec89bd",
+  "time" : {
+    "start" : 1668425966345,
+    "stop" : 1668426037832,
+    "duration" : 71487
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to completely replace the added external function with another external function by using Function dropdown in Editable right panel-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ce2206e4ac906fa0.json",
+  "parameterValues" : [ ]
+}

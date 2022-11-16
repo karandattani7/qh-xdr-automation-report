@@ -1,0 +1,50 @@
+{
+  "uid" : "4974583ac294b9e4",
+  "name" : "Verify user is able to view 'Total Endpoints' count on top right of the graph of the  'Active/Total Endpoints' widget of Admin Dashboard Page.-Dark",
+  "fullName" : "Dashboard Test Dark theme-Admin.Verify user is able to view 'Total Endpoints' count on top right of the graph of the  'Active/Total Endpoints' widget of Admin Dashboard Page.-Dark",
+  "historyId" : "593974608058bbd7451d311e9d18869c",
+  "time" : {
+    "start" : 1668261763305,
+    "stop" : 1668261768613,
+    "duration" : 5308
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Dashboard Test Dark theme-Admin"
+  }, {
+    "name" : "testClass",
+    "value" : "Dashboard Test Dark theme-Admin"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify user is able to view 'Total Endpoints' count on top right of the graph of the  'Active/Total Endpoints' widget of Admin Dashboard Page.-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Dashboard Test Dark theme-Admin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4974583ac294b9e4.json",
+  "parameterValues" : [ ]
+}

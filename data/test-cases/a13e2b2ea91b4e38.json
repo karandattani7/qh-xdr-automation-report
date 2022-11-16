@@ -1,0 +1,48 @@
+{
+  "uid" : "a13e2b2ea91b4e38",
+  "name" : "Verify that user is able to delete Filter block from its right panel before filling the filter right panel-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that user is able to delete Filter block from its right panel before filling the filter right panel-Dark",
+  "historyId" : "5a253e53fa1f7795050d6a745d32135c",
+  "time" : {
+    "start" : 1668424859146,
+    "stop" : 1668424910082,
+    "duration" : 50936
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to delete Filter block from its right panel before filling the filter right panel-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a13e2b2ea91b4e38.json",
+  "parameterValues" : [ ]
+}

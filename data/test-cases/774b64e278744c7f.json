@@ -1,0 +1,48 @@
+{
+  "uid" : "774b64e278744c7f",
+  "name" : "Verify that clicking on Close icon on Work not saved modal keeps User on Create Playbook form (Published and Draft)-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that clicking on Close icon on Work not saved modal keeps User on Create Playbook form (Published and Draft)-Dark",
+  "historyId" : "6c5e63cef7e656e335d3d74be0b1cd87",
+  "time" : {
+    "start" : 1668419428121,
+    "stop" : 1668419468016,
+    "duration" : 39895
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Close icon on Work not saved modal keeps User on Create Playbook form (Published and Draft)-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "774b64e278744c7f.json",
+  "parameterValues" : [ ]
+}

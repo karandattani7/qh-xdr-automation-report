@@ -1,0 +1,50 @@
+{
+  "uid" : "be622fbc667830d6",
+  "name" : "Verify Admin is able to view active class on 3m timeframe breakpoints on each widget of the Admin dashboard page.-Light",
+  "fullName" : "Dashboard Test Light theme-Admin.Verify Admin is able to view active class on 3m timeframe breakpoints on each widget of the Admin dashboard page.-Light",
+  "historyId" : "b9c58a9b587a2a3a41242a71ed17d83f",
+  "time" : {
+    "start" : 1668262833661,
+    "stop" : 1668262836906,
+    "duration" : 3245
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Dashboard Test Light theme-Admin"
+  }, {
+    "name" : "testClass",
+    "value" : "Dashboard Test Light theme-Admin"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Admin is able to view active class on 3m timeframe breakpoints on each widget of the Admin dashboard page.-Light"
+  }, {
+    "name" : "package",
+    "value" : "Dashboard Test Light theme-Admin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "be622fbc667830d6.json",
+  "parameterValues" : [ ]
+}

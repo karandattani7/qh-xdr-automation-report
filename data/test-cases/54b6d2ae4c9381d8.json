@@ -1,0 +1,50 @@
+{
+  "uid" : "54b6d2ae4c9381d8",
+  "name" : "Verify that clicking on Connectors on left sidebar panel opens Connectors page-Dark",
+  "fullName" : "Connector Test Dark theme.Verify that clicking on Connectors on left sidebar panel opens Connectors page-Dark",
+  "historyId" : "dba65a1fecc99b7678ce860f526eb575",
+  "time" : {
+    "start" : 1668256553378,
+    "stop" : 1668256563727,
+    "duration" : 10349
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Connectors on left sidebar panel opens Connectors page-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "54b6d2ae4c9381d8.json",
+  "parameterValues" : [ ]
+}

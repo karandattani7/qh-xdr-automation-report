@@ -1,0 +1,48 @@
+{
+  "uid" : "7ca1c5ad962e468c",
+  "name" : "Verify User gets a toast notification on exporting specific playbook-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify User gets a toast notification on exporting specific playbook-Dark",
+  "historyId" : "bf20cd3b0f48cb84a9b4a41c4369b916",
+  "time" : {
+    "start" : 1668420006889,
+    "stop" : 1668420045741,
+    "duration" : 38852
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User gets a toast notification on exporting specific playbook-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7ca1c5ad962e468c.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,66 @@
+{
+  "uid" : "bb336cd71057bb0e",
+  "name" : "Verify that filtered incident list is shown after searching for a valid incident name in Search field of Select Incident modal-Ddark",
+  "fullName" : "Incident Test Dark theme.Verify that filtered incident list is shown after searching for a valid incident name in Search field of Select Incident modal-Ddark",
+  "historyId" : "15eab32f9b166dd3cd9381ebf36e9522",
+  "time" : {
+    "start" : 1668498388980,
+    "stop" : 1668498439097,
+    "duration" : 50117
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that filtered incident list is shown after searching for a valid incident name in Search field of Select Incident modal-Ddark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f1879f0b5e634d43",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668428195067,
+        "stop" : 1668428244772,
+        "duration" : 49705
+      }
+    }, {
+      "uid" : "878e15c3103f7bca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668413167894,
+        "stop" : 1668413218916,
+        "duration" : 51022
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bb336cd71057bb0e.json",
+  "parameterValues" : [ ]
+}

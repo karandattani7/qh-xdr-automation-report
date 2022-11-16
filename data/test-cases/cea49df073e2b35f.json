@@ -1,0 +1,48 @@
+{
+  "uid" : "cea49df073e2b35f",
+  "name" : "Verify that clicking on 'Yes' button on Work not saved modal redirects back to Playbook list page (Published and Draft)-Light",
+  "fullName" : "Playbook Test Light theme.Verify that clicking on 'Yes' button on Work not saved modal redirects back to Playbook list page (Published and Draft)-Light",
+  "historyId" : "3c62ce723cbf6c5f5a31d7ba7fc73b58",
+  "time" : {
+    "start" : 1668502795005,
+    "stop" : 1668502826719,
+    "duration" : 31714
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on 'Yes' button on Work not saved modal redirects back to Playbook list page (Published and Draft)-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cea49df073e2b35f.json",
+  "parameterValues" : [ ]
+}

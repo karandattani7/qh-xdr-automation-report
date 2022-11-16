@@ -1,0 +1,48 @@
+{
+  "uid" : "25c236fd6aa543f3",
+  "name" : "Verify that User is able to select a function from list of internal function by clicking on it from the right panel-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to select a function from list of internal function by clicking on it from the right panel-Dark",
+  "historyId" : "2ffa7397e34523ef7d2164ab1873fde4",
+  "time" : {
+    "start" : 1668425913682,
+    "stop" : 1668425966345,
+    "duration" : 52663
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to select a function from list of internal function by clicking on it from the right panel-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "25c236fd6aa543f3.json",
+  "parameterValues" : [ ]
+}

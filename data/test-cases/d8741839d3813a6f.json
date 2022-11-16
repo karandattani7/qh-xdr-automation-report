@@ -1,0 +1,50 @@
+{
+  "uid" : "d8741839d3813a6f",
+  "name" : "Verify the title and count on Enrichment, Ingestion and Response tab is as per design on Connectors page-Light",
+  "fullName" : "Connector Test Light theme.Verify the title and count on Enrichment, Ingestion and Response tab is as per design on Connectors page-Light",
+  "historyId" : "5329a26b81889d64f3a5dc7fb8ad6273",
+  "time" : {
+    "start" : 1668258909848,
+    "stop" : 1668258949576,
+    "duration" : 39728
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the title and count on Enrichment, Ingestion and Response tab is as per design on Connectors page-Light"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d8741839d3813a6f.json",
+  "parameterValues" : [ ]
+}

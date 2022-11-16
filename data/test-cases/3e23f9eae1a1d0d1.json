@@ -1,0 +1,50 @@
+{
+  "uid" : "3e23f9eae1a1d0d1",
+  "name" : "Verify that in Playbook Output modal's left side pane/window, the filter component is visible-Light",
+  "fullName" : "Incident Test Light theme.Verify that in Playbook Output modal's left side pane/window, the filter component is visible-Light",
+  "historyId" : "7625b04e4e8f58e43d62fd463a0ac278",
+  "time" : {
+    "start" : 1668429297198,
+    "stop" : 1668429328431,
+    "duration" : 31233
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Playbook Output modal's left side pane/window, the filter component is visible-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3e23f9eae1a1d0d1.json",
+  "parameterValues" : [ ]
+}

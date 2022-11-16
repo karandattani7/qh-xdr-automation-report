@@ -1,0 +1,75 @@
+{
+  "uid" : "654b8eeca64441e1",
+  "name" : "Verify that User is able to switch between AVAILABLE FILTERS entities and see the listed attributes-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to switch between AVAILABLE FILTERS entities and see the listed attributes-Light",
+  "historyId" : "ff8fb2ffc7be9167ded1231c3cc22d2b",
+  "time" : {
+    "start" : 1668547904767,
+    "stop" : 1668547955151,
+    "duration" : 50384
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to switch between AVAILABLE FILTERS entities and see the listed attributes-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "22eb6ac3e247e362",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668514634347,
+        "stop" : 1668514684994,
+        "duration" : 50647
+      }
+    }, {
+      "uid" : "b2b922043bd05e0b",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Published Playbooks')])",
+      "time" : {
+        "start" : 1668504280458,
+        "stop" : 1668504284908,
+        "duration" : 4450
+      }
+    }, {
+      "uid" : "e83923ecf1ca5e3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668502142683,
+        "stop" : 1668502192755,
+        "duration" : 50072
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "654b8eeca64441e1.json",
+  "parameterValues" : [ ]
+}

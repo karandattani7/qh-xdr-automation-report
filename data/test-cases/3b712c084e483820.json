@@ -1,0 +1,74 @@
+{
+  "uid" : "3b712c084e483820",
+  "name" : "Verify that admin is able to check/uncheck Trigger checkboxes 'On Incident Creation' and 'On Incident Updation'-Light",
+  "fullName" : "Playbook Test Light theme.Verify that admin is able to check/uncheck Trigger checkboxes 'On Incident Creation' and 'On Incident Updation'-Light",
+  "historyId" : "47978a69dc857c8e2f8ee0163224395c",
+  "time" : {
+    "start" : 1668544433202,
+    "stop" : 1668544465604,
+    "duration" : 32402
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that admin is able to check/uncheck Trigger checkboxes 'On Incident Creation' and 'On Incident Updation'-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fe25a2eb8084fe5a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668510832736,
+        "stop" : 1668510866784,
+        "duration" : 34048
+      }
+    }, {
+      "uid" : "f42823cea8bfb937",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668502579447,
+        "stop" : 1668502613282,
+        "duration" : 33835
+      }
+    }, {
+      "uid" : "61ed29984fd6806d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668498609119,
+        "stop" : 1668498683654,
+        "duration" : 74535
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3b712c084e483820.json",
+  "parameterValues" : [ ]
+}

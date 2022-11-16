@@ -1,0 +1,48 @@
+{
+  "uid" : "4841f0e0fff8753d",
+  "name" : "Verify User is able to Export single, multiple and all Published playbooks using checkbox successfully-Light",
+  "fullName" : "Playbook Test Light theme.Verify User is able to Export single, multiple and all Published playbooks using checkbox successfully-Light",
+  "historyId" : "392af07b0ab1d8ce956a65416181d50b",
+  "time" : {
+    "start" : 1668499881033,
+    "stop" : 1668499943511,
+    "duration" : 62478
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User is able to Export single, multiple and all Published playbooks using checkbox successfully-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4841f0e0fff8753d.json",
+  "parameterValues" : [ ]
+}

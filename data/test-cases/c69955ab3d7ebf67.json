@@ -1,0 +1,48 @@
+{
+  "uid" : "c69955ab3d7ebf67",
+  "name" : "Verify the placeholder for Tags column when no Tags are selected while creating a playbook in Draft Playbooks-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify the placeholder for Tags column when no Tags are selected while creating a playbook in Draft Playbooks-Dark",
+  "historyId" : "c80b4bc22755eb210dca2572498c88d4",
+  "time" : {
+    "start" : 1668418906558,
+    "stop" : 1668418948409,
+    "duration" : 41851
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the placeholder for Tags column when no Tags are selected while creating a playbook in Draft Playbooks-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c69955ab3d7ebf67.json",
+  "parameterValues" : [ ]
+}

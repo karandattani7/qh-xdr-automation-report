@@ -1,0 +1,50 @@
+{
+  "uid" : "53c2c621fac2aca1",
+  "name" : "'Connecter Details' field is as expected before selecting Connector Name-Dark",
+  "fullName" : "Connector Test Dark theme.'Connecter Details' field is as expected before selecting Connector Name-Dark",
+  "historyId" : "f629cc41dfdc95d219a0bdc262579cea",
+  "time" : {
+    "start" : 1668256743935,
+    "stop" : 1668256768668,
+    "duration" : 24733
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "'Connecter Details' field is as expected before selecting Connector Name-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "53c2c621fac2aca1.json",
+  "parameterValues" : [ ]
+}

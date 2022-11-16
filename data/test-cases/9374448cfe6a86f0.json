@@ -1,0 +1,48 @@
+{
+  "uid" : "9374448cfe6a86f0",
+  "name" : "Verify that clicking on Incident name in breadcrumbs of User View page redirects to Incident Details page-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that clicking on Incident name in breadcrumbs of User View page redirects to Incident Details page-Dark",
+  "historyId" : "50019803f84a81c4241e8315f96ce01",
+  "time" : {
+    "start" : 1668432675018,
+    "stop" : 1668432727575,
+    "duration" : 52557
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Incident name in breadcrumbs of User View page redirects to Incident Details page-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9374448cfe6a86f0.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "bc32b0b55b3153a6",
+  "name" : "Verify that clicking on 'Publish Playbook' of 'Validation Successful' modal, closes the modal and User gets redirected to Published Playbooks tab-Light",
+  "fullName" : "Playbook Test Light theme.Verify that clicking on 'Publish Playbook' of 'Validation Successful' modal, closes the modal and User gets redirected to Published Playbooks tab-Light",
+  "historyId" : "d149cbd333e5cec1084e1bbb457e9e1b",
+  "time" : {
+    "start" : 1668506225041,
+    "stop" : 1668506303588,
+    "duration" : 78547
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on 'Publish Playbook' of 'Validation Successful' modal, closes the modal and User gets redirected to Published Playbooks tab-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bc32b0b55b3153a6.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,66 @@
+{
+  "uid" : "e1f4a40a7d5f207",
+  "name" : "Verify that Incidents list table has 9 columns with expected column names in expected order and hovering on 9th  column “ASSIGNED TO” values shows 'View Details' link-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that Incidents list table has 9 columns with expected column names in expected order and hovering on 9th  column “ASSIGNED TO” values shows 'View Details' link-Dark",
+  "historyId" : "f6139abed9f46b94766b59166fa68921",
+  "time" : {
+    "start" : 1668497457886,
+    "stop" : 1668497484651,
+    "duration" : 26765
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Incidents list table has 9 columns with expected column names in expected order and hovering on 9th  column “ASSIGNED TO” values shows 'View Details' link-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "67af6cfdf80e59fe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668427153156,
+        "stop" : 1668427180072,
+        "duration" : 26916
+      }
+    }, {
+      "uid" : "126d5a4dc5ec4c27",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668412189721,
+        "stop" : 1668412217136,
+        "duration" : 27415
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e1f4a40a7d5f207.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,50 @@
+{
+  "uid" : "18e07e8592e71f4",
+  "name" : "Verify that User is able to switch between the 3 sections i.e. Investigation Timeline, Notes, Root Cause Analysis in Incident Canvas modal-Light",
+  "fullName" : "Incident Test Light theme.Verify that User is able to switch between the 3 sections i.e. Investigation Timeline, Notes, Root Cause Analysis in Incident Canvas modal-Light",
+  "historyId" : "741d8fe5444fdb5912a06cc067a58db8",
+  "time" : {
+    "start" : 1668431294149,
+    "stop" : 1668431338647,
+    "duration" : 44498
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to switch between the 3 sections i.e. Investigation Timeline, Notes, Root Cause Analysis in Incident Canvas modal-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "18e07e8592e71f4.json",
+  "parameterValues" : [ ]
+}

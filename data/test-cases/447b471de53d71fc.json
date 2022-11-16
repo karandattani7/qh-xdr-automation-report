@@ -1,0 +1,48 @@
+{
+  "uid" : "447b471de53d71fc",
+  "name" : "Verify that user is able to draw connection line from Start block to another block in Playbook Editor page.-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that user is able to draw connection line from Start block to another block in Playbook Editor page.-Dark",
+  "historyId" : "e28964c0e8dfdc873e4f9a1a4a1c34d6",
+  "time" : {
+    "start" : 1668421543720,
+    "stop" : 1668421579592,
+    "duration" : 35872
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to draw connection line from Start block to another block in Playbook Editor page.-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "447b471de53d71fc.json",
+  "parameterValues" : [ ]
+}

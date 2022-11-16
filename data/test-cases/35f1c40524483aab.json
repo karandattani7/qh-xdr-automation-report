@@ -1,0 +1,74 @@
+{
+  "uid" : "35f1c40524483aab",
+  "name" : "Verify that by default Incident list view table shows all incidents of Last 7 days in descending order of Created On-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that by default Incident list view table shows all incidents of Last 7 days in descending order of Created On-Dark",
+  "historyId" : "f28a3c10027ee3152eb5cdac491b990f",
+  "time" : {
+    "start" : 1668501864719,
+    "stop" : 1668501958235,
+    "duration" : 93516
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected false to be true.",
+  "statusTrace" : "Error: Failed expectation\n                    at D:\\qh-ui\\qh environment\\JSDIRECTORY\\Test\\IncidentTabtest-Dark.js:4057:52\n                    at Generator.next (<anonymous>)\n                    at fulfilled (D:\\qh-ui\\qh environment\\JSDIRECTORY\\Test\\IncidentTabtest-Dark.js:5:58)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that by default Incident list view table shows all incidents of Last 7 days in descending order of Created On-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e4bf630129da018b",
+      "status" : "failed",
+      "statusDetails" : "Expected false to be true.",
+      "time" : {
+        "start" : 1668431463434,
+        "stop" : 1668431566892,
+        "duration" : 103458
+      }
+    }, {
+      "uid" : "20ea7401a9c2c8cb",
+      "status" : "failed",
+      "statusDetails" : "Expected false to be true.",
+      "time" : {
+        "start" : 1668416619279,
+        "stop" : 1668416707972,
+        "duration" : 88693
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "35f1c40524483aab.json",
+  "parameterValues" : [ ]
+}

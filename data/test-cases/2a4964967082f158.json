@@ -1,0 +1,66 @@
+{
+  "uid" : "2a4964967082f158",
+  "name" : "Verify that User is able to clear search field using cross (x) icon after selecting playbook.name with non-existing playbook name value in Draft Playbooks tab-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to clear search field using cross (x) icon after selecting playbook.name with non-existing playbook name value in Draft Playbooks tab-Dark",
+  "historyId" : "eff38241e668cec66f49406d8965bda",
+  "time" : {
+    "start" : 1668576808606,
+    "stop" : 1668576845820,
+    "duration" : 37214
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to clear search field using cross (x) icon after selecting playbook.name with non-existing playbook name value in Draft Playbooks tab-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a5d83ba918f66ed6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668545422726,
+        "stop" : 1668545458757,
+        "duration" : 36031
+      }
+    }, {
+      "uid" : "957d4e08b4f7102b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668420874185,
+        "stop" : 1668420911059,
+        "duration" : 36874
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2a4964967082f158.json",
+  "parameterValues" : [ ]
+}

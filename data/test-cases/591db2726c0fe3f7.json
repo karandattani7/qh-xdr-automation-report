@@ -1,0 +1,66 @@
+{
+  "uid" : "591db2726c0fe3f7",
+  "name" : "Verify that in Incident Add Filter window, an error message 'Enter value.' is shown when User does not enter any value for +incident.name, +incident.id and +assignee.name filter-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that in Incident Add Filter window, an error message 'Enter value.' is shown when User does not enter any value for +incident.name, +incident.id and +assignee.name filter-Dark",
+  "historyId" : "ca96d2f816322ff4d30217e1a77e8c2",
+  "time" : {
+    "start" : 1668500430108,
+    "stop" : 1668500488712,
+    "duration" : 58604
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Incident Add Filter window, an error message 'Enter value.' is shown when User does not enter any value for +incident.name, +incident.id and +assignee.name filter-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2398c057aeb679d5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668430258763,
+        "stop" : 1668430318963,
+        "duration" : 60200
+      }
+    }, {
+      "uid" : "3cc0d4250e4c1661",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668415234271,
+        "stop" : 1668415294112,
+        "duration" : 59841
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "591db2726c0fe3f7.json",
+  "parameterValues" : [ ]
+}

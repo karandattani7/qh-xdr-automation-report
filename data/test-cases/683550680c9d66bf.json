@@ -1,0 +1,75 @@
+{
+  "uid" : "683550680c9d66bf",
+  "name" : "Verify that clicking on Edit button on read only view of added internal function block right panel shows Editable internal function right panel with Cancel and Save changes button-Light",
+  "fullName" : "Playbook Test Light theme.Verify that clicking on Edit button on read only view of added internal function block right panel shows Editable internal function right panel with Cancel and Save changes button-Light",
+  "historyId" : "3543313e04da30e7462414a1149c62bd",
+  "time" : {
+    "start" : 1668548517266,
+    "stop" : 1668548588150,
+    "duration" : 70884
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Edit button on read only view of added internal function block right panel shows Editable internal function right panel with Cancel and Save changes button-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "43fa91e2e5cf7685",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668515406896,
+        "stop" : 1668515477932,
+        "duration" : 71036
+      }
+    }, {
+      "uid" : "78e09ab16d0ffc04",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504342605,
+        "stop" : 1668504346961,
+        "duration" : 4356
+      }
+    }, {
+      "uid" : "c8d611e01ef5121",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668502766173,
+        "stop" : 1668502842390,
+        "duration" : 76217
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "683550680c9d66bf.json",
+  "parameterValues" : [ ]
+}

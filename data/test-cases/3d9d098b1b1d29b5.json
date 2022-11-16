@@ -1,0 +1,48 @@
+{
+  "uid" : "3d9d098b1b1d29b5",
+  "name" : "Verify that user is able to update added internal function's block name successfully using Name field in Editable right panel-Light",
+  "fullName" : "Playbook Test Light theme.Verify that user is able to update added internal function's block name successfully using Name field in Editable right panel-Light",
+  "historyId" : "d306c9acd3cbc7bd877051868f0b228a",
+  "time" : {
+    "start" : 1668505191137,
+    "stop" : 1668505309044,
+    "duration" : 117907
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to update added internal function's block name successfully using Name field in Editable right panel-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3d9d098b1b1d29b5.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,76 @@
+{
+  "uid" : "68bfd76e330ac10b",
+  "name" : "Verify that user is able to update Filter Block from right panel with valid values, by clicking on Edit button in Read only view of added filter block-Light",
+  "fullName" : "Playbook Test Light theme.Verify that user is able to update Filter Block from right panel with valid values, by clicking on Edit button in Read only view of added filter block-Light",
+  "historyId" : "4da1015316045af778f2c719f4b2b954",
+  "time" : {
+    "start" : 1668550243939,
+    "stop" : 1668550328855,
+    "duration" : 84916
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to update Filter Block from right panel with valid values, by clicking on Edit button in Read only view of added filter block-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "484b6c614bea9066",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668516644535,
+        "stop" : 1668516648727,
+        "duration" : 4192
+      }
+    }, {
+      "uid" : "de34fdd718df373a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668504662619,
+        "stop" : 1668504753542,
+        "duration" : 90923
+      }
+    }, {
+      "uid" : "c07178868ce34245",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504497409,
+        "stop" : 1668504501862,
+        "duration" : 4453
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "68bfd76e330ac10b.json",
+  "parameterValues" : [ ]
+}

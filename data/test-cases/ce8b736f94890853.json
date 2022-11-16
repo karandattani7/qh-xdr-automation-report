@@ -1,0 +1,76 @@
+{
+  "uid" : "ce8b736f94890853",
+  "name" : "Verify that User is able to select a external function from list by clicking on it-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to select a external function from list by clicking on it-Light",
+  "historyId" : "43127313508a2de2f0c2aa66b28ec638",
+  "time" : {
+    "start" : 1668551219708,
+    "stop" : 1668551275909,
+    "duration" : 56201
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to select a external function from list by clicking on it-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "390924e81990640c",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668516711475,
+        "stop" : 1668516715667,
+        "duration" : 4192
+      }
+    }, {
+      "uid" : "33a4f47183228b7e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668505786632,
+        "stop" : 1668505844532,
+        "duration" : 57900
+      }
+    }, {
+      "uid" : "dcfa9dbfdb2c0cc5",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504569095,
+        "stop" : 1668504573579,
+        "duration" : 4484
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ce8b736f94890853.json",
+  "parameterValues" : [ ]
+}

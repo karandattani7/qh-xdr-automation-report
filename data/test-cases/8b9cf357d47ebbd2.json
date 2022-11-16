@@ -1,0 +1,66 @@
+{
+  "uid" : "8b9cf357d47ebbd2",
+  "name" : "Verify that in User Correlation view, 'Key Attributes' count is shown in brackets above Key Attributes table-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that in User Correlation view, 'Key Attributes' count is shown in brackets above Key Attributes table-Dark",
+  "historyId" : "80fa41f84d055e5317357d130191e91f",
+  "time" : {
+    "start" : 1668503777817,
+    "stop" : 1668503842220,
+    "duration" : 64403
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in User Correlation view, 'Key Attributes' count is shown in brackets above Key Attributes table-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6d1c0fb251fc327f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668433194047,
+        "stop" : 1668433254524,
+        "duration" : 60477
+      }
+    }, {
+      "uid" : "861dc4d4678aeb25",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668418302225,
+        "stop" : 1668418363354,
+        "duration" : 61129
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8b9cf357d47ebbd2.json",
+  "parameterValues" : [ ]
+}

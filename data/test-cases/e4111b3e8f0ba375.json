@@ -1,0 +1,48 @@
+{
+  "uid" : "e4111b3e8f0ba375",
+  "name" : "Verify that User is able to see Edit and Delete option when hovered on Filter block on main canvas area of Playbook Editor-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to see Edit and Delete option when hovered on Filter block on main canvas area of Playbook Editor-Light",
+  "historyId" : "5449da7f1e3ee5c5da5b6898f2ee1f17",
+  "time" : {
+    "start" : 1668503978400,
+    "stop" : 1668504029125,
+    "duration" : 50725
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to see Edit and Delete option when hovered on Filter block on main canvas area of Playbook Editor-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e4111b3e8f0ba375.json",
+  "parameterValues" : [ ]
+}

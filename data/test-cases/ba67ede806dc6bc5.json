@@ -1,0 +1,66 @@
+{
+  "uid" : "ba67ede806dc6bc5",
+  "name" : "Verify the functionality of Cancel button on export playbook modal-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify the functionality of Cancel button on export playbook modal-Dark",
+  "historyId" : "7250f31bd2faf4281e8bef0a586b5fc9",
+  "time" : {
+    "start" : 1668575901508,
+    "stop" : 1668575953481,
+    "duration" : 51973
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the functionality of Cancel button on export playbook modal-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "bcb78e2e1e7075e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668544542018,
+        "stop" : 1668544591296,
+        "duration" : 49278
+      }
+    }, {
+      "uid" : "b93f968dd3c9551b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668419955034,
+        "stop" : 1668420006889,
+        "duration" : 51855
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ba67ede806dc6bc5.json",
+  "parameterValues" : [ ]
+}

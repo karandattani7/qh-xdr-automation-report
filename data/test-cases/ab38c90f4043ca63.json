@@ -1,0 +1,50 @@
+{
+  "uid" : "ab38c90f4043ca63",
+  "name" : "Verify that clicking on Edit Instance in Connector Details right panel opens Edit Instance form with pre-filled connector details-Dark",
+  "fullName" : "Connector Test Dark theme.Verify that clicking on Edit Instance in Connector Details right panel opens Edit Instance form with pre-filled connector details-Dark",
+  "historyId" : "c9eb8bb9930afe2aa14b14b109ac3af6",
+  "time" : {
+    "start" : 1668256368265,
+    "stop" : 1668256434127,
+    "duration" : 65862
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Edit Instance in Connector Details right panel opens Edit Instance form with pre-filled connector details-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ab38c90f4043ca63.json",
+  "parameterValues" : [ ]
+}

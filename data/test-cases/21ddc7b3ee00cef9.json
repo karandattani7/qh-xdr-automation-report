@@ -1,0 +1,48 @@
+{
+  "uid" : "21ddc7b3ee00cef9",
+  "name" : "Verify that Search filter component is visible and shown in correct place on Incident List view page-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that Search filter component is visible and shown in correct place on Incident List view page-Dark",
+  "historyId" : "252d84477109977aa351e95bd73f4967",
+  "time" : {
+    "start" : 1668411936312,
+    "stop" : 1668411961669,
+    "duration" : 25357
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Search filter component is visible and shown in correct place on Incident List view page-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "21ddc7b3ee00cef9.json",
+  "parameterValues" : [ ]
+}

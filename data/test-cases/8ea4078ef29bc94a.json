@@ -1,0 +1,48 @@
+{
+  "uid" : "8ea4078ef29bc94a",
+  "name" : "Verify that User is able to scroll up and down inside Tags list in Tags field dropdown in Create Playbook form-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to scroll up and down inside Tags list in Tags field dropdown in Create Playbook form-Light",
+  "historyId" : "a6be8e43b49eac530ff18e2f5198ac0a",
+  "time" : {
+    "start" : 1668503014570,
+    "stop" : 1668503039653,
+    "duration" : 25083
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to scroll up and down inside Tags list in Tags field dropdown in Create Playbook form-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8ea4078ef29bc94a.json",
+  "parameterValues" : [ ]
+}

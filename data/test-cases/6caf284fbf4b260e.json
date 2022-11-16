@@ -1,0 +1,66 @@
+{
+  "uid" : "6caf284fbf4b260e",
+  "name" : "Verify that user is able to resize the rectangle slider box on the x-axis in timeline graph in Incident Timeline view-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that user is able to resize the rectangle slider box on the x-axis in timeline graph in Incident Timeline view-Dark",
+  "historyId" : "16f484dd0280ebf8933e36c3ad9002ae",
+  "time" : {
+    "start" : 1668501688033,
+    "stop" : 1668501729828,
+    "duration" : 41795
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to resize the rectangle slider box on the x-axis in timeline graph in Incident Timeline view-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "25407d65e4ae4ff0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668431281331,
+        "stop" : 1668431323875,
+        "duration" : 42544
+      }
+    }, {
+      "uid" : "58e06ef953ba3f6e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668416437539,
+        "stop" : 1668416480194,
+        "duration" : 42655
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6caf284fbf4b260e.json",
+  "parameterValues" : [ ]
+}

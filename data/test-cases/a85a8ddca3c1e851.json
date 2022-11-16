@@ -1,0 +1,50 @@
+{
+  "uid" : "a85a8ddca3c1e851",
+  "name" : "Verify that user is able to see two tabs 'Incidents' and 'Base Alerts' when on Incidents page-Light",
+  "fullName" : "Incident Test Light theme.Verify that user is able to see two tabs 'Incidents' and 'Base Alerts' when on Incidents page-Light",
+  "historyId" : "5b10020e17cd78a10337f0b2ba42383",
+  "time" : {
+    "start" : 1668427117378,
+    "stop" : 1668427130307,
+    "duration" : 12929
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to see two tabs 'Incidents' and 'Base Alerts' when on Incidents page-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a85a8ddca3c1e851.json",
+  "parameterValues" : [ ]
+}

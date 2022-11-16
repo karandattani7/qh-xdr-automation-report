@@ -1,0 +1,518 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Expected 0 to equal 1.",
+      "children" : [ {
+        "name" : "Verify that user is able to filter incidents list by single incident id and multiple incident ids-Light",
+        "uid" : "6aaba7d4ee8c5aa",
+        "parentUid" : "8edc722c4148bd1f23482ed944752657",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668430455927,
+          "stop" : 1668430519763,
+          "duration" : 63836
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8edc722c4148bd1f23482ed944752657"
+    }, {
+      "name" : "Failed: No element found using locator: By(xpath, //span[text()='Enter value.'])",
+      "children" : [ {
+        "name" : "Verify that in Incident Add Filter window, an error message 'Enter value.' is shown when User does not enter any value for +incident.name, +incident.id and +assignee.name filter-Light",
+        "uid" : "3fb3ebb7e63d02e5",
+        "parentUid" : "4df0b840b4e1d99acf2c6e5ac9e55307",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668430557090,
+          "stop" : 1668430601452,
+          "duration" : 44362
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4df0b840b4e1d99acf2c6e5ac9e55307"
+    }, {
+      "name" : "Failed: element not interactable\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "children" : [ {
+        "name" : "Verify that user is able to filter incidents list by single incident type and multiple incident types-Light",
+        "uid" : "538670234e1b6f6d",
+        "parentUid" : "71dfcc5a27c72044d0a1e8496ddbd01b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668431338647,
+          "stop" : 1668431385370,
+          "duration" : 46723
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify that user is able to filter incidents list by single incident type and multiple incident types-Dark",
+        "uid" : "2857378d77713cb4",
+        "parentUid" : "71dfcc5a27c72044d0a1e8496ddbd01b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668501394030,
+          "stop" : 1668501438216,
+          "duration" : 44186
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "71dfcc5a27c72044d0a1e8496ddbd01b"
+    }, {
+      "name" : "Expected false to be true.",
+      "children" : [ {
+        "name" : "Verify that by default Incident list view table shows all incidents of Last 7 days in descending order of Created On-Light",
+        "uid" : "ba72374ff2e0538b",
+        "parentUid" : "9fadb135346cf8571bc1b84689d15149",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668431824547,
+          "stop" : 1668431936776,
+          "duration" : 112229
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify that by default Incident list view table shows all incidents of Last 7 days in descending order of Created On-Dark",
+        "uid" : "35f1c40524483aab",
+        "parentUid" : "9fadb135346cf8571bc1b84689d15149",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668501864719,
+          "stop" : 1668501958235,
+          "duration" : 93516
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify that User is able to scroll up and down inside Tags list in Tags field dropdown in Create Playbook form-Light",
+        "uid" : "25c6696694e3bb9e",
+        "parentUid" : "9fadb135346cf8571bc1b84689d15149",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668544842137,
+          "stop" : 1668544865599,
+          "duration" : 23462
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 3,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9fadb135346cf8571bc1b84689d15149"
+    }, {
+      "name" : "Failed: element click intercepted: Element <em _ngcontent-fbs-c191=\"\" aria-hidden=\"true\" class=\"icon-close\"></em> is not clickable at point (1147, 87). Other element would receive the click: <div id=\"noty_bar_8f4e3b1e-5a93-443f-8627-e6a6454987fb\" class=\"noty_bar noty_type__error noty_theme__mint noty_close_with_click noty_has_timeout noty_has_progressbar\">...</div>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "children" : [ {
+        "name" : "Verify that in Playbook Output modal's left side pane/window, the Default Playbook and Default Playbook name is visible-Light",
+        "uid" : "a3dc877402974dc0",
+        "parentUid" : "8711e9815f097e02f89e5a88ad181d77",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668432503736,
+          "stop" : 1668432541196,
+          "duration" : 37460
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8711e9815f097e02f89e5a88ad181d77"
+    }, {
+      "name" : "Failed: No element found using locator: By(xpath, //h5[text()=' Basic Information '])",
+      "children" : [ {
+        "name" : "Verify that in NOTES section's Add Note modal, clicking on Cancel and Close button discards all changes and does not add note-Light",
+        "uid" : "952d51506baed478",
+        "parentUid" : "93cf46b8e0797ce27a99bc6e80b3aab0",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668432612753,
+          "stop" : 1668432637835,
+          "duration" : 25082
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "93cf46b8e0797ce27a99bc6e80b3aab0"
+    }, {
+      "name" : "Failed: No element found using locator: By(xpath, //label[text()='User Name ']//parent::div//em[@class='icon-copy'])",
+      "children" : [ {
+        "name" : "Verify that 3 tabs List, Timeline, Correlation are visible in User View page-Light",
+        "uid" : "d779c55923ffa916",
+        "parentUid" : "a9a651566a23da909cecaaa95474889e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668432740373,
+          "stop" : 1668432778276,
+          "duration" : 37903
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a9a651566a23da909cecaaa95474889e"
+    }, {
+      "name" : "Failed: element click intercepted: Element <em _ngcontent-eal-c177=\"\" class=\"icon-edit\"></em> is not clickable at point (1322, 528). Other element would receive the click: <button _ngcontent-eal-c186=\"\" type=\"button\" class=\"btn font-11 pl-1 pr-1 btn-custom btn-primary btn-md w-100\">...</button>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "children" : [ {
+        "name" : "Verify the validation messages in Incident Priority modal from Incident Summary right panel-Light",
+        "uid" : "3245926c75108c3d",
+        "parentUid" : "93343db37f87fc1e162f7426b21ea2b9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668434639318,
+          "stop" : 1668434665664,
+          "duration" : 26346
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "93343db37f87fc1e162f7426b21ea2b9"
+    }, {
+      "name" : "Failed: element click intercepted: Element <em _ngcontent-jdn-c205=\"\" class=\"icon-edit\"></em> is not clickable at point (1322, 528). Other element would receive the click: <button _ngcontent-jdn-c210=\"\" type=\"button\" class=\"btn font-11 pl-1 pr-1 btn-custom btn-primary btn-md w-100\">...</button>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "children" : [ {
+        "name" : "Verify the validation messages in Incident Priority modal from Incident Summary right panel-Dark",
+        "uid" : "5b679226569f9375",
+        "parentUid" : "ab00194320025804b06ab1326d953305",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668505142462,
+          "stop" : 1668505169086,
+          "duration" : 26624
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ab00194320025804b06ab1326d953305"
+    }, {
+      "name" : "Failed: Index out of bound. Trying to access element at index: 0, but there are only 0 elements that match locator By(xpath, //td[@class='w-12']//span)",
+      "children" : [ {
+        "name" : "Verify that User is able to search and apply quick filters in Draft Playbooks-Light",
+        "uid" : "8cf0fcc3f686ab74",
+        "parentUid" : "d93040a1b397dd737fe2db7ec0d764f9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668545765582,
+          "stop" : 1668545792701,
+          "duration" : 27119
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 3,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d93040a1b397dd737fe2db7ec0d764f9"
+    }, {
+      "name" : "Failed: Index out of bound. Trying to access element at index: 0, but there are only 0 elements that match locator By(xpath, //td[@class='w-12'])",
+      "children" : [ {
+        "name" : "Verify that User should be able to add one filter through search and another filter through AVAILABLE FILTERS section-Light",
+        "uid" : "80934ad7858e659",
+        "parentUid" : "467139614a43079c478b38d3c4e21bf5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668547005294,
+          "stop" : 1668547100624,
+          "duration" : 95330
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 3,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "467139614a43079c478b38d3c4e21bf5"
+    }, {
+      "name" : "NoSuchElementError: No element found using locator: By(css selector, *[id=\"draggableDecisionBlock\"])",
+      "children" : [ {
+        "name" : "Verify that user is able to check the 'Pre-processing' checkbox in Decision Block right panel-Light",
+        "uid" : "87e8b23f55b57138",
+        "parentUid" : "cb50c3e4b1128e4107863c30af04a128",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668551341490,
+          "stop" : 1668551415134,
+          "duration" : 73644
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 3,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cb50c3e4b1128e4107863c30af04a128"
+    }, {
+      "name" : "Failed: Index out of bound. Trying to access element at index: 0, but there are only 0 elements that match locator By(xpath, //span[text()='File'])",
+      "children" : [ {
+        "name" : "Verify that playbook list gets filtered with different combinations of TAGS filter-Light",
+        "uid" : "3bcfa0c696958c7",
+        "parentUid" : "df884b173d8de31c770a0953c58b68ad",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668552749095,
+          "stop" : 1668552804071,
+          "duration" : 54976
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 3,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify that playbook list gets filtered with different combinations of TAGS filter-Dark",
+        "uid" : "576e0015ddda5f03",
+        "parentUid" : "df884b173d8de31c770a0953c58b68ad",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668583908898,
+          "stop" : 1668583969992,
+          "duration" : 61094
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "df884b173d8de31c770a0953c58b68ad"
+    }, {
+      "name" : "Failed: No element found using locator: By(xpath, //button[text()='Created On ']//em)",
+      "children" : [ {
+        "name" : "Verify that playbook list gets filtered correctly for different combinations of Created on and Updated on filter-Draft Playbooks-Light",
+        "uid" : "4263ef659e95db11",
+        "parentUid" : "f4d6a07e4874f02ee884e901f3e2b43a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668553280413,
+          "stop" : 1668553296252,
+          "duration" : 15839
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 3,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f4d6a07e4874f02ee884e901f3e2b43a"
+    }, {
+      "name" : "Failed: element click intercepted: Element <em _ngcontent-uqo-c172=\"\" aria-hidden=\"true\" class=\"icon-close\"></em> is not clickable at point (997, 90). Other element would receive the click: <div id=\"noty_layout__topRight\" role=\"alert\" aria-live=\"polite\" class=\"noty_layout\">...</div>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "children" : [ {
+        "name" : "Verify that playbook list gets filtered correctly for different combinations of Created on and Updated on filter-Published Playbooks-Light",
+        "uid" : "caf46cbf97ae0ff",
+        "parentUid" : "60343b8d1ff020f020a63fac5889edfb",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668553296252,
+          "stop" : 1668553307835,
+          "duration" : 11583
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 3,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "60343b8d1ff020f020a63fac5889edfb"
+    }, {
+      "name" : "Failed: element click intercepted: Element <button _ngcontent-slm-c197=\"\" rbac=\"\" entity=\"playbook_add\" checkentityprivileges=\"create\" class=\"btn btn-custom btn-primary btn-sm position-fixed header-btn-position\">...</button> is not clickable at point (1204, 25). Other element would receive the click: <span class=\"noty-icon\">...</span>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "children" : [ {
+        "name" : "Verify User is able to Copy Draft Playbook-Dark",
+        "uid" : "dc3e8c247fd96d58",
+        "parentUid" : "4d828d2318f2d2566ade947bb9192ee1",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668575992499,
+          "stop" : 1668576013990,
+          "duration" : 21491
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4d828d2318f2d2566ade947bb9192ee1"
+    }, {
+      "name" : "Failed: element click intercepted: Element <button type=\"button\" class=\"btn btn-custom btn-primary btn-icons btn-tiny-icon\">...</button> is not clickable at point (25, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "children" : [ {
+        "name" : "Verify that deleting internal function block from main canvas area, closes the right panel and removes block from main canvas area-Dark",
+        "uid" : "d70d005f39e5774b",
+        "parentUid" : "902f0a09e6f9cd91ce81edf83824cd54",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668579788347,
+          "stop" : 1668579832922,
+          "duration" : 44575
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "902f0a09e6f9cd91ce81edf83824cd54"
+    }, {
+      "name" : "Failed: No element found using locator: By(xpath, //div[@class='mini-canvas-view']//*[name()='svg'])",
+      "children" : [ {
+        "name" : "Verify that User is able to see Mini canvas area in the left panel of Playbook Editor page-Dark",
+        "uid" : "7b1f490101c8f443",
+        "parentUid" : "2d06352147e5187f40740ad34b5d5ee6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668580167099,
+          "stop" : 1668580255298,
+          "duration" : 88199
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2d06352147e5187f40740ad34b5d5ee6"
+    }, {
+      "name" : "Failed: element click intercepted: Element <button _ngcontent-qaa-c201=\"\" type=\"button\" aria-label=\"Delete\" tooltip=\"Delete\" placement=\"bottom\" class=\"btn btn-custom btn-transparent btn-icons ml-3\">...</button> is not clickable at point (1325, 74). Other element would receive the click: <span class=\"noty-msg\">...</span>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "children" : [ {
+        "name" : "Verify that user is able to delete Decision block from its right panel after filling the decision right panel and adding it-Dark",
+        "uid" : "581714ab192b13a3",
+        "parentUid" : "fe9f84908e8b2788048d011dd400a121",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668581195858,
+          "stop" : 1668581240454,
+          "duration" : 44596
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fe9f84908e8b2788048d011dd400a121"
+    }, {
+      "name" : "Failed: stale element reference: element is not attached to the page document\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "children" : [ {
+        "name" : "Verify that message 'No matching function found' is shown below Search field inside FUNCTION field of Editable external function block right panel, when user searches for non-existing external function-Dark",
+        "uid" : "f3678f23010c7432",
+        "parentUid" : "ca1931908487a8d660d1454646d7be9f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668582329285,
+          "stop" : 1668582393522,
+          "duration" : 64237
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ca1931908487a8d660d1454646d7be9f"
+    }, {
+      "name" : "Failed: element click intercepted: Element <button _ngcontent-hau-c179=\"\" rbac=\"\" entity=\"playbook_add\" checkentityprivileges=\"create\" class=\"btn btn-custom btn-primary btn-sm position-fixed header-btn-position\">...</button> is not clickable at point (1204, 25). Other element would receive the click: <span class=\"noty-msg\">...</span>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "children" : [ {
+        "name" : "Verify User is able to delete individual Draft Playbook, multiple draft playbooks and all draft playbooks using checkbox-Dark",
+        "uid" : "5564dbc6dee9201a",
+        "parentUid" : "331b75c96104d0666139d0ee40bc89c1",
+        "status" : "failed",
+        "time" : {
+          "start" : 1668583832666,
+          "stop" : 1668583908898,
+          "duration" : 76232
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "331b75c96104d0666139d0ee40bc89c1"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

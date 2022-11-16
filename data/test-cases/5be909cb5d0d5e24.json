@@ -1,0 +1,50 @@
+{
+  "uid" : "5be909cb5d0d5e24",
+  "name" : "Verify that on top of Base Alerts List tables 'Base Alerts (n)' title is shown with count in brackets-Light",
+  "fullName" : "Incident Test Light theme.Verify that on top of Base Alerts List tables 'Base Alerts (n)' title is shown with count in brackets-Light",
+  "historyId" : "9fcfdf5ff05637a7a3689532f00a8137",
+  "time" : {
+    "start" : 1668427923215,
+    "stop" : 1668427950678,
+    "duration" : 27463
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that on top of Base Alerts List tables 'Base Alerts (n)' title is shown with count in brackets-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5be909cb5d0d5e24.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "9cb4a9e5b26eef44",
+  "name" : "Verify that by default Base Alerts view table shows all base alerts of Last 7 days in descending order of Created On-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that by default Base Alerts view table shows all base alerts of Last 7 days in descending order of Created On-Dark",
+  "historyId" : "133febcca4b76b720b136135fcb45d28",
+  "time" : {
+    "start" : 1668431644783,
+    "stop" : 1668431704694,
+    "duration" : 59911
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that by default Base Alerts view table shows all base alerts of Last 7 days in descending order of Created On-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9cb4a9e5b26eef44.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "44e564df7fde7a4d",
+  "name" : "Verify that clicking on Cross icon (Close) in Add Filter window closes the Add Filter window-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that clicking on Cross icon (Close) in Add Filter window closes the Add Filter window-Dark",
+  "historyId" : "fb29afa3060c9fb332c0aaaf563ea217",
+  "time" : {
+    "start" : 1668421429403,
+    "stop" : 1668421472032,
+    "duration" : 42629
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Cross icon (Close) in Add Filter window closes the Add Filter window-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "44e564df7fde7a4d.json",
+  "parameterValues" : [ ]
+}

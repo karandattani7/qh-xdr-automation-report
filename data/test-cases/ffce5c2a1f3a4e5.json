@@ -1,0 +1,66 @@
+{
+  "uid" : "ffce5c2a1f3a4e5",
+  "name" : "Verify that User is able to remove tags by clicking on cross icon of selected tag in Tags field of Create Playbook form-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to remove tags by clicking on cross icon of selected tag in Tags field of Create Playbook form-Dark",
+  "historyId" : "37e29deb707b265bebbcbcecb94845b6",
+  "time" : {
+    "start" : 1668575636034,
+    "stop" : 1668575662334,
+    "duration" : 26300
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to remove tags by clicking on cross icon of selected tag in Tags field of Create Playbook form-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a2b49c319c9afcda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668544305843,
+        "stop" : 1668544330013,
+        "duration" : 24170
+      }
+    }, {
+      "uid" : "8f5fd40f04ff204d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668419739441,
+        "stop" : 1668419764323,
+        "duration" : 24882
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ffce5c2a1f3a4e5.json",
+  "parameterValues" : [ ]
+}

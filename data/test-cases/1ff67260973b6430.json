@@ -1,0 +1,48 @@
+{
+  "uid" : "1ff67260973b6430",
+  "name" : "Verify that user is able to update Priority from Incident summary right panel using Incident Priority modal-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that user is able to update Priority from Incident summary right panel using Incident Priority modal-Dark",
+  "historyId" : "74660c0c6c9b4a2ff04beaf626fe42f6",
+  "time" : {
+    "start" : 1668431177089,
+    "stop" : 1668431216140,
+    "duration" : 39051
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to update Priority from Incident summary right panel using Incident Priority modal-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1ff67260973b6430.json",
+  "parameterValues" : [ ]
+}

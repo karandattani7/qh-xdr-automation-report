@@ -1,0 +1,67 @@
+{
+  "uid" : "88f85682f43ebf9c",
+  "name" : "Verify that clicking on create playbook in empty state should redirect to create playbook form from draft playbooks tab-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that clicking on create playbook in empty state should redirect to create playbook form from draft playbooks tab-Dark",
+  "historyId" : "a6aebde2288e113aa1d10262dd4a24a",
+  "time" : {
+    "start" : 1668574975131,
+    "stop" : 1668575020555,
+    "duration" : 45424
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on create playbook in empty state should redirect to create playbook form from draft playbooks tab-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b9b07a477b398ff6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668543681996,
+        "stop" : 1668543725709,
+        "duration" : 43713
+      }
+    }, {
+      "uid" : "ef48e26f1c856d92",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[text()='Playbooks'])",
+      "time" : {
+        "start" : 1668419119246,
+        "stop" : 1668419143628,
+        "duration" : 24382
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "88f85682f43ebf9c.json",
+  "parameterValues" : [ ]
+}

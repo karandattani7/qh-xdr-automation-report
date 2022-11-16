@@ -1,0 +1,66 @@
+{
+  "uid" : "80c6ebec1ca271f5",
+  "name" : "Verify that Copy icon is shown in front of SESSION ID for each alert in User List view-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that Copy icon is shown in front of SESSION ID for each alert in User List view-Dark",
+  "historyId" : "5be9c50ff6a7e7fca6946894554dbf51",
+  "time" : {
+    "start" : 1668503026342,
+    "stop" : 1668503520467,
+    "duration" : 494125
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Copy icon is shown in front of SESSION ID for each alert in User List view-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f9c334e81c4fd78d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668432791966,
+        "stop" : 1668432941245,
+        "duration" : 149279
+      }
+    }, {
+      "uid" : "c4469fac2c8d5398",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668417892472,
+        "stop" : 1668418048300,
+        "duration" : 155828
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "80c6ebec1ca271f5.json",
+  "parameterValues" : [ ]
+}

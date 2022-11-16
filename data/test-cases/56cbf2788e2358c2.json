@@ -1,0 +1,67 @@
+{
+  "uid" : "56cbf2788e2358c2",
+  "name" : "Verify that after adding a external function, the right panel should show read only view of the added function with edit button and Name should be displayed in main canvas area-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that after adding a external function, the right panel should show read only view of the added function with edit button and Name should be displayed in main canvas area-Dark",
+  "historyId" : "89eef0a0445ccdbbad8a50bcb3f4c25e",
+  "time" : {
+    "start" : 1668579330494,
+    "stop" : 1668579379925,
+    "duration" : 49431
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that after adding a external function, the right panel should show read only view of the added function with edit button and Name should be displayed in main canvas area-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d8fa747709e25819",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668545861659,
+        "stop" : 1668545865063,
+        "duration" : 3404
+      }
+    }, {
+      "uid" : "c0eda773135a7d07",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668423341359,
+        "stop" : 1668423389416,
+        "duration" : 48057
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "56cbf2788e2358c2.json",
+  "parameterValues" : [ ]
+}

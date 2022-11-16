@@ -1,0 +1,67 @@
+{
+  "uid" : "c885ecf71f05fee8",
+  "name" : "Verify that User is able to resize the mini canvas blue window on the Playbook Editor page-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to resize the mini canvas blue window on the Playbook Editor page-Dark",
+  "historyId" : "c4f2a5bdbe1573706815856cb1f805ef",
+  "time" : {
+    "start" : 1668583302056,
+    "stop" : 1668583353370,
+    "duration" : 51314
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to resize the mini canvas blue window on the Playbook Editor page-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "98ded07866ffea31",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668546082161,
+        "stop" : 1668546085566,
+        "duration" : 3405
+      }
+    }, {
+      "uid" : "be4b1f9954964b8c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668426916164,
+        "stop" : 1668426963775,
+        "duration" : 47611
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c885ecf71f05fee8.json",
+  "parameterValues" : [ ]
+}

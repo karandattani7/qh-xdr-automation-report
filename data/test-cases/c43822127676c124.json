@@ -1,0 +1,76 @@
+{
+  "uid" : "c43822127676c124",
+  "name" : "Verify that decision right panel is opened when user clicks on Decision Block when right panel is in collapsed state-Light",
+  "fullName" : "Playbook Test Light theme.Verify that decision right panel is opened when user clicks on Decision Block when right panel is in collapsed state-Light",
+  "historyId" : "96c087bc57fb15397b965e7f93a288f2",
+  "time" : {
+    "start" : 1668550605776,
+    "stop" : 1668550642176,
+    "duration" : 36400
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that decision right panel is opened when user clicks on Decision Block when right panel is in collapsed state-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d5b4ea6c57130655",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668516665431,
+        "stop" : 1668516669600,
+        "duration" : 4169
+      }
+    }, {
+      "uid" : "33128a84127e844b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668505105342,
+        "stop" : 1668505142693,
+        "duration" : 37351
+      }
+    }, {
+      "uid" : "9cb902a6dd8a077a",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504519769,
+        "stop" : 1668504524242,
+        "duration" : 4473
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c43822127676c124.json",
+  "parameterValues" : [ ]
+}

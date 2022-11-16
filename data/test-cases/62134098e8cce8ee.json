@@ -1,0 +1,48 @@
+{
+  "uid" : "62134098e8cce8ee",
+  "name" : "Verify Tags column does not show more than 5 tags in Draft Playbooks list-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify Tags column does not show more than 5 tags in Draft Playbooks list-Dark",
+  "historyId" : "2236885f6d828a30385152d58c6ce706",
+  "time" : {
+    "start" : 1668418986593,
+    "stop" : 1668419015237,
+    "duration" : 28644
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Tags column does not show more than 5 tags in Draft Playbooks list-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "62134098e8cce8ee.json",
+  "parameterValues" : [ ]
+}

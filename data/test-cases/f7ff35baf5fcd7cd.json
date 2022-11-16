@@ -1,0 +1,50 @@
+{
+  "uid" : "f7ff35baf5fcd7cd",
+  "name" : "Verify that Base Alerts list table has 5 columns with expected column names in expected order-Light",
+  "fullName" : "Incident Test Light theme.Verify that Base Alerts list table has 5 columns with expected column names in expected order-Light",
+  "historyId" : "5cb0a3bc88e17ca7b6f194b613294670",
+  "time" : {
+    "start" : 1668427556644,
+    "stop" : 1668427595224,
+    "duration" : 38580
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Base Alerts list table has 5 columns with expected column names in expected order-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f7ff35baf5fcd7cd.json",
+  "parameterValues" : [ ]
+}

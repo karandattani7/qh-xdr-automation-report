@@ -1,0 +1,66 @@
+{
+  "uid" : "4af17d7721c86ee0",
+  "name" : "Verify that user is able to sort incidents list in ascending order and descending order of CREATED ON column-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that user is able to sort incidents list in ascending order and descending order of CREATED ON column-Dark",
+  "historyId" : "bf3d7bcef5f4aeb06228461ca5a248cf",
+  "time" : {
+    "start" : 1668502114101,
+    "stop" : 1668502191671,
+    "duration" : 77570
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to sort incidents list in ascending order and descending order of CREATED ON column-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ab737f09dc6c643",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668431738570,
+        "stop" : 1668431829564,
+        "duration" : 90994
+      }
+    }, {
+      "uid" : "bb6386e8d72ee8ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668416868363,
+        "stop" : 1668416963587,
+        "duration" : 95224
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4af17d7721c86ee0.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "16b561bb005e6308",
+  "name" : "Verify that User is able to move the blocks which are added/dragged to Main Canvas area in the Playbook Editor page-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to move the blocks which are added/dragged to Main Canvas area in the Playbook Editor page-Dark",
+  "historyId" : "a707a1184b85e5c5246962e6e4b4f87f",
+  "time" : {
+    "start" : 1668424402101,
+    "stop" : 1668424456205,
+    "duration" : 54104
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to move the blocks which are added/dragged to Main Canvas area in the Playbook Editor page-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "16b561bb005e6308.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,50 @@
+{
+  "uid" : "17f3b92458c5abb6",
+  "name" : "Verify that in Incidents List view, the heading *Severity is shown on top right of Severity wise count distribution box-Light",
+  "fullName" : "Incident Test Light theme.Verify that in Incidents List view, the heading *Severity is shown on top right of Severity wise count distribution box-Light",
+  "historyId" : "a214b9cbb8b1fd2b7f53652b9cca50eb",
+  "time" : {
+    "start" : 1668432672747,
+    "stop" : 1668432708703,
+    "duration" : 35956
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Incidents List view, the heading *Severity is shown on top right of Severity wise count distribution box-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "17f3b92458c5abb6.json",
+  "parameterValues" : [ ]
+}

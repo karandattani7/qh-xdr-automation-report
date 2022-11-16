@@ -1,0 +1,48 @@
+{
+  "uid" : "cfb45368516b1534",
+  "name" : "Verify that playbook list gets filtered correctly for different combinations of triggers filter-Light",
+  "fullName" : "Playbook Test Light theme.Verify that playbook list gets filtered correctly for different combinations of triggers filter-Light",
+  "historyId" : "e54e96f00fcd367ae6bfb3d619e2b666",
+  "time" : {
+    "start" : 1668507397242,
+    "stop" : 1668507650013,
+    "duration" : 252771
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that playbook list gets filtered correctly for different combinations of triggers filter-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cfb45368516b1534.json",
+  "parameterValues" : [ ]
+}

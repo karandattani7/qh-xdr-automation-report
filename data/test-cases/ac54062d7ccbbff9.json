@@ -1,0 +1,50 @@
+{
+  "uid" : "ac54062d7ccbbff9",
+  "name" : "Verify that playbook list gets filtered with different combinations of TAGS filter-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that playbook list gets filtered with different combinations of TAGS filter-Dark",
+  "historyId" : "b495a4ff426265d53d360cd69aec836",
+  "time" : {
+    "start" : 1668427505643,
+    "stop" : 1668427505645,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that playbook list gets filtered with different combinations of TAGS filter-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ac54062d7ccbbff9.json",
+  "parameterValues" : [ ]
+}

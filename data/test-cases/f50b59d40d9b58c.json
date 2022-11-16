@@ -1,0 +1,66 @@
+{
+  "uid" : "f50b59d40d9b58c",
+  "name" : "Verify that after 5 tags are selected the other tag checkboxes are disabled in Tags field of Create Playbook form-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that after 5 tags are selected the other tag checkboxes are disabled in Tags field of Create Playbook form-Dark",
+  "historyId" : "c4c2a96a1ea47cf07e673978c6dd66cd",
+  "time" : {
+    "start" : 1668575281590,
+    "stop" : 1668575312165,
+    "duration" : 30575
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that after 5 tags are selected the other tag checkboxes are disabled in Tags field of Create Playbook form-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "260f07b7a075005e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668543973857,
+        "stop" : 1668544002744,
+        "duration" : 28887
+      }
+    }, {
+      "uid" : "a4a99dfcec08f5b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668419399332,
+        "stop" : 1668419428121,
+        "duration" : 28789
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f50b59d40d9b58c.json",
+  "parameterValues" : [ ]
+}

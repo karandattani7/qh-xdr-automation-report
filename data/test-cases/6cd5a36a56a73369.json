@@ -1,0 +1,48 @@
+{
+  "uid" : "6cd5a36a56a73369",
+  "name" : "Verify User is able to switch between Published Playbooks and Draft Playbooks tab-Light",
+  "fullName" : "Playbook Test Light theme.Verify User is able to switch between Published Playbooks and Draft Playbooks tab-Light",
+  "historyId" : "2d6c2698cc3834d1b793fef4e6c24545",
+  "time" : {
+    "start" : 1668501356832,
+    "stop" : 1668501387039,
+    "duration" : 30207
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User is able to switch between Published Playbooks and Draft Playbooks tab-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6cd5a36a56a73369.json",
+  "parameterValues" : [ ]
+}

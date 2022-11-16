@@ -1,0 +1,67 @@
+{
+  "uid" : "2b2cb5938615c0eb",
+  "name" : "Verify that user is able to see right panel of Decision block when user drags and drops the decision block from left panel of Playbook Editor-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that user is able to see right panel of Decision block when user drags and drops the decision block from left panel of Playbook Editor-Dark",
+  "historyId" : "51f897612ad8f6b7c8d019f551f65922",
+  "time" : {
+    "start" : 1668580579175,
+    "stop" : 1668580631726,
+    "duration" : 52551
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to see right panel of Decision block when user drags and drops the decision block from left panel of Playbook Editor-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e1be6e9465017a00",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668545939810,
+        "stop" : 1668545943260,
+        "duration" : 3450
+      }
+    }, {
+      "uid" : "3602f1568189159d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668424456206,
+        "stop" : 1668424509669,
+        "duration" : 53463
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2b2cb5938615c0eb.json",
+  "parameterValues" : [ ]
+}

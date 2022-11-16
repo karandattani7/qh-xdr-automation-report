@@ -1,0 +1,48 @@
+{
+  "uid" : "371a8e61f7493b3d",
+  "name" : "Verify that user is able to see right panel of Filter block when user drags and drops the Filter block from left panel of Playbook Editor-Light",
+  "fullName" : "Playbook Test Light theme.Verify that user is able to see right panel of Filter block when user drags and drops the Filter block from left panel of Playbook Editor-Light",
+  "historyId" : "cb46d8dd1caff7080b638525513a624e",
+  "time" : {
+    "start" : 1668503876185,
+    "stop" : 1668503930375,
+    "duration" : 54190
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to see right panel of Filter block when user drags and drops the Filter block from left panel of Playbook Editor-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "371a8e61f7493b3d.json",
+  "parameterValues" : [ ]
+}

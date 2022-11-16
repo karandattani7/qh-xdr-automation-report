@@ -1,0 +1,48 @@
+{
+  "uid" : "cc12078b022db5a8",
+  "name" : "Verify that user is able to add note successfully for a particular incident using Add Note modal-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that user is able to add note successfully for a particular incident using Add Note modal-Dark",
+  "historyId" : "fde783a18073f7c9a4d95accc303e897",
+  "time" : {
+    "start" : 1668430760938,
+    "stop" : 1668430806132,
+    "duration" : 45194
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to add note successfully for a particular incident using Add Note modal-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cc12078b022db5a8.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "a4c659b5f0baac70",
+  "name" : "Verify User should be able to sort playbooks based on Created On and Updated On column in ascending and descending order in Draft Playbooks-Light",
+  "fullName" : "Playbook Test Light theme.Verify User should be able to sort playbooks based on Created On and Updated On column in ascending and descending order in Draft Playbooks-Light",
+  "historyId" : "9c702abb263083f13f56d67e96f9a6c0",
+  "time" : {
+    "start" : 1668501773908,
+    "stop" : 1668501863572,
+    "duration" : 89664
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User should be able to sort playbooks based on Created On and Updated On column in ascending and descending order in Draft Playbooks-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a4c659b5f0baac70.json",
+  "parameterValues" : [ ]
+}

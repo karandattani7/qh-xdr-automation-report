@@ -1,0 +1,48 @@
+{
+  "uid" : "669c6c048ca6937",
+  "name" : "Verify that User is able to switch between AVAILABLE FILTERS entities and see the listed attributes-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to switch between AVAILABLE FILTERS entities and see the listed attributes-Dark",
+  "historyId" : "a015e1bf5d7eb7c2148a2eb78dda6f4f",
+  "time" : {
+    "start" : 1668422866071,
+    "stop" : 1668422919295,
+    "duration" : 53224
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to switch between AVAILABLE FILTERS entities and see the listed attributes-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "669c6c048ca6937.json",
+  "parameterValues" : [ ]
+}

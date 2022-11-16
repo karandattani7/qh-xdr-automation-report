@@ -1,0 +1,48 @@
+{
+  "uid" : "44653c8df2e723e",
+  "name" : "Verify that given filter name by user is reflected on main canvas area on filter block after addition-Light",
+  "fullName" : "Playbook Test Light theme.Verify that given filter name by user is reflected on main canvas area on filter block after addition-Light",
+  "historyId" : "a86fe495f58e7ea8bb0ed7915128f25f",
+  "time" : {
+    "start" : 1668502931124,
+    "stop" : 1668503005611,
+    "duration" : 74487
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that given filter name by user is reflected on main canvas area on filter block after addition-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "44653c8df2e723e.json",
+  "parameterValues" : [ ]
+}

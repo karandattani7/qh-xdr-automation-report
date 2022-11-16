@@ -1,0 +1,76 @@
+{
+  "uid" : "7c3df6c56a3852fb",
+  "name" : "Verify that User is able to click, drag and drop the available blocks to main canvas area of Playbook Editor page-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to click, drag and drop the available blocks to main canvas area of Playbook Editor page-Light",
+  "historyId" : "38228d6e1c35ee7751d4222f477f11e3",
+  "time" : {
+    "start" : 1668549152769,
+    "stop" : 1668549192206,
+    "duration" : 39437
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to click, drag and drop the available blocks to main canvas area of Playbook Editor page-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a442ae8bdd99466e",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668516552304,
+        "stop" : 1668516556458,
+        "duration" : 4154
+      }
+    }, {
+      "uid" : "fb1369b5ed17a819",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504400003,
+        "stop" : 1668504404295,
+        "duration" : 4292
+      }
+    }, {
+      "uid" : "bc4081657ea3fe81",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668503478207,
+        "stop" : 1668503522270,
+        "duration" : 44063
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7c3df6c56a3852fb.json",
+  "parameterValues" : [ ]
+}

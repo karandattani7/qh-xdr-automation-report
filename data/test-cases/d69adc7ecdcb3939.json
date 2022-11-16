@@ -1,0 +1,48 @@
+{
+  "uid" : "d69adc7ecdcb3939",
+  "name" : "Verify that clicking on > < icon, collapses and expands the right panel on the Playbook Editor page-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that clicking on > < icon, collapses and expands the right panel on the Playbook Editor page-Dark",
+  "historyId" : "a380151e7e811854d51e5beef52b9d58",
+  "time" : {
+    "start" : 1668545505700,
+    "stop" : 1668545547610,
+    "duration" : 41910
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on > < icon, collapses and expands the right panel on the Playbook Editor page-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d69adc7ecdcb3939.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "b840cc805f439ab6",
+  "name" : "Verify the list of quick filters is correctly displayed in search filter component of User List view-Dark",
+  "fullName" : "Incident Test Dark theme.Verify the list of quick filters is correctly displayed in search filter component of User List view-Dark",
+  "historyId" : "13b80e25d0bd895a03f16b141bbb8bb7",
+  "time" : {
+    "start" : 1668417735555,
+    "stop" : 1668417775971,
+    "duration" : 40416
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the list of quick filters is correctly displayed in search filter component of User List view-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b840cc805f439ab6.json",
+  "parameterValues" : [ ]
+}

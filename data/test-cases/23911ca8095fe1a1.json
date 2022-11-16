@@ -1,0 +1,50 @@
+{
+  "uid" : "23911ca8095fe1a1",
+  "name" : "Verify that User is able to remove selected filter from SELECTED FILTERS section using cross icon of selected filter in Playbook Output Filter window-Light",
+  "fullName" : "Incident Test Light theme.Verify that User is able to remove selected filter from SELECTED FILTERS section using cross icon of selected filter in Playbook Output Filter window-Light",
+  "historyId" : "e89a1756c70037ec004c14aae3c713d2",
+  "time" : {
+    "start" : 1668429807945,
+    "stop" : 1668429863005,
+    "duration" : 55060
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to remove selected filter from SELECTED FILTERS section using cross icon of selected filter in Playbook Output Filter window-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "23911ca8095fe1a1.json",
+  "parameterValues" : [ ]
+}

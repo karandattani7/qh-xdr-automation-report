@@ -1,0 +1,66 @@
+{
+  "uid" : "1232cd41a7f4efd4",
+  "name" : "Verify that User is able to search and apply quick filters in Incidents Timeline view-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that User is able to search and apply quick filters in Incidents Timeline view-Dark",
+  "historyId" : "ab85a343dba993c6efb526c22386b6c3",
+  "time" : {
+    "start" : 1668499355190,
+    "stop" : 1668499391762,
+    "duration" : 36572
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to search and apply quick filters in Incidents Timeline view-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ea76cd002a44ea24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668429197670,
+        "stop" : 1668429234546,
+        "duration" : 36876
+      }
+    }, {
+      "uid" : "cf03eff9783fd439",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668414171694,
+        "stop" : 1668414209858,
+        "duration" : 38164
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1232cd41a7f4efd4.json",
+  "parameterValues" : [ ]
+}

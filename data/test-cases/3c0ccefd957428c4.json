@@ -1,0 +1,50 @@
+{
+  "uid" : "3c0ccefd957428c4",
+  "name" : "Verify that User is able to switch between three connectors tab Enrichment, Ingestion and Response-Dark",
+  "fullName" : "Connector Test Dark theme.Verify that User is able to switch between three connectors tab Enrichment, Ingestion and Response-Dark",
+  "historyId" : "e1f7a550a49f8026724029f96467c67a",
+  "time" : {
+    "start" : 1668256576182,
+    "stop" : 1668256601692,
+    "duration" : 25510
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to switch between three connectors tab Enrichment, Ingestion and Response-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3c0ccefd957428c4.json",
+  "parameterValues" : [ ]
+}

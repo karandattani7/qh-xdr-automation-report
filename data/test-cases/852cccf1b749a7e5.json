@@ -1,0 +1,66 @@
+{
+  "uid" : "852cccf1b749a7e5",
+  "name" : "Verify that Search field also gets collapsed when Available Parameters is collapsed in Create Playbook form -Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that Search field also gets collapsed when Available Parameters is collapsed in Create Playbook form -Dark",
+  "historyId" : "cc1d54e92975d5ec7c0fa6ecf2782a11",
+  "time" : {
+    "start" : 1668575422190,
+    "stop" : 1668575446319,
+    "duration" : 24129
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Search field also gets collapsed when Available Parameters is collapsed in Create Playbook form -Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2ceef37823b87ea5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668544106074,
+        "stop" : 1668544129170,
+        "duration" : 23096
+      }
+    }, {
+      "uid" : "19e829e61ebc6721",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668419532739,
+        "stop" : 1668419555954,
+        "duration" : 23215
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "852cccf1b749a7e5.json",
+  "parameterValues" : [ ]
+}

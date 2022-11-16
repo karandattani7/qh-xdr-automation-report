@@ -1,0 +1,48 @@
+{
+  "uid" : "49cd5afbd705543a",
+  "name" : "Verify that hovering on dragged 'Call External Function' block in main canvas area shows Edit and Delete icon-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that hovering on dragged 'Call External Function' block in main canvas area shows Edit and Delete icon-Dark",
+  "historyId" : "f1839eee2c9c54beb35230b11f57882a",
+  "time" : {
+    "start" : 1668423107512,
+    "stop" : 1668423155200,
+    "duration" : 47688
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that hovering on dragged 'Call External Function' block in main canvas area shows Edit and Delete icon-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "49cd5afbd705543a.json",
+  "parameterValues" : [ ]
+}

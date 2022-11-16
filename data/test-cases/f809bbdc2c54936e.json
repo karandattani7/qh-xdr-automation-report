@@ -1,0 +1,66 @@
+{
+  "uid" : "f809bbdc2c54936e",
+  "name" : "Verify that user is able to filter incidents list by single priority and multiple priority-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that user is able to filter incidents list by single priority and multiple priority-Dark",
+  "historyId" : "bf79cf522ddefaa26f45784c97bb8888",
+  "time" : {
+    "start" : 1668500139899,
+    "stop" : 1668500225967,
+    "duration" : 86068
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to filter incidents list by single priority and multiple priority-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c39a89ab9f3eefb5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668429981859,
+        "stop" : 1668430037102,
+        "duration" : 55243
+      }
+    }, {
+      "uid" : "9cbef9a15e3b9801",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668414968727,
+        "stop" : 1668415022076,
+        "duration" : 53349
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f809bbdc2c54936e.json",
+  "parameterValues" : [ ]
+}

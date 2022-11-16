@@ -1,0 +1,50 @@
+{
+  "uid" : "7cb7c6a625343b4b",
+  "name" : "Verify scroll up and down using up and down arrow key in Draft Playbooks list-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify scroll up and down using up and down arrow key in Draft Playbooks list-Dark",
+  "historyId" : "3f6b85866a66d8dee8eb5968e532e6ca",
+  "time" : {
+    "start" : 1668543296281,
+    "stop" : 1668543296284,
+    "duration" : 3
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify scroll up and down using up and down arrow key in Draft Playbooks list-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7cb7c6a625343b4b.json",
+  "parameterValues" : [ ]
+}

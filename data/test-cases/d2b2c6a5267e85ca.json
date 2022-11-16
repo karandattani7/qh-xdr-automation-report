@@ -1,0 +1,77 @@
+{
+  "uid" : "d2b2c6a5267e85ca",
+  "name" : "Verify that the values filled in filter block right panel is correctly shown, in its read only view right panel-Light",
+  "fullName" : "Playbook Test Light theme.Verify that the values filled in filter block right panel is correctly shown, in its read only view right panel-Light",
+  "historyId" : "d8b80f09a434b27d69529f411a6399dd",
+  "time" : {
+    "start" : 1668549979517,
+    "stop" : 1668550057322,
+    "duration" : 77805
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that the values filled in filter block right panel is correctly shown, in its read only view right panel-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "cd3ef10528818ffb",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668516623481,
+        "stop" : 1668516627694,
+        "duration" : 4213
+      }
+    }, {
+      "uid" : "9961c005457b469f",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504475126,
+        "stop" : 1668504479560,
+        "duration" : 4434
+      }
+    }, {
+      "uid" : "e66e7a4c8a8b892f",
+      "status" : "failed",
+      "statusDetails" : "Failed: element not interactable\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668504407314,
+        "stop" : 1668504464046,
+        "duration" : 56732
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d2b2c6a5267e85ca.json",
+  "parameterValues" : [ ]
+}

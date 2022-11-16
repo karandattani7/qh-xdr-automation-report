@@ -1,0 +1,50 @@
+{
+  "uid" : "e8068d0660797ce1",
+  "name" : "Verify that details of connector in right panel matches with the selected connector row in Connectors list-Dark",
+  "fullName" : "Connector Test Dark theme.Verify that details of connector in right panel matches with the selected connector row in Connectors list-Dark",
+  "historyId" : "3882b35a9ecbbaa75c5026352d1e71f8",
+  "time" : {
+    "start" : 1668256870282,
+    "stop" : 1668256907446,
+    "duration" : 37164
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that details of connector in right panel matches with the selected connector row in Connectors list-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e8068d0660797ce1.json",
+  "parameterValues" : [ ]
+}

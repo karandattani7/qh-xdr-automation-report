@@ -1,0 +1,48 @@
+{
+  "uid" : "6297eb3676181dae",
+  "name" : "Verify that a success toast notification is shown after severity of base alert is updated from Base Alert summary right panel-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that a success toast notification is shown after severity of base alert is updated from Base Alert summary right panel-Dark",
+  "historyId" : "475b3e881144fd8d70fa47555531ac15",
+  "time" : {
+    "start" : 1668432727575,
+    "stop" : 1668432769827,
+    "duration" : 42252
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that a success toast notification is shown after severity of base alert is updated from Base Alert summary right panel-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6297eb3676181dae.json",
+  "parameterValues" : [ ]
+}

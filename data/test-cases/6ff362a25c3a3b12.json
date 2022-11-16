@@ -1,0 +1,48 @@
+{
+  "uid" : "6ff362a25c3a3b12",
+  "name" : "Verify that 5 blocks are there in the left panel of available blocks in the Playbook Editor page-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that 5 blocks are there in the left panel of available blocks in the Playbook Editor page-Dark",
+  "historyId" : "53751ed65b23510d5fc4d774ecf96865",
+  "time" : {
+    "start" : 1668422919295,
+    "stop" : 1668422961098,
+    "duration" : 41803
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that 5 blocks are there in the left panel of available blocks in the Playbook Editor page-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6ff362a25c3a3b12.json",
+  "parameterValues" : [ ]
+}

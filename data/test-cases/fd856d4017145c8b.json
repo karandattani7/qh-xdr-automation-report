@@ -1,0 +1,66 @@
+{
+  "uid" : "fd856d4017145c8b",
+  "name" : "Verify that clicking on > < icon, collapses and expands the right panel on the Playbook Editor page-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that clicking on > < icon, collapses and expands the right panel on the Playbook Editor page-Dark",
+  "historyId" : "a380151e7e811854d51e5beef52b9d58",
+  "time" : {
+    "start" : 1668576895190,
+    "stop" : 1668576935227,
+    "duration" : 40037
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on > < icon, collapses and expands the right panel on the Playbook Editor page-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d69adc7ecdcb3939",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668545505700,
+        "stop" : 1668545547610,
+        "duration" : 41910
+      }
+    }, {
+      "uid" : "7f4e3e01783a27f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668420960141,
+        "stop" : 1668420998734,
+        "duration" : 38593
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fd856d4017145c8b.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,75 @@
+{
+  "uid" : "2f399bc934b1f001",
+  "name" : "Verify that User is able to clear search field using cross (x) icon after selecting playbook.name with non-existing playbook name value in Draft Playbooks tab-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to clear search field using cross (x) icon after selecting playbook.name with non-existing playbook name value in Draft Playbooks tab-Light",
+  "historyId" : "6ec8c3c70e2b2e1bd508f5da9b0d1468",
+  "time" : {
+    "start" : 1668545956451,
+    "stop" : 1668545992494,
+    "duration" : 36043
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to clear search field using cross (x) icon after selecting playbook.name with non-existing playbook name value in Draft Playbooks tab-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "762a3bc151921275",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668512504373,
+        "stop" : 1668512541306,
+        "duration" : 36933
+      }
+    }, {
+      "uid" : "f3a75a27c39d18d4",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504102243,
+        "stop" : 1668504106715,
+        "duration" : 4472
+      }
+    }, {
+      "uid" : "de7c54ff7c31c6c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668500167683,
+        "stop" : 1668500229577,
+        "duration" : 61894
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2f399bc934b1f001.json",
+  "parameterValues" : [ ]
+}

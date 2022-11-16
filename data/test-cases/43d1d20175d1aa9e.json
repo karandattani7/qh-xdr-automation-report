@@ -1,0 +1,66 @@
+{
+  "uid" : "43d1d20175d1aa9e",
+  "name" : "Verify that user is able to click, hold and move the rectangle slider box to left and right on the x-axis in timeline graph in Incident Timeline view-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that user is able to click, hold and move the rectangle slider box to left and right on the x-axis in timeline graph in Incident Timeline view-Dark",
+  "historyId" : "452a619612d14622dee000cc17289af4",
+  "time" : {
+    "start" : 1668501805004,
+    "stop" : 1668501834914,
+    "duration" : 29910
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to click, hold and move the rectangle slider box to left and right on the x-axis in timeline graph in Incident Timeline view-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4fadf28cba809cea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668431401962,
+        "stop" : 1668431432410,
+        "duration" : 30448
+      }
+    }, {
+      "uid" : "c1d0428c15cca454",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668416558084,
+        "stop" : 1668416588654,
+        "duration" : 30570
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "43d1d20175d1aa9e.json",
+  "parameterValues" : [ ]
+}

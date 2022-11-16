@@ -1,0 +1,74 @@
+{
+  "uid" : "1e259885a6030202",
+  "name" : "Verify that clearing the entered text in Search field of Available Parameters shows the complete list of Available Parameters again-Light",
+  "fullName" : "Playbook Test Light theme.Verify that clearing the entered text in Search field of Available Parameters shows the complete list of Available Parameters again-Light",
+  "historyId" : "4b3ffdb79215810956bb0d0f1ceabbcf",
+  "time" : {
+    "start" : 1668544744814,
+    "stop" : 1668544775916,
+    "duration" : 31102
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clearing the entered text in Search field of Available Parameters shows the complete list of Available Parameters again-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "72d3da47ee095720",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668511229959,
+        "stop" : 1668511264290,
+        "duration" : 34331
+      }
+    }, {
+      "uid" : "5990f13abf5bbba6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668502909631,
+        "stop" : 1668502943227,
+        "duration" : 33596
+      }
+    }, {
+      "uid" : "6df6fee3642e7aa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668498962774,
+        "stop" : 1668498993831,
+        "duration" : 31057
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1e259885a6030202.json",
+  "parameterValues" : [ ]
+}

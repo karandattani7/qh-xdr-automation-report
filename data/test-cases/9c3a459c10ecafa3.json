@@ -1,0 +1,74 @@
+{
+  "uid" : "9c3a459c10ecafa3",
+  "name" : "Verify that User is able to click and select an available parameters in Create Playbook form-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to click and select an available parameters in Create Playbook form-Light",
+  "historyId" : "f8637f6f98facf7a705f9477fc8e3b0f",
+  "time" : {
+    "start" : 1668544689021,
+    "stop" : 1668544714338,
+    "duration" : 25317
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to click and select an available parameters in Create Playbook form-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b97d7cfc74b8f1bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668511171189,
+        "stop" : 1668511197521,
+        "duration" : 26332
+      }
+    }, {
+      "uid" : "db0abd604ca88126",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668502850864,
+        "stop" : 1668502877515,
+        "duration" : 26651
+      }
+    }, {
+      "uid" : "eeeefc6aeb34e9b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668498906885,
+        "stop" : 1668498932356,
+        "duration" : 25471
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9c3a459c10ecafa3.json",
+  "parameterValues" : [ ]
+}

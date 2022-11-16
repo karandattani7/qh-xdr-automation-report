@@ -1,0 +1,74 @@
+{
+  "uid" : "460b9bf534780f95",
+  "name" : "Verify that User is able to save playbook with No triggers selected-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to save playbook with No triggers selected-Light",
+  "historyId" : "bece0ec2a878f85295bc26b0c9139b4",
+  "time" : {
+    "start" : 1668544945132,
+    "stop" : 1668544977325,
+    "duration" : 32193
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to save playbook with No triggers selected-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e9166655399536a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668511444028,
+        "stop" : 1668511477546,
+        "duration" : 33518
+      }
+    }, {
+      "uid" : "d7804d052eb573bc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668503124020,
+        "stop" : 1668503157075,
+        "duration" : 33055
+      }
+    }, {
+      "uid" : "cfd37315b8f45ac9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668499163533,
+        "stop" : 1668499195754,
+        "duration" : 32221
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "460b9bf534780f95.json",
+  "parameterValues" : [ ]
+}

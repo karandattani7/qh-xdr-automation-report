@@ -1,0 +1,48 @@
+{
+  "uid" : "19d1700fae16be2b",
+  "name" : "Verify that in Incident Right panel, clicking on 'Playbook Actions' enabled button shows upward dropdown with list of Playbooks and its status-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that in Incident Right panel, clicking on 'Playbook Actions' enabled button shows upward dropdown with list of Playbooks and its status-Dark",
+  "historyId" : "b88729838bf66c1ddc7d7b861945136",
+  "time" : {
+    "start" : 1668429573043,
+    "stop" : 1668429601879,
+    "duration" : 28836
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Incident Right panel, clicking on 'Playbook Actions' enabled button shows upward dropdown with list of Playbooks and its status-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "19d1700fae16be2b.json",
+  "parameterValues" : [ ]
+}

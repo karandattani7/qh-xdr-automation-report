@@ -1,0 +1,50 @@
+{
+  "uid" : "9e668c8bfae6f5d5",
+  "name" : "Verify that clicking on Edit Instance in Connector Details right panel opens Edit Instance form with pre-filled connector details-Light",
+  "fullName" : "Connector Test Light theme.Verify that clicking on Edit Instance in Connector Details right panel opens Edit Instance form with pre-filled connector details-Light",
+  "historyId" : "31d5a65e8ca9ee40edf82f642eee44cb",
+  "time" : {
+    "start" : 1668258676622,
+    "stop" : 1668258742069,
+    "duration" : 65447
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Edit Instance in Connector Details right panel opens Edit Instance form with pre-filled connector details-Light"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9e668c8bfae6f5d5.json",
+  "parameterValues" : [ ]
+}

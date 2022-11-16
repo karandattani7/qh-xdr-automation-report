@@ -1,0 +1,74 @@
+{
+  "uid" : "6f9ae9d3c3fe5bd9",
+  "name" : "Verify that clicking on 'No' button on Work not saved modal keeps User on Copy Playbook form (Draft Playbooks tab) when copying playbook-Light",
+  "fullName" : "Playbook Test Light theme.Verify that clicking on 'No' button on Work not saved modal keeps User on Copy Playbook form (Draft Playbooks tab) when copying playbook-Light",
+  "historyId" : "58de9367517370ebbafe4c1956cf9c60",
+  "time" : {
+    "start" : 1668545454048,
+    "stop" : 1668545477253,
+    "duration" : 23205
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on 'No' button on Work not saved modal keeps User on Copy Playbook form (Draft Playbooks tab) when copying playbook-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b708ce1d4c6c0ed6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668511979175,
+        "stop" : 1668512003844,
+        "duration" : 24669
+      }
+    }, {
+      "uid" : "3d7f81dc4d4b3d5b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668503650064,
+        "stop" : 1668503674780,
+        "duration" : 24716
+      }
+    }, {
+      "uid" : "48e63064e8d0a5c5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668499662937,
+        "stop" : 1668499686080,
+        "duration" : 23143
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6f9ae9d3c3fe5bd9.json",
+  "parameterValues" : [ ]
+}

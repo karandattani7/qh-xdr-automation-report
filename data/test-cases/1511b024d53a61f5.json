@@ -1,0 +1,50 @@
+{
+  "uid" : "1511b024d53a61f5",
+  "name" : "Verify SOC Manager  is able to view 1 week, 1 month and 3 months of timeframe breakpoint on 'Affected EndPoints & Users' widget on SOC Manager Dashboard Page.-Dark",
+  "fullName" : "Dashboard Test Dark theme-SOC Manager.Verify SOC Manager  is able to view 1 week, 1 month and 3 months of timeframe breakpoint on 'Affected EndPoints & Users' widget on SOC Manager Dashboard Page.-Dark",
+  "historyId" : "fc077c55294763ce9073e1b013579c0b",
+  "time" : {
+    "start" : 1668262039333,
+    "stop" : 1668262049925,
+    "duration" : 10592
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "testClass",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify SOC Manager  is able to view 1 week, 1 month and 3 months of timeframe breakpoint on 'Affected EndPoints & Users' widget on SOC Manager Dashboard Page.-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1511b024d53a61f5.json",
+  "parameterValues" : [ ]
+}

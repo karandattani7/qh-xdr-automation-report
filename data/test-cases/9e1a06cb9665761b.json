@@ -1,0 +1,48 @@
+{
+  "uid" : "9e1a06cb9665761b",
+  "name" : "Verify that user is able to filter incidents list by single severity and multiple severity-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that user is able to filter incidents list by single severity and multiple severity-Dark",
+  "historyId" : "c297eed4f08ae3088d0c42194a3a3084",
+  "time" : {
+    "start" : 1668430687871,
+    "stop" : 1668430711948,
+    "duration" : 24077
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to filter incidents list by single severity and multiple severity-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9e1a06cb9665761b.json",
+  "parameterValues" : [ ]
+}

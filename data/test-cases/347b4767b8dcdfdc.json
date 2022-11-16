@@ -1,0 +1,50 @@
+{
+  "uid" : "347b4767b8dcdfdc",
+  "name" : "Verify that 'This is a mandatory field' is shown below mandatory fields which are not filled when user clicks on 'Execute' button  in Playbook Actions modal-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that 'This is a mandatory field' is shown below mandatory fields which are not filled when user clicks on 'Execute' button  in Playbook Actions modal-Dark",
+  "historyId" : "34baff2271cdafb9f28ccd7a09045d46",
+  "time" : {
+    "start" : 1668414551866,
+    "stop" : 1668414551869,
+    "duration" : 3
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that 'This is a mandatory field' is shown below mandatory fields which are not filled when user clicks on 'Execute' button  in Playbook Actions modal-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "347b4767b8dcdfdc.json",
+  "parameterValues" : [ ]
+}

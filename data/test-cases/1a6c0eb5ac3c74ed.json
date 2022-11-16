@@ -1,0 +1,48 @@
+{
+  "uid" : "1a6c0eb5ac3c74ed",
+  "name" : "Verify that User is able to see Mini canvas area in the left panel of Playbook Editor page-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to see Mini canvas area in the left panel of Playbook Editor page-Light",
+  "historyId" : "e6fae11bce7e36e5e4f2c1a859489ccd",
+  "time" : {
+    "start" : 1668503442524,
+    "stop" : 1668503478207,
+    "duration" : 35683
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to see Mini canvas area in the left panel of Playbook Editor page-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1a6c0eb5ac3c74ed.json",
+  "parameterValues" : [ ]
+}

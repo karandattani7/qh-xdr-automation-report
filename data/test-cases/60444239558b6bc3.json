@@ -1,0 +1,50 @@
+{
+  "uid" : "60444239558b6bc3",
+  "name" : "Verify that the 'View Audit Report' and 'Add Note' icon is shown near 'Incident Summary' title in Incident Summary right panel-Light",
+  "fullName" : "Incident Test Light theme.Verify that the 'View Audit Report' and 'Add Note' icon is shown near 'Incident Summary' title in Incident Summary right panel-Light",
+  "historyId" : "d7142a89fec3c7aad6eca55f08fcc705",
+  "time" : {
+    "start" : 1668432708703,
+    "stop" : 1668432740373,
+    "duration" : 31670
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that the 'View Audit Report' and 'Add Note' icon is shown near 'Incident Summary' title in Incident Summary right panel-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "60444239558b6bc3.json",
+  "parameterValues" : [ ]
+}

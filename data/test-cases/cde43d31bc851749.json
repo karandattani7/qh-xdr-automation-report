@@ -1,0 +1,50 @@
+{
+  "uid" : "cde43d31bc851749",
+  "name" : "Verify that Search filter component is visible in Base Alerts tab of Incidents page-Light",
+  "fullName" : "Incident Test Light theme.Verify that Search filter component is visible in Base Alerts tab of Incidents page-Light",
+  "historyId" : "de4734bbe46830b0019652363cc86499",
+  "time" : {
+    "start" : 1668427850139,
+    "stop" : 1668427876663,
+    "duration" : 26524
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Search filter component is visible in Base Alerts tab of Incidents page-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cde43d31bc851749.json",
+  "parameterValues" : [ ]
+}

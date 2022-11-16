@@ -1,0 +1,74 @@
+{
+  "uid" : "6b6297e181e29f38",
+  "name" : "Verify empty view of draft playbooks page is displayed when the only single draft playbook is deleted from the list-Light",
+  "fullName" : "Playbook Test Light theme.Verify empty view of draft playbooks page is displayed when the only single draft playbook is deleted from the list-Light",
+  "historyId" : "28c81c29aa2dbc4a2704789003c58b83",
+  "time" : {
+    "start" : 1668544296558,
+    "stop" : 1668544317164,
+    "duration" : 20606
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify empty view of draft playbooks page is displayed when the only single draft playbook is deleted from the list-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "23fca9cd9254962b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668510733640,
+        "stop" : 1668510755341,
+        "duration" : 21701
+      }
+    }, {
+      "uid" : "84f72e4ae3a165dc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668502480120,
+        "stop" : 1668502501870,
+        "duration" : 21750
+      }
+    }, {
+      "uid" : "3f79718aeb1abf75",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668498514935,
+        "stop" : 1668498535587,
+        "duration" : 20652
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6b6297e181e29f38.json",
+  "parameterValues" : [ ]
+}

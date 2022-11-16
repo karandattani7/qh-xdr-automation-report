@@ -1,0 +1,66 @@
+{
+  "uid" : "197c2c8163262ad",
+  "name" : "Verify that User is able to see title section of the modal with Title of the modal, Incident ID, Incident Name and clickable Export Audit Report-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that User is able to see title section of the modal with Title of the modal, Incident ID, Incident Name and clickable Export Audit Report-Dark",
+  "historyId" : "b5b8604a004ead3545da47e47abb06b3",
+  "time" : {
+    "start" : 1668501122394,
+    "stop" : 1668501159992,
+    "duration" : 37598
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to see title section of the modal with Title of the modal, Incident ID, Incident Name and clickable Export Audit Report-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9bb95ea523226606",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668430806132,
+        "stop" : 1668430847503,
+        "duration" : 41371
+      }
+    }, {
+      "uid" : "524ae576ed61d2e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668415946319,
+        "stop" : 1668415985498,
+        "duration" : 39179
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "197c2c8163262ad.json",
+  "parameterValues" : [ ]
+}

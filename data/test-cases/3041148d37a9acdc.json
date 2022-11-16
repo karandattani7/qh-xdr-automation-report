@@ -1,0 +1,67 @@
+{
+  "uid" : "3041148d37a9acdc",
+  "name" : "Verify that clicking on 'No' in Work not saved modal at Playbook Editor page, closes the Work not saved modal and remains on Playbook Editor page-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that clicking on 'No' in Work not saved modal at Playbook Editor page, closes the Work not saved modal and remains on Playbook Editor page-Dark",
+  "historyId" : "aa81793618967b3ca25bee4d472461e7",
+  "time" : {
+    "start" : 1668578972528,
+    "stop" : 1668579006269,
+    "duration" : 33741
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on 'No' in Work not saved modal at Playbook Editor page, closes the Work not saved modal and remains on Playbook Editor page-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "bf367ff15221f11f",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668545834489,
+        "stop" : 1668545837893,
+        "duration" : 3404
+      }
+    }, {
+      "uid" : "4bc3c499655f79fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668422994681,
+        "stop" : 1668423027820,
+        "duration" : 33139
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3041148d37a9acdc.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "3ac279bf73ec3be2",
+  "name" : "Verify that base alerts list gets filtered correctly for different combinations of alert name filter-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that base alerts list gets filtered correctly for different combinations of alert name filter-Dark",
+  "historyId" : "83f86e9e6c93947d83baa32e205b05f6",
+  "time" : {
+    "start" : 1668430537357,
+    "stop" : 1668430594162,
+    "duration" : 56805
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that base alerts list gets filtered correctly for different combinations of alert name filter-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3ac279bf73ec3be2.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "3083ef74c7216fec",
+  "name" : "Verify that User is able to remove selected filter from SELECTED FILTERS section using cross icon of selected filter in Add Filter window-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to remove selected filter from SELECTED FILTERS section using cross icon of selected filter in Add Filter window-Light",
+  "historyId" : "2765430a0b9a8bb89794e52b3a07d26f",
+  "time" : {
+    "start" : 1668513328820,
+    "stop" : 1668513379633,
+    "duration" : 50813
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to remove selected filter from SELECTED FILTERS section using cross icon of selected filter in Add Filter window-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3083ef74c7216fec.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,66 @@
+{
+  "uid" : "22b6a5582dcf83cf",
+  "name" : "Verify that user is able to switch between List view tab and Timeline view tab of Incidents tab-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that user is able to switch between List view tab and Timeline view tab of Incidents tab-Dark",
+  "historyId" : "6b3d9eef4a123ad72b87b1bcaaac713b",
+  "time" : {
+    "start" : 1668497432158,
+    "stop" : 1668497457886,
+    "duration" : 25728
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to switch between List view tab and Timeline view tab of Incidents tab-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ca77e401cf9eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668427127227,
+        "stop" : 1668427153155,
+        "duration" : 25928
+      }
+    }, {
+      "uid" : "c759deedad517d64",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668412163272,
+        "stop" : 1668412189720,
+        "duration" : 26448
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "22b6a5582dcf83cf.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "e39daa4f10ad782b",
+  "name" : "Verify that after dragging 'Call External Function' to main canvas of playbook editor page, the block is displayed with text 'Call External Function'-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that after dragging 'Call External Function' to main canvas of playbook editor page, the block is displayed with text 'Call External Function'-Dark",
+  "historyId" : "7129f131a910f3be2feaca0905f9de76",
+  "time" : {
+    "start" : 1668423155200,
+    "stop" : 1668423203001,
+    "duration" : 47801
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that after dragging 'Call External Function' to main canvas of playbook editor page, the block is displayed with text 'Call External Function'-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e39daa4f10ad782b.json",
+  "parameterValues" : [ ]
+}

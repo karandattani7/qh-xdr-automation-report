@@ -1,0 +1,48 @@
+{
+  "uid" : "e6eae7a5c2409f76",
+  "name" : "Verify that Playbook Details right panel is shown in expanded state when user lands on Playbook Editor page-Light",
+  "fullName" : "Playbook Test Light theme.Verify that Playbook Details right panel is shown in expanded state when user lands on Playbook Editor page-Light",
+  "historyId" : "eea1fa0e256fd1434da736a5a0fb17d2",
+  "time" : {
+    "start" : 1668500314826,
+    "stop" : 1668500344164,
+    "duration" : 29338
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Playbook Details right panel is shown in expanded state when user lands on Playbook Editor page-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e6eae7a5c2409f76.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,66 @@
+{
+  "uid" : "c4dcf5ec30731358",
+  "name" : "Verify that in User Details right panel, there are 3 sections: INCIDENT DETAILS, USER DETAILS, KEY ATTRIBUTES-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that in User Details right panel, there are 3 sections: INCIDENT DETAILS, USER DETAILS, KEY ATTRIBUTES-Dark",
+  "historyId" : "46f77a564d65781f9efdd4df86c457ef",
+  "time" : {
+    "start" : 1668503675722,
+    "stop" : 1668503727412,
+    "duration" : 51690
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in User Details right panel, there are 3 sections: INCIDENT DETAILS, USER DETAILS, KEY ATTRIBUTES-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "865c95b17548675a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668433094156,
+        "stop" : 1668433143941,
+        "duration" : 49785
+      }
+    }, {
+      "uid" : "e7c416c68717e8ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668418201825,
+        "stop" : 1668418252000,
+        "duration" : 50175
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c4dcf5ec30731358.json",
+  "parameterValues" : [ ]
+}

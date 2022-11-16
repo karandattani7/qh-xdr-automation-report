@@ -1,0 +1,75 @@
+{
+  "uid" : "849c33a0e3d99188",
+  "name" : "Verify that User is able to click on cross (x) to clear the quick filter search field after selecting playbook.name but without any value in Draft Playbooks tab-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to click on cross (x) to clear the quick filter search field after selecting playbook.name but without any value in Draft Playbooks tab-Light",
+  "historyId" : "9c0f1594e6fd169ec2112e875d62255a",
+  "time" : {
+    "start" : 1668545867118,
+    "stop" : 1668545893092,
+    "duration" : 25974
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to click on cross (x) to clear the quick filter search field after selecting playbook.name but without any value in Draft Playbooks tab-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c23eeaba66e55275",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668512412136,
+        "stop" : 1668512439076,
+        "duration" : 26940
+      }
+    }, {
+      "uid" : "fbf82381a50589e5",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <em _ngcontent-pek-c172=\"\" aria-hidden=\"true\" class=\"icon-close\"></em> is not clickable at point (997, 90). Other element would receive the click: <div id=\"noty_layout__topRight\" role=\"alert\" aria-live=\"polite\" class=\"noty_layout\">...</div>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668504063751,
+        "stop" : 1668504093076,
+        "duration" : 29325
+      }
+    }, {
+      "uid" : "79b0b04841ef5ab3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668500078392,
+        "stop" : 1668500104352,
+        "duration" : 25960
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "849c33a0e3d99188.json",
+  "parameterValues" : [ ]
+}

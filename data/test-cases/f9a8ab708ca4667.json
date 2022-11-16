@@ -1,0 +1,66 @@
+{
+  "uid" : "f9a8ab708ca4667",
+  "name" : "Verify that User is able to expand and collapse the log entries in Investigation Timeline section on right side of “Incident Canvas/View Audit Report” modal-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that User is able to expand and collapse the log entries in Investigation Timeline section on right side of “Incident Canvas/View Audit Report” modal-Dark",
+  "historyId" : "c96f2877b899c884316fa998f9474bb0",
+  "time" : {
+    "start" : 1668501325289,
+    "stop" : 1668501350807,
+    "duration" : 25518
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to expand and collapse the log entries in Investigation Timeline section on right side of “Incident Canvas/View Audit Report” modal-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "acf892c78332d794",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668430952955,
+        "stop" : 1668430979103,
+        "duration" : 26148
+      }
+    }, {
+      "uid" : "36a0400529beeb26",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668416090573,
+        "stop" : 1668416116627,
+        "duration" : 26054
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f9a8ab708ca4667.json",
+  "parameterValues" : [ ]
+}

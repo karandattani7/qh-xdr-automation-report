@@ -1,0 +1,66 @@
+{
+  "uid" : "9843ca81314f7df",
+  "name" : "Verify that in Incident Summary right panel, the Copy icon is shown in front of Incident ID under BASIC INFORMATION section-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that in Incident Summary right panel, the Copy icon is shown in front of Incident ID under BASIC INFORMATION section-Dark",
+  "historyId" : "6261b14083ea81d2b70b326187a8b59d",
+  "time" : {
+    "start" : 1668502473256,
+    "stop" : 1668502500857,
+    "duration" : 27601
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Incident Summary right panel, the Copy icon is shown in front of Incident ID under BASIC INFORMATION section-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9c7dbf207ff1355e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668432193475,
+        "stop" : 1668432221270,
+        "duration" : 27795
+      }
+    }, {
+      "uid" : "cd4732ec82d9cb72",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668417314405,
+        "stop" : 1668417341898,
+        "duration" : 27493
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9843ca81314f7df.json",
+  "parameterValues" : [ ]
+}

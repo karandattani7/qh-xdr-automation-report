@@ -1,0 +1,66 @@
+{
+  "uid" : "28bff085bc5b25ab",
+  "name" : "Verify that in User Correlation view, the title of 'Key Attributes' table is 'Key Attributes'-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that in User Correlation view, the title of 'Key Attributes' table is 'Key Attributes'-Dark",
+  "historyId" : "3550d4ecbea938333f6221cb18190b44",
+  "time" : {
+    "start" : 1668503727412,
+    "stop" : 1668503777817,
+    "duration" : 50405
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in User Correlation view, the title of 'Key Attributes' table is 'Key Attributes'-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "19d9150b702b7118",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668433143941,
+        "stop" : 1668433194047,
+        "duration" : 50106
+      }
+    }, {
+      "uid" : "725b83ff6bb25eef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668418252000,
+        "stop" : 1668418302225,
+        "duration" : 50225
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "28bff085bc5b25ab.json",
+  "parameterValues" : [ ]
+}

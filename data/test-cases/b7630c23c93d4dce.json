@@ -1,0 +1,48 @@
+{
+  "uid" : "b7630c23c93d4dce",
+  "name" : "Verify that Alert Summary right panel shows two enabled buttons 'Associate to Incident' and 'Create New Incident' at the bottom-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that Alert Summary right panel shows two enabled buttons 'Associate to Incident' and 'Create New Incident' at the bottom-Dark",
+  "historyId" : "a146e4cd804b8a4c8a8330f48d5121ee",
+  "time" : {
+    "start" : 1668413248734,
+    "stop" : 1668413319517,
+    "duration" : 70783
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Alert Summary right panel shows two enabled buttons 'Associate to Incident' and 'Create New Incident' at the bottom-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b7630c23c93d4dce.json",
+  "parameterValues" : [ ]
+}

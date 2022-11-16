@@ -1,0 +1,48 @@
+{
+  "uid" : "da8b69f12e29e2a6",
+  "name" : "Verify that user is able to update Filter Block from right panel with valid values, by clicking on Edit button in Read only view of added filter block-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that user is able to update Filter Block from right panel with valid values, by clicking on Edit button in Read only view of added filter block-Dark",
+  "historyId" : "d70f0206c0c47f559b49aa09bd0af437",
+  "time" : {
+    "start" : 1668425281852,
+    "stop" : 1668425370315,
+    "duration" : 88463
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to update Filter Block from right panel with valid values, by clicking on Edit button in Read only view of added filter block-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "da8b69f12e29e2a6.json",
+  "parameterValues" : [ ]
+}

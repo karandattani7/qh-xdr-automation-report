@@ -1,0 +1,48 @@
+{
+  "uid" : "3d44cdd5d606cf2c",
+  "name" : "Verify that clicking on 'No' button on Work not saved modal keeps User on Copy Playbook form (Draft Playbooks tab) when copying playbook-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that clicking on 'No' button on Work not saved modal keeps User on Copy Playbook form (Draft Playbooks tab) when copying playbook-Dark",
+  "historyId" : "adefd9f2ee37c1dbd1c81c48b4fea494",
+  "time" : {
+    "start" : 1668420351388,
+    "stop" : 1668420375072,
+    "duration" : 23684
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on 'No' button on Work not saved modal keeps User on Copy Playbook form (Draft Playbooks tab) when copying playbook-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3d44cdd5d606cf2c.json",
+  "parameterValues" : [ ]
+}

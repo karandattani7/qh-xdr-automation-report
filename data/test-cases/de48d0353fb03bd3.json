@@ -1,0 +1,48 @@
+{
+  "uid" : "de48d0353fb03bd3",
+  "name" : "Verify User is able to Copy Published Playbook-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify User is able to Copy Published Playbook-Dark",
+  "historyId" : "e3f1a312668e1782beb68d94acabceae",
+  "time" : {
+    "start" : 1668420086980,
+    "stop" : 1668420142060,
+    "duration" : 55080
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User is able to Copy Published Playbook-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "de48d0353fb03bd3.json",
+  "parameterValues" : [ ]
+}

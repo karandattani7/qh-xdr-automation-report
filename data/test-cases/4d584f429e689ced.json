@@ -1,0 +1,50 @@
+{
+  "uid" : "4d584f429e689ced",
+  "name" : "Verify the placeholder for Tags column when no Tags are selected while creating a playbook in Published Playbooks",
+  "fullName" : "Playbook Test Light theme.Verify the placeholder for Tags column when no Tags are selected while creating a playbook in Published Playbooks",
+  "historyId" : "70fba9d51c6e053fcb0d0763ba16a427",
+  "time" : {
+    "start" : 1668502226313,
+    "stop" : 1668502263450,
+    "duration" : 37137
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected false to be true.",
+  "statusTrace" : "Error: Failed expectation\n                    at D:\\qh-ui\\qh environment\\JSDIRECTORY\\Test\\PlaybookTabtest-Light.js:786:44\n                    at Generator.next (<anonymous>)\n                    at fulfilled (D:\\qh-ui\\qh environment\\JSDIRECTORY\\Test\\PlaybookTabtest-Light.js:5:58)\n                    at runMicrotasks (<anonymous>)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the placeholder for Tags column when no Tags are selected while creating a playbook in Published Playbooks"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4d584f429e689ced.json",
+  "parameterValues" : [ ]
+}

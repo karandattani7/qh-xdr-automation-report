@@ -1,0 +1,66 @@
+{
+  "uid" : "7a1e947e3c693fb4",
+  "name" : "Verify that User is able to remove selected filter from SELECTED FILTERS section using cross icon of selected filter in Incidents page Add Filter window-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that User is able to remove selected filter from SELECTED FILTERS section using cross icon of selected filter in Incidents page Add Filter window-Dark",
+  "historyId" : "87c41bd5cceeafe98a200c0577ea9678",
+  "time" : {
+    "start" : 1668499529750,
+    "stop" : 1668499577745,
+    "duration" : 47995
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to remove selected filter from SELECTED FILTERS section using cross icon of selected filter in Incidents page Add Filter window-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "19feb4b6b04492f0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668429373667,
+        "stop" : 1668429413209,
+        "duration" : 39542
+      }
+    }, {
+      "uid" : "9743cb42f266127c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668414351291,
+        "stop" : 1668414392236,
+        "duration" : 40945
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7a1e947e3c693fb4.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,66 @@
+{
+  "uid" : "88562e5dc87ef661",
+  "name" : "Verify that success toast notification is shown after Delete, Kill, and Quarantine of Unassociated Alerts-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that success toast notification is shown after Delete, Kill, and Quarantine of Unassociated Alerts-Dark",
+  "historyId" : "405a42563defe4f60ab86854597e2658",
+  "time" : {
+    "start" : 1668503996766,
+    "stop" : 1668504065096,
+    "duration" : 68330
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that success toast notification is shown after Delete, Kill, and Quarantine of Unassociated Alerts-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "49cbb8a4f89cffc1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668433404090,
+        "stop" : 1668433461573,
+        "duration" : 57483
+      }
+    }, {
+      "uid" : "7611b1d1c45c3e36",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668418514312,
+        "stop" : 1668418574457,
+        "duration" : 60145
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "88562e5dc87ef661.json",
+  "parameterValues" : [ ]
+}

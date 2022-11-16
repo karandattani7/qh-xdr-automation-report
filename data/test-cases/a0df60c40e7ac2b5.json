@@ -1,0 +1,67 @@
+{
+  "uid" : "a0df60c40e7ac2b5",
+  "name" : "Verify that User is able to see My Playbooks when 'My Playbooks' toggle is ON in Published Playbooks-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to see My Playbooks when 'My Playbooks' toggle is ON in Published Playbooks-Dark",
+  "historyId" : "7d8e52bc8392a7e00fe4f852f6b0c43a",
+  "time" : {
+    "start" : 1668576997956,
+    "stop" : 1668577101186,
+    "duration" : 103230
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to see My Playbooks when 'My Playbooks' toggle is ON in Published Playbooks-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d29c3423d015bcef",
+      "status" : "failed",
+      "statusDetails" : "Failed: Index out of bound. Trying to access element at index: 1, but there are only 0 elements that match locator By(xpath, //td[@class='w-12']//child::span[@class='text-truncate'])",
+      "time" : {
+        "start" : 1668545607000,
+        "stop" : 1668545712417,
+        "duration" : 105417
+      }
+    }, {
+      "uid" : "a12e7822885f9c78",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668421061243,
+        "stop" : 1668421180728,
+        "duration" : 119485
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a0df60c40e7ac2b5.json",
+  "parameterValues" : [ ]
+}

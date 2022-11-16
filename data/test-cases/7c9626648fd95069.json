@@ -1,0 +1,50 @@
+{
+  "uid" : "7c9626648fd95069",
+  "name" : "Verify that in Incident Add Filter modal, user is able to apply a saved filter on Incidents list-Light",
+  "fullName" : "Incident Test Light theme.Verify that in Incident Add Filter modal, user is able to apply a saved filter on Incidents list-Light",
+  "historyId" : "ee59fe206d1a65a016a0982546292c32",
+  "time" : {
+    "start" : 1668430002577,
+    "stop" : 1668430028172,
+    "duration" : 25595
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Incident Add Filter modal, user is able to apply a saved filter on Incidents list-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7c9626648fd95069.json",
+  "parameterValues" : [ ]
+}

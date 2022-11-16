@@ -1,0 +1,48 @@
+{
+  "uid" : "9ca6ec98bcabe35b",
+  "name" : "Verify User should be able to see Playbooks count on top of the table in Published Playbooks tab-Light",
+  "fullName" : "Playbook Test Light theme.Verify User should be able to see Playbooks count on top of the table in Published Playbooks tab-Light",
+  "historyId" : "3a1c4e96782e085d8c1c92a4e68453cd",
+  "time" : {
+    "start" : 1668501994771,
+    "stop" : 1668502024661,
+    "duration" : 29890
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User should be able to see Playbooks count on top of the table in Published Playbooks tab-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9ca6ec98bcabe35b.json",
+  "parameterValues" : [ ]
+}

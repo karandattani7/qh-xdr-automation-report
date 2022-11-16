@@ -1,0 +1,48 @@
+{
+  "uid" : "8429c69b16fbd29b",
+  "name" : "Verify that User is able to search and apply quick filters in Published Playbooks-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to search and apply quick filters in Published Playbooks-Dark",
+  "historyId" : "78b2466573ad7a6f9ff71e7205f1b176",
+  "time" : {
+    "start" : 1668420640425,
+    "stop" : 1668420672394,
+    "duration" : 31969
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to search and apply quick filters in Published Playbooks-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8429c69b16fbd29b.json",
+  "parameterValues" : [ ]
+}

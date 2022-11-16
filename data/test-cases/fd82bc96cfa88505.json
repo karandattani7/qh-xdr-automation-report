@@ -1,0 +1,48 @@
+{
+  "uid" : "fd82bc96cfa88505",
+  "name" : "Verify that playbook list gets filtered correctly for different combinations of Created on and Updated on filter-Draft Playbooks-Light",
+  "fullName" : "Playbook Test Light theme.Verify that playbook list gets filtered correctly for different combinations of Created on and Updated on filter-Draft Playbooks-Light",
+  "historyId" : "3b7bb00ffedc5a49cf63b487fea51e05",
+  "time" : {
+    "start" : 1668507871854,
+    "stop" : 1668508078592,
+    "duration" : 206738
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that playbook list gets filtered correctly for different combinations of Created on and Updated on filter-Draft Playbooks-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fd82bc96cfa88505.json",
+  "parameterValues" : [ ]
+}

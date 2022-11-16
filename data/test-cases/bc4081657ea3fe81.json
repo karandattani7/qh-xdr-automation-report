@@ -1,0 +1,48 @@
+{
+  "uid" : "bc4081657ea3fe81",
+  "name" : "Verify that User is able to click, drag and drop the available blocks to main canvas area of Playbook Editor page-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to click, drag and drop the available blocks to main canvas area of Playbook Editor page-Light",
+  "historyId" : "38228d6e1c35ee7751d4222f477f11e3",
+  "time" : {
+    "start" : 1668503478207,
+    "stop" : 1668503522270,
+    "duration" : 44063
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to click, drag and drop the available blocks to main canvas area of Playbook Editor page-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bc4081657ea3fe81.json",
+  "parameterValues" : [ ]
+}
