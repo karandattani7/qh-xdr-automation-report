@@ -1,0 +1,50 @@
+{
+  "uid" : "29d76653facd72ef",
+  "name" : "Verify that the count of applied filters is shown in filter component in Connector list view-Light",
+  "fullName" : "Connector Test Light theme.Verify that the count of applied filters is shown in filter component in Connector list view-Light",
+  "historyId" : "57e387bb3a7c52f6ac01446148935ec5",
+  "time" : {
+    "start" : 1668260304453,
+    "stop" : 1668260402846,
+    "duration" : 98393
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that the count of applied filters is shown in filter component in Connector list view-Light"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "29d76653facd72ef.json",
+  "parameterValues" : [ ]
+}

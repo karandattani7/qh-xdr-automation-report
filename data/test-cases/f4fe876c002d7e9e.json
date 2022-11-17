@@ -1,0 +1,48 @@
+{
+  "uid" : "f4fe876c002d7e9e",
+  "name" : "Verify that user is able to sort incidents list in ascending order and descending order of CREATED ON column-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that user is able to sort incidents list in ascending order and descending order of CREATED ON column-Dark",
+  "historyId" : "bf3d7bcef5f4aeb06228461ca5a248cf",
+  "time" : {
+    "start" : 1668431738570,
+    "stop" : 1668431829564,
+    "duration" : 90994
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to sort incidents list in ascending order and descending order of CREATED ON column-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f4fe876c002d7e9e.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,77 @@
+{
+  "uid" : "ae507a07b6f4c027",
+  "name" : "Verify the saved created flow for Dragged and filled block with no connection lines in Playbook Editor page is as expected-Light",
+  "fullName" : "Playbook Test Light theme.Verify the saved created flow for Dragged and filled block with no connection lines in Playbook Editor page is as expected-Light",
+  "historyId" : "174eb441d721454ca1ea0cff9be04a86",
+  "time" : {
+    "start" : 1668552270974,
+    "stop" : 1668552369603,
+    "duration" : 98629
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the saved created flow for Dragged and filled block with no connection lines in Playbook Editor page is as expected-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7a5425bb946db0b5",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668516774349,
+        "stop" : 1668516778551,
+        "duration" : 4202
+      }
+    }, {
+      "uid" : "1b030aa95dfb9bd4",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //span[text()='URLhaus'])",
+      "time" : {
+        "start" : 1668506899837,
+        "stop" : 1668506936152,
+        "duration" : 36315
+      }
+    }, {
+      "uid" : "ada5e2e1ffd39512",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504636053,
+        "stop" : 1668504640504,
+        "duration" : 4451
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ae507a07b6f4c027.json",
+  "parameterValues" : [ ]
+}

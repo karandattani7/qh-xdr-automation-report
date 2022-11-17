@@ -1,0 +1,48 @@
+{
+  "uid" : "dae465a3d98f090",
+  "name" : "Verify that given filter name by user is reflected on main canvas area on filter block after addition-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that given filter name by user is reflected on main canvas area on filter block after addition-Dark",
+  "historyId" : "de4cc9e9eb224fc8b9a994a5924da984",
+  "time" : {
+    "start" : 1668423652285,
+    "stop" : 1668423718859,
+    "duration" : 66574
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that given filter name by user is reflected on main canvas area on filter block after addition-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dae465a3d98f090.json",
+  "parameterValues" : [ ]
+}

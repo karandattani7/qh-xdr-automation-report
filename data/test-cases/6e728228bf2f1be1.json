@@ -1,0 +1,50 @@
+{
+  "uid" : "6e728228bf2f1be1",
+  "name" : "Verify SOC Manager  is able to view 1 week, 1 month and 3 months of timeframe breakpoint on 'MITRE Attack Metrices' widget on SOC Manager Dashboard Page.-Dark",
+  "fullName" : "Dashboard Test Dark theme-SOC Manager.Verify SOC Manager  is able to view 1 week, 1 month and 3 months of timeframe breakpoint on 'MITRE Attack Metrices' widget on SOC Manager Dashboard Page.-Dark",
+  "historyId" : "2cc04ec134c61acadf48396afd42d72c",
+  "time" : {
+    "start" : 1668262031134,
+    "stop" : 1668262039333,
+    "duration" : 8199
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "testClass",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify SOC Manager  is able to view 1 week, 1 month and 3 months of timeframe breakpoint on 'MITRE Attack Metrices' widget on SOC Manager Dashboard Page.-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6e728228bf2f1be1.json",
+  "parameterValues" : [ ]
+}

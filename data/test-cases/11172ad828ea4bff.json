@@ -1,0 +1,67 @@
+{
+  "uid" : "11172ad828ea4bff",
+  "name" : "Verify that clicking on Edit button on read only view of added internal function block right panel shows Editable internal function right panel with Cancel and Save changes button-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that clicking on Edit button on read only view of added internal function block right panel shows Editable internal function right panel with Cancel and Save changes button-Dark",
+  "historyId" : "a7fe55f6f7f6e89dde65a415c908cafe",
+  "time" : {
+    "start" : 1668579496086,
+    "stop" : 1668579569426,
+    "duration" : 73340
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Edit button on read only view of added internal function block right panel shows Editable internal function right panel with Cancel and Save changes button-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "bea3c5c3b30ebd23",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668545871927,
+        "stop" : 1668545875311,
+        "duration" : 3384
+      }
+    }, {
+      "uid" : "a19c83eeb3037f84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668423499745,
+        "stop" : 1668423570353,
+        "duration" : 70608
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "11172ad828ea4bff.json",
+  "parameterValues" : [ ]
+}

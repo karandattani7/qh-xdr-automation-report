@@ -1,0 +1,76 @@
+{
+  "uid" : "251136bd6ed60e27",
+  "name" : "Verify that after adding a external function, the right panel should show read only view of the added function with edit button and Name should be displayed in main canvas area-Light",
+  "fullName" : "Playbook Test Light theme.Verify that after adding a external function, the right panel should show read only view of the added function with edit button and Name should be displayed in main canvas area-Light",
+  "historyId" : "f419c2049e6cc064eeb4e22a046c1b71",
+  "time" : {
+    "start" : 1668548365634,
+    "stop" : 1668548411673,
+    "duration" : 46039
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that after adding a external function, the right panel should show read only view of the added function with edit button and Name should be displayed in main canvas area-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1294d9179eefeb9b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668515248620,
+        "stop" : 1668515297594,
+        "duration" : 48974
+      }
+    }, {
+      "uid" : "ddf07132536db263",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504329467,
+        "stop" : 1668504333748,
+        "duration" : 4281
+      }
+    }, {
+      "uid" : "a474b2596e3def8d",
+      "status" : "failed",
+      "statusDetails" : "NoSuchElementError: No element found using locator: By(css selector, *[id=\"draggableExternalBlock\"])",
+      "time" : {
+        "start" : 1668502618517,
+        "stop" : 1668502650630,
+        "duration" : 32113
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "251136bd6ed60e27.json",
+  "parameterValues" : [ ]
+}

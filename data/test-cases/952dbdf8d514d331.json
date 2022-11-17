@@ -1,0 +1,48 @@
+{
+  "uid" : "952dbdf8d514d331",
+  "name" : "Verify that in User Correlation view - Add Filter window, admin is able to remove multiple filters from SELECTED FILTERS section-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that in User Correlation view - Add Filter window, admin is able to remove multiple filters from SELECTED FILTERS section-Dark",
+  "historyId" : "b8bed40ecac57ce84bc4fd580bf0f439",
+  "time" : {
+    "start" : 1668432996874,
+    "stop" : 1668433045139,
+    "duration" : 48265
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in User Correlation view - Add Filter window, admin is able to remove multiple filters from SELECTED FILTERS section-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "952dbdf8d514d331.json",
+  "parameterValues" : [ ]
+}

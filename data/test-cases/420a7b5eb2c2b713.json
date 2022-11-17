@@ -1,0 +1,48 @@
+{
+  "uid" : "420a7b5eb2c2b713",
+  "name" : "Verify that User is able to move the blocks which are added/dragged to Main Canvas area in the Playbook Editor page-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to move the blocks which are added/dragged to Main Canvas area in the Playbook Editor page-Light",
+  "historyId" : "5901a081de5e166a63ab48b84720ac9c",
+  "time" : {
+    "start" : 1668503765092,
+    "stop" : 1668503822062,
+    "duration" : 56970
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to move the blocks which are added/dragged to Main Canvas area in the Playbook Editor page-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "420a7b5eb2c2b713.json",
+  "parameterValues" : [ ]
+}

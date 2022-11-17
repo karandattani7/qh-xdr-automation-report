@@ -1,0 +1,48 @@
+{
+  "uid" : "ff92d7cfab4a14bb",
+  "name" : "Verify that hovering on filter block with added condition and clicking on Edit icon opens editable right panel with Cancel and Save Changes button-Light",
+  "fullName" : "Playbook Test Light theme.Verify that hovering on filter block with added condition and clicking on Edit icon opens editable right panel with Cancel and Save Changes button-Light",
+  "historyId" : "8d917367e1cf5ea085a0a8b3a74a149c",
+  "time" : {
+    "start" : 1668502842390,
+    "stop" : 1668502931124,
+    "duration" : 88734
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that hovering on filter block with added condition and clicking on Edit icon opens editable right panel with Cancel and Save Changes button-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ff92d7cfab4a14bb.json",
+  "parameterValues" : [ ]
+}

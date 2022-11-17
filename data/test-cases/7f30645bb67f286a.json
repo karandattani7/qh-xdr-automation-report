@@ -1,0 +1,50 @@
+{
+  "uid" : "7f30645bb67f286a",
+  "name" : "Verify that user is able to switch between 'Incidents' tab and 'Base Alerts' tab on Incidents page-Light",
+  "fullName" : "Incident Test Light theme.Verify that user is able to switch between 'Incidents' tab and 'Base Alerts' tab on Incidents page-Light",
+  "historyId" : "3f6ff4bb271235b2259d9f949ac34614",
+  "time" : {
+    "start" : 1668427130307,
+    "stop" : 1668427166547,
+    "duration" : 36240
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to switch between 'Incidents' tab and 'Base Alerts' tab on Incidents page-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7f30645bb67f286a.json",
+  "parameterValues" : [ ]
+}

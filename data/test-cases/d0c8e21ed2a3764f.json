@@ -1,0 +1,66 @@
+{
+  "uid" : "d0c8e21ed2a3764f",
+  "name" : "Verify that Incident timeline right panel should get collapsed in several scenarios-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that Incident timeline right panel should get collapsed in several scenarios-Dark",
+  "historyId" : "25d6b57efcf8f7eccfeec8e95a67c271",
+  "time" : {
+    "start" : 1668504676423,
+    "stop" : 1668504812627,
+    "duration" : 136204
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Incident timeline right panel should get collapsed in several scenarios-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "996b2f06d738185c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668434004532,
+        "stop" : 1668434138186,
+        "duration" : 133654
+      }
+    }, {
+      "uid" : "4df08adc65c374a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668419139061,
+        "stop" : 1668419271131,
+        "duration" : 132070
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d0c8e21ed2a3764f.json",
+  "parameterValues" : [ ]
+}

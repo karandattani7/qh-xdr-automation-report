@@ -1,0 +1,75 @@
+{
+  "uid" : "2f8f138fe4ffd499",
+  "name" : "Verify that user is able to create playbook from empty state from draft playbooks tab",
+  "fullName" : "Playbook Test Light theme.Verify that user is able to create playbook from empty state from draft playbooks tab",
+  "historyId" : "ef94e4461f7860e561a51dfe39d471dc",
+  "time" : {
+    "start" : 1668544243794,
+    "stop" : 1668544296558,
+    "duration" : 52764
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to create playbook from empty state from draft playbooks tab"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3dcf5ba608b810d5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668510679331,
+        "stop" : 1668510733640,
+        "duration" : 54309
+      }
+    }, {
+      "uid" : "e39d6218b2284a0d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668502425373,
+        "stop" : 1668502480120,
+        "duration" : 54747
+      }
+    }, {
+      "uid" : "aee2df9209dcb3b1",
+      "status" : "failed",
+      "statusDetails" : "Expected false to be true.",
+      "time" : {
+        "start" : 1668498462221,
+        "stop" : 1668498514935,
+        "duration" : 52714
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2f8f138fe4ffd499.json",
+  "parameterValues" : [ ]
+}

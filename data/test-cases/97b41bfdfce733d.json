@@ -1,0 +1,66 @@
+{
+  "uid" : "97b41bfdfce733d",
+  "name" : "Verify that View dropdown is visible in User List View page-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that View dropdown is visible in User List View page-Dark",
+  "historyId" : "408a2e872f4f97d852b9ad8f0bf63a44",
+  "time" : {
+    "start" : 1668502803602,
+    "stop" : 1668502861121,
+    "duration" : 57519
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that View dropdown is visible in User List View page-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "76c5558b888f0380",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668432535631,
+        "stop" : 1668432591738,
+        "duration" : 56107
+      }
+    }, {
+      "uid" : "d2078a69c6c63443",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668417678094,
+        "stop" : 1668417735554,
+        "duration" : 57460
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "97b41bfdfce733d.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,50 @@
+{
+  "uid" : "8b07f61396a717d2",
+  "name" : "Verify that empty state of Investigation Timeline tab in Incident Canvas modal is as expected when investigation is not started yet for that incident-Light",
+  "fullName" : "Incident Test Light theme.Verify that empty state of Investigation Timeline tab in Incident Canvas modal is as expected when investigation is not started yet for that incident-Light",
+  "historyId" : "2eea09687e68aa9472c8c3e86e60ce3d",
+  "time" : {
+    "start" : 1668431194630,
+    "stop" : 1668431229108,
+    "duration" : 34478
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that empty state of Investigation Timeline tab in Incident Canvas modal is as expected when investigation is not started yet for that incident-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8b07f61396a717d2.json",
+  "parameterValues" : [ ]
+}

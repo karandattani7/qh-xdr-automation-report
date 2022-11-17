@@ -1,0 +1,48 @@
+{
+  "uid" : "e3d4f235ed9c86b2",
+  "name" : "Verify in Draft Playbooks tab user gets a toast notification on deleting a specific playbook-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify in Draft Playbooks tab user gets a toast notification on deleting a specific playbook-Dark",
+  "historyId" : "732193e148e5a771bf99b59f51a07ec2",
+  "time" : {
+    "start" : 1668420513669,
+    "stop" : 1668420547082,
+    "duration" : 33413
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify in Draft Playbooks tab user gets a toast notification on deleting a specific playbook-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e3d4f235ed9c86b2.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,50 @@
+{
+  "uid" : "7770ca6d69268131",
+  "name" : "Verify that Default SLA is at the bottom of the list in SLA Configuration tab-Dark",
+  "fullName" : "SLA Test Dark theme.Verify that Default SLA is at the bottom of the list in SLA Configuration tab-Dark",
+  "historyId" : "476fdda794dbd16cb77d1c05c3f28f6d",
+  "time" : {
+    "start" : 1668262293341,
+    "stop" : 1668262307931,
+    "duration" : 14590
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "SLA Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "SLA Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Default SLA is at the bottom of the list in SLA Configuration tab-Dark"
+  }, {
+    "name" : "package",
+    "value" : "SLA Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7770ca6d69268131.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,75 @@
+{
+  "uid" : "b0ad4f309fef85ce",
+  "name" : "Verify that clicking on Cancel when adding selected function shows list of external functions right panel again-Light",
+  "fullName" : "Playbook Test Light theme.Verify that clicking on Cancel when adding selected function shows list of external functions right panel again-Light",
+  "historyId" : "50ef5f7dfc02bbe1818c4f3ff958212",
+  "time" : {
+    "start" : 1668548314854,
+    "stop" : 1668548365634,
+    "duration" : 50780
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Cancel when adding selected function shows list of external functions right panel again-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "55f25e1b4e41063e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668515195247,
+        "stop" : 1668515248620,
+        "duration" : 53373
+      }
+    }, {
+      "uid" : "76b2c667dd0d5698",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504325001,
+        "stop" : 1668504329467,
+        "duration" : 4466
+      }
+    }, {
+      "uid" : "3b7850396a8cab34",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668502564437,
+        "stop" : 1668502618517,
+        "duration" : 54080
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b0ad4f309fef85ce.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,50 @@
+{
+  "uid" : "582845ad27ae5309",
+  "name" : "Verify that user is able to add SLA panel for Selected Incident Type in Add SLA for Incident Type modal-Light",
+  "fullName" : "SLA Test Light theme.Verify that user is able to add SLA panel for Selected Incident Type in Add SLA for Incident Type modal-Light",
+  "historyId" : "708d77c35688728cdcea5a1cb076df94",
+  "time" : {
+    "start" : 1668263436580,
+    "stop" : 1668263472475,
+    "duration" : 35895
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "SLA Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "SLA Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to add SLA panel for Selected Incident Type in Add SLA for Incident Type modal-Light"
+  }, {
+    "name" : "package",
+    "value" : "SLA Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "582845ad27ae5309.json",
+  "parameterValues" : [ ]
+}

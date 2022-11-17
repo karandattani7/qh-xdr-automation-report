@@ -1,0 +1,48 @@
+{
+  "uid" : "e6c124b4ecd9355d",
+  "name" : "Verify that User is able to click and select an available parameters in Create Playbook form-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to click and select an available parameters in Create Playbook form-Dark",
+  "historyId" : "81241407d6a265823b10b9ee6ae9ec29",
+  "time" : {
+    "start" : 1668419555954,
+    "stop" : 1668419581863,
+    "duration" : 25909
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to click and select an available parameters in Create Playbook form-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e6c124b4ecd9355d.json",
+  "parameterValues" : [ ]
+}

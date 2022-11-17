@@ -1,0 +1,48 @@
+{
+  "uid" : "152879d137a50ed2",
+  "name" : "Verify the saved created flow for Dragged & connected blocks in Playbook Editor page is as expected-Light",
+  "fullName" : "Playbook Test Light theme.Verify the saved created flow for Dragged & connected blocks in Playbook Editor page is as expected-Light",
+  "historyId" : "2eb92e70b62ff5123aeac0b111922a1f",
+  "time" : {
+    "start" : 1668506753208,
+    "stop" : 1668506899837,
+    "duration" : 146629
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the saved created flow for Dragged & connected blocks in Playbook Editor page is as expected-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "152879d137a50ed2.json",
+  "parameterValues" : [ ]
+}

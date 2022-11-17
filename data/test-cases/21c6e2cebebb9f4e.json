@@ -1,0 +1,48 @@
+{
+  "uid" : "21c6e2cebebb9f4e",
+  "name" : "Verify that User is able to select tags using checkbox in Tags field of Create Playbook form-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to select tags using checkbox in Tags field of Create Playbook form-Dark",
+  "historyId" : "38cf600046684dc1ad74fad3418599ac",
+  "time" : {
+    "start" : 1668543842839,
+    "stop" : 1668543873050,
+    "duration" : 30211
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to select tags using checkbox in Tags field of Create Playbook form-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "21c6e2cebebb9f4e.json",
+  "parameterValues" : [ ]
+}

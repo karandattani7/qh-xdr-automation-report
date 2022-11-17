@@ -1,0 +1,48 @@
+{
+  "uid" : "7640f39fefe247bf",
+  "name" : "Verify that User is able to delete the decision block from main canvas area using delete icon available on hovering before adding a decision condition-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to delete the decision block from main canvas area using delete icon available on hovering before adding a decision condition-Light",
+  "historyId" : "3a4624703739ab73ae9321b952dde96",
+  "time" : {
+    "start" : 1668504029125,
+    "stop" : 1668504126636,
+    "duration" : 97511
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to delete the decision block from main canvas area using delete icon available on hovering before adding a decision condition-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7640f39fefe247bf.json",
+  "parameterValues" : [ ]
+}

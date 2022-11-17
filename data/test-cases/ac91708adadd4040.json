@@ -1,0 +1,67 @@
+{
+  "uid" : "ac91708adadd4040",
+  "name" : "Verify that user is able to update Status from Incident summary right panel using Incident Status modal-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that user is able to update Status from Incident summary right panel using Incident Status modal-Dark",
+  "historyId" : "eee5dcaa82f11e1f52fd0146b0489752",
+  "time" : {
+    "start" : 1668501645856,
+    "stop" : 1668501688033,
+    "duration" : 42177
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to update Status from Incident summary right panel using Incident Status modal-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1f8698457309781",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668431238289,
+        "stop" : 1668431281331,
+        "duration" : 43042
+      }
+    }, {
+      "uid" : "142840f9397bee19",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //h5[text()=' Basic Information '])",
+      "time" : {
+        "start" : 1668416413118,
+        "stop" : 1668416437539,
+        "duration" : 24421
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ac91708adadd4040.json",
+  "parameterValues" : [ ]
+}

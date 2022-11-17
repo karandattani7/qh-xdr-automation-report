@@ -1,0 +1,50 @@
+{
+  "uid" : "2c91a92207a4f068",
+  "name" : "Verify SOC Manager user is able to view the count of 'Total open incidents' in the legend 'Incident Assignment' widget of SOC Manager Dashboard Page.-Dark",
+  "fullName" : "Dashboard Test Dark theme-SOC Manager.Verify SOC Manager user is able to view the count of 'Total open incidents' in the legend 'Incident Assignment' widget of SOC Manager Dashboard Page.-Dark",
+  "historyId" : "cae3c783d0c624dd0b6f7fc1b47f11b",
+  "time" : {
+    "start" : 1668261943597,
+    "stop" : 1668261960847,
+    "duration" : 17250
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "testClass",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify SOC Manager user is able to view the count of 'Total open incidents' in the legend 'Incident Assignment' widget of SOC Manager Dashboard Page.-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2c91a92207a4f068.json",
+  "parameterValues" : [ ]
+}

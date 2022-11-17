@@ -1,0 +1,50 @@
+{
+  "uid" : "e787edbed0c19188",
+  "name" : "Verify the actions shown on connector where instance is not configured is 'Configure' in Ingestion Connectors tab-Dark",
+  "fullName" : "Connector Test Dark theme.Verify the actions shown on connector where instance is not configured is 'Configure' in Ingestion Connectors tab-Dark",
+  "historyId" : "2cb124c25bfce600339eadba4360884f",
+  "time" : {
+    "start" : 1668256796236,
+    "stop" : 1668256811665,
+    "duration" : 15429
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the actions shown on connector where instance is not configured is 'Configure' in Ingestion Connectors tab-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e787edbed0c19188.json",
+  "parameterValues" : [ ]
+}

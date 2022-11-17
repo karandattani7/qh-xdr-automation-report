@@ -1,0 +1,50 @@
+{
+  "uid" : "616b978ea7b61b4e",
+  "name" : "Verify that User is able to configure a instance for a connector successfully-Dark",
+  "fullName" : "Connector Test Dark theme.Verify that User is able to configure a instance for a connector successfully-Dark",
+  "historyId" : "848ebd1fe4ba8de39e615e25d77c9d3a",
+  "time" : {
+    "start" : 1668256277462,
+    "stop" : 1668256351565,
+    "duration" : 74103
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to configure a instance for a connector successfully-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "616b978ea7b61b4e.json",
+  "parameterValues" : [ ]
+}

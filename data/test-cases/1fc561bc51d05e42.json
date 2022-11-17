@@ -1,0 +1,50 @@
+{
+  "uid" : "1fc561bc51d05e42",
+  "name" : "Verify Admin is able to view the count of Total Incidents on Donut chart of 'Overall Incident Summary' widget of Admin Dashboard Page.-Dark",
+  "fullName" : "Dashboard Test Dark theme-Admin.Verify Admin is able to view the count of Total Incidents on Donut chart of 'Overall Incident Summary' widget of Admin Dashboard Page.-Dark",
+  "historyId" : "f4445e5eb1b2dba018ad35a7de6c6b23",
+  "time" : {
+    "start" : 1668261749604,
+    "stop" : 1668261763305,
+    "duration" : 13701
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Dashboard Test Dark theme-Admin"
+  }, {
+    "name" : "testClass",
+    "value" : "Dashboard Test Dark theme-Admin"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Admin is able to view the count of Total Incidents on Donut chart of 'Overall Incident Summary' widget of Admin Dashboard Page.-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Dashboard Test Dark theme-Admin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1fc561bc51d05e42.json",
+  "parameterValues" : [ ]
+}

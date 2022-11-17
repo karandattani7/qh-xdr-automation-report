@@ -1,0 +1,50 @@
+{
+  "uid" : "11dee119d3f6d12d",
+  "name" : "Verify that in SLA Configuration tab, the options for Hours and Days are as expected for each field in Severity vs Status table of SLA panel-Light",
+  "fullName" : "SLA Test Light theme.Verify that in SLA Configuration tab, the options for Hours and Days are as expected for each field in Severity vs Status table of SLA panel-Light",
+  "historyId" : "30dea87591413ce39c61c351b16fbaab",
+  "time" : {
+    "start" : 1668263386507,
+    "stop" : 1668263408379,
+    "duration" : 21872
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "SLA Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "SLA Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in SLA Configuration tab, the options for Hours and Days are as expected for each field in Severity vs Status table of SLA panel-Light"
+  }, {
+    "name" : "package",
+    "value" : "SLA Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "11dee119d3f6d12d.json",
+  "parameterValues" : [ ]
+}

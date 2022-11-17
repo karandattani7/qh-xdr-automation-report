@@ -1,0 +1,74 @@
+{
+  "uid" : "2ecd3b1faf06b663",
+  "name" : "Verify User should be able to click on “Create Playbook” in header which should redirect User to Create New Playbook form in Draft Playbooks tab-Light",
+  "fullName" : "Playbook Test Light theme.Verify User should be able to click on “Create Playbook” in header which should redirect User to Create New Playbook form in Draft Playbooks tab-Light",
+  "historyId" : "e3d7586c859a9ba2f0cd0ba3362cf4e7",
+  "time" : {
+    "start" : 1668543176369,
+    "stop" : 1668543200626,
+    "duration" : 24257
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User should be able to click on “Create Playbook” in header which should redirect User to Create New Playbook form in Draft Playbooks tab-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "aa73f242f52eefa2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668509580574,
+        "stop" : 1668509604859,
+        "duration" : 24285
+      }
+    }, {
+      "uid" : "cd549a8d66d7abcf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668501442519,
+        "stop" : 1668501465670,
+        "duration" : 23151
+      }
+    }, {
+      "uid" : "ffc1490ef876f375",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668497426050,
+        "stop" : 1668497449182,
+        "duration" : 23132
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2ecd3b1faf06b663.json",
+  "parameterValues" : [ ]
+}

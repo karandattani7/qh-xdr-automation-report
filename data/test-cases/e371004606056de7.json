@@ -1,0 +1,50 @@
+{
+  "uid" : "e371004606056de7",
+  "name" : "Verify that User is able to remove selected filter from SELECTED FILTERS section using cross icon of selected filter in Incidents page Add Filter window-Light",
+  "fullName" : "Incident Test Light theme.Verify that User is able to remove selected filter from SELECTED FILTERS section using cross icon of selected filter in Incidents page Add Filter window-Light",
+  "historyId" : "3ce3ea74a354380aaac0aa0591bb70b0",
+  "time" : {
+    "start" : 1668429663942,
+    "stop" : 1668429702936,
+    "duration" : 38994
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to remove selected filter from SELECTED FILTERS section using cross icon of selected filter in Incidents page Add Filter window-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e371004606056de7.json",
+  "parameterValues" : [ ]
+}

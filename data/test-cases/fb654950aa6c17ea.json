@@ -1,0 +1,48 @@
+{
+  "uid" : "fb654950aa6c17ea",
+  "name" : "Verify that clicking on 'Publish Playbook' of 'Validation Successful' modal, closes the modal and User gets redirected to Published Playbooks tab-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that clicking on 'Publish Playbook' of 'Validation Successful' modal, closes the modal and User gets redirected to Published Playbooks tab-Dark",
+  "historyId" : "b96879ec019ed2831715e7e666eb0f3f",
+  "time" : {
+    "start" : 1668426645033,
+    "stop" : 1668426725730,
+    "duration" : 80697
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on 'Publish Playbook' of 'Validation Successful' modal, closes the modal and User gets redirected to Published Playbooks tab-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fb654950aa6c17ea.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "f1a1c9f8c54ad035",
+  "name" : "Verify that User is able to switch between AVAILABLE FILTERS entities and see the listed attributes-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to switch between AVAILABLE FILTERS entities and see the listed attributes-Light",
+  "historyId" : "ff8fb2ffc7be9167ded1231c3cc22d2b",
+  "time" : {
+    "start" : 1668514634347,
+    "stop" : 1668514684994,
+    "duration" : 50647
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to switch between AVAILABLE FILTERS entities and see the listed attributes-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f1a1c9f8c54ad035.json",
+  "parameterValues" : [ ]
+}

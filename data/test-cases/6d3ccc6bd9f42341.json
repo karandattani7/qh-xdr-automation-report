@@ -1,0 +1,75 @@
+{
+  "uid" : "6d3ccc6bd9f42341",
+  "name" : "Verify that an error message 'Please select a valid filter' is shown below search field when User enters random text in Add Filter window-Light",
+  "fullName" : "Playbook Test Light theme.Verify that an error message 'Please select a valid filter' is shown below search field when User enters random text in Add Filter window-Light",
+  "historyId" : "2a2e0bc7319b39caf34b80ce97ca581f",
+  "time" : {
+    "start" : 1668546594873,
+    "stop" : 1668546634774,
+    "duration" : 39901
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that an error message 'Please select a valid filter' is shown below search field when User enters random text in Add Filter window-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "955ba5ca75cbc98",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668513236052,
+        "stop" : 1668513277729,
+        "duration" : 41677
+      }
+    }, {
+      "uid" : "73008292ff456a2d",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Published Playbooks')])",
+      "time" : {
+        "start" : 1668504173480,
+        "stop" : 1668504178003,
+        "duration" : 4523
+      }
+    }, {
+      "uid" : "512215ac46d87869",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668500809065,
+        "stop" : 1668500849041,
+        "duration" : 39976
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6d3ccc6bd9f42341.json",
+  "parameterValues" : [ ]
+}

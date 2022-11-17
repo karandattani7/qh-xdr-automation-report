@@ -1,0 +1,75 @@
+{
+  "uid" : "a77c8b453ca1dfe5",
+  "name" : "Verify that in Playbook Add Filter window, an error message 'Please enter some value.' is shown when User does not enter any value for +playbook.name and +cre.name filter-Light",
+  "fullName" : "Playbook Test Light theme.Verify that in Playbook Add Filter window, an error message 'Please enter some value.' is shown when User does not enter any value for +playbook.name and +cre.name filter-Light",
+  "historyId" : "45843fb5753f6e6dd2aafd8eb407fe33",
+  "time" : {
+    "start" : 1668546827637,
+    "stop" : 1668546895366,
+    "duration" : 67729
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Playbook Add Filter window, an error message 'Please enter some value.' is shown when User does not enter any value for +playbook.name and +cre.name filter-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1db6e1909b75e224",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668513480816,
+        "stop" : 1668513553419,
+        "duration" : 72603
+      }
+    }, {
+      "uid" : "c42d8b54d1002879",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Published Playbooks')])",
+      "time" : {
+        "start" : 1668504195918,
+        "stop" : 1668504200370,
+        "duration" : 4452
+      }
+    }, {
+      "uid" : "95b57761c1628430",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668501042046,
+        "stop" : 1668501109469,
+        "duration" : 67423
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a77c8b453ca1dfe5.json",
+  "parameterValues" : [ ]
+}

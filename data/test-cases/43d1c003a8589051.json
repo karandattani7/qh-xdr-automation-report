@@ -1,0 +1,50 @@
+{
+  "uid" : "43d1c003a8589051",
+  "name" : "Verify that 3 columns 'Timestamp', 'Filter Name', 'Created By' are shown in left side section in 'Saved Filter' tab of Incident Add Filter modal-Light",
+  "fullName" : "Incident Test Light theme.Verify that 3 columns 'Timestamp', 'Filter Name', 'Created By' are shown in left side section in 'Saved Filter' tab of Incident Add Filter modal-Light",
+  "historyId" : "fefbd3915ade0da4c6197c57bfa7b718",
+  "time" : {
+    "start" : 1668429045048,
+    "stop" : 1668429069020,
+    "duration" : 23972
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that 3 columns 'Timestamp', 'Filter Name', 'Created By' are shown in left side section in 'Saved Filter' tab of Incident Add Filter modal-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "43d1c003a8589051.json",
+  "parameterValues" : [ ]
+}

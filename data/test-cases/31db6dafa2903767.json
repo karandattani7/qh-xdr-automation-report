@@ -1,0 +1,50 @@
+{
+  "uid" : "31db6dafa2903767",
+  "name" : "Verify that clicking on Delete icon shows Delete SLA For Incident Type modal in SLA Configuration tab-Dark",
+  "fullName" : "SLA Test Dark theme.Verify that clicking on Delete icon shows Delete SLA For Incident Type modal in SLA Configuration tab-Dark",
+  "historyId" : "247f1638b1cb3190b1da87d7c72e1ff1",
+  "time" : {
+    "start" : 1668262409505,
+    "stop" : 1668262431083,
+    "duration" : 21578
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "SLA Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "SLA Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Delete icon shows Delete SLA For Incident Type modal in SLA Configuration tab-Dark"
+  }, {
+    "name" : "package",
+    "value" : "SLA Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "31db6dafa2903767.json",
+  "parameterValues" : [ ]
+}

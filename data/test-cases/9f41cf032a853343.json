@@ -1,0 +1,50 @@
+{
+  "uid" : "9f41cf032a853343",
+  "name" : "Verify that user is able to expand and collapse 'Default' panel in SLA Configuration tab-Dark",
+  "fullName" : "SLA Test Dark theme.Verify that user is able to expand and collapse 'Default' panel in SLA Configuration tab-Dark",
+  "historyId" : "de2614e253233184c45344f44e3acc71",
+  "time" : {
+    "start" : 1668262307931,
+    "stop" : 1668262323505,
+    "duration" : 15574
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "SLA Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "SLA Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to expand and collapse 'Default' panel in SLA Configuration tab-Dark"
+  }, {
+    "name" : "package",
+    "value" : "SLA Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9f41cf032a853343.json",
+  "parameterValues" : [ ]
+}

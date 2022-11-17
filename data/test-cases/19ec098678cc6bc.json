@@ -1,0 +1,48 @@
+{
+  "uid" : "19ec098678cc6bc",
+  "name" : "Verify that given decision name by user is reflected on main canvas area on decision block after addition-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that given decision name by user is reflected on main canvas area on decision block after addition-Dark",
+  "historyId" : "bed63070e96af5b1e819b5aa52a74260",
+  "time" : {
+    "start" : 1668423389417,
+    "stop" : 1668423435096,
+    "duration" : 45679
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that given decision name by user is reflected on main canvas area on decision block after addition-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "19ec098678cc6bc.json",
+  "parameterValues" : [ ]
+}

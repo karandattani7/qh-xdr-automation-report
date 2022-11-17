@@ -1,0 +1,75 @@
+{
+  "uid" : "6856ff7d84b49c0b",
+  "name" : "Verify that in Playbook Add Filter window, an error message 'Please select a valid value' is shown when entering invalid value for '+cre.name' filter-Light",
+  "fullName" : "Playbook Test Light theme.Verify that in Playbook Add Filter window, an error message 'Please select a valid value' is shown when entering invalid value for '+cre.name' filter-Light",
+  "historyId" : "eaaa3eeacf841200d70fdf1ae6fe26eb",
+  "time" : {
+    "start" : 1668546779383,
+    "stop" : 1668546827637,
+    "duration" : 48254
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Playbook Add Filter window, an error message 'Please select a valid value' is shown when entering invalid value for '+cre.name' filter-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f6dff0ee886d207",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668513430378,
+        "stop" : 1668513480816,
+        "duration" : 50438
+      }
+    }, {
+      "uid" : "b6cc9516c27a1df2",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Published Playbooks')])",
+      "time" : {
+        "start" : 1668504191453,
+        "stop" : 1668504195918,
+        "duration" : 4465
+      }
+    }, {
+      "uid" : "bba7123d04055cee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668500993619,
+        "stop" : 1668501042046,
+        "duration" : 48427
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6856ff7d84b49c0b.json",
+  "parameterValues" : [ ]
+}

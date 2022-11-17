@@ -1,0 +1,48 @@
+{
+  "uid" : "c82f32bbb5fbe5d",
+  "name" : "Verify that the 'View Audit Report' and 'Add Note' icon is shown near 'Incident Summary' title in Incident Summary right panel-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that the 'View Audit Report' and 'Add Note' icon is shown near 'Incident Summary' title in Incident Summary right panel-Dark",
+  "historyId" : "50930c544f256481b910590f5b8eabd9",
+  "time" : {
+    "start" : 1668432424522,
+    "stop" : 1668432456355,
+    "duration" : 31833
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that the 'View Audit Report' and 'Add Note' icon is shown near 'Incident Summary' title in Incident Summary right panel-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c82f32bbb5fbe5d.json",
+  "parameterValues" : [ ]
+}

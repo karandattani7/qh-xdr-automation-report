@@ -1,0 +1,56 @@
+{
+  "uid" : "9d6269c05550fa3b",
+  "name" : "Verify that user is able to filter incidents list by single incident id and multiple incident ids-Light",
+  "fullName" : "Incident Test Light theme.Verify that user is able to filter incidents list by single incident id and multiple incident ids-Light",
+  "historyId" : "69dd0e362bebc4a84d31c3ac1053685",
+  "time" : {
+    "start" : 1668430455927,
+    "stop" : 1668430519763,
+    "duration" : 63836
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected 0 to equal 1.",
+  "statusTrace" : "Error: Failed expectation\n                    at D:\\qh-ui\\qh environment\\JSDIRECTORY\\Test\\IncidentTabtest-Light.js:2814:104\n                    at Generator.next (<anonymous>)\n                    at fulfilled (D:\\qh-ui\\qh environment\\JSDIRECTORY\\Test\\IncidentTabtest-Light.js:5:58)\n                    at runMicrotasks (<anonymous>)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to filter incidents list by single incident id and multiple incident ids-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "9d6269c05550fa3b.json",
+  "parameterValues" : [ ]
+}

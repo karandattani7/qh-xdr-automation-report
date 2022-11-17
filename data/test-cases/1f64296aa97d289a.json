@@ -1,0 +1,48 @@
+{
+  "uid" : "1f64296aa97d289a",
+  "name" : "Verify that User is able to remove tags by unchecking checkbox in Tags field of Create Playbook form-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to remove tags by unchecking checkbox in Tags field of Create Playbook form-Dark",
+  "historyId" : "8c1eded452832926a0bb4aec0dc2bb01",
+  "time" : {
+    "start" : 1668419764323,
+    "stop" : 1668419789234,
+    "duration" : 24911
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to remove tags by unchecking checkbox in Tags field of Create Playbook form-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1f64296aa97d289a.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,50 @@
+{
+  "uid" : "d2df3d798dd9b4b",
+  "name" : "Verify that user is able to add note successfully for a particular incident using Add Note modal-Light",
+  "fullName" : "Incident Test Light theme.Verify that user is able to add note successfully for a particular incident using Add Note modal-Light",
+  "historyId" : "533bafc42c6082c29945ddb33220f7b3",
+  "time" : {
+    "start" : 1668431076211,
+    "stop" : 1668431121487,
+    "duration" : 45276
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to add note successfully for a particular incident using Add Note modal-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d2df3d798dd9b4b.json",
+  "parameterValues" : [ ]
+}

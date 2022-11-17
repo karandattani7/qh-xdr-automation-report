@@ -1,0 +1,48 @@
+{
+  "uid" : "a083ae9292d3776e",
+  "name" : "Verify that in Published Playbooks tab, an error message 'Filter already selected.' is shown below filter search field if user adds quick filter with same value again-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that in Published Playbooks tab, an error message 'Filter already selected.' is shown below filter search field if user adds quick filter with same value again-Dark",
+  "historyId" : "2f49b4fa072b7dfe8c3ba7d65c3be16f",
+  "time" : {
+    "start" : 1668427816755,
+    "stop" : 1668427857588,
+    "duration" : 40833
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Published Playbooks tab, an error message 'Filter already selected.' is shown below filter search field if user adds quick filter with same value again-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a083ae9292d3776e.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,75 @@
+{
+  "uid" : "18fa46c1f9a368a9",
+  "name" : "Verify that after adding an internal function, the right panel should show Read only view with Edit button-Light",
+  "fullName" : "Playbook Test Light theme.Verify that after adding an internal function, the right panel should show Read only view with Edit button-Light",
+  "historyId" : "e0fc8763e41682a59c00751f13f762b3",
+  "time" : {
+    "start" : 1668547695117,
+    "stop" : 1668547751618,
+    "duration" : 56501
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that after adding an internal function, the right panel should show Read only view with Edit button-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6ba90c7446540bae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668514407752,
+        "stop" : 1668514473036,
+        "duration" : 65284
+      }
+    }, {
+      "uid" : "611100be7a9a059f",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504262565,
+        "stop" : 1668504267010,
+        "duration" : 4445
+      }
+    }, {
+      "uid" : "39196a89c173ce7e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668501924011,
+        "stop" : 1668501988707,
+        "duration" : 64696
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "18fa46c1f9a368a9.json",
+  "parameterValues" : [ ]
+}

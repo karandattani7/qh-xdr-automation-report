@@ -1,0 +1,48 @@
+{
+  "uid" : "1cc4db40f36d1a0e",
+  "name" : "Verify that clicking on Close icon on Work not saved modal keeps User on Edit Playbook form (Draft) when editing playbook-Light",
+  "fullName" : "Playbook Test Light theme.Verify that clicking on Close icon on Work not saved modal keeps User on Edit Playbook form (Draft) when editing playbook-Light",
+  "historyId" : "af1048d6568ec302e884f032ade6dc96",
+  "time" : {
+    "start" : 1668512003845,
+    "stop" : 1668512028357,
+    "duration" : 24512
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Close icon on Work not saved modal keeps User on Edit Playbook form (Draft) when editing playbook-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1cc4db40f36d1a0e.json",
+  "parameterValues" : [ ]
+}

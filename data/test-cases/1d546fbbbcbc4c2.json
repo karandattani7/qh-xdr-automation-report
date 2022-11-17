@@ -1,0 +1,48 @@
+{
+  "uid" : "1d546fbbbcbc4c2",
+  "name" : "Verify that clicking on Cancel when updating filter block in right panel, discards the changes and closes the right panel-Light",
+  "fullName" : "Playbook Test Light theme.Verify that clicking on Cancel when updating filter block in right panel, discards the changes and closes the right panel-Light",
+  "historyId" : "b26a9e8a3e6c96f4e682c9b55b83e407",
+  "time" : {
+    "start" : 1668505024251,
+    "stop" : 1668505105342,
+    "duration" : 81091
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Cancel when updating filter block in right panel, discards the changes and closes the right panel-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1d546fbbbcbc4c2.json",
+  "parameterValues" : [ ]
+}

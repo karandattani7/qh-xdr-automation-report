@@ -1,0 +1,66 @@
+{
+  "uid" : "aff1d4e1f237de42",
+  "name" : "Verify that selected playbook name for execution is shown in Playbook Actions modal above all fields-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that selected playbook name for execution is shown in Playbook Actions modal above all fields-Dark",
+  "historyId" : "aa91926965377062802d59445709bfa4",
+  "time" : {
+    "start" : 1668500565429,
+    "stop" : 1668500598289,
+    "duration" : 32860
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that selected playbook name for execution is shown in Playbook Actions modal above all fields-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "cfed9f0dd73ddfe8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668430398204,
+        "stop" : 1668430431891,
+        "duration" : 33687
+      }
+    }, {
+      "uid" : "fc8e23ded42a5959",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668415372467,
+        "stop" : 1668415406028,
+        "duration" : 33561
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aff1d4e1f237de42.json",
+  "parameterValues" : [ ]
+}

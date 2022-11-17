@@ -1,0 +1,48 @@
+{
+  "uid" : "4f2740bc2c2d5991",
+  "name" : "Verify that in User Timeline view, clicking on Add+ opens Add Filter modal-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that in User Timeline view, clicking on Add+ opens Add Filter modal-Dark",
+  "historyId" : "6b5318a2c234a553075ac3ccd6aab927",
+  "time" : {
+    "start" : 1668418407889,
+    "stop" : 1668418457558,
+    "duration" : 49669
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in User Timeline view, clicking on Add+ opens Add Filter modal-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4f2740bc2c2d5991.json",
+  "parameterValues" : [ ]
+}

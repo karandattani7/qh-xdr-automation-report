@@ -1,0 +1,48 @@
+{
+  "uid" : "c5ffeab54f4c0a24",
+  "name" : "Verify that clicking on 'No' button on Work not saved modal keeps User on Edit Playbook form (Draft) when editing playbook-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that clicking on 'No' button on Work not saved modal keeps User on Edit Playbook form (Draft) when editing playbook-Dark",
+  "historyId" : "1d8cd5c4afe9d3079fe4c3c488ce2c1a",
+  "time" : {
+    "start" : 1668544898762,
+    "stop" : 1668544921889,
+    "duration" : 23127
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on 'No' button on Work not saved modal keeps User on Edit Playbook form (Draft) when editing playbook-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c5ffeab54f4c0a24.json",
+  "parameterValues" : [ ]
+}

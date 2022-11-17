@@ -1,0 +1,50 @@
+{
+  "uid" : "532408636165c45d",
+  "name" : "Verify that success toast notification is shown after updating any incident detail from incident summary right panel-Light",
+  "fullName" : "Incident Test Light theme.Verify that success toast notification is shown after updating any incident detail from incident summary right panel-Light",
+  "historyId" : "30301a830e3f151b31519ece4eda2f97",
+  "time" : {
+    "start" : 1668430192494,
+    "stop" : 1668430282775,
+    "duration" : 90281
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that success toast notification is shown after updating any incident detail from incident summary right panel-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "532408636165c45d.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,50 @@
+{
+  "uid" : "b5c98aebf350bea5",
+  "name" : "Verify SOC Manager  is able to view 1 week, 1 month and 3 months of timeframe breakpoint on 'Average Incidents Rate' widget on SOC Manager Dashboard Page.-Dark",
+  "fullName" : "Dashboard Test Dark theme-SOC Manager.Verify SOC Manager  is able to view 1 week, 1 month and 3 months of timeframe breakpoint on 'Average Incidents Rate' widget on SOC Manager Dashboard Page.-Dark",
+  "historyId" : "4900bae1579c887a69c8e893c3539c6a",
+  "time" : {
+    "start" : 1668262049925,
+    "stop" : 1668262072970,
+    "duration" : 23045
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "testClass",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify SOC Manager  is able to view 1 week, 1 month and 3 months of timeframe breakpoint on 'Average Incidents Rate' widget on SOC Manager Dashboard Page.-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b5c98aebf350bea5.json",
+  "parameterValues" : [ ]
+}

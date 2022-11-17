@@ -1,0 +1,67 @@
+{
+  "uid" : "47ed5603a5a23f71",
+  "name" : "Verify that user is able to switch between 3 tabs List, Timeline, Correlation in User View page-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that user is able to switch between 3 tabs List, Timeline, Correlation in User View page-Dark",
+  "historyId" : "fa9aae393ca951003a59b9de9be25e01",
+  "time" : {
+    "start" : 1668502742691,
+    "stop" : 1668502803602,
+    "duration" : 60911
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to switch between 3 tabs List, Timeline, Correlation in User View page-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2607872cac6a41e0",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //h5[text()=' Basic Information '])",
+      "time" : {
+        "start" : 1668432510176,
+        "stop" : 1668432535631,
+        "duration" : 25455
+      }
+    }, {
+      "uid" : "eb393dfcca21f866",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668417617011,
+        "stop" : 1668417678094,
+        "duration" : 61083
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "47ed5603a5a23f71.json",
+  "parameterValues" : [ ]
+}

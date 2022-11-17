@@ -1,0 +1,50 @@
+{
+  "uid" : "70a0eb7b276b160c",
+  "name" : "Verify that User is able to remove all the applied filters from Connector list view using cross (x) icon in Search filter component-Dark",
+  "fullName" : "Connector Test Dark theme.Verify that User is able to remove all the applied filters from Connector list view using cross (x) icon in Search filter component-Dark",
+  "historyId" : "4df6de344d71e6592ae37580ec435a70",
+  "time" : {
+    "start" : 1668257298328,
+    "stop" : 1668257382053,
+    "duration" : 83725
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to remove all the applied filters from Connector list view using cross (x) icon in Search filter component-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "70a0eb7b276b160c.json",
+  "parameterValues" : [ ]
+}

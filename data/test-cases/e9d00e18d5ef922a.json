@@ -1,0 +1,68 @@
+{
+  "uid" : "e9d00e18d5ef922a",
+  "name" : "Verify that User is able to move the mini canvas blue window within the Mini Canvas View area-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to move the mini canvas blue window within the Mini Canvas View area-Dark",
+  "historyId" : "22f51e46dc9928b3f399af72e3ce526d",
+  "time" : {
+    "start" : 1668583353370,
+    "stop" : 1668583405635,
+    "duration" : 52265
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to move the mini canvas blue window within the Mini Canvas View area-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "34516f41361544f0",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668546085566,
+        "stop" : 1668546089024,
+        "duration" : 3458
+      }
+    }, {
+      "uid" : "aed60434fd9bd760",
+      "status" : "failed",
+      "statusDetails" : "NoSuchElementError: Index out of bound. Trying to access element at index: 6, but there are only 0 elements that match locator By(xpath, //*[name()='g']/*[name()='rect'])",
+      "time" : {
+        "start" : 1668426963775,
+        "stop" : 1668426999764,
+        "duration" : 35989
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e9d00e18d5ef922a.json",
+  "parameterValues" : [ ]
+}

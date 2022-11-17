@@ -1,0 +1,66 @@
+{
+  "uid" : "1e8d508dc07140a0",
+  "name" : "Verify that in Incident Add Filter window, error message 'Please select a valid value' is shown when entering non-existing assignee name and clicking on Add+ button-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that in Incident Add Filter window, error message 'Please select a valid value' is shown when entering non-existing assignee name and clicking on Add+ button-Dark",
+  "historyId" : "7b6b1f4742e6f9db2aae1b08d8dc3f3",
+  "time" : {
+    "start" : 1668500536355,
+    "stop" : 1668500565429,
+    "duration" : 29074
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Incident Add Filter window, error message 'Please select a valid value' is shown when entering non-existing assignee name and clicking on Add+ button-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ccac48c621798f22",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668430367785,
+        "stop" : 1668430398204,
+        "duration" : 30419
+      }
+    }, {
+      "uid" : "63d251883c38c393",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668415342561,
+        "stop" : 1668415372466,
+        "duration" : 29905
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1e8d508dc07140a0.json",
+  "parameterValues" : [ ]
+}

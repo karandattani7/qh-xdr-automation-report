@@ -1,0 +1,67 @@
+{
+  "uid" : "aa14739135147d04",
+  "name" : "Verify that clicking on Cancel in editable external function block right panel, closes the right panel and discards the changes-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that clicking on Cancel in editable external function block right panel, closes the right panel and discards the changes-Dark",
+  "historyId" : "ef4153103d91fa83ef973acf2b4a3230",
+  "time" : {
+    "start" : 1668581578010,
+    "stop" : 1668581635480,
+    "duration" : 57470
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Cancel in editable external function block right panel, closes the right panel and discards the changes-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5d9dfc15d7238079",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668545997377,
+        "stop" : 1668546000726,
+        "duration" : 3349
+      }
+    }, {
+      "uid" : "32022abe027fdd2d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668425454403,
+        "stop" : 1668425508548,
+        "duration" : 54145
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aa14739135147d04.json",
+  "parameterValues" : [ ]
+}

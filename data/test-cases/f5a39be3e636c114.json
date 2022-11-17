@@ -1,0 +1,50 @@
+{
+  "uid" : "f5a39be3e636c114",
+  "name" : "Verify that user is able to add and apply more than one filter in User List and Timeline view Add Filter window-Light",
+  "fullName" : "Incident Test Light theme.Verify that user is able to add and apply more than one filter in User List and Timeline view Add Filter window-Light",
+  "historyId" : "bdc5ff1e137b3de18c0d7ecd7aad067c",
+  "time" : {
+    "start" : 1668433809719,
+    "stop" : 1668433865279,
+    "duration" : 55560
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to add and apply more than one filter in User List and Timeline view Add Filter window-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f5a39be3e636c114.json",
+  "parameterValues" : [ ]
+}

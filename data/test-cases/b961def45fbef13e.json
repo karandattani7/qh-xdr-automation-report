@@ -1,0 +1,66 @@
+{
+  "uid" : "b961def45fbef13e",
+  "name" : "Verify that a progress toast notification is shown 'Playbook execution is in progress...' after user clicks on 'Execute' in Playbook Action modal-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that a progress toast notification is shown 'Playbook execution is in progress...' after user clicks on 'Execute' in Playbook Action modal-Dark",
+  "historyId" : "be111d060983d2faf016178e285cab04",
+  "time" : {
+    "start" : 1668502997552,
+    "stop" : 1668503026342,
+    "duration" : 28790
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that a progress toast notification is shown 'Playbook execution is in progress...' after user clicks on 'Execute' in Playbook Action modal-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "64db425aadb615e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668432769828,
+        "stop" : 1668432791966,
+        "duration" : 22138
+      }
+    }, {
+      "uid" : "9128fdbe94dbb30a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668417864150,
+        "stop" : 1668417892471,
+        "duration" : 28321
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b961def45fbef13e.json",
+  "parameterValues" : [ ]
+}

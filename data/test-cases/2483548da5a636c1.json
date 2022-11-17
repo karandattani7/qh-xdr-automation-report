@@ -1,0 +1,74 @@
+{
+  "uid" : "2483548da5a636c1",
+  "name" : "Verify that clicking on Back arrow in breadcrumbs of Create Playbook form shows 'Work not saved' modal-Light",
+  "fullName" : "Playbook Test Light theme.Verify that clicking on Back arrow in breadcrumbs of Create Playbook form shows 'Work not saved' modal-Light",
+  "historyId" : "8f66e399d66164fd4eecda579995a7cc",
+  "time" : {
+    "start" : 1668544821265,
+    "stop" : 1668544842137,
+    "duration" : 20872
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Back arrow in breadcrumbs of Create Playbook form shows 'Work not saved' modal-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3917b1866301adce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668511313570,
+        "stop" : 1668511335576,
+        "duration" : 22006
+      }
+    }, {
+      "uid" : "865077e8afa5a94b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668502992340,
+        "stop" : 1668503014570,
+        "duration" : 22230
+      }
+    }, {
+      "uid" : "b63630342feada7d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668499039325,
+        "stop" : 1668499060364,
+        "duration" : 21039
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2483548da5a636c1.json",
+  "parameterValues" : [ ]
+}

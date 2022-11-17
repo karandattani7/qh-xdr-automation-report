@@ -1,0 +1,48 @@
+{
+  "uid" : "61d4bcdf2f7b7e71",
+  "name" : "Verify that user is able to drag and drop the Decision block on main canvas area of Playbook Editor-Light",
+  "fullName" : "Playbook Test Light theme.Verify that user is able to drag and drop the Decision block on main canvas area of Playbook Editor-Light",
+  "historyId" : "b0edaeb550677cc7614595606bc84acc",
+  "time" : {
+    "start" : 1668503558512,
+    "stop" : 1668503607880,
+    "duration" : 49368
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to drag and drop the Decision block on main canvas area of Playbook Editor-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "61d4bcdf2f7b7e71.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,76 @@
+{
+  "uid" : "939f53f73d38d174",
+  "name" : "Verify that when entering non-existing function name in Search field shows validation message below Search field 'No matching function found' in Call External Function right panel-Light",
+  "fullName" : "Playbook Test Light theme.Verify that when entering non-existing function name in Search field shows validation message below Search field 'No matching function found' in Call External Function right panel-Light",
+  "historyId" : "3cb4462179cb6e79cc43313bb92d76b8",
+  "time" : {
+    "start" : 1668549192206,
+    "stop" : 1668549226164,
+    "duration" : 33958
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that when entering non-existing function name in Search field shows validation message below Search field 'No matching function found' in Call External Function right panel-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "af5b28dec8ebac29",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668516556458,
+        "stop" : 1668516560649,
+        "duration" : 4191
+      }
+    }, {
+      "uid" : "32ee20a6a5b871cb",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504404295,
+        "stop" : 1668504408631,
+        "duration" : 4336
+      }
+    }, {
+      "uid" : "772af6ad7add5cdb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668503522271,
+        "stop" : 1668503558512,
+        "duration" : 36241
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "939f53f73d38d174.json",
+  "parameterValues" : [ ]
+}

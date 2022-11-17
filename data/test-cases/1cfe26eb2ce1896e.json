@@ -1,0 +1,50 @@
+{
+  "uid" : "1cfe26eb2ce1896e",
+  "name" : "Verify Admin is able to choose 1 month time period on timeframe breakpoints for all widgets on Admin Page.-Light",
+  "fullName" : "Dashboard Test Light theme-Admin.Verify Admin is able to choose 1 month time period on timeframe breakpoints for all widgets on Admin Page.-Light",
+  "historyId" : "84b9f96a5f997315251055c1f0785bd2",
+  "time" : {
+    "start" : 1668262836906,
+    "stop" : 1668262851730,
+    "duration" : 14824
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Dashboard Test Light theme-Admin"
+  }, {
+    "name" : "testClass",
+    "value" : "Dashboard Test Light theme-Admin"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Admin is able to choose 1 month time period on timeframe breakpoints for all widgets on Admin Page.-Light"
+  }, {
+    "name" : "package",
+    "value" : "Dashboard Test Light theme-Admin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1cfe26eb2ce1896e.json",
+  "parameterValues" : [ ]
+}

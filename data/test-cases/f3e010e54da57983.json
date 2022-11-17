@@ -1,0 +1,48 @@
+{
+  "uid" : "f3e010e54da57983",
+  "name" : "Verify empty view of draft playbooks page is displayed when the only single draft playbook is deleted from the list-Light",
+  "fullName" : "Playbook Test Light theme.Verify empty view of draft playbooks page is displayed when the only single draft playbook is deleted from the list-Light",
+  "historyId" : "28c81c29aa2dbc4a2704789003c58b83",
+  "time" : {
+    "start" : 1668502480120,
+    "stop" : 1668502501870,
+    "duration" : 21750
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify empty view of draft playbooks page is displayed when the only single draft playbook is deleted from the list-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f3e010e54da57983.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "91a31b18b7c6cf3e",
+  "name" : "Verify that in Incident Summary right panel. 'Add Note' icon is shown when NOTES section is expanded-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that in Incident Summary right panel. 'Add Note' icon is shown when NOTES section is expanded-Dark",
+  "historyId" : "c3a27aa683164ea40d2c35de28c2cb2c",
+  "time" : {
+    "start" : 1668432221270,
+    "stop" : 1668432265835,
+    "duration" : 44565
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Incident Summary right panel. 'Add Note' icon is shown when NOTES section is expanded-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "91a31b18b7c6cf3e.json",
+  "parameterValues" : [ ]
+}

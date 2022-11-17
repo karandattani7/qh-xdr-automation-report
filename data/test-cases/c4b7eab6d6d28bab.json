@@ -1,0 +1,48 @@
+{
+  "uid" : "c4b7eab6d6d28bab",
+  "name" : "Verify the column names of Draft Playbooks table are in uppercase-Light",
+  "fullName" : "Playbook Test Light theme.Verify the column names of Draft Playbooks table are in uppercase-Light",
+  "historyId" : "437cb71957198a764afaebd347f66a0f",
+  "time" : {
+    "start" : 1668502112636,
+    "stop" : 1668502133481,
+    "duration" : 20845
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the column names of Draft Playbooks table are in uppercase-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c4b7eab6d6d28bab.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "5a4fe37cefb1b88b",
+  "name" : "Verify that when user adds 'Reason for Change' in any Edit modal for incident detail change, it gets added to NOTES section in Incident Summary right panel and increases count of NOTES by 1-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that when user adds 'Reason for Change' in any Edit modal for incident detail change, it gets added to NOTES section in Incident Summary right panel and increases count of NOTES by 1-Dark",
+  "historyId" : "f62fdc743150bcc2535cda7d1581bf45",
+  "time" : {
+    "start" : 1668430711948,
+    "stop" : 1668430760938,
+    "duration" : 48990
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that when user adds 'Reason for Change' in any Edit modal for incident detail change, it gets added to NOTES section in Incident Summary right panel and increases count of NOTES by 1-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5a4fe37cefb1b88b.json",
+  "parameterValues" : [ ]
+}

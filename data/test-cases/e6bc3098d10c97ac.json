@@ -1,0 +1,76 @@
+{
+  "uid" : "e6bc3098d10c97ac",
+  "name" : "Verify that user is able to delete Decision block from its right panel before filling the decision right panel-Light",
+  "fullName" : "Playbook Test Light theme.Verify that user is able to delete Decision block from its right panel before filling the decision right panel-Light",
+  "historyId" : "dc19b75c4b4bdc7178bdb79d6cd583b7",
+  "time" : {
+    "start" : 1668549798897,
+    "stop" : 1668549845204,
+    "duration" : 46307
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to delete Decision block from its right panel before filling the decision right panel-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "17fd9c6c274d41c2",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668516610895,
+        "stop" : 1668516615095,
+        "duration" : 4200
+      }
+    }, {
+      "uid" : "94929fa47a2f6f33",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504462123,
+        "stop" : 1668504466535,
+        "duration" : 4412
+      }
+    }, {
+      "uid" : "9e5a574bb73cf199",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668504222865,
+        "stop" : 1668504270278,
+        "duration" : 47413
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e6bc3098d10c97ac.json",
+  "parameterValues" : [ ]
+}

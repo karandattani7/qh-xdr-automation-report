@@ -1,0 +1,50 @@
+{
+  "uid" : "9b8486cea8b212b1",
+  "name" : "Verify that an error message is shown when User searches with invalid quick filter in Base Alerts tab-Light",
+  "fullName" : "Incident Test Light theme.Verify that an error message is shown when User searches with invalid quick filter in Base Alerts tab-Light",
+  "historyId" : "6967785b458ebf0aa3942d96be0da253",
+  "time" : {
+    "start" : 1668429972637,
+    "stop" : 1668430002577,
+    "duration" : 29940
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that an error message is shown when User searches with invalid quick filter in Base Alerts tab-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9b8486cea8b212b1.json",
+  "parameterValues" : [ ]
+}

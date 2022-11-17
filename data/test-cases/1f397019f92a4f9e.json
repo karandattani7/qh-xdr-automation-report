@@ -1,0 +1,48 @@
+{
+  "uid" : "1f397019f92a4f9e",
+  "name" : "Verify that user is able to delete Decision block from its right panel after filling the decision right panel and adding it-Light",
+  "fullName" : "Playbook Test Light theme.Verify that user is able to delete Decision block from its right panel after filling the decision right panel and adding it-Light",
+  "historyId" : "4d21ad6928e03fde5efaa2c73331862",
+  "time" : {
+    "start" : 1668504464046,
+    "stop" : 1668504507965,
+    "duration" : 43919
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to delete Decision block from its right panel after filling the decision right panel and adding it-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1f397019f92a4f9e.json",
+  "parameterValues" : [ ]
+}

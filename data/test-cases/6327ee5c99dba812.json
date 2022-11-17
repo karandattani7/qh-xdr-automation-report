@@ -1,0 +1,50 @@
+{
+  "uid" : "6327ee5c99dba812",
+  "name" : "Verify that in User Correlation view, 'Key Attributes' count is shown in brackets above Key Attributes table-Light",
+  "fullName" : "Incident Test Light theme.Verify that in User Correlation view, 'Key Attributes' count is shown in brackets above Key Attributes table-Light",
+  "historyId" : "13a55b402545c96319cb2cd0db2f19c0",
+  "time" : {
+    "start" : 1668433434580,
+    "stop" : 1668433494338,
+    "duration" : 59758
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in User Correlation view, 'Key Attributes' count is shown in brackets above Key Attributes table-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6327ee5c99dba812.json",
+  "parameterValues" : [ ]
+}

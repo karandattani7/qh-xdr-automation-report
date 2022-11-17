@@ -1,0 +1,76 @@
+{
+  "uid" : "b5fb909d74450052",
+  "name" : "Verify that User is able to see Edit and Delete option when hovered on Decision block on main canvas area of Playbook Editor-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to see Edit and Delete option when hovered on Decision block on main canvas area of Playbook Editor-Light",
+  "historyId" : "efc8029d65610161f07d511f9add5cae",
+  "time" : {
+    "start" : 1668549567180,
+    "stop" : 1668549612190,
+    "duration" : 45010
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to see Edit and Delete option when hovered on Decision block on main canvas area of Playbook Editor-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "884ff68ad81e463d",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668516589962,
+        "stop" : 1668516594127,
+        "duration" : 4165
+      }
+    }, {
+      "uid" : "9024c6ea02f5365a",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504440003,
+        "stop" : 1668504444520,
+        "duration" : 4517
+      }
+    }, {
+      "uid" : "870ea07c78549337",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668503930376,
+        "stop" : 1668503978399,
+        "duration" : 48023
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b5fb909d74450052.json",
+  "parameterValues" : [ ]
+}

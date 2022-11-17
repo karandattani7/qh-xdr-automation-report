@@ -1,0 +1,48 @@
+{
+  "uid" : "34acda16c7791b19",
+  "name" : "Verify that clicking on 'Playbooks' in breadcrumbs of Create Playbook form shows 'Work not saved' modal-Light",
+  "fullName" : "Playbook Test Light theme.Verify that clicking on 'Playbooks' in breadcrumbs of Create Playbook form shows 'Work not saved' modal-Light",
+  "historyId" : "911d152dbbe68ceff5cb02ad7533469",
+  "time" : {
+    "start" : 1668499018363,
+    "stop" : 1668499039325,
+    "duration" : 20962
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on 'Playbooks' in breadcrumbs of Create Playbook form shows 'Work not saved' modal-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "34acda16c7791b19.json",
+  "parameterValues" : [ ]
+}

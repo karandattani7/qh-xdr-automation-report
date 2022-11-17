@@ -1,0 +1,48 @@
+{
+  "uid" : "c43b00b27bad432d",
+  "name" : "Verify that after adding an internal function, the main canvas area shows the block with name given by user-Light",
+  "fullName" : "Playbook Test Light theme.Verify that after adding an internal function, the main canvas area shows the block with name given by user-Light",
+  "historyId" : "ae2eccd881404e3bbc2fb6e9055437c7",
+  "time" : {
+    "start" : 1668501988707,
+    "stop" : 1668502050682,
+    "duration" : 61975
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that after adding an internal function, the main canvas area shows the block with name given by user-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c43b00b27bad432d.json",
+  "parameterValues" : [ ]
+}

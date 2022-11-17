@@ -1,0 +1,66 @@
+{
+  "uid" : "2a964316325261b3",
+  "name" : "Verify that Search filter component is visible in Base Alerts tab of Incidents page-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that Search filter component is visible in Base Alerts tab of Incidents page-Dark",
+  "historyId" : "68aa18be382618200682a059eb6bac76",
+  "time" : {
+    "start" : 1668497775652,
+    "stop" : 1668497801985,
+    "duration" : 26333
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Search filter component is visible in Base Alerts tab of Incidents page-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e152efeee2b5f84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668427530040,
+        "stop" : 1668427556787,
+        "duration" : 26747
+      }
+    }, {
+      "uid" : "5519fed8f6432437",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668412514948,
+        "stop" : 1668412541574,
+        "duration" : 26626
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2a964316325261b3.json",
+  "parameterValues" : [ ]
+}

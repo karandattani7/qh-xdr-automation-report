@@ -1,0 +1,48 @@
+{
+  "uid" : "36cece50b1aa2f65",
+  "name" : "Verify that in Playbook Add Filter window, User is able to search the filter name with initials and select it from filtered dropdown options-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that in Playbook Add Filter window, User is able to search the filter name with initials and select it from filtered dropdown options-Dark",
+  "historyId" : "42662c98d3294a35eb9cb4e7d65c57d2",
+  "time" : {
+    "start" : 1668422090600,
+    "stop" : 1668422138302,
+    "duration" : 47702
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Playbook Add Filter window, User is able to search the filter name with initials and select it from filtered dropdown options-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "36cece50b1aa2f65.json",
+  "parameterValues" : [ ]
+}

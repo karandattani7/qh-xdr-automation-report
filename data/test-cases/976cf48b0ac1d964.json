@@ -1,0 +1,48 @@
+{
+  "uid" : "976cf48b0ac1d964",
+  "name" : "Verify that an error message 'Please select a valid filter' is shown below search field when User enters random text in Add Filter window-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that an error message 'Please select a valid filter' is shown below search field when User enters random text in Add Filter window-Dark",
+  "historyId" : "2e52ac152f3eed13fa8e775fc8f7c69b",
+  "time" : {
+    "start" : 1668421579592,
+    "stop" : 1668421622183,
+    "duration" : 42591
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that an error message 'Please select a valid filter' is shown below search field when User enters random text in Add Filter window-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "976cf48b0ac1d964.json",
+  "parameterValues" : [ ]
+}

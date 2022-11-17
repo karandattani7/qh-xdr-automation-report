@@ -1,0 +1,48 @@
+{
+  "uid" : "df9d2c426c040060",
+  "name" : "Verify that User is able to delete added/dragged block from the Main Canvas area of the Playbook Editor page-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to delete added/dragged block from the Main Canvas area of the Playbook Editor page-Light",
+  "historyId" : "549fb15ff54e6e440e0b5c1ab9f71632",
+  "time" : {
+    "start" : 1668506527954,
+    "stop" : 1668506592517,
+    "duration" : 64563
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to delete added/dragged block from the Main Canvas area of the Playbook Editor page-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "df9d2c426c040060.json",
+  "parameterValues" : [ ]
+}

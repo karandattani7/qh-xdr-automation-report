@@ -1,0 +1,66 @@
+{
+  "uid" : "1a5a3caa427cd634",
+  "name" : "Verify that user is able to filter incidents list by single severity and multiple severity-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that user is able to filter incidents list by single severity and multiple severity-Dark",
+  "historyId" : "c297eed4f08ae3088d0c42194a3a3084",
+  "time" : {
+    "start" : 1668500883021,
+    "stop" : 1668501031743,
+    "duration" : 148722
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to filter incidents list by single severity and multiple severity-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c464f8c42ab7ae80",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668430687871,
+        "stop" : 1668430711948,
+        "duration" : 24077
+      }
+    }, {
+      "uid" : "b7d1f9be63b34cf3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668415690627,
+        "stop" : 1668415852884,
+        "duration" : 162257
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1a5a3caa427cd634.json",
+  "parameterValues" : [ ]
+}

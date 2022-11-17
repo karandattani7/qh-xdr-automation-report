@@ -1,0 +1,76 @@
+{
+  "uid" : "1eb4c3181e8ed9df",
+  "name" : "Verify that User is able to delete the decision block from main canvas area using delete icon available on hovering after adding a decision condition-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to delete the decision block from main canvas area using delete icon available on hovering after adding a decision condition-Light",
+  "historyId" : "a6b0e0264aa330e187410240e92d39e8",
+  "time" : {
+    "start" : 1668550099625,
+    "stop" : 1668550141929,
+    "duration" : 42304
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to delete the decision block from main canvas area using delete icon available on hovering after adding a decision condition-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "762cd18b0ca7570a",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668516631912,
+        "stop" : 1668516636134,
+        "duration" : 4222
+      }
+    }, {
+      "uid" : "5ede35a15851d3b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668504507966,
+        "stop" : 1668504553111,
+        "duration" : 45145
+      }
+    }, {
+      "uid" : "c4c8ad6781295a55",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504483948,
+        "stop" : 1668504488465,
+        "duration" : 4517
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1eb4c3181e8ed9df.json",
+  "parameterValues" : [ ]
+}

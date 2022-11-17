@@ -1,0 +1,66 @@
+{
+  "uid" : "d74c7c48a55d07f6",
+  "name" : "Verify that User is able to clear search field using cross (x) icon after selecting playbook.name with non-existing playbook name value in Published Playbooks tab-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to clear search field using cross (x) icon after selecting playbook.name with non-existing playbook name value in Published Playbooks tab-Dark",
+  "historyId" : "25be520a22a273c5030cc98c3a936ce1",
+  "time" : {
+    "start" : 1668576771359,
+    "stop" : 1668576808606,
+    "duration" : 37247
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to clear search field using cross (x) icon after selecting playbook.name with non-existing playbook name value in Published Playbooks tab-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d3c32a5fc693bb13",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668545386506,
+        "stop" : 1668545422726,
+        "duration" : 36220
+      }
+    }, {
+      "uid" : "718c80519b46e316",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668420837059,
+        "stop" : 1668420874185,
+        "duration" : 37126
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d74c7c48a55d07f6.json",
+  "parameterValues" : [ ]
+}

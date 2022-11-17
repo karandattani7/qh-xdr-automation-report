@@ -1,0 +1,48 @@
+{
+  "uid" : "2e31ed714cfcf746",
+  "name" : "Verify that in User List view, in Unassociated Alerts clicking on enabled Quarantine button opens Quarantine modal-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that in User List view, in Unassociated Alerts clicking on enabled Quarantine button opens Quarantine modal-Dark",
+  "historyId" : "de34dcf9f1b380b6cba9890b42975691",
+  "time" : {
+    "start" : 1668433347545,
+    "stop" : 1668433404090,
+    "duration" : 56545
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in User List view, in Unassociated Alerts clicking on enabled Quarantine button opens Quarantine modal-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2e31ed714cfcf746.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,50 @@
+{
+  "uid" : "968ae7da80e5b39c",
+  "name" : "Verify that the title of User Correlation view right panel is 'Attribute Details'-Light",
+  "fullName" : "Incident Test Light theme.Verify that the title of User Correlation view right panel is 'Attribute Details'-Light",
+  "historyId" : "6d00a61a0df771c3851ac5e110e761ca",
+  "time" : {
+    "start" : 1668433494338,
+    "stop" : 1668433537881,
+    "duration" : 43543
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that the title of User Correlation view right panel is 'Attribute Details'-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "968ae7da80e5b39c.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "95dce91f81570241",
+  "name" : "Verify that 5 blocks are there in the left panel of available blocks in the Playbook Editor page-Light",
+  "fullName" : "Playbook Test Light theme.Verify that 5 blocks are there in the left panel of available blocks in the Playbook Editor page-Light",
+  "historyId" : "a4e15b43b9c3927d0c1308fcf4d2f4a4",
+  "time" : {
+    "start" : 1668514684994,
+    "stop" : 1668514726777,
+    "duration" : 41783
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that 5 blocks are there in the left panel of available blocks in the Playbook Editor page-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "95dce91f81570241.json",
+  "parameterValues" : [ ]
+}

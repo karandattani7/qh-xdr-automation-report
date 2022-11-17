@@ -1,0 +1,66 @@
+{
+  "uid" : "5c6fee04429ba76a",
+  "name" : "Verify User is able to export a Playbook from 3 dot ellipsis options in Published Playbooks tab-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify User is able to export a Playbook from 3 dot ellipsis options in Published Playbooks tab-Dark",
+  "historyId" : "3d254d0a9a5deb19613b8f9945ee1f59",
+  "time" : {
+    "start" : 1668576104671,
+    "stop" : 1668576140167,
+    "duration" : 35496
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User is able to export a Playbook from 3 dot ellipsis options in Published Playbooks tab-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "cab6a00eb1e00b61",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668544754921,
+        "stop" : 1668544789218,
+        "duration" : 34297
+      }
+    }, {
+      "uid" : "87133d039fdfdd0b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668420177308,
+        "stop" : 1668420212723,
+        "duration" : 35415
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5c6fee04429ba76a.json",
+  "parameterValues" : [ ]
+}

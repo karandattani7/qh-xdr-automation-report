@@ -6,10 +6,10 @@
     "statistic" : {
       "failed" : 8,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 0,
       "passed" : 162,
       "unknown" : 0,
-      "total" : 171
+      "total" : 170
     }
   }, {
     "uid" : "48b2672e9a87296e01eb2e168e2275dc",
@@ -39,10 +39,10 @@
     "statistic" : {
       "failed" : 3,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 0,
       "passed" : 167,
       "unknown" : 0,
-      "total" : 171
+      "total" : 170
     }
   }, {
     "uid" : "a0519eae5e6bc1b0d006f3d47f72ab41",

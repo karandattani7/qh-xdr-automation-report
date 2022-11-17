@@ -1,0 +1,74 @@
+{
+  "uid" : "4ef300f7a70e62a9",
+  "name" : "Verify that clicking on create playbook in empty state should redirect to create playbook form from draft playbooks tab-Light",
+  "fullName" : "Playbook Test Light theme.Verify that clicking on create playbook in empty state should redirect to create playbook form from draft playbooks tab-Light",
+  "historyId" : "b7de2d184080aedbf78d2fb61ba41d04",
+  "time" : {
+    "start" : 1668544200257,
+    "stop" : 1668544243794,
+    "duration" : 43537
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on create playbook in empty state should redirect to create playbook form from draft playbooks tab-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f24c0042d435dc19",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668510634412,
+        "stop" : 1668510679331,
+        "duration" : 44919
+      }
+    }, {
+      "uid" : "98a6e9296e9f24a5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668502381011,
+        "stop" : 1668502425373,
+        "duration" : 44362
+      }
+    }, {
+      "uid" : "9d534bd2d584c4b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668498418882,
+        "stop" : 1668498462221,
+        "duration" : 43339
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4ef300f7a70e62a9.json",
+  "parameterValues" : [ ]
+}

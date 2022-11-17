@@ -1,0 +1,80 @@
+{
+  "uid" : "5f9bf9f20a7efc8d",
+  "name" : "Verify that User is able to scroll up and down inside Tags list in Tags field dropdown in Create Playbook form-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to scroll up and down inside Tags list in Tags field dropdown in Create Playbook form-Light",
+  "historyId" : "a6be8e43b49eac530ff18e2f5198ac0a",
+  "time" : {
+    "start" : 1668544842137,
+    "stop" : 1668544865599,
+    "duration" : 23462
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected false to be true.",
+  "statusTrace" : "Error: Failed expectation\n                    at D:\\qh-ui\\qh environment\\JSDIRECTORY\\Test\\PlaybookTabtest-Light.js:1349:65\n                    at Generator.next (<anonymous>)\n                    at fulfilled (D:\\qh-ui\\qh environment\\JSDIRECTORY\\Test\\PlaybookTabtest-Light.js:5:58)\n                    at runMicrotasks (<anonymous>)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to scroll up and down inside Tags list in Tags field dropdown in Create Playbook form-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a14214c5f7afe454",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668511335576,
+        "stop" : 1668511361129,
+        "duration" : 25553
+      }
+    }, {
+      "uid" : "60ec37e947b28a44",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668503014570,
+        "stop" : 1668503039653,
+        "duration" : 25083
+      }
+    }, {
+      "uid" : "4acf9653f348d83e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668499060364,
+        "stop" : 1668499083885,
+        "duration" : 23521
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "5f9bf9f20a7efc8d.json",
+  "parameterValues" : [ ]
+}

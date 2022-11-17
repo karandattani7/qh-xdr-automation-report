@@ -1,0 +1,76 @@
+{
+  "uid" : "d3d676eaf226d9",
+  "name" : "Verify that user is able to move Filter block in main canvas area-Light",
+  "fullName" : "Playbook Test Light theme.Verify that user is able to move Filter block in main canvas area-Light",
+  "historyId" : "ff17dc8f1d86e0e5f750bbc10ded5903",
+  "time" : {
+    "start" : 1668549366116,
+    "stop" : 1668549414170,
+    "duration" : 48054
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to move Filter block in main canvas area-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2b83679c61f700c3",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668516573227,
+        "stop" : 1668516577383,
+        "duration" : 4156
+      }
+    }, {
+      "uid" : "3d5125e2e44ebc86",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504421851,
+        "stop" : 1668504426414,
+        "duration" : 4563
+      }
+    }, {
+      "uid" : "405c639cd3acc482",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668503712645,
+        "stop" : 1668503765092,
+        "duration" : 52447
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d3d676eaf226d9.json",
+  "parameterValues" : [ ]
+}

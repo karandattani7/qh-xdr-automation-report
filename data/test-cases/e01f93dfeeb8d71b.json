@@ -1,0 +1,70 @@
+{
+  "uid" : "e01f93dfeeb8d71b",
+  "name" : "Verify scroll up and down using up and down arrow key in Published Playbooks list-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify scroll up and down using up and down arrow key in Published Playbooks list-Dark",
+  "historyId" : "342a73d55178c5d7c80cfc97fecb5b67",
+  "time" : {
+    "start" : 1668574573890,
+    "stop" : 1668574573892,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify scroll up and down using up and down arrow key in Published Playbooks list-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a63328bbb559d172",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1668543264021,
+        "stop" : 1668543264024,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "4c6d802a8796a1ae",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1668418697787,
+        "stop" : 1668418697788,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e01f93dfeeb8d71b.json",
+  "parameterValues" : [ ]
+}

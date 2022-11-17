@@ -1,0 +1,50 @@
+{
+  "uid" : "919fc6d47959af5a",
+  "name" : "Verify the 6 sections in the Incident Summary right panel are in correct order-Light",
+  "fullName" : "Incident Test Light theme.Verify the 6 sections in the Incident Summary right panel are in correct order-Light",
+  "historyId" : "ea22754e6d8d278f2b6de17fc10e0187",
+  "time" : {
+    "start" : 1668427723559,
+    "stop" : 1668427754002,
+    "duration" : 30443
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the 6 sections in the Incident Summary right panel are in correct order-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "919fc6d47959af5a.json",
+  "parameterValues" : [ ]
+}

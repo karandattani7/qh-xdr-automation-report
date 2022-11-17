@@ -1,0 +1,66 @@
+{
+  "uid" : "65180bed5effcfc7",
+  "name" : "Verify User is able to see all 7 columns showing playbook details in Draft Playbooks-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify User is able to see all 7 columns showing playbook details in Draft Playbooks-Dark",
+  "historyId" : "7d0bbf14c832e55bbba97d5b67150de5",
+  "time" : {
+    "start" : 1668573968245,
+    "stop" : 1668573991030,
+    "duration" : 22785
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User is able to see all 7 columns showing playbook details in Draft Playbooks-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b01c656524441413",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668542546110,
+        "stop" : 1668542568511,
+        "duration" : 22401
+      }
+    }, {
+      "uid" : "496f91aca1dc8ae2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668418023937,
+        "stop" : 1668418046378,
+        "duration" : 22441
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "65180bed5effcfc7.json",
+  "parameterValues" : [ ]
+}

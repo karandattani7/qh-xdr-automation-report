@@ -1,0 +1,50 @@
+{
+  "uid" : "fcc505070d34ba8d",
+  "name" : "Verify that Alert Summary right panel shows two enabled buttons 'Associate to Incident' and 'Create New Incident' at the bottom-Light",
+  "fullName" : "Incident Test Light theme.Verify that Alert Summary right panel shows two enabled buttons 'Associate to Incident' and 'Create New Incident' at the bottom-Light",
+  "historyId" : "f5410dce42a19ca3273054f331032095",
+  "time" : {
+    "start" : 1668428555532,
+    "stop" : 1668428602268,
+    "duration" : 46736
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Alert Summary right panel shows two enabled buttons 'Associate to Incident' and 'Create New Incident' at the bottom-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fcc505070d34ba8d.json",
+  "parameterValues" : [ ]
+}

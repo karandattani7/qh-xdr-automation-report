@@ -1,0 +1,67 @@
+{
+  "uid" : "dff7b573a8eae87b",
+  "name" : "Verify that in Playbook Add Filter window, an error message 'Please enter some value.' is shown when User does not enter any value for +playbook.name and +cre.name filter-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that in Playbook Add Filter window, an error message 'Please enter some value.' is shown when User does not enter any value for +playbook.name and +cre.name filter-Dark",
+  "historyId" : "668265dc8d2c3a6c01419583dd960a62",
+  "time" : {
+    "start" : 1668577737170,
+    "stop" : 1668577807974,
+    "duration" : 70804
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Playbook Add Filter window, an error message 'Please enter some value.' is shown when User does not enter any value for +playbook.name and +cre.name filter-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "31d331123aae7ee2",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668545759885,
+        "stop" : 1668545763318,
+        "duration" : 3433
+      }
+    }, {
+      "uid" : "c32644e46cf4ca26",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668421825416,
+        "stop" : 1668421896842,
+        "duration" : 71426
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dff7b573a8eae87b.json",
+  "parameterValues" : [ ]
+}

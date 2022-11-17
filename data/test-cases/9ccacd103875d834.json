@@ -1,0 +1,48 @@
+{
+  "uid" : "9ccacd103875d834",
+  "name" : "Verify that clicking on '>' arrow in front of right panel closes the External Function right panel-Light",
+  "fullName" : "Playbook Test Light theme.Verify that clicking on '>' arrow in front of right panel closes the External Function right panel-Light",
+  "historyId" : "4852fbddc4799cf1dffe5eaffb6b3cbb",
+  "time" : {
+    "start" : 1668514206993,
+    "stop" : 1668514252473,
+    "duration" : 45480
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on '>' arrow in front of right panel closes the External Function right panel-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9ccacd103875d834.json",
+  "parameterValues" : [ ]
+}

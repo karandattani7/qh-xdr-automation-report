@@ -1,0 +1,66 @@
+{
+  "uid" : "d773489b660d126f",
+  "name" : "Verify that in User Correlation view - Add Filter window, admin is able to remove multiple filters from SELECTED FILTERS section-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that in User Correlation view - Add Filter window, admin is able to remove multiple filters from SELECTED FILTERS section-Dark",
+  "historyId" : "b8bed40ecac57ce84bc4fd580bf0f439",
+  "time" : {
+    "start" : 1668503576794,
+    "stop" : 1668503626024,
+    "duration" : 49230
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in User Correlation view - Add Filter window, admin is able to remove multiple filters from SELECTED FILTERS section-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "952dbdf8d514d331",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668432996874,
+        "stop" : 1668433045139,
+        "duration" : 48265
+      }
+    }, {
+      "uid" : "3cabb5e52b9a6cae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668418104087,
+        "stop" : 1668418152456,
+        "duration" : 48369
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d773489b660d126f.json",
+  "parameterValues" : [ ]
+}

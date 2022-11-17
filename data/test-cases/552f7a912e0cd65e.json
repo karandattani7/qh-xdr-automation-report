@@ -1,0 +1,48 @@
+{
+  "uid" : "552f7a912e0cd65e",
+  "name" : "Verify that User is able to select a external function from list by clicking on it-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to select a external function from list by clicking on it-Dark",
+  "historyId" : "2108eb059a701298ec41e3faab05bd4d",
+  "time" : {
+    "start" : 1668426283772,
+    "stop" : 1668426341731,
+    "duration" : 57959
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to select a external function from list by clicking on it-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "552f7a912e0cd65e.json",
+  "parameterValues" : [ ]
+}

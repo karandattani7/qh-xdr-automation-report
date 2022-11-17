@@ -1,0 +1,75 @@
+{
+  "uid" : "2af0f9e6e1274bee",
+  "name" : "Verify that user is able to move specific published playbook to draft playbooks tab successfully using 'Move to drafts' in action menu of a Published Playbook-Light",
+  "fullName" : "Playbook Test Light theme.Verify that user is able to move specific published playbook to draft playbooks tab successfully using 'Move to drafts' in action menu of a Published Playbook-Light",
+  "historyId" : "f3fc9c8f65bb0b05f1b029010a66c5e0",
+  "time" : {
+    "start" : 1668543983072,
+    "stop" : 1668544004753,
+    "duration" : 21681
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to move specific published playbook to draft playbooks tab successfully using 'Move to drafts' in action menu of a Published Playbook-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "62b0e9886e208e34",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668510304197,
+        "stop" : 1668510358716,
+        "duration" : 54519
+      }
+    }, {
+      "uid" : "5ba5b3fd4fad807a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668502133481,
+        "stop" : 1668502186027,
+        "duration" : 52546
+      }
+    }, {
+      "uid" : "cf56c2c52db8c781",
+      "status" : "failed",
+      "statusDetails" : "Expected false to be true.",
+      "time" : {
+        "start" : 1668498172118,
+        "stop" : 1668498224591,
+        "duration" : 52473
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2af0f9e6e1274bee.json",
+  "parameterValues" : [ ]
+}

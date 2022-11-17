@@ -1,0 +1,67 @@
+{
+  "uid" : "dc1428a4f1665255",
+  "name" : "Verify that user is able to drag and drop the Filter block on main canvas area of Playbook Editor-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that user is able to drag and drop the Filter block on main canvas area of Playbook Editor-Dark",
+  "historyId" : "49163a4ce408b0d1786330ecae3fd548",
+  "time" : {
+    "start" : 1668580377055,
+    "stop" : 1668580424916,
+    "duration" : 47861
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to drag and drop the Filter block on main canvas area of Playbook Editor-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "21422498728207a8",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668545926187,
+        "stop" : 1668545929624,
+        "duration" : 3437
+      }
+    }, {
+      "uid" : "87b62cbe9c1dffd1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668424254462,
+        "stop" : 1668424299971,
+        "duration" : 45509
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dc1428a4f1665255.json",
+  "parameterValues" : [ ]
+}

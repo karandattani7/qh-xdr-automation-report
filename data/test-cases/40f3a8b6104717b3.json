@@ -1,0 +1,48 @@
+{
+  "uid" : "40f3a8b6104717b3",
+  "name" : "Verify that message 'No matching function found' is shown below Search field inside FUNCTION field of Editable external function block right panel, when user searches for non-existing external function-Light",
+  "fullName" : "Playbook Test Light theme.Verify that message 'No matching function found' is shown below Search field inside FUNCTION field of Editable external function block right panel, when user searches for non-existing external function-Light",
+  "historyId" : "7f945647c2c3fd01227dd3714a28ec8a",
+  "time" : {
+    "start" : 1668505661426,
+    "stop" : 1668505729247,
+    "duration" : 67821
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that message 'No matching function found' is shown below Search field inside FUNCTION field of Editable external function block right panel, when user searches for non-existing external function-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "40f3a8b6104717b3.json",
+  "parameterValues" : [ ]
+}

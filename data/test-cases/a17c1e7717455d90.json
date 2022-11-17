@@ -1,0 +1,79 @@
+{
+  "uid" : "a17c1e7717455d90",
+  "name" : "Verify that User is able to scroll up and down using Page Up and Page Down key in Create Playbook form-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to scroll up and down using Page Up and Page Down key in Create Playbook form-Light",
+  "historyId" : "b0e5aa8107ed48ceffcf26b63dde89db",
+  "time" : {
+    "start" : 1668544533843,
+    "stop" : 1668544533844,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to scroll up and down using Page Up and Page Down key in Create Playbook form-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "dfcd9ecb71b8c07",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1668510940795,
+        "stop" : 1668510940798,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "dce0da79ece8f52d",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1668502687154,
+        "stop" : 1668502687156,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "7491d59ed298bcc7",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1668498752030,
+        "stop" : 1668498752032,
+        "duration" : 2
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a17c1e7717455d90.json",
+  "parameterValues" : [ ]
+}

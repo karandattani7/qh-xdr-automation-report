@@ -1,0 +1,48 @@
+{
+  "uid" : "b0c5f35c40288c0d",
+  "name" : "Verify that user is able to see right panel of Decision block when user drags and drops the decision block from left panel of Playbook Editor-Light",
+  "fullName" : "Playbook Test Light theme.Verify that user is able to see right panel of Decision block when user drags and drops the decision block from left panel of Playbook Editor-Light",
+  "historyId" : "8d6f8b147afd47920d56bd6433aa0aeb",
+  "time" : {
+    "start" : 1668503822063,
+    "stop" : 1668503876185,
+    "duration" : 54122
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to see right panel of Decision block when user drags and drops the decision block from left panel of Playbook Editor-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b0c5f35c40288c0d.json",
+  "parameterValues" : [ ]
+}

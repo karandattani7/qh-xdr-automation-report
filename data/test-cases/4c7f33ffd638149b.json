@@ -1,0 +1,66 @@
+{
+  "uid" : "4c7f33ffd638149b",
+  "name" : "Verify that user is able to filter incidents list by single assignee and multiple assignees-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that user is able to filter incidents list by single assignee and multiple assignees-Dark",
+  "historyId" : "28aa1829a107da1d897021b3b934190b",
+  "time" : {
+    "start" : 1668500598289,
+    "stop" : 1668500662029,
+    "duration" : 63740
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to filter incidents list by single assignee and multiple assignees-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e8448b48a71af749",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668430431891,
+        "stop" : 1668430494723,
+        "duration" : 62832
+      }
+    }, {
+      "uid" : "cde5bb7efb0e3843",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668415406028,
+        "stop" : 1668415471627,
+        "duration" : 65599
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4c7f33ffd638149b.json",
+  "parameterValues" : [ ]
+}

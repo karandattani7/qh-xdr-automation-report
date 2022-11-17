@@ -1,0 +1,50 @@
+{
+  "uid" : "afdac1cb4ab58dae",
+  "name" : "Verify that SOC Manager is able to view always 3 months of data on a graph of 'Mean time to Remediate' widget on SOC Manager Dashboard Page.-Dark",
+  "fullName" : "Dashboard Test Dark theme-SOC Manager.Verify that SOC Manager is able to view always 3 months of data on a graph of 'Mean time to Remediate' widget on SOC Manager Dashboard Page.-Dark",
+  "historyId" : "50fa15a9b567b0472f312df32c57dd36",
+  "time" : {
+    "start" : 1668262187266,
+    "stop" : 1668262208625,
+    "duration" : 21359
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "testClass",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that SOC Manager is able to view always 3 months of data on a graph of 'Mean time to Remediate' widget on SOC Manager Dashboard Page.-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "afdac1cb4ab58dae.json",
+  "parameterValues" : [ ]
+}

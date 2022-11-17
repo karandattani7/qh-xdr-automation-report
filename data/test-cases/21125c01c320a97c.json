@@ -1,0 +1,50 @@
+{
+  "uid" : "21125c01c320a97c",
+  "name" : "Verify that by default Base Alerts view table shows all base alerts of Last 7 days in descending order of Created On-Light",
+  "fullName" : "Incident Test Light theme.Verify that by default Base Alerts view table shows all base alerts of Last 7 days in descending order of Created On-Light",
+  "historyId" : "e1a92dd45adefc38c9faad196e8c386d",
+  "time" : {
+    "start" : 1668432004531,
+    "stop" : 1668432061469,
+    "duration" : 56938
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that by default Base Alerts view table shows all base alerts of Last 7 days in descending order of Created On-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "21125c01c320a97c.json",
+  "parameterValues" : [ ]
+}

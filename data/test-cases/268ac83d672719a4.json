@@ -1,0 +1,48 @@
+{
+  "uid" : "268ac83d672719a4",
+  "name" : "Verify that in Playbook Add Filter window, admin is able to remove multiple filters from SELECTED FILTERS section-Light",
+  "fullName" : "Playbook Test Light theme.Verify that in Playbook Add Filter window, admin is able to remove multiple filters from SELECTED FILTERS section-Light",
+  "historyId" : "4a077220e7d5358674c47770a5f19b97",
+  "time" : {
+    "start" : 1668513963797,
+    "stop" : 1668514030151,
+    "duration" : 66354
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Playbook Add Filter window, admin is able to remove multiple filters from SELECTED FILTERS section-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "268ac83d672719a4.json",
+  "parameterValues" : [ ]
+}

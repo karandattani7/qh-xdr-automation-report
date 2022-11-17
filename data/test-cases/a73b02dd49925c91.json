@@ -1,0 +1,50 @@
+{
+  "uid" : "a73b02dd49925c91",
+  "name" : "Verify that User is able to see list of incident investigators initials inside circle and + n circle (if there are more) in INVESTIGATORS on left side section of “Incident Canvas/View Audit Report” modal-Light",
+  "fullName" : "Incident Test Light theme.Verify that User is able to see list of incident investigators initials inside circle and + n circle (if there are more) in INVESTIGATORS on left side section of “Incident Canvas/View Audit Report” modal-Light",
+  "historyId" : "c9ac26cf725d25fa29ba520ba332168d",
+  "time" : {
+    "start" : 1668431161082,
+    "stop" : 1668431194630,
+    "duration" : 33548
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to see list of incident investigators initials inside circle and + n circle (if there are more) in INVESTIGATORS on left side section of “Incident Canvas/View Audit Report” modal-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a73b02dd49925c91.json",
+  "parameterValues" : [ ]
+}

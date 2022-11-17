@@ -1,0 +1,48 @@
+{
+  "uid" : "71893c08bf619aa8",
+  "name" : "Verify the selected row using checkbox is highlighted in Draft Playbooks list page-Light",
+  "fullName" : "Playbook Test Light theme.Verify the selected row using checkbox is highlighted in Draft Playbooks list page-Light",
+  "historyId" : "eb32c2bfbe16964c1eebdb674f9086ec",
+  "time" : {
+    "start" : 1668509716572,
+    "stop" : 1668509744755,
+    "duration" : 28183
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the selected row using checkbox is highlighted in Draft Playbooks list page-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "71893c08bf619aa8.json",
+  "parameterValues" : [ ]
+}

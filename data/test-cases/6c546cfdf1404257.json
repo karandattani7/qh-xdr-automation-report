@@ -1,0 +1,76 @@
+{
+  "uid" : "6c546cfdf1404257",
+  "name" : "Verify that clicking on Cancel when updating decision block in right panel, discards the changes and closes the right panel-Light",
+  "fullName" : "Playbook Test Light theme.Verify that clicking on Cancel when updating decision block in right panel, discards the changes and closes the right panel-Light",
+  "historyId" : "e8df83e55a0f3b20bc37e110dc8e1fbd",
+  "time" : {
+    "start" : 1668550462291,
+    "stop" : 1668550526195,
+    "duration" : 63904
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Cancel when updating decision block in right panel, discards the changes and closes the right panel-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3e6508f11f6edbe8",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668516657090,
+        "stop" : 1668516661256,
+        "duration" : 4166
+      }
+    }, {
+      "uid" : "cb58a0af541004e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668504958284,
+        "stop" : 1668505024251,
+        "duration" : 65967
+      }
+    }, {
+      "uid" : "2fc6a4e5c13dab25",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504510833,
+        "stop" : 1668504515281,
+        "duration" : 4448
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6c546cfdf1404257.json",
+  "parameterValues" : [ ]
+}

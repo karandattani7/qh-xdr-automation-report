@@ -1,0 +1,75 @@
+{
+  "uid" : "10c06646fd3c4bcc",
+  "name" : "Verify that User is able to see Start and Stop block in the main canvas area-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to see Start and Stop block in the main canvas area-Light",
+  "historyId" : "4c0d281ffd4ca9179f45ad88697b4afd",
+  "time" : {
+    "start" : 1668546491183,
+    "stop" : 1668546524523,
+    "duration" : 33340
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to see Start and Stop block in the main canvas area-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a69a316df8df78b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668513126925,
+        "stop" : 1668513162268,
+        "duration" : 35343
+      }
+    }, {
+      "uid" : "a0db4f8d1bd185a",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504160055,
+        "stop" : 1668504164497,
+        "duration" : 4442
+      }
+    }, {
+      "uid" : "ee757f254818958c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668500705070,
+        "stop" : 1668500738448,
+        "duration" : 33378
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "10c06646fd3c4bcc.json",
+  "parameterValues" : [ ]
+}

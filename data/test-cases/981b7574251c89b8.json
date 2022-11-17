@@ -1,0 +1,66 @@
+{
+  "uid" : "981b7574251c89b8",
+  "name" : "Verify that in Incident Add Filter window, clicking on cross x icon before Add+ button clears the Search Filter field after selecting '+ incident.name' or '+ incident.id' or 'assignee.name'-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that in Incident Add Filter window, clicking on cross x icon before Add+ button clears the Search Filter field after selecting '+ incident.name' or '+ incident.id' or 'assignee.name'-Dark",
+  "historyId" : "3285eb7ef13d97b5e1158dafe3533932",
+  "time" : {
+    "start" : 1668500488712,
+    "stop" : 1668500536355,
+    "duration" : 47643
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Incident Add Filter window, clicking on cross x icon before Add+ button clears the Search Filter field after selecting '+ incident.name' or '+ incident.id' or 'assignee.name'-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "317a89c6dfcded0f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668430318964,
+        "stop" : 1668430367785,
+        "duration" : 48821
+      }
+    }, {
+      "uid" : "b290dd5c2e036e0e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668415294112,
+        "stop" : 1668415342561,
+        "duration" : 48449
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "981b7574251c89b8.json",
+  "parameterValues" : [ ]
+}

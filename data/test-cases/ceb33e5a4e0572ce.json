@@ -1,0 +1,76 @@
+{
+  "uid" : "ceb33e5a4e0572ce",
+  "name" : "Verify the saved created flow for Dragged and filled block with connection lines in Playbook Editor page is as expected-Light",
+  "fullName" : "Playbook Test Light theme.Verify the saved created flow for Dragged and filled block with connection lines in Playbook Editor page is as expected-Light",
+  "historyId" : "4ca4fdb61ddb40963cc3720b7a87e945",
+  "time" : {
+    "start" : 1668552369603,
+    "stop" : 1668552511043,
+    "duration" : 141440
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the saved created flow for Dragged and filled block with connection lines in Playbook Editor page is as expected-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f90f3e6e3b5ebcd6",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668516778551,
+        "stop" : 1668516782744,
+        "duration" : 4193
+      }
+    }, {
+      "uid" : "bd0af579a46e5d2d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668506936152,
+        "stop" : 1668507093897,
+        "duration" : 157745
+      }
+    }, {
+      "uid" : "efda0a618e347e81",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504640504,
+        "stop" : 1668504644922,
+        "duration" : 4418
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ceb33e5a4e0572ce.json",
+  "parameterValues" : [ ]
+}

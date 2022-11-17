@@ -1,0 +1,50 @@
+{
+  "uid" : "7bc0a941694ddfc2",
+  "name" : "Verify that clicking on Cancel button in Connector's Add Filter window closes the Add Filter window and discard all changes-Dark",
+  "fullName" : "Connector Test Dark theme.Verify that clicking on Cancel button in Connector's Add Filter window closes the Add Filter window and discard all changes-Dark",
+  "historyId" : "4964d70c78e5b95653bace1e762917fe",
+  "time" : {
+    "start" : 1668257582221,
+    "stop" : 1668257643699,
+    "duration" : 61478
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Cancel button in Connector's Add Filter window closes the Add Filter window and discard all changes-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7bc0a941694ddfc2.json",
+  "parameterValues" : [ ]
+}

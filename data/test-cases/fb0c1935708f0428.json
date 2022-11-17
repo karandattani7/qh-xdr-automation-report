@@ -1,0 +1,48 @@
+{
+  "uid" : "fb0c1935708f0428",
+  "name" : "Verify User is able to export a Playbook from 3 dot ellipsis options in Published Playbooks tab-Light",
+  "fullName" : "Playbook Test Light theme.Verify User is able to export a Playbook from 3 dot ellipsis options in Published Playbooks tab-Light",
+  "historyId" : "ffcec934c51c35d0c5f59eefa4bc25ca",
+  "time" : {
+    "start" : 1668503478927,
+    "stop" : 1668503514618,
+    "duration" : 35691
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User is able to export a Playbook from 3 dot ellipsis options in Published Playbooks tab-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fb0c1935708f0428.json",
+  "parameterValues" : [ ]
+}

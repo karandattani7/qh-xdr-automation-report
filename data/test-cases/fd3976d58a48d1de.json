@@ -1,0 +1,48 @@
+{
+  "uid" : "fd3976d58a48d1de",
+  "name" : "Verify that user is able to draw connection line from Start block to another block in Playbook Editor page.-Light",
+  "fullName" : "Playbook Test Light theme.Verify that user is able to draw connection line from Start block to another block in Playbook Editor page.-Light",
+  "historyId" : "cf37cec3d5659307297d61fe705633aa",
+  "time" : {
+    "start" : 1668500774261,
+    "stop" : 1668500809064,
+    "duration" : 34803
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to draw connection line from Start block to another block in Playbook Editor page.-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fd3976d58a48d1de.json",
+  "parameterValues" : [ ]
+}

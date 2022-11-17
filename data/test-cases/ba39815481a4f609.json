@@ -1,0 +1,50 @@
+{
+  "uid" : "ba39815481a4f609",
+  "name" : "Verify Connectors list is set to default tab - Enrichment Connector tab-Dark",
+  "fullName" : "Connector Test Dark theme.Verify Connectors list is set to default tab - Enrichment Connector tab-Dark",
+  "historyId" : "3d504cf0d7157aefae6bad2a7b37348d",
+  "time" : {
+    "start" : 1668256563727,
+    "stop" : 1668256576182,
+    "duration" : 12455
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Connectors list is set to default tab - Enrichment Connector tab-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ba39815481a4f609.json",
+  "parameterValues" : [ ]
+}

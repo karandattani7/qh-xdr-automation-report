@@ -1,0 +1,67 @@
+{
+  "uid" : "f018c11c0df66f64",
+  "name" : "Verify that in Playbook Add Filter window, an error message 'Please select a valid value' is shown when entering invalid value for '+cre.name' filter-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that in Playbook Add Filter window, an error message 'Please select a valid value' is shown when entering invalid value for '+cre.name' filter-Dark",
+  "historyId" : "276d9becdeabff18db033a226e71f3e3",
+  "time" : {
+    "start" : 1668577686337,
+    "stop" : 1668577737169,
+    "duration" : 50832
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Playbook Add Filter window, an error message 'Please select a valid value' is shown when entering invalid value for '+cre.name' filter-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1fbf78f7357e0889",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668545756492,
+        "stop" : 1668545759885,
+        "duration" : 3393
+      }
+    }, {
+      "uid" : "a5a3e93bd4848b87",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668421774461,
+        "stop" : 1668421825416,
+        "duration" : 50955
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f018c11c0df66f64.json",
+  "parameterValues" : [ ]
+}

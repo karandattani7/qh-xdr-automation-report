@@ -1,0 +1,48 @@
+{
+  "uid" : "6db77620971ca523",
+  "name" : "Verify that user is able draw and drag the rectangle slider box using + icon on the x-axis in timeline graph in Incident Timeline view-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that user is able draw and drag the rectangle slider box using + icon on the x-axis in timeline graph in Incident Timeline view-Dark",
+  "historyId" : "5acd5fe095438ade114b69aab4628b9a",
+  "time" : {
+    "start" : 1668431432411,
+    "stop" : 1668431463434,
+    "duration" : 31023
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able draw and drag the rectangle slider box using + icon on the x-axis in timeline graph in Incident Timeline view-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6db77620971ca523.json",
+  "parameterValues" : [ ]
+}

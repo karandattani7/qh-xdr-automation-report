@@ -1,0 +1,48 @@
+{
+  "uid" : "b63dc0f5137d50fc",
+  "name" : "Verify User should be able to click on “Create Playbook” in header which should redirect User to Create New Playbook form in Published Playbooks tab-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify User should be able to click on “Create Playbook” in header which should redirect User to Create New Playbook form in Published Playbooks tab-Dark",
+  "historyId" : "6474dd9d36855dd3e338806dc6c076e6",
+  "time" : {
+    "start" : 1668418046378,
+    "stop" : 1668418060666,
+    "duration" : 14288
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User should be able to click on “Create Playbook” in header which should redirect User to Create New Playbook form in Published Playbooks tab-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b63dc0f5137d50fc.json",
+  "parameterValues" : [ ]
+}

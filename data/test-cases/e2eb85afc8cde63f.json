@@ -1,0 +1,48 @@
+{
+  "uid" : "e2eb85afc8cde63f",
+  "name" : "Verify refreshing browser on Draft Playbooks page should show the expected result-Light",
+  "fullName" : "Playbook Test Light theme.Verify refreshing browser on Draft Playbooks page should show the expected result-Light",
+  "historyId" : "4665e5e8cec3cbdc9e4ed644bfa66d16",
+  "time" : {
+    "start" : 1668510917816,
+    "stop" : 1668510940795,
+    "duration" : 22979
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify refreshing browser on Draft Playbooks page should show the expected result-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e2eb85afc8cde63f.json",
+  "parameterValues" : [ ]
+}

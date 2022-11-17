@@ -1,0 +1,66 @@
+{
+  "uid" : "befaf88ba1aff7dc",
+  "name" : "Verify that under ENDPOINTS AND USERS section of Incident Summary right panel, each entry in Endpoints subsection is clickable and redirects to Endpoint view of that endpoint -Dark",
+  "fullName" : "Incident Test Dark theme.Verify that under ENDPOINTS AND USERS section of Incident Summary right panel, each entry in Endpoints subsection is clickable and redirects to Endpoint view of that endpoint -Dark",
+  "historyId" : "9e1d9badb5392452258cfa458493d8c7",
+  "time" : {
+    "start" : 1668500662029,
+    "stop" : 1668500703448,
+    "duration" : 41419
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that under ENDPOINTS AND USERS section of Incident Summary right panel, each entry in Endpoints subsection is clickable and redirects to Endpoint view of that endpoint -Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6c0dde8c704c022d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668430494723,
+        "stop" : 1668430537357,
+        "duration" : 42634
+      }
+    }, {
+      "uid" : "82f5961bd34b6ca2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668415471627,
+        "stop" : 1668415513902,
+        "duration" : 42275
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "befaf88ba1aff7dc.json",
+  "parameterValues" : [ ]
+}

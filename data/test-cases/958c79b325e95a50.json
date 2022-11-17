@@ -1,0 +1,66 @@
+{
+  "uid" : "958c79b325e95a50",
+  "name" : "Verify that an error message is shown when selecting more than 10 available parameters in Create Playbooks form-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that an error message is shown when selecting more than 10 available parameters in Create Playbooks form-Dark",
+  "historyId" : "b7feb3b1aac3f2de8dbb0b11ea5e372d",
+  "time" : {
+    "start" : 1668575539055,
+    "stop" : 1668575565535,
+    "duration" : 26480
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that an error message is shown when selecting more than 10 available parameters in Create Playbooks form-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "19d31607f07898f2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668544216070,
+        "stop" : 1668544240524,
+        "duration" : 24454
+      }
+    }, {
+      "uid" : "cf863ec4e7a926ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668419646281,
+        "stop" : 1668419671738,
+        "duration" : 25457
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "958c79b325e95a50.json",
+  "parameterValues" : [ ]
+}

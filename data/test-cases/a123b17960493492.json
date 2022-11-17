@@ -1,0 +1,66 @@
+{
+  "uid" : "a123b17960493492",
+  "name" : "Verify that clicking on Add+ button in Search filter component should open Add Filter overlay window in Incident List view-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that clicking on Add+ button in Search filter component should open Add Filter overlay window in Incident List view-Dark",
+  "historyId" : "e02af36a6d7f51cbf0ec696fd2ffbc3f",
+  "time" : {
+    "start" : 1668499148187,
+    "stop" : 1668499185921,
+    "duration" : 37734
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Add+ button in Search filter component should open Add Filter overlay window in Incident List view-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "823e3db375d9dc09",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668428966122,
+        "stop" : 1668429003891,
+        "duration" : 37769
+      }
+    }, {
+      "uid" : "15c873a6d9013911",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668413938612,
+        "stop" : 1668413977085,
+        "duration" : 38473
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a123b17960493492.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "f9a1c430e7a088e5",
+  "name" : "Verify that dragging and dropping 'Call External Function' block on main canvas area opens Call External Function right panel initial view-Light",
+  "fullName" : "Playbook Test Light theme.Verify that dragging and dropping 'Call External Function' block on main canvas area opens Call External Function right panel initial view-Light",
+  "historyId" : "92e4c2a9d924af7ee2ee7f675c7db1be",
+  "time" : {
+    "start" : 1668514790643,
+    "stop" : 1668514836852,
+    "duration" : 46209
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that dragging and dropping 'Call External Function' block on main canvas area opens Call External Function right panel initial view-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f9a1c430e7a088e5.json",
+  "parameterValues" : [ ]
+}

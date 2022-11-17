@@ -1,0 +1,75 @@
+{
+  "uid" : "354002dd8e148ecb",
+  "name" : "Verify that in Playbook Add Filter window, admin is able to remove multiple filters from SELECTED FILTERS section-Light",
+  "fullName" : "Playbook Test Light theme.Verify that in Playbook Add Filter window, admin is able to remove multiple filters from SELECTED FILTERS section-Light",
+  "historyId" : "4a077220e7d5358674c47770a5f19b97",
+  "time" : {
+    "start" : 1668547314113,
+    "stop" : 1668547377999,
+    "duration" : 63886
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Playbook Add Filter window, admin is able to remove multiple filters from SELECTED FILTERS section-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "268ac83d672719a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668513963797,
+        "stop" : 1668514030151,
+        "duration" : 66354
+      }
+    }, {
+      "uid" : "8e709340c6ec544d",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504231449,
+        "stop" : 1668504235852,
+        "duration" : 4403
+      }
+    }, {
+      "uid" : "f3d06806d7ec9b8a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668501542482,
+        "stop" : 1668501606173,
+        "duration" : 63691
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "354002dd8e148ecb.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "2905bc8a5f3ce813",
+  "name" : "Verify that User is able to expand/collapse external functions inside Search field dropdown of FUNCTION field of Editable external function block right panel-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to expand/collapse external functions inside Search field dropdown of FUNCTION field of Editable external function block right panel-Light",
+  "historyId" : "576120713d61de1c3c03e7afec1a3ec1",
+  "time" : {
+    "start" : 1668505729247,
+    "stop" : 1668505786632,
+    "duration" : 57385
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to expand/collapse external functions inside Search field dropdown of FUNCTION field of Editable external function block right panel-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2905bc8a5f3ce813.json",
+  "parameterValues" : [ ]
+}

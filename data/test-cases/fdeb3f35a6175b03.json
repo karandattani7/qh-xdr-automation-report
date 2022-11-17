@@ -1,0 +1,48 @@
+{
+  "uid" : "fdeb3f35a6175b03",
+  "name" : "Verify User should be able to see actions 'Copy', 'Export', 'Move to Drafts' for playbooks in Published Playbooks-Light",
+  "fullName" : "Playbook Test Light theme.Verify User should be able to see actions 'Copy', 'Export', 'Move to Drafts' for playbooks in Published Playbooks-Light",
+  "historyId" : "315d0fbd6d179284bd93a6655ea65ac8",
+  "time" : {
+    "start" : 1668503737813,
+    "stop" : 1668503761132,
+    "duration" : 23319
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User should be able to see actions 'Copy', 'Export', 'Move to Drafts' for playbooks in Published Playbooks-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fdeb3f35a6175b03.json",
+  "parameterValues" : [ ]
+}

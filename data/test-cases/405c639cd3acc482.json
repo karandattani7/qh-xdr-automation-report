@@ -1,0 +1,48 @@
+{
+  "uid" : "405c639cd3acc482",
+  "name" : "Verify that user is able to move Filter block in main canvas area-Light",
+  "fullName" : "Playbook Test Light theme.Verify that user is able to move Filter block in main canvas area-Light",
+  "historyId" : "ff17dc8f1d86e0e5f750bbc10ded5903",
+  "time" : {
+    "start" : 1668503712645,
+    "stop" : 1668503765092,
+    "duration" : 52447
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to move Filter block in main canvas area-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "405c639cd3acc482.json",
+  "parameterValues" : [ ]
+}

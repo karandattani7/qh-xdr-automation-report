@@ -1,0 +1,75 @@
+{
+  "uid" : "b375f8b52dcca99",
+  "name" : "Verify that User is able to see All Playbooks when 'My Playbooks' toggle is OFF in Draft Playbooks tab-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to see All Playbooks when 'My Playbooks' toggle is OFF in Draft Playbooks tab-Light",
+  "historyId" : "97aa10c9bd41c31226d1a8e653e9699c",
+  "time" : {
+    "start" : 1668546335483,
+    "stop" : 1668546372310,
+    "duration" : 36827
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to see All Playbooks when 'My Playbooks' toggle is OFF in Draft Playbooks tab-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "bebb2110d1a746fa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668512936061,
+        "stop" : 1668513002659,
+        "duration" : 66598
+      }
+    }, {
+      "uid" : "b6dcfc562b18b807",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504142104,
+        "stop" : 1668504146568,
+        "duration" : 4464
+      }
+    }, {
+      "uid" : "49b0f7f12b4b9dd3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668500557539,
+        "stop" : 1668500586476,
+        "duration" : 28937
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b375f8b52dcca99.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "33354fa5c9388428",
+  "name" : "Verify that playbook list gets filtered correctly for different combinations of Created on and Updated on filter-Draft Playbooks-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that playbook list gets filtered correctly for different combinations of Created on and Updated on filter-Draft Playbooks-Dark",
+  "historyId" : "d7686ed049f94264385a12c3c93e3fb3",
+  "time" : {
+    "start" : 1668427938164,
+    "stop" : 1668428129200,
+    "duration" : 191036
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that playbook list gets filtered correctly for different combinations of Created on and Updated on filter-Draft Playbooks-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "33354fa5c9388428.json",
+  "parameterValues" : [ ]
+}

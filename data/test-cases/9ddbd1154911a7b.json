@@ -1,0 +1,76 @@
+{
+  "uid" : "9ddbd1154911a7b",
+  "name" : "Verify that User is able to remove all the applied filters from Playbook list view using cross icon in Search filter component-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to remove all the applied filters from Playbook list view using cross icon in Search filter component-Light",
+  "historyId" : "77f515aa2ae0fe13fb27dc2c8ccfa620",
+  "time" : {
+    "start" : 1668546951104,
+    "stop" : 1668547005294,
+    "duration" : 54190
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to remove all the applied filters from Playbook list view using cross icon in Search filter component-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "64c01395fa6b05b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668513612778,
+        "stop" : 1668513726706,
+        "duration" : 113928
+      }
+    }, {
+      "uid" : "e2401760ebb0ba6b",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504204806,
+        "stop" : 1668504209276,
+        "duration" : 4470
+      }
+    }, {
+      "uid" : "28c144682a25c70d",
+      "status" : "failed",
+      "statusDetails" : "NoSuchElementError: No element found using locator: By(xpath, //label[text()='Selected Filters'])",
+      "time" : {
+        "start" : 1668501165338,
+        "stop" : 1668501209049,
+        "duration" : 43711
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9ddbd1154911a7b.json",
+  "parameterValues" : [ ]
+}

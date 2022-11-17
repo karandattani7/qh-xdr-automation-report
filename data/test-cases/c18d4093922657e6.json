@@ -1,0 +1,48 @@
+{
+  "uid" : "c18d4093922657e6",
+  "name" : "Verify that user should see truncated text for playbook description after 5-7 lines and more link to see full description and less link to see incomplete text.-Light",
+  "fullName" : "Playbook Test Light theme.Verify that user should see truncated text for playbook description after 5-7 lines and more link to see full description and less link to see incomplete text.-Light",
+  "historyId" : "504967b81a0f90475103c6edeb868942",
+  "time" : {
+    "start" : 1668515886667,
+    "stop" : 1668515933308,
+    "duration" : 46641
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user should see truncated text for playbook description after 5-7 lines and more link to see full description and less link to see incomplete text.-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c18d4093922657e6.json",
+  "parameterValues" : [ ]
+}

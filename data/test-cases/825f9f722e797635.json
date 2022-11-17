@@ -1,0 +1,67 @@
+{
+  "uid" : "825f9f722e797635",
+  "name" : "Verify that User is able to delete the decision block from main canvas area using delete icon available on hovering after adding a decision condition-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to delete the decision block from main canvas area using delete icon available on hovering after adding a decision condition-Dark",
+  "historyId" : "9ff4e65846b2345e3800a4b6511010d5",
+  "time" : {
+    "start" : 1668581240454,
+    "stop" : 1668581285861,
+    "duration" : 45407
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to delete the decision block from main canvas area using delete icon available on hovering after adding a decision condition-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d23789b8d8d33130",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668545980499,
+        "stop" : 1668545983872,
+        "duration" : 3373
+      }
+    }, {
+      "uid" : "19b874151cd565e6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668425128655,
+        "stop" : 1668425172792,
+        "duration" : 44137
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "825f9f722e797635.json",
+  "parameterValues" : [ ]
+}

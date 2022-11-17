@@ -1,0 +1,76 @@
+{
+  "uid" : "6c16cac803ea1dcc",
+  "name" : "Verify that clicking on Cancel in selected function form shows list of internal functions right panel again-Light",
+  "fullName" : "Playbook Test Light theme.Verify that clicking on Cancel in selected function form shows list of internal functions right panel again-Light",
+  "historyId" : "359f0c5267c3e3a1ae1ba85bd6e1e1cb",
+  "time" : {
+    "start" : 1668547637467,
+    "stop" : 1668547695117,
+    "duration" : 57650
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Cancel in selected function form shows list of internal functions right panel again-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d349060e8bd5d9ef",
+      "status" : "failed",
+      "statusDetails" : "NoSuchElementError: No element found using locator: By(css selector, *[id=\"draggableInternalBlock\"])",
+      "time" : {
+        "start" : 1668514365296,
+        "stop" : 1668514407751,
+        "duration" : 42455
+      }
+    }, {
+      "uid" : "78c2f920dab3b301",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504258095,
+        "stop" : 1668504262565,
+        "duration" : 4470
+      }
+    }, {
+      "uid" : "f57a583d6bf78838",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668501865990,
+        "stop" : 1668501924011,
+        "duration" : 58021
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6c16cac803ea1dcc.json",
+  "parameterValues" : [ ]
+}

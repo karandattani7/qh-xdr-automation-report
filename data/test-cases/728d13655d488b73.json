@@ -1,0 +1,50 @@
+{
+  "uid" : "728d13655d488b73",
+  "name" : "Verify that in 'Other Incidents Associated with User' modal, user is able to search Active Incidents by INCIDENT ID and INCIDENT NAME both-Light",
+  "fullName" : "Incident Test Light theme.Verify that in 'Other Incidents Associated with User' modal, user is able to search Active Incidents by INCIDENT ID and INCIDENT NAME both-Light",
+  "historyId" : "e39e585c63ebe7fac193dceae5dd0e87",
+  "time" : {
+    "start" : 1668434020687,
+    "stop" : 1668434135402,
+    "duration" : 114715
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in 'Other Incidents Associated with User' modal, user is able to search Active Incidents by INCIDENT ID and INCIDENT NAME both-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "728d13655d488b73.json",
+  "parameterValues" : [ ]
+}

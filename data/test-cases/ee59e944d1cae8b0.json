@@ -1,0 +1,48 @@
+{
+  "uid" : "ee59e944d1cae8b0",
+  "name" : "Verify that user is able to move Decision block in main canvas area-Light",
+  "fullName" : "Playbook Test Light theme.Verify that user is able to move Decision block in main canvas area-Light",
+  "historyId" : "9ced06390e42926ed5c138ca5581bd23",
+  "time" : {
+    "start" : 1668503658145,
+    "stop" : 1668503712645,
+    "duration" : 54500
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to move Decision block in main canvas area-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ee59e944d1cae8b0.json",
+  "parameterValues" : [ ]
+}

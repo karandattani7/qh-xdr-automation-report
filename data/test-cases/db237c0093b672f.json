@@ -1,0 +1,66 @@
+{
+  "uid" : "db237c0093b672f",
+  "name" : "Verify that in Incident Add Filter modal, the 'Saved Filter' tab empty view is as expected when no Saved Filters are there-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that in Incident Add Filter modal, the 'Saved Filter' tab empty view is as expected when no Saved Filters are there-Dark",
+  "historyId" : "4ee0b2b85a52d41f4fdccefdbb35cc5",
+  "time" : {
+    "start" : 1668502191671,
+    "stop" : 1668502223616,
+    "duration" : 31945
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Incident Add Filter modal, the 'Saved Filter' tab empty view is as expected when no Saved Filters are there-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "907196ae7916f8bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668431829564,
+        "stop" : 1668431862371,
+        "duration" : 32807
+      }
+    }, {
+      "uid" : "9203f3dcd5dbca49",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668416963587,
+        "stop" : 1668416996991,
+        "duration" : 33404
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "db237c0093b672f.json",
+  "parameterValues" : [ ]
+}

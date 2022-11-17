@@ -1,0 +1,48 @@
+{
+  "uid" : "e3b1a37c9acd9f29",
+  "name" : "Verify that User is able to update Decision Block from main canvas area-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to update Decision Block from main canvas area-Dark",
+  "historyId" : "7f04c406d4840dc9c08c6f30ca6c5f11",
+  "time" : {
+    "start" : 1668425225156,
+    "stop" : 1668425281852,
+    "duration" : 56696
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to update Decision Block from main canvas area-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e3b1a37c9acd9f29.json",
+  "parameterValues" : [ ]
+}

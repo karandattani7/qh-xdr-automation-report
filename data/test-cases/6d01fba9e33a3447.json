@@ -1,0 +1,48 @@
+{
+  "uid" : "6d01fba9e33a3447",
+  "name" : "Verify that after removing applied filters and then clicking on + Add does not show Add Filter window with filters in it-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that after removing applied filters and then clicking on + Add does not show Add Filter window with filters in it-Dark",
+  "historyId" : "1dd893808c38e7f235aecbb3d70fed61",
+  "time" : {
+    "start" : 1668422375006,
+    "stop" : 1668422440087,
+    "duration" : 65081
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that after removing applied filters and then clicking on + Add does not show Add Filter window with filters in it-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6d01fba9e33a3447.json",
+  "parameterValues" : [ ]
+}

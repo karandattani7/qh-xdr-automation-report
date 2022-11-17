@@ -1,0 +1,48 @@
+{
+  "uid" : "2644f35fb0ec7dd7",
+  "name" : "Verify that scroll bar is shown on top after User has scrolled down and applied some filters on Playbook list in Draft Playbooks tab-Light",
+  "fullName" : "Playbook Test Light theme.Verify that scroll bar is shown on top after User has scrolled down and applied some filters on Playbook list in Draft Playbooks tab-Light",
+  "historyId" : "47e4a1e2abdeb9b30ebb5c08b796ccfe",
+  "time" : {
+    "start" : 1668502053223,
+    "stop" : 1668502091644,
+    "duration" : 38421
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that scroll bar is shown on top after User has scrolled down and applied some filters on Playbook list in Draft Playbooks tab-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2644f35fb0ec7dd7.json",
+  "parameterValues" : [ ]
+}

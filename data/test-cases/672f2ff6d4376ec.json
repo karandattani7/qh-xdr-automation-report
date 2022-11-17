@@ -1,0 +1,48 @@
+{
+  "uid" : "672f2ff6d4376ec",
+  "name" : "Verify that clicking on Close icon on Work not saved modal keeps User on Copy Playbook form (Published and Draft) when copying playbook-Light",
+  "fullName" : "Playbook Test Light theme.Verify that clicking on Close icon on Work not saved modal keeps User on Copy Playbook form (Published and Draft) when copying playbook-Light",
+  "historyId" : "6c1d59b9f3be6efb65b4aa898a412323",
+  "time" : {
+    "start" : 1668499709322,
+    "stop" : 1668499744149,
+    "duration" : 34827
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Close icon on Work not saved modal keeps User on Copy Playbook form (Published and Draft) when copying playbook-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "672f2ff6d4376ec.json",
+  "parameterValues" : [ ]
+}

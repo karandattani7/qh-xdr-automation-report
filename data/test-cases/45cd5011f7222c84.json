@@ -1,0 +1,66 @@
+{
+  "uid" : "45cd5011f7222c84",
+  "name" : "Verify the placeholder for Tags column when no Tags are selected while creating a playbook in Draft Playbooks-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify the placeholder for Tags column when no Tags are selected while creating a playbook in Draft Playbooks-Dark",
+  "historyId" : "c80b4bc22755eb210dca2572498c88d4",
+  "time" : {
+    "start" : 1668574770257,
+    "stop" : 1668574812290,
+    "duration" : 42033
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the placeholder for Tags column when no Tags are selected while creating a playbook in Draft Playbooks-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "724b6af119d0a939",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668543481573,
+        "stop" : 1668543523803,
+        "duration" : 42230
+      }
+    }, {
+      "uid" : "1d481cf9bf84d32d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668418906558,
+        "stop" : 1668418948409,
+        "duration" : 41851
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "45cd5011f7222c84.json",
+  "parameterValues" : [ ]
+}

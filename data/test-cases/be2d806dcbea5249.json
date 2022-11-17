@@ -1,0 +1,74 @@
+{
+  "uid" : "be2d806dcbea5249",
+  "name" : "Verify the count shown on top in Draft Playbooks tab is equal to number of rows in the table-Light",
+  "fullName" : "Playbook Test Light theme.Verify the count shown on top in Draft Playbooks tab is equal to number of rows in the table-Light",
+  "historyId" : "63ee227ca6ec1b7d809d5fcd26764f97",
+  "time" : {
+    "start" : 1668543860628,
+    "stop" : 1668543903134,
+    "duration" : 42506
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the count shown on top in Draft Playbooks tab is equal to number of rows in the table-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7bdcc76203a845ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668510193352,
+        "stop" : 1668510222110,
+        "duration" : 28758
+      }
+    }, {
+      "uid" : "700fd515f3d78406",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668502024664,
+        "stop" : 1668502053223,
+        "duration" : 28559
+      }
+    }, {
+      "uid" : "ffae9272eafc4732",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668498048262,
+        "stop" : 1668498091952,
+        "duration" : 43690
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "be2d806dcbea5249.json",
+  "parameterValues" : [ ]
+}

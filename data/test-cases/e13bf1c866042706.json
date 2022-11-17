@@ -1,0 +1,48 @@
+{
+  "uid" : "e13bf1c866042706",
+  "name" : "Verify that User is able to see Edit, Delete icon when hovered on dragged blocks in Main Canvas area of Playbook Editor page-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to see Edit, Delete icon when hovered on dragged blocks in Main Canvas area of Playbook Editor page-Light",
+  "historyId" : "7e705851451f3846e61d9e3463dfc63e",
+  "time" : {
+    "start" : 1668502050682,
+    "stop" : 1668502088068,
+    "duration" : 37386
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to see Edit, Delete icon when hovered on dragged blocks in Main Canvas area of Playbook Editor page-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e13bf1c866042706.json",
+  "parameterValues" : [ ]
+}

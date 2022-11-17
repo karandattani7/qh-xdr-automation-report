@@ -1,0 +1,50 @@
+{
+  "uid" : "46fcd3e1d5dfecfa",
+  "name" : "Verify that all the applied filters are removed from Connectors list view when refreshing browser after applying filters-Dark",
+  "fullName" : "Connector Test Dark theme.Verify that all the applied filters are removed from Connectors list view when refreshing browser after applying filters-Dark",
+  "historyId" : "33e59a2aea21ea5917f4208b1cf1c908",
+  "time" : {
+    "start" : 1668257182391,
+    "stop" : 1668257298328,
+    "duration" : 115937
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that all the applied filters are removed from Connectors list view when refreshing browser after applying filters-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "46fcd3e1d5dfecfa.json",
+  "parameterValues" : [ ]
+}

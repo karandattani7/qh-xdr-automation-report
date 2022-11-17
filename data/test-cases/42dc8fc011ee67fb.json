@@ -1,0 +1,48 @@
+{
+  "uid" : "42dc8fc011ee67fb",
+  "name" : "Verify User is able to see all 7 columns showing playbook details in Draft Playbooks-Light",
+  "fullName" : "Playbook Test Light theme.Verify User is able to see all 7 columns showing playbook details in Draft Playbooks-Light",
+  "historyId" : "7e310b9539c14edaa6141450b4edc1e7",
+  "time" : {
+    "start" : 1668497390488,
+    "stop" : 1668497412265,
+    "duration" : 21777
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User is able to see all 7 columns showing playbook details in Draft Playbooks-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "42dc8fc011ee67fb.json",
+  "parameterValues" : [ ]
+}

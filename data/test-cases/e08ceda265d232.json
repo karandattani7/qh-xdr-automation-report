@@ -1,0 +1,67 @@
+{
+  "uid" : "e08ceda265d232",
+  "name" : "Verify that clicking on added filters count '3 Filter(s)' opens Add Filter overlay window with same 3 filters shown in Selected Filters section in Published Playbooks tab-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that clicking on added filters count '3 Filter(s)' opens Add Filter overlay window with same 3 filters shown in Selected Filters section in Published Playbooks tab-Dark",
+  "historyId" : "4533a9360c4bb308397f8a3109c50b68",
+  "time" : {
+    "start" : 1668577260379,
+    "stop" : 1668577300665,
+    "duration" : 40286
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on added filters count '3 Filter(s)' opens Add Filter overlay window with same 3 filters shown in Selected Filters section in Published Playbooks tab-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1d36d86511b7494",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668545722569,
+        "stop" : 1668545726013,
+        "duration" : 3444
+      }
+    }, {
+      "uid" : "b677f25a1f81b5e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668421347813,
+        "stop" : 1668421388993,
+        "duration" : 41180
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e08ceda265d232.json",
+  "parameterValues" : [ ]
+}

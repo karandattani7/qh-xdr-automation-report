@@ -1,0 +1,48 @@
+{
+  "uid" : "a8a3cc24ca538569",
+  "name" : "Verify Tags column does not show more than 5 tags in Draft Playbooks list-Light",
+  "fullName" : "Playbook Test Light theme.Verify Tags column does not show more than 5 tags in Draft Playbooks list-Light",
+  "historyId" : "92b3e212c00babe0f6ef5f7bda9c5e5b",
+  "time" : {
+    "start" : 1668498301750,
+    "stop" : 1668498321573,
+    "duration" : 19823
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Tags column does not show more than 5 tags in Draft Playbooks list-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a8a3cc24ca538569.json",
+  "parameterValues" : [ ]
+}

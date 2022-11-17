@@ -1,0 +1,50 @@
+{
+  "uid" : "8a94972231469916",
+  "name" : "Verify that the count of applied filters is shown in filter component in Connector list view-Dark",
+  "fullName" : "Connector Test Dark theme.Verify that the count of applied filters is shown in filter component in Connector list view-Dark",
+  "historyId" : "681c8acf20b90e852f300cbfe53839ba",
+  "time" : {
+    "start" : 1668257921962,
+    "stop" : 1668258020080,
+    "duration" : 98118
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that the count of applied filters is shown in filter component in Connector list view-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8a94972231469916.json",
+  "parameterValues" : [ ]
+}

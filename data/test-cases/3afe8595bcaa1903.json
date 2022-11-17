@@ -1,0 +1,66 @@
+{
+  "uid" : "3afe8595bcaa1903",
+  "name" : "Verify that clicking on 'Clear n Filters' clears the Selected Filters section of Playbook Output Filter window-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that clicking on 'Clear n Filters' clears the Selected Filters section of Playbook Output Filter window-Dark",
+  "historyId" : "529825206d8d13d47bf3cb5ca4fc27d9",
+  "time" : {
+    "start" : 1668498984223,
+    "stop" : 1668499031253,
+    "duration" : 47030
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on 'Clear n Filters' clears the Selected Filters section of Playbook Output Filter window-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e523564e4384f000",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668428769068,
+        "stop" : 1668428848785,
+        "duration" : 79717
+      }
+    }, {
+      "uid" : "30520f7404541ead",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668413770066,
+        "stop" : 1668413818831,
+        "duration" : 48765
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3afe8595bcaa1903.json",
+  "parameterValues" : [ ]
+}

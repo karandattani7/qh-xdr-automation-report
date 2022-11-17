@@ -1,0 +1,50 @@
+{
+  "uid" : "96e4fc4c0c189f06",
+  "name" : "Verify that Edit and Delete icon is visible for added SLA panel for Incident Type in SLA Configuration tab-Light",
+  "fullName" : "SLA Test Light theme.Verify that Edit and Delete icon is visible for added SLA panel for Incident Type in SLA Configuration tab-Light",
+  "historyId" : "6d757b01302812f51d9dea4e101725e",
+  "time" : {
+    "start" : 1668263423105,
+    "stop" : 1668263436580,
+    "duration" : 13475
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "SLA Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "SLA Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Edit and Delete icon is visible for added SLA panel for Incident Type in SLA Configuration tab-Light"
+  }, {
+    "name" : "package",
+    "value" : "SLA Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "96e4fc4c0c189f06.json",
+  "parameterValues" : [ ]
+}

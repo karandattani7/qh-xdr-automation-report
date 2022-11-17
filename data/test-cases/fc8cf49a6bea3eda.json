@@ -1,0 +1,48 @@
+{
+  "uid" : "fc8cf49a6bea3eda",
+  "name" : "Verify the placeholder for Tags column when no Tags are selected while creating a playbook in Published Playbooks",
+  "fullName" : "Playbook Test Light theme.Verify the placeholder for Tags column when no Tags are selected while creating a playbook in Published Playbooks",
+  "historyId" : "70fba9d51c6e053fcb0d0763ba16a427",
+  "time" : {
+    "start" : 1668498264840,
+    "stop" : 1668498301750,
+    "duration" : 36910
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the placeholder for Tags column when no Tags are selected while creating a playbook in Published Playbooks"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fc8cf49a6bea3eda.json",
+  "parameterValues" : [ ]
+}

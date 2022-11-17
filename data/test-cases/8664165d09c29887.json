@@ -1,0 +1,50 @@
+{
+  "uid" : "8664165d09c29887",
+  "name" : "Verify that setting Configured Connectors toggle ON in Enrichment tab, remains ON on Ingestion and Response connector tab also-Dark",
+  "fullName" : "Connector Test Dark theme.Verify that setting Configured Connectors toggle ON in Enrichment tab, remains ON on Ingestion and Response connector tab also-Dark",
+  "historyId" : "db241558b52063d603a3d00a4e092785",
+  "time" : {
+    "start" : 1668256967783,
+    "stop" : 1668257038760,
+    "duration" : 70977
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that setting Configured Connectors toggle ON in Enrichment tab, remains ON on Ingestion and Response connector tab also-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8664165d09c29887.json",
+  "parameterValues" : [ ]
+}

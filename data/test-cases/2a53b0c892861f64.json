@@ -1,0 +1,50 @@
+{
+  "uid" : "2a53b0c892861f64",
+  "name" : "Verify that User is able to search and apply quick filters in Incidents List view-Light",
+  "fullName" : "Incident Test Light theme.Verify that User is able to search and apply quick filters in Incidents List view-Light",
+  "historyId" : "966f7b6205d4d16b0d157b024f04f1a1",
+  "time" : {
+    "start" : 1668429359034,
+    "stop" : 1668429394180,
+    "duration" : 35146
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to search and apply quick filters in Incidents List view-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2a53b0c892861f64.json",
+  "parameterValues" : [ ]
+}

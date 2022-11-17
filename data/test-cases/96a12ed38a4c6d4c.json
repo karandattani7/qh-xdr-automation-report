@@ -1,0 +1,76 @@
+{
+  "uid" : "96a12ed38a4c6d4c",
+  "name" : "Verify a success toast notification is shown after a playbook has been published using 'Publish Playbook' button-Light",
+  "fullName" : "Playbook Test Light theme.Verify a success toast notification is shown after a playbook has been published using 'Publish Playbook' button-Light",
+  "historyId" : "9a797af01698f53156d32ab5a52f4e3e",
+  "time" : {
+    "start" : 1668551513175,
+    "stop" : 1668551610116,
+    "duration" : 96941
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify a success toast notification is shown after a playbook has been published using 'Publish Playbook' button-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d5d5b885737f73b4",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668516732363,
+        "stop" : 1668516736547,
+        "duration" : 4184
+      }
+    }, {
+      "uid" : "cff0027a12426e5b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668506054380,
+        "stop" : 1668506155208,
+        "duration" : 100828
+      }
+    }, {
+      "uid" : "46880eb1b5f8981e",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504591479,
+        "stop" : 1668504595897,
+        "duration" : 4418
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "96a12ed38a4c6d4c.json",
+  "parameterValues" : [ ]
+}

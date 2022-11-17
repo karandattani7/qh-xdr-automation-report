@@ -1,0 +1,48 @@
+{
+  "uid" : "2ff5345e931e9d8a",
+  "name" : "Verify that User is able to remove tags by unchecking checkbox in Tags field of Create Playbook form-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to remove tags by unchecking checkbox in Tags field of Create Playbook form-Light",
+  "historyId" : "b9ea426bc87a58a39978c11e7421bab9",
+  "time" : {
+    "start" : 1668503065752,
+    "stop" : 1668503091540,
+    "duration" : 25788
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to remove tags by unchecking checkbox in Tags field of Create Playbook form-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2ff5345e931e9d8a.json",
+  "parameterValues" : [ ]
+}

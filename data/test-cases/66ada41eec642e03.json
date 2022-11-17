@@ -1,0 +1,68 @@
+{
+  "uid" : "66ada41eec642e03",
+  "name" : "Verify that after adding an internal function, the right panel should show Read only view with Edit button-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that after adding an internal function, the right panel should show Read only view with Edit button-Dark",
+  "historyId" : "167e618dcbbe6d7f96623169bed54d2a",
+  "time" : {
+    "start" : 1668578612202,
+    "stop" : 1668578681129,
+    "duration" : 68927
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that after adding an internal function, the right panel should show Read only view with Edit button-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "513b16c73d57a8e7",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668545810707,
+        "stop" : 1668545814100,
+        "duration" : 3393
+      }
+    }, {
+      "uid" : "b70db3485bc42a11",
+      "status" : "failed",
+      "statusDetails" : "Expected false to be true.",
+      "time" : {
+        "start" : 1668422703545,
+        "stop" : 1668422753103,
+        "duration" : 49558
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "66ada41eec642e03.json",
+  "parameterValues" : [ ]
+}

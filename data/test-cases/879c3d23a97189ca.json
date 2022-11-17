@@ -1,0 +1,76 @@
+{
+  "uid" : "879c3d23a97189ca",
+  "name" : "Verify that in Draft Playbooks tab, an error message 'Filter already selected.' is shown below filter search field if user adds quick filter with same value again-Light",
+  "fullName" : "Playbook Test Light theme.Verify that in Draft Playbooks tab, an error message 'Filter already selected.' is shown below filter search field if user adds quick filter with same value again-Light",
+  "historyId" : "ffcbaec12e41d33b386f6c78a1a03b5c",
+  "time" : {
+    "start" : 1668553199123,
+    "stop" : 1668553239654,
+    "duration" : 40531
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Draft Playbooks tab, an error message 'Filter already selected.' is shown below filter search field if user adds quick filter with same value again-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3c34a02c013b585",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668516803668,
+        "stop" : 1668516807857,
+        "duration" : 4189
+      }
+    }, {
+      "uid" : "12da8b34d7d50fb1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668507786447,
+        "stop" : 1668507829026,
+        "duration" : 42579
+      }
+    }, {
+      "uid" : "a28d8a482f890758",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504667793,
+        "stop" : 1668504672305,
+        "duration" : 4512
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "879c3d23a97189ca.json",
+  "parameterValues" : [ ]
+}

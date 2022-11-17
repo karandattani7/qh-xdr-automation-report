@@ -1,0 +1,48 @@
+{
+  "uid" : "d2970d64131e4db8",
+  "name" : "Verify that user is able to delete Decision block from its right panel before filling the decision right panel-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that user is able to delete Decision block from its right panel before filling the decision right panel-Dark",
+  "historyId" : "789a0f095036680dbe41900381c96a78",
+  "time" : {
+    "start" : 1668424809356,
+    "stop" : 1668424859145,
+    "duration" : 49789
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to delete Decision block from its right panel before filling the decision right panel-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d2970d64131e4db8.json",
+  "parameterValues" : [ ]
+}

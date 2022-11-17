@@ -1,0 +1,66 @@
+{
+  "uid" : "80bb99346e542ba8",
+  "name" : "Verify that User is able to switch between the 3 sections i.e. Investigation Timeline, Notes, Root Cause Analysis in Incident Canvas modal-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that User is able to switch between the 3 sections i.e. Investigation Timeline, Notes, Root Cause Analysis in Incident Canvas modal-Dark",
+  "historyId" : "31a093059decd0be54c21d4f8b7b5c97",
+  "time" : {
+    "start" : 1668501350808,
+    "stop" : 1668501394029,
+    "duration" : 43221
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to switch between the 3 sections i.e. Investigation Timeline, Notes, Root Cause Analysis in Incident Canvas modal-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "87c3530171b42651",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668430979103,
+        "stop" : 1668431023521,
+        "duration" : 44418
+      }
+    }, {
+      "uid" : "8b903d4597cb2533",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668416116627,
+        "stop" : 1668416161032,
+        "duration" : 44405
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "80bb99346e542ba8.json",
+  "parameterValues" : [ ]
+}

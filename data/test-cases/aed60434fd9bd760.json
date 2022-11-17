@@ -1,0 +1,50 @@
+{
+  "uid" : "aed60434fd9bd760",
+  "name" : "Verify that User is able to move the mini canvas blue window within the Mini Canvas View area-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to move the mini canvas blue window within the Mini Canvas View area-Dark",
+  "historyId" : "22f51e46dc9928b3f399af72e3ce526d",
+  "time" : {
+    "start" : 1668426963775,
+    "stop" : 1668426999764,
+    "duration" : 35989
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "NoSuchElementError: Index out of bound. Trying to access element at index: 6, but there are only 0 elements that match locator By(xpath, //*[name()='g']/*[name()='rect'])",
+  "statusTrace" : "NoSuchElementError: Index out of bound. Trying to access element at index: 6, but there are only 0 elements that match locator By(xpath, //*[name()='g']/*[name()='rect'])\n                    at C:\\Users\\Karan\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:274:27\n                    at ManagedPromise.invokeCallback_ (C:\\Users\\Karan\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n                    at TaskQueue.execute_ (C:\\Users\\Karan\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\Karan\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at C:\\Users\\Karan\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27\n                    at C:\\Users\\Karan\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7\n                    at runMicrotasks (<anonymous>)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)Error\n                    at ElementArrayFinder.applyAction_ (C:\\Users\\Karan\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:459:27)\n                    at ElementArrayFinder.<computed> [as getId] (C:\\Users\\Karan\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:91:29)\n                    at ElementFinder.<computed> [as getId] (C:\\Users\\Karan\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:831:22)\n                    at ActionSequence.mouseMove (C:\\Users\\Karan\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\actions.js:151:44)\n                    at ActionSequence.scheduleMouseAction_ (C:\\Users\\Karan\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\actions.js:189:14)\n                    at ActionSequence.mouseDown (C:\\Users\\Karan\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\actions.js:225:17)\n                    at D:\\qh-ui\\qh environment\\JSDIRECTORY\\Test\\PlaybookTabtest-Dark.js:6915:46\n                    at Generator.next (<anonymous>)\n                    at fulfilled (D:\\qh-ui\\qh environment\\JSDIRECTORY\\Test\\PlaybookTabtest-Dark.js:5:58)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to move the mini canvas blue window within the Mini Canvas View area-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aed60434fd9bd760.json",
+  "parameterValues" : [ ]
+}

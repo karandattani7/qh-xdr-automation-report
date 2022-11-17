@@ -1,0 +1,48 @@
+{
+  "uid" : "70291b8fa229a94d",
+  "name" : "Verify that user is able to move specific published playbook to draft playbooks tab successfully using 'Move to drafts' in action menu of a Published Playbook-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that user is able to move specific published playbook to draft playbooks tab successfully using 'Move to drafts' in action menu of a Published Playbook-Dark",
+  "historyId" : "c5970a83dfddf42ce7eca5ff536ea751",
+  "time" : {
+    "start" : 1668543427315,
+    "stop" : 1668543481572,
+    "duration" : 54257
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to move specific published playbook to draft playbooks tab successfully using 'Move to drafts' in action menu of a Published Playbook-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "70291b8fa229a94d.json",
+  "parameterValues" : [ ]
+}

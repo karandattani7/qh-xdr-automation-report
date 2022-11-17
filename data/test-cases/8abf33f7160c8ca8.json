@@ -1,0 +1,67 @@
+{
+  "uid" : "8abf33f7160c8ca8",
+  "name" : "Verify that in Draft Playbooks tab, an error message 'Filter already selected.' is shown below filter search field if user adds quick filter with same value again-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that in Draft Playbooks tab, an error message 'Filter already selected.' is shown below filter search field if user adds quick filter with same value again-Dark",
+  "historyId" : "2ca3f7fa42ac06fef17ec7ec2c0a4a9b",
+  "time" : {
+    "start" : 1668584435935,
+    "stop" : 1668584478075,
+    "duration" : 42140
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Draft Playbooks tab, an error message 'Filter already selected.' is shown below filter search field if user adds quick filter with same value again-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d842b9083ab1e70a",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668546119512,
+        "stop" : 1668546122933,
+        "duration" : 3421
+      }
+    }, {
+      "uid" : "c4c49535b2196867",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668427857588,
+        "stop" : 1668427898449,
+        "duration" : 40861
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8abf33f7160c8ca8.json",
+  "parameterValues" : [ ]
+}

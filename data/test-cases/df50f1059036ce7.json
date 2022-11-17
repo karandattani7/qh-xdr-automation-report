@@ -1,0 +1,66 @@
+{
+  "uid" : "df50f1059036ce7",
+  "name" : "Verify that Incidents count is shown in List view like 'Incidents (32)'-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that Incidents count is shown in List view like 'Incidents (32)'-Dark",
+  "historyId" : "66f833efe6f654cb85533b74f23ecb80",
+  "time" : {
+    "start" : 1668497825628,
+    "stop" : 1668497848266,
+    "duration" : 22638
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Incidents count is shown in List view like 'Incidents (32)'-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "67ca518e37c3eeeb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668427580537,
+        "stop" : 1668427603273,
+        "duration" : 22736
+      }
+    }, {
+      "uid" : "edcece64929bdb78",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668412565612,
+        "stop" : 1668412588755,
+        "duration" : 23143
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "df50f1059036ce7.json",
+  "parameterValues" : [ ]
+}

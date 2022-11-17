@@ -1,0 +1,66 @@
+{
+  "uid" : "128cc0de5f4216fa",
+  "name" : "Verify that in ENDPOINTS AND USERS section of Incident Summary right panel, 3 dots is shown in front of each entry in Endpoints and Users subsection-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that in ENDPOINTS AND USERS section of Incident Summary right panel, 3 dots is shown in front of each entry in Endpoints and Users subsection-Dark",
+  "historyId" : "36a8b215f6a136749c3fe9e0bd45791e",
+  "time" : {
+    "start" : 1668502584968,
+    "stop" : 1668502619996,
+    "duration" : 35028
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in ENDPOINTS AND USERS section of Incident Summary right panel, 3 dots is shown in front of each entry in Endpoints and Users subsection-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "63af5bc587b933d0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668432305915,
+        "stop" : 1668432340632,
+        "duration" : 34717
+      }
+    }, {
+      "uid" : "f8427cb8d064b4b1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668417410421,
+        "stop" : 1668417445879,
+        "duration" : 35458
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "128cc0de5f4216fa.json",
+  "parameterValues" : [ ]
+}

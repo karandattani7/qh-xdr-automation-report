@@ -1,0 +1,67 @@
+{
+  "uid" : "b6f77607c50753bf",
+  "name" : "Verify that user is able to see right panel of Filter block when user drags and drops the Filter block from left panel of Playbook Editor-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that user is able to see right panel of Filter block when user drags and drops the Filter block from left panel of Playbook Editor-Dark",
+  "historyId" : "92f4a40cf6bd19d721785cdff981d439",
+  "time" : {
+    "start" : 1668580631726,
+    "stop" : 1668580684329,
+    "duration" : 52603
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to see right panel of Filter block when user drags and drops the Filter block from left panel of Playbook Editor-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "27175c5bf471a792",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668545943260,
+        "stop" : 1668545946719,
+        "duration" : 3459
+      }
+    }, {
+      "uid" : "d0931f4a2fbd060a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668424509670,
+        "stop" : 1668424563195,
+        "duration" : 53525
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b6f77607c50753bf.json",
+  "parameterValues" : [ ]
+}

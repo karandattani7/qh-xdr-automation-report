@@ -1,0 +1,67 @@
+{
+  "uid" : "c8e5d44f3d02a253",
+  "name" : "Verify that a success toast notification is shown after severity of base alert is updated from Base Alert summary right panel-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that a success toast notification is shown after severity of base alert is updated from Base Alert summary right panel-Dark",
+  "historyId" : "475b3e881144fd8d70fa47555531ac15",
+  "time" : {
+    "start" : 1668502955006,
+    "stop" : 1668502997552,
+    "duration" : 42546
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that a success toast notification is shown after severity of base alert is updated from Base Alert summary right panel-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2d359ffcfe0f46d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668432727575,
+        "stop" : 1668432769827,
+        "duration" : 42252
+      }
+    }, {
+      "uid" : "beb6a707ce7e281",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <em class=\"icon-edit m-0\"></em> is not clickable at point (1326, 551). Other element would receive the click: <button type=\"button\" class=\"btn btn-custom btn-primary btn-md w-100\">...</button>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668417829929,
+        "stop" : 1668417864150,
+        "duration" : 34221
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c8e5d44f3d02a253.json",
+  "parameterValues" : [ ]
+}

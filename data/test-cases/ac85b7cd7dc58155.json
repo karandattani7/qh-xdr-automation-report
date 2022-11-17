@@ -1,0 +1,66 @@
+{
+  "uid" : "ac85b7cd7dc58155",
+  "name" : "Verify User is able to Copy Published Playbook-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify User is able to Copy Published Playbook-Dark",
+  "historyId" : "e3f1a312668e1782beb68d94acabceae",
+  "time" : {
+    "start" : 1668576013990,
+    "stop" : 1668576069469,
+    "duration" : 55479
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User is able to Copy Published Playbook-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "39e149cdd898238f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668544668044,
+        "stop" : 1668544720821,
+        "duration" : 52777
+      }
+    }, {
+      "uid" : "60a09236f9a04df9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668420086980,
+        "stop" : 1668420142060,
+        "duration" : 55080
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ac85b7cd7dc58155.json",
+  "parameterValues" : [ ]
+}

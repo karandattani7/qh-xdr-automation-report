@@ -1,0 +1,48 @@
+{
+  "uid" : "e391496fd80b1559",
+  "name" : "Verify that clicking on Cross icon (Close) in Add Filter window closes the Add Filter window-Light",
+  "fullName" : "Playbook Test Light theme.Verify that clicking on Cross icon (Close) in Add Filter window closes the Add Filter window-Light",
+  "historyId" : "30309bfdf63c8e1810eea00cc0263d74",
+  "time" : {
+    "start" : 1668513084197,
+    "stop" : 1668513126925,
+    "duration" : 42728
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Cross icon (Close) in Add Filter window closes the Add Filter window-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e391496fd80b1559.json",
+  "parameterValues" : [ ]
+}

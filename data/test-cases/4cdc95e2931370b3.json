@@ -1,0 +1,48 @@
+{
+  "uid" : "4cdc95e2931370b3",
+  "name" : "Verify clicking on Playbooks on left sidebar panel opens Published Playbooks tab-Light",
+  "fullName" : "Playbook Test Light theme.Verify clicking on Playbooks on left sidebar panel opens Published Playbooks tab-Light",
+  "historyId" : "bcfa0fc2f5a5eca00b6e96ad16eee5fd",
+  "time" : {
+    "start" : 1668501330820,
+    "stop" : 1668501345221,
+    "duration" : 14401
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify clicking on Playbooks on left sidebar panel opens Published Playbooks tab-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4cdc95e2931370b3.json",
+  "parameterValues" : [ ]
+}

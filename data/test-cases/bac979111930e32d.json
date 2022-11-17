@@ -1,0 +1,48 @@
+{
+  "uid" : "bac979111930e32d",
+  "name" : "Verify that after removing applied filters and then clicking on + Add does not show Add Filter window with filters in it-Light",
+  "fullName" : "Playbook Test Light theme.Verify that after removing applied filters and then clicking on + Add does not show Add Filter window with filters in it-Light",
+  "historyId" : "3e610c9bb87de7681d7c78b14d071f43",
+  "time" : {
+    "start" : 1668501606173,
+    "stop" : 1668501668529,
+    "duration" : 62356
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that after removing applied filters and then clicking on + Add does not show Add Filter window with filters in it-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bac979111930e32d.json",
+  "parameterValues" : [ ]
+}

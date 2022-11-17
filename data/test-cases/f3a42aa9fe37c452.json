@@ -1,0 +1,56 @@
+{
+  "uid" : "f3a42aa9fe37c452",
+  "name" : "Verify that by default Incident list view table shows all incidents of Last 7 days in descending order of Created On-Light",
+  "fullName" : "Incident Test Light theme.Verify that by default Incident list view table shows all incidents of Last 7 days in descending order of Created On-Light",
+  "historyId" : "abd051c5db0fa87551e153d835f96028",
+  "time" : {
+    "start" : 1668431824547,
+    "stop" : 1668431936776,
+    "duration" : 112229
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected false to be true.",
+  "statusTrace" : "Error: Failed expectation\n                    at D:\\qh-ui\\qh environment\\JSDIRECTORY\\Test\\IncidentTabtest-Light.js:4087:52\n                    at Generator.next (<anonymous>)\n                    at fulfilled (D:\\qh-ui\\qh environment\\JSDIRECTORY\\Test\\IncidentTabtest-Light.js:5:58)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that by default Incident list view table shows all incidents of Last 7 days in descending order of Created On-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "f3a42aa9fe37c452.json",
+  "parameterValues" : [ ]
+}

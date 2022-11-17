@@ -1,0 +1,48 @@
+{
+  "uid" : "17aa5aa7ae9ef749",
+  "name" : "Verify that in Playbook Add Filter window, clicking on Search Filter input field shows blinking cursor and filter entity.attribute list in dropdown to select from-Light",
+  "fullName" : "Playbook Test Light theme.Verify that in Playbook Add Filter window, clicking on Search Filter input field shows blinking cursor and filter entity.attribute list in dropdown to select from-Light",
+  "historyId" : "ff04f8fc6f80020aca297faada3dc142",
+  "time" : {
+    "start" : 1668514165737,
+    "stop" : 1668514206993,
+    "duration" : 41256
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Playbook Add Filter window, clicking on Search Filter input field shows blinking cursor and filter entity.attribute list in dropdown to select from-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "17aa5aa7ae9ef749.json",
+  "parameterValues" : [ ]
+}

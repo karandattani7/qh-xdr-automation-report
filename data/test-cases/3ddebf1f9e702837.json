@@ -1,0 +1,75 @@
+{
+  "uid" : "3ddebf1f9e702837",
+  "name" : "Verify that user is able to add and apply more than one filter in Playbooks-Light",
+  "fullName" : "Playbook Test Light theme.Verify that user is able to add and apply more than one filter in Playbooks-Light",
+  "historyId" : "d7c3405770ca5af1506d79b50e0d44eb",
+  "time" : {
+    "start" : 1668547192189,
+    "stop" : 1668547249416,
+    "duration" : 57227
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to add and apply more than one filter in Playbooks-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b7a5afdbc43179b2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668513837007,
+        "stop" : 1668513896433,
+        "duration" : 59426
+      }
+    }, {
+      "uid" : "92dff0974612e956",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504222553,
+        "stop" : 1668504227024,
+        "duration" : 4471
+      }
+    }, {
+      "uid" : "3a79d6d54eacb6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668501424001,
+        "stop" : 1668501477829,
+        "duration" : 53828
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3ddebf1f9e702837.json",
+  "parameterValues" : [ ]
+}

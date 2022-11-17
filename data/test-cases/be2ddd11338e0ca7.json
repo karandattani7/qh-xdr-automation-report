@@ -1,0 +1,50 @@
+{
+  "uid" : "be2ddd11338e0ca7",
+  "name" : "Verify SOC Manager  is able to view and click on the 'Type' Dropdown on 'Average Late Incidents' widget of SOC Manager Dashboard Page.-Dark",
+  "fullName" : "Dashboard Test Dark theme-SOC Manager.Verify SOC Manager  is able to view and click on the 'Type' Dropdown on 'Average Late Incidents' widget of SOC Manager Dashboard Page.-Dark",
+  "historyId" : "58dba6bf466c25752e2d4bb55bbc8fb7",
+  "time" : {
+    "start" : 1668262105560,
+    "stop" : 1668262126061,
+    "duration" : 20501
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "testClass",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify SOC Manager  is able to view and click on the 'Type' Dropdown on 'Average Late Incidents' widget of SOC Manager Dashboard Page.-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "be2ddd11338e0ca7.json",
+  "parameterValues" : [ ]
+}

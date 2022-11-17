@@ -1,0 +1,74 @@
+{
+  "uid" : "e54e82314eb4105e",
+  "name" : "Verify User is able to export a Playbook from 3 dot ellipsis options in Published Playbooks tab-Light",
+  "fullName" : "Playbook Test Light theme.Verify User is able to export a Playbook from 3 dot ellipsis options in Published Playbooks tab-Light",
+  "historyId" : "ffcec934c51c35d0c5f59eefa4bc25ca",
+  "time" : {
+    "start" : 1668545287430,
+    "stop" : 1668545321578,
+    "duration" : 34148
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User is able to export a Playbook from 3 dot ellipsis options in Published Playbooks tab-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ee1d2b55236ec174",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668511801582,
+        "stop" : 1668511837184,
+        "duration" : 35602
+      }
+    }, {
+      "uid" : "fb0c1935708f0428",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668503478927,
+        "stop" : 1668503514618,
+        "duration" : 35691
+      }
+    }, {
+      "uid" : "c65a6ce7ef511f0e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668499496382,
+        "stop" : 1668499530573,
+        "duration" : 34191
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e54e82314eb4105e.json",
+  "parameterValues" : [ ]
+}

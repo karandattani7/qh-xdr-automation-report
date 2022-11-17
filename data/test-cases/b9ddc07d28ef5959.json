@@ -1,0 +1,48 @@
+{
+  "uid" : "b9ddc07d28ef5959",
+  "name" : "Verify that in NOTES section's Add Note modal, clicking on Cancel and Close button discards all changes and does not add note-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that in NOTES section's Add Note modal, clicking on Cancel and Close button discards all changes and does not add note-Dark",
+  "historyId" : "be88ffa1da02e21e625d7c8e70715de2",
+  "time" : {
+    "start" : 1668432265835,
+    "stop" : 1668432305915,
+    "duration" : 40080
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in NOTES section's Add Note modal, clicking on Cancel and Close button discards all changes and does not add note-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b9ddc07d28ef5959.json",
+  "parameterValues" : [ ]
+}

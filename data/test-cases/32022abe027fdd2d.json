@@ -1,0 +1,48 @@
+{
+  "uid" : "32022abe027fdd2d",
+  "name" : "Verify that clicking on Cancel in editable external function block right panel, closes the right panel and discards the changes-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that clicking on Cancel in editable external function block right panel, closes the right panel and discards the changes-Dark",
+  "historyId" : "ef4153103d91fa83ef973acf2b4a3230",
+  "time" : {
+    "start" : 1668425454403,
+    "stop" : 1668425508548,
+    "duration" : 54145
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Cancel in editable external function block right panel, closes the right panel and discards the changes-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "32022abe027fdd2d.json",
+  "parameterValues" : [ ]
+}

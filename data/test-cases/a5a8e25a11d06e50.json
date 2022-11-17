@@ -1,0 +1,74 @@
+{
+  "uid" : "a5a8e25a11d06e50",
+  "name" : "Verify that User is able to remove tags by unchecking checkbox in Tags field of Create Playbook form-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to remove tags by unchecking checkbox in Tags field of Create Playbook form-Light",
+  "historyId" : "b9ea426bc87a58a39978c11e7421bab9",
+  "time" : {
+    "start" : 1668544889849,
+    "stop" : 1668544914038,
+    "duration" : 24189
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to remove tags by unchecking checkbox in Tags field of Create Playbook form-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e03745fa8c84878d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668511386751,
+        "stop" : 1668511412094,
+        "duration" : 25343
+      }
+    }, {
+      "uid" : "2ff5345e931e9d8a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668503065752,
+        "stop" : 1668503091540,
+        "duration" : 25788
+      }
+    }, {
+      "uid" : "92ca02c35bf34719",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668499108241,
+        "stop" : 1668499132474,
+        "duration" : 24233
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a5a8e25a11d06e50.json",
+  "parameterValues" : [ ]
+}

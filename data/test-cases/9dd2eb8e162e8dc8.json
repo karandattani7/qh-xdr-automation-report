@@ -1,0 +1,76 @@
+{
+  "uid" : "9dd2eb8e162e8dc8",
+  "name" : "Verify that user is able to update added internal function's block name successfully using Name field in Editable right panel-Light",
+  "fullName" : "Playbook Test Light theme.Verify that user is able to update added internal function's block name successfully using Name field in Editable right panel-Light",
+  "historyId" : "d306c9acd3cbc7bd877051868f0b228a",
+  "time" : {
+    "start" : 1668550698681,
+    "stop" : 1668550755393,
+    "duration" : 56712
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to update added internal function's block name successfully using Name field in Editable right panel-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2511bd07f8d4dcbb",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668516673776,
+        "stop" : 1668516677975,
+        "duration" : 4199
+      }
+    }, {
+      "uid" : "1a1692499f32969d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668505191137,
+        "stop" : 1668505309044,
+        "duration" : 117907
+      }
+    }, {
+      "uid" : "a0076bc5e2e56e1c",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504528699,
+        "stop" : 1668504533129,
+        "duration" : 4430
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9dd2eb8e162e8dc8.json",
+  "parameterValues" : [ ]
+}

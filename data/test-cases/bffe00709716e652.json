@@ -1,0 +1,50 @@
+{
+  "uid" : "bffe00709716e652",
+  "name" : "Verify that user is able to save/update Default SLA table after doing valid changes or edits-Light",
+  "fullName" : "SLA Test Light theme.Verify that user is able to save/update Default SLA table after doing valid changes or edits-Light",
+  "historyId" : "6218e858193c2f3c36942559bb64d6c2",
+  "time" : {
+    "start" : 1668263556728,
+    "stop" : 1668263581194,
+    "duration" : 24466
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "SLA Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "SLA Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to save/update Default SLA table after doing valid changes or edits-Light"
+  }, {
+    "name" : "package",
+    "value" : "SLA Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bffe00709716e652.json",
+  "parameterValues" : [ ]
+}

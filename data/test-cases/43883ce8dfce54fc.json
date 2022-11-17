@@ -1,0 +1,48 @@
+{
+  "uid" : "43883ce8dfce54fc",
+  "name" : "Verify user is able to check/uncheck the checkboxes in Active Incidents tab of 'Other Incidents Associated with User' modal-Dark",
+  "fullName" : "Incident Test Dark theme.Verify user is able to check/uncheck the checkboxes in Active Incidents tab of 'Other Incidents Associated with User' modal-Dark",
+  "historyId" : "725d9ce3f63e7816fe350aeb5bf2463e",
+  "time" : {
+    "start" : 1668418868644,
+    "stop" : 1668418916637,
+    "duration" : 47993
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify user is able to check/uncheck the checkboxes in Active Incidents tab of 'Other Incidents Associated with User' modal-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "43883ce8dfce54fc.json",
+  "parameterValues" : [ ]
+}

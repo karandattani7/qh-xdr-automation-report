@@ -1,0 +1,67 @@
+{
+  "uid" : "d11e8117d976f218",
+  "name" : "Verify the saved created flow for Dragged and filled block with no connection lines in Playbook Editor page is as expected-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify the saved created flow for Dragged and filled block with no connection lines in Playbook Editor page is as expected-Dark",
+  "historyId" : "2fe80d9ed76dee7a2abcd267833bd3ca",
+  "time" : {
+    "start" : 1668583564937,
+    "stop" : 1668583675467,
+    "duration" : 110530
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the saved created flow for Dragged and filled block with no connection lines in Playbook Editor page is as expected-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "21f375d884290b25",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668546095727,
+        "stop" : 1668546099128,
+        "duration" : 3401
+      }
+    }, {
+      "uid" : "739d2e2f4c31140e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668427151441,
+        "stop" : 1668427253609,
+        "duration" : 102168
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d11e8117d976f218.json",
+  "parameterValues" : [ ]
+}

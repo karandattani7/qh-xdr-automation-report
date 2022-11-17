@@ -1,0 +1,48 @@
+{
+  "uid" : "4c5d33dcc86e5dd2",
+  "name" : "Verify that in Playbook Output modal's left side pane/window, the Default Playbook and Default Playbook name is visible-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that in Playbook Output modal's left side pane/window, the Default Playbook and Default Playbook name is visible-Dark",
+  "historyId" : "d6b13b1e2f44ade3b35bf6dfdeff756a",
+  "time" : {
+    "start" : 1668432157941,
+    "stop" : 1668432193475,
+    "duration" : 35534
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Playbook Output modal's left side pane/window, the Default Playbook and Default Playbook name is visible-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4c5d33dcc86e5dd2.json",
+  "parameterValues" : [ ]
+}

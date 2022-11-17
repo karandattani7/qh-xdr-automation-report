@@ -1,0 +1,50 @@
+{
+  "uid" : "9f80803818b33e05",
+  "name" : "Verify that user is able to switch between 3 tabs List, Timeline, Correlation in User View page-Light",
+  "fullName" : "Incident Test Light theme.Verify that user is able to switch between 3 tabs List, Timeline, Correlation in User View page-Light",
+  "historyId" : "ae4c2296dc2fe9389c27714da067ede7",
+  "time" : {
+    "start" : 1668432778276,
+    "stop" : 1668432800510,
+    "duration" : 22234
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to switch between 3 tabs List, Timeline, Correlation in User View page-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9f80803818b33e05.json",
+  "parameterValues" : [ ]
+}

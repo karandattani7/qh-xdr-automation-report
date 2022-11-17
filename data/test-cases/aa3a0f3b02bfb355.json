@@ -1,0 +1,70 @@
+{
+  "uid" : "aa3a0f3b02bfb355",
+  "name" : "Verify that User is able to scroll up and down using Up and Down arrow key in Create Playbook form-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to scroll up and down using Up and Down arrow key in Create Playbook form-Dark",
+  "historyId" : "532e0e4ea0c3543caba880c9cbdedcca",
+  "time" : {
+    "start" : 1668575281588,
+    "stop" : 1668575281590,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to scroll up and down using Up and Down arrow key in Create Playbook form-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7c74dcfa7a4a1e3b",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1668543973855,
+        "stop" : 1668543973856,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "98491376e103d3c",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1668419399330,
+        "stop" : 1668419399332,
+        "duration" : 2
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aa3a0f3b02bfb355.json",
+  "parameterValues" : [ ]
+}

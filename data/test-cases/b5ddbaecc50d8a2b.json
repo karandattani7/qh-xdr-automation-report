@@ -1,0 +1,66 @@
+{
+  "uid" : "b5ddbaecc50d8a2b",
+  "name" : "Verify that scroll bar is shown on top after User has scrolled down and applied some filters on Playbook list in Draft Playbooks tab-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that scroll bar is shown on top after User has scrolled down and applied some filters on Playbook list in Draft Playbooks tab-Dark",
+  "historyId" : "77f59605a15ef04956ed33fe279c64dd",
+  "time" : {
+    "start" : 1668574632356,
+    "stop" : 1668574672009,
+    "duration" : 39653
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that scroll bar is shown on top after User has scrolled down and applied some filters on Playbook list in Draft Playbooks tab-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9ffd62fefac54892",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668543343773,
+        "stop" : 1668543383251,
+        "duration" : 39478
+      }
+    }, {
+      "uid" : "4a689033a4dfc7e6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668418768119,
+        "stop" : 1668418807776,
+        "duration" : 39657
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b5ddbaecc50d8a2b.json",
+  "parameterValues" : [ ]
+}

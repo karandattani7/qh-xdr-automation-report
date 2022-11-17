@@ -1,0 +1,75 @@
+{
+  "uid" : "ef20d359740c3f7d",
+  "name" : "Verify that clicking on Delete icon of Call Internal Function Right Panel shows Delete Block modal-Light",
+  "fullName" : "Playbook Test Light theme.Verify that clicking on Delete icon of Call Internal Function Right Panel shows Delete Block modal-Light",
+  "historyId" : "1b4177d9f0743947fefe54ec3935fb79",
+  "time" : {
+    "start" : 1668548862924,
+    "stop" : 1668548899882,
+    "duration" : 36958
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Delete icon of Call Internal Function Right Panel shows Delete Block modal-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "44aeefe918f4feae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668515753993,
+        "stop" : 1668515791090,
+        "duration" : 37097
+      }
+    }, {
+      "uid" : "4d90ad44919b1083",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504369232,
+        "stop" : 1668504373569,
+        "duration" : 4337
+      }
+    }, {
+      "uid" : "788b74e066592366",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668503141741,
+        "stop" : 1668503181814,
+        "duration" : 40073
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ef20d359740c3f7d.json",
+  "parameterValues" : [ ]
+}

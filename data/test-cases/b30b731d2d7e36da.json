@@ -1,0 +1,48 @@
+{
+  "uid" : "b30b731d2d7e36da",
+  "name" : "Verify that filter right panel is opened when user clicks on Filter Block on main canvas area when right panel is in collapsed state-Light",
+  "fullName" : "Playbook Test Light theme.Verify that filter right panel is opened when user clicks on Filter Block on main canvas area when right panel is in collapsed state-Light",
+  "historyId" : "4af142c1f67994ad7a4db7ef9838baae",
+  "time" : {
+    "start" : 1668505142693,
+    "stop" : 1668505191136,
+    "duration" : 48443
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that filter right panel is opened when user clicks on Filter Block on main canvas area when right panel is in collapsed state-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b30b731d2d7e36da.json",
+  "parameterValues" : [ ]
+}

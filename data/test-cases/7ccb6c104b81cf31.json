@@ -1,0 +1,66 @@
+{
+  "uid" : "7ccb6c104b81cf31",
+  "name" : "Verify that User is able to open Incident Canvas modal from Incident Summary right panel in TImeline view-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that User is able to open Incident Canvas modal from Incident Summary right panel in TImeline view-Dark",
+  "historyId" : "5c77abd551dd4e02c7c99a8e165cf53b",
+  "time" : {
+    "start" : 1668501769894,
+    "stop" : 1668501805004,
+    "duration" : 35110
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to open Incident Canvas modal from Incident Summary right panel in TImeline view-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a2d42d796d0eaa89",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668431365561,
+        "stop" : 1668431401962,
+        "duration" : 36401
+      }
+    }, {
+      "uid" : "3c51133e33694f88",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668416521230,
+        "stop" : 1668416558084,
+        "duration" : 36854
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7ccb6c104b81cf31.json",
+  "parameterValues" : [ ]
+}

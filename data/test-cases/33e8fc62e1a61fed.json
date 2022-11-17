@@ -1,0 +1,66 @@
+{
+  "uid" : "33e8fc62e1a61fed",
+  "name" : "Verify that user is able to see two tabs 'Incidents' and 'Base Alerts' when on Incidents page-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that user is able to see two tabs 'Incidents' and 'Base Alerts' when on Incidents page-Dark",
+  "historyId" : "87c1f66d7d4a1522a5d2ceebed021b33",
+  "time" : {
+    "start" : 1668497104043,
+    "stop" : 1668497116873,
+    "duration" : 12830
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to see two tabs 'Incidents' and 'Base Alerts' when on Incidents page-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b45f0600283de137",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668426795582,
+        "stop" : 1668426808743,
+        "duration" : 13161
+      }
+    }, {
+      "uid" : "402429aaf814218b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668411827206,
+        "stop" : 1668411840274,
+        "duration" : 13068
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "33e8fc62e1a61fed.json",
+  "parameterValues" : [ ]
+}

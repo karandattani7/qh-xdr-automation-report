@@ -1,0 +1,74 @@
+{
+  "uid" : "7dd7619c442136a6",
+  "name" : "Verify User is able to export a Playbook from 3 dot ellipsis options in Draft Playbooks tab-Light",
+  "fullName" : "Playbook Test Light theme.Verify User is able to export a Playbook from 3 dot ellipsis options in Draft Playbooks tab-Light",
+  "historyId" : "c8ed2d10b12cf5848fbb6fde4d34c3b6",
+  "time" : {
+    "start" : 1668545253316,
+    "stop" : 1668545287429,
+    "duration" : 34113
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User is able to export a Playbook from 3 dot ellipsis options in Draft Playbooks tab-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a1560139a5da83ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668511766582,
+        "stop" : 1668511801582,
+        "duration" : 35000
+      }
+    }, {
+      "uid" : "5f4524089fee4c35",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668503444135,
+        "stop" : 1668503478927,
+        "duration" : 34792
+      }
+    }, {
+      "uid" : "da3109d22d210cad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668499462276,
+        "stop" : 1668499496382,
+        "duration" : 34106
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7dd7619c442136a6.json",
+  "parameterValues" : [ ]
+}

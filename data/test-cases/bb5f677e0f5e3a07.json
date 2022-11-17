@@ -1,0 +1,48 @@
+{
+  "uid" : "bb5f677e0f5e3a07",
+  "name" : "Verify User is able to select/deselect checkbox for multiple rows in Published Playbooks tab-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify User is able to select/deselect checkbox for multiple rows in Published Playbooks tab-Dark",
+  "historyId" : "ea1714ae3af9a550e5520875248b3a8b",
+  "time" : {
+    "start" : 1668542918261,
+    "stop" : 1668542946073,
+    "duration" : 27812
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User is able to select/deselect checkbox for multiple rows in Published Playbooks tab-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bb5f677e0f5e3a07.json",
+  "parameterValues" : [ ]
+}

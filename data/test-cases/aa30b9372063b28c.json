@@ -1,0 +1,66 @@
+{
+  "uid" : "aa30b9372063b28c",
+  "name" : "Verify that clearing the entered text in Search field of Available Parameters shows the complete list of Available Parameters again-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that clearing the entered text in Search field of Available Parameters shows the complete list of Available Parameters again-Dark",
+  "historyId" : "dc4a7d9983f3483680d00cfddf4911bf",
+  "time" : {
+    "start" : 1668575505011,
+    "stop" : 1668575539055,
+    "duration" : 34044
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clearing the entered text in Search field of Available Parameters shows the complete list of Available Parameters again-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f50d228dd7a9730c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668544184845,
+        "stop" : 1668544216070,
+        "duration" : 31225
+      }
+    }, {
+      "uid" : "f757bcaf692a7084",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668419613075,
+        "stop" : 1668419646281,
+        "duration" : 33206
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aa30b9372063b28c.json",
+  "parameterValues" : [ ]
+}

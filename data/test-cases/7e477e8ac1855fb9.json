@@ -1,0 +1,50 @@
+{
+  "uid" : "7e477e8ac1855fb9",
+  "name" : "Verify SOC Manager user is able to select severity levels, after clicking on 'Severity' Dropdown on 'Incident Assignment' widget of SOC Manager Dashboard Page.-Light",
+  "fullName" : "Dashboard Test Light theme-SOC Manager.Verify SOC Manager user is able to select severity levels, after clicking on 'Severity' Dropdown on 'Incident Assignment' widget of SOC Manager Dashboard Page.-Light",
+  "historyId" : "14c9b5f4d5e523d8c7ff351524c190ec",
+  "time" : {
+    "start" : 1668263029209,
+    "stop" : 1668263040416,
+    "duration" : 11207
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Dashboard Test Light theme-SOC Manager"
+  }, {
+    "name" : "testClass",
+    "value" : "Dashboard Test Light theme-SOC Manager"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify SOC Manager user is able to select severity levels, after clicking on 'Severity' Dropdown on 'Incident Assignment' widget of SOC Manager Dashboard Page.-Light"
+  }, {
+    "name" : "package",
+    "value" : "Dashboard Test Light theme-SOC Manager"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7e477e8ac1855fb9.json",
+  "parameterValues" : [ ]
+}

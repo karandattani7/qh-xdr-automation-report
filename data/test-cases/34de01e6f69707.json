@@ -1,0 +1,76 @@
+{
+  "uid" : "34de01e6f69707",
+  "name" : "Verify that User is able to update Decision Block from main canvas area-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to update Decision Block from main canvas area-Light",
+  "historyId" : "49a42091dcf52dbe7ea8b97068a42800",
+  "time" : {
+    "start" : 1668550191486,
+    "stop" : 1668550243939,
+    "duration" : 52453
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to update Decision Block from main canvas area-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f10da95395c5c54f",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668516640366,
+        "stop" : 1668516644535,
+        "duration" : 4169
+      }
+    }, {
+      "uid" : "f67f97b3dd10e29c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668504605911,
+        "stop" : 1668504662619,
+        "duration" : 56708
+      }
+    }, {
+      "uid" : "7af0c73efe29ff71",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504492967,
+        "stop" : 1668504497409,
+        "duration" : 4442
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "34de01e6f69707.json",
+  "parameterValues" : [ ]
+}

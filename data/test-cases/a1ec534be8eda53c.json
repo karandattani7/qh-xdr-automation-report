@@ -1,0 +1,74 @@
+{
+  "uid" : "a1ec534be8eda53c",
+  "name" : "Verify in Draft Playbooks tab user gets a toast notification on deleting a specific playbook-Light",
+  "fullName" : "Playbook Test Light theme.Verify in Draft Playbooks tab user gets a toast notification on deleting a specific playbook-Light",
+  "historyId" : "bc32cc9da6a9f200cae54005517f04b",
+  "time" : {
+    "start" : 1668545613122,
+    "stop" : 1668545645285,
+    "duration" : 32163
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify in Draft Playbooks tab user gets a toast notification on deleting a specific playbook-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "18fdc607162eb3d0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668512147159,
+        "stop" : 1668512180720,
+        "duration" : 33561
+      }
+    }, {
+      "uid" : "c17469d70a0cf0b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668503819011,
+        "stop" : 1668503853036,
+        "duration" : 34025
+      }
+    }, {
+      "uid" : "70ec61748f445cc8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668499821920,
+        "stop" : 1668499854155,
+        "duration" : 32235
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a1ec534be8eda53c.json",
+  "parameterValues" : [ ]
+}

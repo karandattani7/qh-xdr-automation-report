@@ -1,0 +1,50 @@
+{
+  "uid" : "5679a38a8907642a",
+  "name" : "Verify that  pdf  file is downloaded, after clicking on 'Export' button of SOC Manager Dashboard Page-Light",
+  "fullName" : "Dashboard Test Light theme-SOC Manager.Verify that  pdf  file is downloaded, after clicking on 'Export' button of SOC Manager Dashboard Page-Light",
+  "historyId" : "3d24745d3836d33e37dfc90a00e4f5e7",
+  "time" : {
+    "start" : 1668262915866,
+    "stop" : 1668262952091,
+    "duration" : 36225
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Dashboard Test Light theme-SOC Manager"
+  }, {
+    "name" : "testClass",
+    "value" : "Dashboard Test Light theme-SOC Manager"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that  pdf  file is downloaded, after clicking on 'Export' button of SOC Manager Dashboard Page-Light"
+  }, {
+    "name" : "package",
+    "value" : "Dashboard Test Light theme-SOC Manager"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5679a38a8907642a.json",
+  "parameterValues" : [ ]
+}

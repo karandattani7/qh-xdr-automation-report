@@ -1,0 +1,66 @@
+{
+  "uid" : "7eb1cc97dde64b3c",
+  "name" : "Verify the selected row using checkbox is highlighted in Draft Playbooks list page-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify the selected row using checkbox is highlighted in Draft Playbooks list page-Dark",
+  "historyId" : "d7b20be7aac8ea9c18deb8781659a771",
+  "time" : {
+    "start" : 1668574151060,
+    "stop" : 1668574179050,
+    "duration" : 27990
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the selected row using checkbox is highlighted in Draft Playbooks list page-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ebed69a026d12542",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668542715944,
+        "stop" : 1668542743623,
+        "duration" : 27679
+      }
+    }, {
+      "uid" : "750c2fe983e4b72a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668418195868,
+        "stop" : 1668418224044,
+        "duration" : 28176
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7eb1cc97dde64b3c.json",
+  "parameterValues" : [ ]
+}

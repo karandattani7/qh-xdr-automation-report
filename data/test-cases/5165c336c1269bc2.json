@@ -1,0 +1,50 @@
+{
+  "uid" : "5165c336c1269bc2",
+  "name" : "Verify that in Select Incident modal, user is able to search Incident by Incident ID in search box-Light",
+  "fullName" : "Incident Test Light theme.Verify that in Select Incident modal, user is able to search Incident by Incident ID in search box-Light",
+  "historyId" : "8ae583dd8777701d636ddda5c3e7867",
+  "time" : {
+    "start" : 1668428325845,
+    "stop" : 1668428385994,
+    "duration" : 60149
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Select Incident modal, user is able to search Incident by Incident ID in search box-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5165c336c1269bc2.json",
+  "parameterValues" : [ ]
+}

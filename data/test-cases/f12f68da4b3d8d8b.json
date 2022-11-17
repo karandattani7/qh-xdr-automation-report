@@ -1,0 +1,50 @@
+{
+  "uid" : "f12f68da4b3d8d8b",
+  "name" : "Verify that in Connector's Edit instance form, the values are pre-filled for fields-Dark",
+  "fullName" : "Connector Test Dark theme.Verify that in Connector's Edit instance form, the values are pre-filled for fields-Dark",
+  "historyId" : "831cf8c6e4c00e6be8c72a1ac924c576",
+  "time" : {
+    "start" : 1668256434127,
+    "stop" : 1668256459959,
+    "duration" : 25832
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Connector's Edit instance form, the values are pre-filled for fields-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f12f68da4b3d8d8b.json",
+  "parameterValues" : [ ]
+}

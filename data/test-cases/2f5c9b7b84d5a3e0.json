@@ -1,0 +1,50 @@
+{
+  "uid" : "2f5c9b7b84d5a3e0",
+  "name" : "Verify that clicking on Edit icon of Default SLA panel shows editable Severity vs Status table with Cancel and Save button in SLA Configuration tab-Dark",
+  "fullName" : "SLA Test Dark theme.Verify that clicking on Edit icon of Default SLA panel shows editable Severity vs Status table with Cancel and Save button in SLA Configuration tab-Dark",
+  "historyId" : "9eaf64da8319d2f69adec2891b15a7b6",
+  "time" : {
+    "start" : 1668262533407,
+    "stop" : 1668262550268,
+    "duration" : 16861
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "SLA Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "SLA Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Edit icon of Default SLA panel shows editable Severity vs Status table with Cancel and Save button in SLA Configuration tab-Dark"
+  }, {
+    "name" : "package",
+    "value" : "SLA Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2f5c9b7b84d5a3e0.json",
+  "parameterValues" : [ ]
+}

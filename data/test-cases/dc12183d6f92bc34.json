@@ -1,0 +1,48 @@
+{
+  "uid" : "dc12183d6f92bc34",
+  "name" : "Verify that clicking on 'No' button on Work not saved modal keeps User on Create Playbook form (Published and Draft)-Light",
+  "fullName" : "Playbook Test Light theme.Verify that clicking on 'No' button on Work not saved modal keeps User on Create Playbook form (Published and Draft)-Light",
+  "historyId" : "4dd3c91f8071ee3f3a3994991587470",
+  "time" : {
+    "start" : 1668498820569,
+    "stop" : 1668498854191,
+    "duration" : 33622
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on 'No' button on Work not saved modal keeps User on Create Playbook form (Published and Draft)-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dc12183d6f92bc34.json",
+  "parameterValues" : [ ]
+}

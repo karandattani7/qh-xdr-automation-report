@@ -1,0 +1,67 @@
+{
+  "uid" : "8b5d9a9063701ac0",
+  "name" : "Verify that User should be able to add one filter through search and another filter through AVAILABLE FILTERS section-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User should be able to add one filter through search and another filter through AVAILABLE FILTERS section-Dark",
+  "historyId" : "e4a0eb6ad8d8dea6f43c3ba7b6e25da6",
+  "time" : {
+    "start" : 1668577923922,
+    "stop" : 1668577991308,
+    "duration" : 67386
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User should be able to add one filter through search and another filter through AVAILABLE FILTERS section-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ff19a9db6808a938",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668545770171,
+        "stop" : 1668545773554,
+        "duration" : 3383
+      }
+    }, {
+      "uid" : "d68c2cecdb7c3997",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668422013033,
+        "stop" : 1668422090600,
+        "duration" : 77567
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8b5d9a9063701ac0.json",
+  "parameterValues" : [ ]
+}

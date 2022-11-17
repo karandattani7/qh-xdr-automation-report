@@ -1,0 +1,50 @@
+{
+  "uid" : "91ee8513a74cea50",
+  "name" : "Verify SOC Manager  is able to view by default 'All' selected on ''Severity' dropdown on 'Top Late Incidents' widget of SOC Manager Dashboard Page.-Dark",
+  "fullName" : "Dashboard Test Dark theme-SOC Manager.Verify SOC Manager  is able to view by default 'All' selected on ''Severity' dropdown on 'Top Late Incidents' widget of SOC Manager Dashboard Page.-Dark",
+  "historyId" : "9231cb9d629ccb85039f50bb7569ac60",
+  "time" : {
+    "start" : 1668262178099,
+    "stop" : 1668262187266,
+    "duration" : 9167
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "testClass",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify SOC Manager  is able to view by default 'All' selected on ''Severity' dropdown on 'Top Late Incidents' widget of SOC Manager Dashboard Page.-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "91ee8513a74cea50.json",
+  "parameterValues" : [ ]
+}

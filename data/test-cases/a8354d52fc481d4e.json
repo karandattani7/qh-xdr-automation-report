@@ -1,0 +1,50 @@
+{
+  "uid" : "a8354d52fc481d4e",
+  "name" : "Verify that in Select Incident modal, user is able to search Incident by Incident ID in search box-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that in Select Incident modal, user is able to search Incident by Incident ID in search box-Dark",
+  "historyId" : "6883ac05be72bac53a5cb4f13211c59d",
+  "time" : {
+    "start" : 1668413007221,
+    "stop" : 1668413068099,
+    "duration" : 60878
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Expected 1000 to be 1.",
+  "statusTrace" : "Error: Failed expectation\n                    at D:\\qh-ui\\qh environment\\JSDIRECTORY\\Test\\IncidentTabtest-Dark.js:794:133\n                    at Generator.next (<anonymous>)\n                    at fulfilled (D:\\qh-ui\\qh environment\\JSDIRECTORY\\Test\\IncidentTabtest-Dark.js:5:58)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Select Incident modal, user is able to search Incident by Incident ID in search box-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a8354d52fc481d4e.json",
+  "parameterValues" : [ ]
+}

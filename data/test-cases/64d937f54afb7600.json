@@ -1,0 +1,67 @@
+{
+  "uid" : "64d937f54afb7600",
+  "name" : "Verify that User is able to add and apply one filter in Playbooks-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to add and apply one filter in Playbooks-Dark",
+  "historyId" : "9117984e0b53cde1007f2fedf4c8bbf",
+  "time" : {
+    "start" : 1668578038876,
+    "stop" : 1668578086921,
+    "duration" : 48045
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to add and apply one filter in Playbooks-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7f906af594cd4eb9",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668545776937,
+        "stop" : 1668545780393,
+        "duration" : 3456
+      }
+    }, {
+      "uid" : "c925a6bd83683cb4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668422138302,
+        "stop" : 1668422185922,
+        "duration" : 47620
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "64d937f54afb7600.json",
+  "parameterValues" : [ ]
+}

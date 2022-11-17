@@ -1,0 +1,48 @@
+{
+  "uid" : "700fd515f3d78406",
+  "name" : "Verify the count shown on top in Draft Playbooks tab is equal to number of rows in the table-Light",
+  "fullName" : "Playbook Test Light theme.Verify the count shown on top in Draft Playbooks tab is equal to number of rows in the table-Light",
+  "historyId" : "63ee227ca6ec1b7d809d5fcd26764f97",
+  "time" : {
+    "start" : 1668502024664,
+    "stop" : 1668502053223,
+    "duration" : 28559
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the count shown on top in Draft Playbooks tab is equal to number of rows in the table-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "700fd515f3d78406.json",
+  "parameterValues" : [ ]
+}

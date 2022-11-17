@@ -1,0 +1,48 @@
+{
+  "uid" : "d90c62927d894964",
+  "name" : "Verify that selected checkboxes on published playbooks are cleared when navigating to draft playbooks and  switching back to published playbooks tab-Light",
+  "fullName" : "Playbook Test Light theme.Verify that selected checkboxes on published playbooks are cleared when navigating to draft playbooks and  switching back to published playbooks tab-Light",
+  "historyId" : "518529909fd1f82d0b370128a7e69379",
+  "time" : {
+    "start" : 1668497581784,
+    "stop" : 1668497615334,
+    "duration" : 33550
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that selected checkboxes on published playbooks are cleared when navigating to draft playbooks and  switching back to published playbooks tab-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d90c62927d894964.json",
+  "parameterValues" : [ ]
+}

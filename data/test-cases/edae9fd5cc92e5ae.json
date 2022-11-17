@@ -1,0 +1,48 @@
+{
+  "uid" : "edae9fd5cc92e5ae",
+  "name" : "Verify that alerts in Base Alerts view are arranged in descending order of CREATED ON column i.e. latest on top in that particular duration-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that alerts in Base Alerts view are arranged in descending order of CREATED ON column i.e. latest on top in that particular duration-Dark",
+  "historyId" : "67bc3e93476a0f93dde2c7e2af7807fc",
+  "time" : {
+    "start" : 1668416832680,
+    "stop" : 1668416868362,
+    "duration" : 35682
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that alerts in Base Alerts view are arranged in descending order of CREATED ON column i.e. latest on top in that particular duration-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "edae9fd5cc92e5ae.json",
+  "parameterValues" : [ ]
+}

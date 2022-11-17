@@ -1,0 +1,66 @@
+{
+  "uid" : "d06ba1d0cec621fa",
+  "name" : "Verify that DESCRIPTION section of Alert Summary shows description text of alert-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that DESCRIPTION section of Alert Summary shows description text of alert-Dark",
+  "historyId" : "893d460cc99b5c88e98b7738904f31cd",
+  "time" : {
+    "start" : 1668498770653,
+    "stop" : 1668498811195,
+    "duration" : 40542
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that DESCRIPTION section of Alert Summary shows description text of alert-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b2a0a953b9105357",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668428564268,
+        "stop" : 1668428605176,
+        "duration" : 40908
+      }
+    }, {
+      "uid" : "6884b1c5c2aa08a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668413529589,
+        "stop" : 1668413577587,
+        "duration" : 47998
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d06ba1d0cec621fa.json",
+  "parameterValues" : [ ]
+}

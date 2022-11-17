@@ -1,0 +1,48 @@
+{
+  "uid" : "1f8698457309781",
+  "name" : "Verify that user is able to update Status from Incident summary right panel using Incident Status modal-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that user is able to update Status from Incident summary right panel using Incident Status modal-Dark",
+  "historyId" : "eee5dcaa82f11e1f52fd0146b0489752",
+  "time" : {
+    "start" : 1668431238289,
+    "stop" : 1668431281331,
+    "duration" : 43042
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to update Status from Incident summary right panel using Incident Status modal-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1f8698457309781.json",
+  "parameterValues" : [ ]
+}

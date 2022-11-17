@@ -1,0 +1,48 @@
+{
+  "uid" : "aceaa7ea55f46fd8",
+  "name" : "Verify that hovering on filter block with added condition and clicking on Edit icon opens editable right panel with Cancel and Save Changes button-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that hovering on filter block with added condition and clicking on Edit icon opens editable right panel with Cancel and Save Changes button-Dark",
+  "historyId" : "80bb35723a44a3dbcac2e22dfc78583",
+  "time" : {
+    "start" : 1668423570354,
+    "stop" : 1668423652285,
+    "duration" : 81931
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that hovering on filter block with added condition and clicking on Edit icon opens editable right panel with Cancel and Save Changes button-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aceaa7ea55f46fd8.json",
+  "parameterValues" : [ ]
+}

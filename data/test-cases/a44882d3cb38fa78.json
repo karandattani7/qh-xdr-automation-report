@@ -1,0 +1,48 @@
+{
+  "uid" : "a44882d3cb38fa78",
+  "name" : "Verify that user is able to switch between List view tab and Timeline view tab of Incidents tab-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that user is able to switch between List view tab and Timeline view tab of Incidents tab-Dark",
+  "historyId" : "6b3d9eef4a123ad72b87b1bcaaac713b",
+  "time" : {
+    "start" : 1668412163272,
+    "stop" : 1668412189720,
+    "duration" : 26448
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to switch between List view tab and Timeline view tab of Incidents tab-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a44882d3cb38fa78.json",
+  "parameterValues" : [ ]
+}

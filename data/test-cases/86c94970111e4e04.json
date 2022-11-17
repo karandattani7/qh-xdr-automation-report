@@ -1,0 +1,66 @@
+{
+  "uid" : "86c94970111e4e04",
+  "name" : "Verify that correct filtered list of base alerts is shown as per option selected in View dropdown-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that correct filtered list of base alerts is shown as per option selected in View dropdown-Dark",
+  "historyId" : "4397cb173a86d0186d606b2cd86f5004",
+  "time" : {
+    "start" : 1668497875680,
+    "stop" : 1668497995747,
+    "duration" : 120067
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that correct filtered list of base alerts is shown as per option selected in View dropdown-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c7716dc57030bb71",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668427630706,
+        "stop" : 1668427789508,
+        "duration" : 158802
+      }
+    }, {
+      "uid" : "5998cbf5e3d3fb89",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668412616480,
+        "stop" : 1668412783632,
+        "duration" : 167152
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "86c94970111e4e04.json",
+  "parameterValues" : [ ]
+}

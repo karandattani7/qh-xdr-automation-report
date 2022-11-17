@@ -1,0 +1,50 @@
+{
+  "uid" : "8387e5f33ed87126",
+  "name" : "Verify that clicking on Cross icon (Close) in Connector's Add Filter window closes the Add Filter window-Dark",
+  "fullName" : "Connector Test Dark theme.Verify that clicking on Cross icon (Close) in Connector's Add Filter window closes the Add Filter window-Dark",
+  "historyId" : "4fb98877aade1e2d2232e99407881452",
+  "time" : {
+    "start" : 1668257484393,
+    "stop" : 1668257582221,
+    "duration" : 97828
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Cross icon (Close) in Connector's Add Filter window closes the Add Filter window-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8387e5f33ed87126.json",
+  "parameterValues" : [ ]
+}

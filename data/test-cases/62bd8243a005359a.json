@@ -1,0 +1,48 @@
+{
+  "uid" : "62bd8243a005359a",
+  "name" : "Verify that User is able to save playbook with No triggers selected-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to save playbook with No triggers selected-Dark",
+  "historyId" : "4fad8e03b51792eb0b97be546f136309",
+  "time" : {
+    "start" : 1668544413135,
+    "stop" : 1668544445361,
+    "duration" : 32226
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to save playbook with No triggers selected-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "62bd8243a005359a.json",
+  "parameterValues" : [ ]
+}

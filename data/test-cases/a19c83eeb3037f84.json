@@ -1,0 +1,48 @@
+{
+  "uid" : "a19c83eeb3037f84",
+  "name" : "Verify that clicking on Edit button on read only view of added internal function block right panel shows Editable internal function right panel with Cancel and Save changes button-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that clicking on Edit button on read only view of added internal function block right panel shows Editable internal function right panel with Cancel and Save changes button-Dark",
+  "historyId" : "a7fe55f6f7f6e89dde65a415c908cafe",
+  "time" : {
+    "start" : 1668423499745,
+    "stop" : 1668423570353,
+    "duration" : 70608
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Edit button on read only view of added internal function block right panel shows Editable internal function right panel with Cancel and Save changes button-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a19c83eeb3037f84.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,66 @@
+{
+  "uid" : "b93ffb65d1615441",
+  "name" : "Verify that the count of applied filters is shown in filter component in Base Alerts view after applying it from Base Alerts Add Filter modal-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that the count of applied filters is shown in filter component in Base Alerts view after applying it from Base Alerts Add Filter modal-Dark",
+  "historyId" : "af0e26670ba13e2066c19f33e7d0052e",
+  "time" : {
+    "start" : 1668499764446,
+    "stop" : 1668499799347,
+    "duration" : 34901
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that the count of applied filters is shown in filter component in Base Alerts view after applying it from Base Alerts Add Filter modal-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "af00d8655b98380c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668429601879,
+        "stop" : 1668429636713,
+        "duration" : 34834
+      }
+    }, {
+      "uid" : "5131e7da53d9a27a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668414581566,
+        "stop" : 1668414617435,
+        "duration" : 35869
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b93ffb65d1615441.json",
+  "parameterValues" : [ ]
+}

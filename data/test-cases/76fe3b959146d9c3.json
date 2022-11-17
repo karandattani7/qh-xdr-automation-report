@@ -1,0 +1,76 @@
+{
+  "uid" : "76fe3b959146d9c3",
+  "name" : "Verify that playbook list gets filtered correctly for different playbook names separately and together-Light",
+  "fullName" : "Playbook Test Light theme.Verify that playbook list gets filtered correctly for different playbook names separately and together-Light",
+  "historyId" : "46311d7c6b165b19764f678a37dd8626",
+  "time" : {
+    "start" : 1668553072061,
+    "stop" : 1668553158465,
+    "duration" : 86404
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that playbook list gets filtered correctly for different playbook names separately and together-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "715d0662a2768066",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668516795273,
+        "stop" : 1668516799473,
+        "duration" : 4200
+      }
+    }, {
+      "uid" : "8b26d5509341dcd1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668507650013,
+        "stop" : 1668507744030,
+        "duration" : 94017
+      }
+    }, {
+      "uid" : "fc6b8ebcccb47c59",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504658689,
+        "stop" : 1668504663262,
+        "duration" : 4573
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "76fe3b959146d9c3.json",
+  "parameterValues" : [ ]
+}

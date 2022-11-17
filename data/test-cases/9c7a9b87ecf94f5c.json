@@ -1,0 +1,48 @@
+{
+  "uid" : "9c7a9b87ecf94f5c",
+  "name" : "Verify the count shown on top in Draft Playbooks tab is equal to number of rows in the table-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify the count shown on top in Draft Playbooks tab is equal to number of rows in the table-Dark",
+  "historyId" : "e83395a7ecaeb2a6019572adf1cb628d",
+  "time" : {
+    "start" : 1668418729147,
+    "stop" : 1668418768119,
+    "duration" : 38972
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the count shown on top in Draft Playbooks tab is equal to number of rows in the table-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9c7a9b87ecf94f5c.json",
+  "parameterValues" : [ ]
+}

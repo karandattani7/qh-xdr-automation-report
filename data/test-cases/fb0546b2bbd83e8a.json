@@ -1,0 +1,50 @@
+{
+  "uid" : "fb0546b2bbd83e8a",
+  "name" : "Verify SOC Manager is able to view the 'late incidents' by each 'Severity' on 'Top Late Incidents' widget of SOC Manager Dashboard Page.-Dark",
+  "fullName" : "Dashboard Test Dark theme-SOC Manager.Verify SOC Manager is able to view the 'late incidents' by each 'Severity' on 'Top Late Incidents' widget of SOC Manager Dashboard Page.-Dark",
+  "historyId" : "89dd8f19ddf5e3555eed95b8bc0c50be",
+  "time" : {
+    "start" : 1668262126061,
+    "stop" : 1668262178099,
+    "duration" : 52038
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "testClass",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify SOC Manager is able to view the 'late incidents' by each 'Severity' on 'Top Late Incidents' widget of SOC Manager Dashboard Page.-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fb0546b2bbd83e8a.json",
+  "parameterValues" : [ ]
+}

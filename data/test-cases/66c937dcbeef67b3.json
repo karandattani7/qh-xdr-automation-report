@@ -1,0 +1,50 @@
+{
+  "uid" : "66c937dcbeef67b3",
+  "name" : "Verify that user is able to add SLA panel for Selected Incident Type in Add SLA for Incident Type modal-Dark",
+  "fullName" : "SLA Test Dark theme.Verify that user is able to add SLA panel for Selected Incident Type in Add SLA for Incident Type modal-Dark",
+  "historyId" : "c27b282136452cad6293ea1a74e7f4c3",
+  "time" : {
+    "start" : 1668262373644,
+    "stop" : 1668262409504,
+    "duration" : 35860
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "SLA Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "SLA Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to add SLA panel for Selected Incident Type in Add SLA for Incident Type modal-Dark"
+  }, {
+    "name" : "package",
+    "value" : "SLA Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "66c937dcbeef67b3.json",
+  "parameterValues" : [ ]
+}

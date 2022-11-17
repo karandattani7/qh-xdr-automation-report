@@ -1,0 +1,48 @@
+{
+  "uid" : "f50d228dd7a9730c",
+  "name" : "Verify that clearing the entered text in Search field of Available Parameters shows the complete list of Available Parameters again-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that clearing the entered text in Search field of Available Parameters shows the complete list of Available Parameters again-Dark",
+  "historyId" : "dc4a7d9983f3483680d00cfddf4911bf",
+  "time" : {
+    "start" : 1668544184845,
+    "stop" : 1668544216070,
+    "duration" : 31225
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clearing the entered text in Search field of Available Parameters shows the complete list of Available Parameters again-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f50d228dd7a9730c.json",
+  "parameterValues" : [ ]
+}

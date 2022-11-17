@@ -1,0 +1,48 @@
+{
+  "uid" : "4216ae7f1c0626f8",
+  "name" : "Verify that user is able to add and apply more than one filter in Playbooks-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that user is able to add and apply more than one filter in Playbooks-Dark",
+  "historyId" : "5318a07d5a6f63092aeecb0e9d37745",
+  "time" : {
+    "start" : 1668422185922,
+    "stop" : 1668422241832,
+    "duration" : 55910
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to add and apply more than one filter in Playbooks-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4216ae7f1c0626f8.json",
+  "parameterValues" : [ ]
+}

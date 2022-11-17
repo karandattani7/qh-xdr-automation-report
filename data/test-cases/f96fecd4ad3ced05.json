@@ -1,0 +1,50 @@
+{
+  "uid" : "f96fecd4ad3ced05",
+  "name" : "Verify that in User Correlation view, clicking on Add+ opens Add Filter modal-Light",
+  "fullName" : "Incident Test Light theme.Verify that in User Correlation view, clicking on Add+ opens Add Filter modal-Light",
+  "historyId" : "8b24b3a7a8b8f3fd91373358a25072f3",
+  "time" : {
+    "start" : 1668433180971,
+    "stop" : 1668433237230,
+    "duration" : 56259
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in User Correlation view, clicking on Add+ opens Add Filter modal-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f96fecd4ad3ced05.json",
+  "parameterValues" : [ ]
+}

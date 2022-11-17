@@ -1,0 +1,66 @@
+{
+  "uid" : "3a1dcd8da539dff5",
+  "name" : "Verify that error message is shown when user searches for a non-existing incident name in Search field of Select Incident modal-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that error message is shown when user searches for a non-existing incident name in Search field of Select Incident modal-Dark",
+  "historyId" : "dad7e543abe124ac3639211c4eee447e",
+  "time" : {
+    "start" : 1668498348547,
+    "stop" : 1668498388980,
+    "duration" : 40433
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that error message is shown when user searches for a non-existing incident name in Search field of Select Incident modal-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2e7181193d135074",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668428154923,
+        "stop" : 1668428195067,
+        "duration" : 40144
+      }
+    }, {
+      "uid" : "9ea8f64a32d78ae6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668413126365,
+        "stop" : 1668413167894,
+        "duration" : 41529
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3a1dcd8da539dff5.json",
+  "parameterValues" : [ ]
+}

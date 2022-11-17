@@ -1,0 +1,48 @@
+{
+  "uid" : "b42e0a41d3270efb",
+  "name" : "Verify that clicking on cross icon (close) and Cancel in Combine Incident modal, closes the modal-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that clicking on cross icon (close) and Cancel in Combine Incident modal, closes the modal-Dark",
+  "historyId" : "e475f5e6c34c75d7980350684a29b31d",
+  "time" : {
+    "start" : 1668433626027,
+    "stop" : 1668433691405,
+    "duration" : 65378
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on cross icon (close) and Cancel in Combine Incident modal, closes the modal-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b42e0a41d3270efb.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,76 @@
+{
+  "uid" : "67757644fa6c272d",
+  "name" : "Verify the saved created flow for Dragged blocks with no connection lines in Playbook Editor page is as expected-Light",
+  "fullName" : "Playbook Test Light theme.Verify the saved created flow for Dragged blocks with no connection lines in Playbook Editor page is as expected-Light",
+  "historyId" : "cd70c847f8e6ac62e0ceb92876606af7",
+  "time" : {
+    "start" : 1668552123194,
+    "stop" : 1668552180717,
+    "duration" : 57523
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the saved created flow for Dragged blocks with no connection lines in Playbook Editor page is as expected-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c25ef87b190a6250",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668516765945,
+        "stop" : 1668516770139,
+        "duration" : 4194
+      }
+    }, {
+      "uid" : "b4c1c5a8f031ddd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668506691914,
+        "stop" : 1668506753208,
+        "duration" : 61294
+      }
+    }, {
+      "uid" : "4017980a95802e0a",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504627233,
+        "stop" : 1668504631582,
+        "duration" : 4349
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "67757644fa6c272d.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,67 @@
+{
+  "uid" : "a962e9fb5260c6fb",
+  "name" : "Verify that User is able to update Decision Block from main canvas area-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to update Decision Block from main canvas area-Dark",
+  "historyId" : "7f04c406d4840dc9c08c6f30ca6c5f11",
+  "time" : {
+    "start" : 1668581340055,
+    "stop" : 1668581397127,
+    "duration" : 57072
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to update Decision Block from main canvas area-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "90c52ab94028aef7",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668545987227,
+        "stop" : 1668545990591,
+        "duration" : 3364
+      }
+    }, {
+      "uid" : "e3b1a37c9acd9f29",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668425225156,
+        "stop" : 1668425281852,
+        "duration" : 56696
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a962e9fb5260c6fb.json",
+  "parameterValues" : [ ]
+}

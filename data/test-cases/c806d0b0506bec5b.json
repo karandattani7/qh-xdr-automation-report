@@ -1,0 +1,75 @@
+{
+  "uid" : "c806d0b0506bec5b",
+  "name" : "Verify that User is able to add and apply more filters to already existing applied filters in Playbook list view-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to add and apply more filters to already existing applied filters in Playbook list view-Light",
+  "historyId" : "e683472b9acc797bbc78cb5b4ae22d39",
+  "time" : {
+    "start" : 1668547249416,
+    "stop" : 1668547314113,
+    "duration" : 64697
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to add and apply more filters to already existing applied filters in Playbook list view-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "312a81a07e70d822",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668513896433,
+        "stop" : 1668513963797,
+        "duration" : 67364
+      }
+    }, {
+      "uid" : "bff81e33f50dfb25",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504227024,
+        "stop" : 1668504231449,
+        "duration" : 4425
+      }
+    }, {
+      "uid" : "2d7f3b7d0d68a32",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668501477829,
+        "stop" : 1668501542482,
+        "duration" : 64653
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c806d0b0506bec5b.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "7bdfee22125e8b57",
+  "name" : "Verify that user is able to update/edit saved internal function details by using edit icon on saved internal function block in main canvas area-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that user is able to update/edit saved internal function details by using edit icon on saved internal function block in main canvas area-Dark",
+  "historyId" : "a70650133eab49daad34ee4ff14c0ea9",
+  "time" : {
+    "start" : 1668425802760,
+    "stop" : 1668425858142,
+    "duration" : 55382
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to update/edit saved internal function details by using edit icon on saved internal function block in main canvas area-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7bdfee22125e8b57.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,66 @@
+{
+  "uid" : "5daef6ff40c91c1c",
+  "name" : "Verify that User is able to see Incident Description information in Root Cause Analysis section on right side of “Incident Canvas/View Audit Report” modal-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that User is able to see Incident Description information in Root Cause Analysis section on right side of “Incident Canvas/View Audit Report” modal-Dark",
+  "historyId" : "12d57f4462b667221997f594f1b9b23",
+  "time" : {
+    "start" : 1668501225653,
+    "stop" : 1668501325289,
+    "duration" : 99636
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to see Incident Description information in Root Cause Analysis section on right side of “Incident Canvas/View Audit Report” modal-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7b15c825f8df4cdb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668430914763,
+        "stop" : 1668430952955,
+        "duration" : 38192
+      }
+    }, {
+      "uid" : "15adb7b9ca29729a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668416052334,
+        "stop" : 1668416090573,
+        "duration" : 38239
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5daef6ff40c91c1c.json",
+  "parameterValues" : [ ]
+}

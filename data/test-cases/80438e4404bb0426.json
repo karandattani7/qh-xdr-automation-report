@@ -1,0 +1,66 @@
+{
+  "uid" : "80438e4404bb0426",
+  "name" : "Verify that a success toast notification is shown after selected base alert(s) are associated to an incident using Select Incident modal-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that a success toast notification is shown after selected base alert(s) are associated to an incident using Select Incident modal-Dark",
+  "historyId" : "114e74973da4505a2fa4db3d3e811dc8",
+  "time" : {
+    "start" : 1668498551448,
+    "stop" : 1668498608854,
+    "duration" : 57406
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that a success toast notification is shown after selected base alert(s) are associated to an incident using Select Incident modal-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8bda397d706cee09",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668428356414,
+        "stop" : 1668428426496,
+        "duration" : 70082
+      }
+    }, {
+      "uid" : "dc49ce9750994af0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668413357678,
+        "stop" : 1668413406196,
+        "duration" : 48518
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "80438e4404bb0426.json",
+  "parameterValues" : [ ]
+}

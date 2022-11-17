@@ -1,0 +1,67 @@
+{
+  "uid" : "1c51665e0280f304",
+  "name" : "Verify that Playbook Details right panel should be updated if playbook fields are updated in Create Playbook form-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that Playbook Details right panel should be updated if playbook fields are updated in Create Playbook form-Dark",
+  "historyId" : "d76e8afc5e103854f950adddede60547",
+  "time" : {
+    "start" : 1668578478309,
+    "stop" : 1668578550846,
+    "duration" : 72537
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Playbook Details right panel should be updated if playbook fields are updated in Create Playbook form-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "95da5c10ffbb1405",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668545803878,
+        "stop" : 1668545807345,
+        "duration" : 3467
+      }
+    }, {
+      "uid" : "603fc570dc8ea4f6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668422572643,
+        "stop" : 1668422644689,
+        "duration" : 72046
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1c51665e0280f304.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,50 @@
+{
+  "uid" : "776c9509abe31de7",
+  "name" : "Verify that error toast notification is shown when there is error in validation while configuring instance-Dark",
+  "fullName" : "Connector Test Dark theme.Verify that error toast notification is shown when there is error in validation while configuring instance-Dark",
+  "historyId" : "bf1b962322b83fc8635dee2f1197f140",
+  "time" : {
+    "start" : 1668256211672,
+    "stop" : 1668256253576,
+    "duration" : 41904
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that error toast notification is shown when there is error in validation while configuring instance-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "776c9509abe31de7.json",
+  "parameterValues" : [ ]
+}

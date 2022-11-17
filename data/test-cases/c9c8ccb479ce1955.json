@@ -1,0 +1,74 @@
+{
+  "uid" : "c9c8ccb479ce1955",
+  "name" : "Verify that clicking on 'No' button on Work not saved modal keeps User on Edit Playbook form (Draft) when editing playbook-Light",
+  "fullName" : "Playbook Test Light theme.Verify that clicking on 'No' button on Work not saved modal keeps User on Edit Playbook form (Draft) when editing playbook-Light",
+  "historyId" : "e0ca875e28a8a464444af2981076b8d0",
+  "time" : {
+    "start" : 1668545430877,
+    "stop" : 1668545454048,
+    "duration" : 23171
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on 'No' button on Work not saved modal keeps User on Edit Playbook form (Draft) when editing playbook-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "88df26f93e6034f5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668511953940,
+        "stop" : 1668511979175,
+        "duration" : 25235
+      }
+    }, {
+      "uid" : "b0f12ce7480c6e31",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668503625671,
+        "stop" : 1668503650063,
+        "duration" : 24392
+      }
+    }, {
+      "uid" : "57752dcefe1c3f76",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668499639860,
+        "stop" : 1668499662937,
+        "duration" : 23077
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c9c8ccb479ce1955.json",
+  "parameterValues" : [ ]
+}

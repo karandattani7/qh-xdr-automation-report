@@ -1,0 +1,66 @@
+{
+  "uid" : "a0080cf5acb3827c",
+  "name" : "Verify that user is able to arrange/sort saved filters list using 'Timestamp' sorting icon in 'Saved Filter' tab's left side section of Incident Add Filter modal-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that user is able to arrange/sort saved filters list using 'Timestamp' sorting icon in 'Saved Filter' tab's left side section of Incident Add Filter modal-Dark",
+  "historyId" : "9fbd8ff1896f65e60209b75d8966d7eb",
+  "time" : {
+    "start" : 1668502223616,
+    "stop" : 1668502249435,
+    "duration" : 25819
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to arrange/sort saved filters list using 'Timestamp' sorting icon in 'Saved Filter' tab's left side section of Incident Add Filter modal-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7edf9d21c28fdc6c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668431862371,
+        "stop" : 1668431888652,
+        "duration" : 26281
+      }
+    }, {
+      "uid" : "39f777e55c3dda31",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668416996991,
+        "stop" : 1668417087644,
+        "duration" : 90653
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a0080cf5acb3827c.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,50 @@
+{
+  "uid" : "46169185395d509e",
+  "name" : "Verify the title and count on Enrichment, Ingestion and Response tab is as per design on Connectors page-Dark",
+  "fullName" : "Connector Test Dark theme.Verify the title and count on Enrichment, Ingestion and Response tab is as per design on Connectors page-Dark",
+  "historyId" : "14b651ac82be4fc3a0af62533160b8df",
+  "time" : {
+    "start" : 1668256601692,
+    "stop" : 1668256641476,
+    "duration" : 39784
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the title and count on Enrichment, Ingestion and Response tab is as per design on Connectors page-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "46169185395d509e.json",
+  "parameterValues" : [ ]
+}

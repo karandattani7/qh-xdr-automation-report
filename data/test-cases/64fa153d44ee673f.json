@@ -1,0 +1,67 @@
+{
+  "uid" : "64fa153d44ee673f",
+  "name" : "Verify a success toast notification is shown after saving the created flow in playbook editor page using 'Save' button-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify a success toast notification is shown after saving the created flow in playbook editor page using 'Save' button-Dark",
+  "historyId" : "3ace91a9a400f80e37ed483815fae76",
+  "time" : {
+    "start" : 1668582670540,
+    "stop" : 1668582737568,
+    "duration" : 67028
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify a success toast notification is shown after saving the created flow in playbook editor page using 'Save' button-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "19148a79fc402565",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668546058414,
+        "stop" : 1668546061866,
+        "duration" : 3452
+      }
+    }, {
+      "uid" : "da39b7f4b5c8fd7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668426487638,
+        "stop" : 1668426553280,
+        "duration" : 65642
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "64fa153d44ee673f.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,76 @@
+{
+  "uid" : "f5630ffd46ae98f3",
+  "name" : "Verify that in Published Playbooks tab, an error message 'Filter already selected.' is shown below filter search field if user adds quick filter with same value again-Light",
+  "fullName" : "Playbook Test Light theme.Verify that in Published Playbooks tab, an error message 'Filter already selected.' is shown below filter search field if user adds quick filter with same value again-Light",
+  "historyId" : "e9918c471e5419e2fac9c9b5f3e14bc5",
+  "time" : {
+    "start" : 1668553158465,
+    "stop" : 1668553199123,
+    "duration" : 40658
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Published Playbooks tab, an error message 'Filter already selected.' is shown below filter search field if user adds quick filter with same value again-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "813ae06001c3b0c0",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Published Playbooks')])",
+      "time" : {
+        "start" : 1668516799473,
+        "stop" : 1668516803668,
+        "duration" : 4195
+      }
+    }, {
+      "uid" : "93140867c4e9d37a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668507744030,
+        "stop" : 1668507786446,
+        "duration" : 42416
+      }
+    }, {
+      "uid" : "230a0a58598d3c81",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Published Playbooks')])",
+      "time" : {
+        "start" : 1668504663262,
+        "stop" : 1668504667792,
+        "duration" : 4530
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f5630ffd46ae98f3.json",
+  "parameterValues" : [ ]
+}

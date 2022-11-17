@@ -1,0 +1,50 @@
+{
+  "uid" : "bd663dc7fd6a94ab",
+  "name" : "Verify that a success toast notification is shown after selected base alert(s) are associated to an incident using Select Incident modal-Light",
+  "fullName" : "Incident Test Light theme.Verify that a success toast notification is shown after selected base alert(s) are associated to an incident using Select Incident modal-Light",
+  "historyId" : "88e301f31a85dd8f1c0e021757ed0f19",
+  "time" : {
+    "start" : 1668428627627,
+    "stop" : 1668428684366,
+    "duration" : 56739
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that a success toast notification is shown after selected base alert(s) are associated to an incident using Select Incident modal-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bd663dc7fd6a94ab.json",
+  "parameterValues" : [ ]
+}

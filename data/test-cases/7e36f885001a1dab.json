@@ -1,0 +1,50 @@
+{
+  "uid" : "7e36f885001a1dab",
+  "name" : "Verify that Admin is able to view the 4 widgets on Admin Dashboard Page.-Light",
+  "fullName" : "Dashboard Test Light theme-Admin.Verify that Admin is able to view the 4 widgets on Admin Dashboard Page.-Light",
+  "historyId" : "628f2d373e4c35d885933c14c23df5a6",
+  "time" : {
+    "start" : 1668262796616,
+    "stop" : 1668262808222,
+    "duration" : 11606
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Dashboard Test Light theme-Admin"
+  }, {
+    "name" : "testClass",
+    "value" : "Dashboard Test Light theme-Admin"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Admin is able to view the 4 widgets on Admin Dashboard Page.-Light"
+  }, {
+    "name" : "package",
+    "value" : "Dashboard Test Light theme-Admin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7e36f885001a1dab.json",
+  "parameterValues" : [ ]
+}

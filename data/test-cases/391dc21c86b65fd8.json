@@ -1,0 +1,66 @@
+{
+  "uid" : "391dc21c86b65fd8",
+  "name" : "Verify the validation messages in Incident Name modal from Incident Summary right panel-Dark",
+  "fullName" : "Incident Test Dark theme.Verify the validation messages in Incident Name modal from Incident Summary right panel-Dark",
+  "historyId" : "a00859855a1dbf2d2d87d8cf54ec413f",
+  "time" : {
+    "start" : 1668505003419,
+    "stop" : 1668505044513,
+    "duration" : 41094
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the validation messages in Incident Name modal from Incident Summary right panel-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ff218795a5ff607b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668434284618,
+        "stop" : 1668434325826,
+        "duration" : 41208
+      }
+    }, {
+      "uid" : "5e454fad0df88da5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668419414238,
+        "stop" : 1668419454913,
+        "duration" : 40675
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "391dc21c86b65fd8.json",
+  "parameterValues" : [ ]
+}

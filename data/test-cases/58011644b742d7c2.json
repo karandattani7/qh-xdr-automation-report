@@ -1,0 +1,48 @@
+{
+  "uid" : "58011644b742d7c2",
+  "name" : "Verify User is able to select/deselect checkbox before PLAYBOOK NAME column to select/deselect all rows in Draft Playbooks tab-Light",
+  "fullName" : "Playbook Test Light theme.Verify User is able to select/deselect checkbox before PLAYBOOK NAME column to select/deselect all rows in Draft Playbooks tab-Light",
+  "historyId" : "da58a69c4d9293e1095b5d4c0ff4cf23",
+  "time" : {
+    "start" : 1668497615334,
+    "stop" : 1668497654243,
+    "duration" : 38909
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User is able to select/deselect checkbox before PLAYBOOK NAME column to select/deselect all rows in Draft Playbooks tab-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "58011644b742d7c2.json",
+  "parameterValues" : [ ]
+}

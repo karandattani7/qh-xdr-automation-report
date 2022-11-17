@@ -1,0 +1,48 @@
+{
+  "uid" : "cff0027a12426e5b",
+  "name" : "Verify a success toast notification is shown after a playbook has been published using 'Publish Playbook' button-Light",
+  "fullName" : "Playbook Test Light theme.Verify a success toast notification is shown after a playbook has been published using 'Publish Playbook' button-Light",
+  "historyId" : "9a797af01698f53156d32ab5a52f4e3e",
+  "time" : {
+    "start" : 1668506054380,
+    "stop" : 1668506155208,
+    "duration" : 100828
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify a success toast notification is shown after a playbook has been published using 'Publish Playbook' button-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cff0027a12426e5b.json",
+  "parameterValues" : [ ]
+}

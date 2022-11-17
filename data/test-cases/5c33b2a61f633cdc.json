@@ -1,0 +1,67 @@
+{
+  "uid" : "5c33b2a61f633cdc",
+  "name" : "Verify that clicking on Delete icon on external function block shows Delete block modal-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that clicking on Delete icon on external function block shows Delete block modal-Dark",
+  "historyId" : "119d4e53c1644fe69571084e3ae6f6ef",
+  "time" : {
+    "start" : 1668579188200,
+    "stop" : 1668579237676,
+    "duration" : 49476
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Delete icon on external function block shows Delete block modal-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e1e38d876cd14796",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668545851558,
+        "stop" : 1668545854960,
+        "duration" : 3402
+      }
+    }, {
+      "uid" : "bb4eb4464f6e2273",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668423203001,
+        "stop" : 1668423251054,
+        "duration" : 48053
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5c33b2a61f633cdc.json",
+  "parameterValues" : [ ]
+}

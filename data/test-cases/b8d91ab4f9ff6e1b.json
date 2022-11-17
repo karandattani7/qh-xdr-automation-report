@@ -1,0 +1,50 @@
+{
+  "uid" : "b8d91ab4f9ff6e1b",
+  "name" : "Verify that in Incident Add Filter modal, the 'Saved Filter' tab empty view is as expected when no Saved Filters are there-Light",
+  "fullName" : "Incident Test Light theme.Verify that in Incident Add Filter modal, the 'Saved Filter' tab empty view is as expected when no Saved Filters are there-Light",
+  "historyId" : "bd15f6e40f4f767fa2bef96dc2cf419d",
+  "time" : {
+    "start" : 1668432196364,
+    "stop" : 1668432230145,
+    "duration" : 33781
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Incident Add Filter modal, the 'Saved Filter' tab empty view is as expected when no Saved Filters are there-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b8d91ab4f9ff6e1b.json",
+  "parameterValues" : [ ]
+}

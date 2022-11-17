@@ -1,0 +1,76 @@
+{
+  "uid" : "a5552a4310decd7a",
+  "name" : "Verify that clicking on Cancel in editable external function block right panel, closes the right panel and discards the changes-Light",
+  "fullName" : "Playbook Test Light theme.Verify that clicking on Cancel in editable external function block right panel, closes the right panel and discards the changes-Light",
+  "historyId" : "708450afb51f8045a558dc3ce7abe1dc",
+  "time" : {
+    "start" : 1668550409752,
+    "stop" : 1668550462290,
+    "duration" : 52538
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Cancel in editable external function block right panel, closes the right panel and discards the changes-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "78305020a9fac67f",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668516652899,
+        "stop" : 1668516657090,
+        "duration" : 4191
+      }
+    }, {
+      "uid" : "d48563d37a20a9f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668504840970,
+        "stop" : 1668504958284,
+        "duration" : 117314
+      }
+    }, {
+      "uid" : "e3d0ab51241eb156",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504506325,
+        "stop" : 1668504510833,
+        "duration" : 4508
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a5552a4310decd7a.json",
+  "parameterValues" : [ ]
+}

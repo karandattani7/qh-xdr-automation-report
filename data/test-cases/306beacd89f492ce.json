@@ -1,0 +1,48 @@
+{
+  "uid" : "306beacd89f492ce",
+  "name" : "Verify the functionality of Cancel button on export playbook modal-Light",
+  "fullName" : "Playbook Test Light theme.Verify the functionality of Cancel button on export playbook modal-Light",
+  "historyId" : "6b8107d2f3a634de9409803f7ca8bd3e",
+  "time" : {
+    "start" : 1668503258082,
+    "stop" : 1668503310617,
+    "duration" : 52535
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the functionality of Cancel button on export playbook modal-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "306beacd89f492ce.json",
+  "parameterValues" : [ ]
+}

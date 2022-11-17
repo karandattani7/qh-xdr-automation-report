@@ -1,0 +1,67 @@
+{
+  "uid" : "643a61fcc3a5fa7",
+  "name" : "Verify that in Create/Edit Playbook form, when no tags are selected in Tags dropdown, the Triggers and Conditions section should be enabled-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that in Create/Edit Playbook form, when no tags are selected in Tags dropdown, the Triggers and Conditions section should be enabled-Dark",
+  "historyId" : "2c273be0ce12319f5ab7caf15c8f0ee3",
+  "time" : {
+    "start" : 1668584478075,
+    "stop" : 1668584519855,
+    "duration" : 41780
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Create/Edit Playbook form, when no tags are selected in Tags dropdown, the Triggers and Conditions section should be enabled-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3767b04c4b1a62bc",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668546122934,
+        "stop" : 1668546126323,
+        "duration" : 3389
+      }
+    }, {
+      "uid" : "c3a1c44ba6fa480d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668427898449,
+        "stop" : 1668427938164,
+        "duration" : 39715
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "643a61fcc3a5fa7.json",
+  "parameterValues" : [ ]
+}

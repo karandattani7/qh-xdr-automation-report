@@ -1,0 +1,48 @@
+{
+  "uid" : "318c328e14c2893a",
+  "name" : "Verify that dragging and dropping 'Call Internal Function' to main canvas area of Playbook Editor opens Call Internal Function right panel initial view showing list of functions-Light",
+  "fullName" : "Playbook Test Light theme.Verify that dragging and dropping 'Call Internal Function' to main canvas area of Playbook Editor opens Call Internal Function right panel initial view showing list of functions-Light",
+  "historyId" : "13748ee24db689c2a8f37e9b055b1467",
+  "time" : {
+    "start" : 1668514836852,
+    "stop" : 1668514871611,
+    "duration" : 34759
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that dragging and dropping 'Call Internal Function' to main canvas area of Playbook Editor opens Call Internal Function right panel initial view showing list of functions-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "318c328e14c2893a.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,50 @@
+{
+  "uid" : "9f39ed712da6c351",
+  "name" : "Verify Admin is able to choose 1 month time period on timeframe breakpoints for all widgets on Admin Page.-Dark",
+  "fullName" : "Dashboard Test Dark theme-Admin.Verify Admin is able to choose 1 month time period on timeframe breakpoints for all widgets on Admin Page.-Dark",
+  "historyId" : "7233e0744350357f5e9f89910b4c5410",
+  "time" : {
+    "start" : 1668261778271,
+    "stop" : 1668261793034,
+    "duration" : 14763
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Dashboard Test Dark theme-Admin"
+  }, {
+    "name" : "testClass",
+    "value" : "Dashboard Test Dark theme-Admin"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Admin is able to choose 1 month time period on timeframe breakpoints for all widgets on Admin Page.-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Dashboard Test Dark theme-Admin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9f39ed712da6c351.json",
+  "parameterValues" : [ ]
+}

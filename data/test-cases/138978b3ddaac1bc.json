@@ -1,0 +1,66 @@
+{
+  "uid" : "138978b3ddaac1bc",
+  "name" : "Verify that Incidents total count is same as total of Status wise incident counts above table-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that Incidents total count is same as total of Status wise incident counts above table-Dark",
+  "historyId" : "7c9650342b33f5431bc0cc35443a57b7",
+  "time" : {
+    "start" : 1668497595195,
+    "stop" : 1668497617938,
+    "duration" : 22743
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Incidents total count is same as total of Status wise incident counts above table-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "acd7b1f6d685cd26",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668427290932,
+        "stop" : 1668427313717,
+        "duration" : 22785
+      }
+    }, {
+      "uid" : "3e6d13134f29a2b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668412330002,
+        "stop" : 1668412353400,
+        "duration" : 23398
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "138978b3ddaac1bc.json",
+  "parameterValues" : [ ]
+}

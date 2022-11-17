@@ -1,0 +1,50 @@
+{
+  "uid" : "28949625d7e41cd2",
+  "name" : "Verify user is able to check/uncheck the checkboxes in Active Incidents tab of 'Other Incidents Associated with User' modal-Light",
+  "fullName" : "Incident Test Light theme.Verify user is able to check/uncheck the checkboxes in Active Incidents tab of 'Other Incidents Associated with User' modal-Light",
+  "historyId" : "8195e987a81905c69845dadd57e11036",
+  "time" : {
+    "start" : 1668433971112,
+    "stop" : 1668434020687,
+    "duration" : 49575
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify user is able to check/uncheck the checkboxes in Active Incidents tab of 'Other Incidents Associated with User' modal-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "28949625d7e41cd2.json",
+  "parameterValues" : [ ]
+}

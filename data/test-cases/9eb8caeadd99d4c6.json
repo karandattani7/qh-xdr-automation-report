@@ -1,0 +1,74 @@
+{
+  "uid" : "9eb8caeadd99d4c6",
+  "name" : "Verify that User is able to expand and collapse the 'Available Parameters' list in Create Playbook form-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to expand and collapse the 'Available Parameters' list in Create Playbook form-Light",
+  "historyId" : "3ebb1d83ce1175567a08c3cc3f4b31bb",
+  "time" : {
+    "start" : 1668544465604,
+    "stop" : 1668544490741,
+    "duration" : 25137
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to expand and collapse the 'Available Parameters' list in Create Playbook form-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "656dbd7a9581118d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668510866784,
+        "stop" : 1668510893567,
+        "duration" : 26783
+      }
+    }, {
+      "uid" : "59ff7b9ba4c599e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668502613282,
+        "stop" : 1668502639914,
+        "duration" : 26632
+      }
+    }, {
+      "uid" : "2e44d7843c7a696",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668498683654,
+        "stop" : 1668498708845,
+        "duration" : 25191
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9eb8caeadd99d4c6.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,50 @@
+{
+  "uid" : "a9bd2e75c8c5b95e",
+  "name" : "Verify that in Connector Add Filter window, user is able to remove multiple filters from SELECTED FILTERS section-Dark",
+  "fullName" : "Connector Test Dark theme.Verify that in Connector Add Filter window, user is able to remove multiple filters from SELECTED FILTERS section-Dark",
+  "historyId" : "1c04417933ac8ef8111fb3d20e404775",
+  "time" : {
+    "start" : 1668257382054,
+    "stop" : 1668257484393,
+    "duration" : 102339
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Connector Add Filter window, user is able to remove multiple filters from SELECTED FILTERS section-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a9bd2e75c8c5b95e.json",
+  "parameterValues" : [ ]
+}

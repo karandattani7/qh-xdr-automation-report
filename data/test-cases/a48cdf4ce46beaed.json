@@ -1,0 +1,50 @@
+{
+  "uid" : "a48cdf4ce46beaed",
+  "name" : "Verify the validation messages in Incident Name modal from Incident Summary right panel-Light",
+  "fullName" : "Incident Test Light theme.Verify the validation messages in Incident Name modal from Incident Summary right panel-Light",
+  "historyId" : "ec4f1a2d623077bb879395032e9b89e3",
+  "time" : {
+    "start" : 1668434506176,
+    "stop" : 1668434547037,
+    "duration" : 40861
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the validation messages in Incident Name modal from Incident Summary right panel-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a48cdf4ce46beaed.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "753a1922a53ba0f2",
+  "name" : "Verify that clicking on Delete icon on initial view of Call External Function Right Panel shows Delete Block modal-Light",
+  "fullName" : "Playbook Test Light theme.Verify that clicking on Delete icon on initial view of Call External Function Right Panel shows Delete Block modal-Light",
+  "historyId" : "3549ac571d67980c49a90af966f23e36",
+  "time" : {
+    "start" : 1668504175075,
+    "stop" : 1668504222864,
+    "duration" : 47789
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Delete icon on initial view of Call External Function Right Panel shows Delete Block modal-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "753a1922a53ba0f2.json",
+  "parameterValues" : [ ]
+}

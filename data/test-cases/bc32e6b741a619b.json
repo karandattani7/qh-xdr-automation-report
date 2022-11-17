@@ -1,0 +1,50 @@
+{
+  "uid" : "bc32e6b741a619b",
+  "name" : "Verify that user is able to add and apply more than one filter in Connectors-Light",
+  "fullName" : "Connector Test Light theme.Verify that user is able to add and apply more than one filter in Connectors-Light",
+  "historyId" : "e1ac1c874889399a3c724891f5513fe8",
+  "time" : {
+    "start" : 1668260187469,
+    "stop" : 1668260304453,
+    "duration" : 116984
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to add and apply more than one filter in Connectors-Light"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bc32e6b741a619b.json",
+  "parameterValues" : [ ]
+}

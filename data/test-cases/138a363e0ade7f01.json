@@ -1,0 +1,48 @@
+{
+  "uid" : "138a363e0ade7f01",
+  "name" : "Verify that clicking on 'Playbooks' in breadcrumbs of Edit Playbook form shows 'Work not saved' modal-Datk",
+  "fullName" : "Playbook Test Light theme.Verify that clicking on 'Playbooks' in breadcrumbs of Edit Playbook form shows 'Work not saved' modal-Datk",
+  "historyId" : "fc08e0eb1f2c87d1d9571fdaeb411083",
+  "time" : {
+    "start" : 1668499530573,
+    "stop" : 1668499555656,
+    "duration" : 25083
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on 'Playbooks' in breadcrumbs of Edit Playbook form shows 'Work not saved' modal-Datk"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "138a363e0ade7f01.json",
+  "parameterValues" : [ ]
+}

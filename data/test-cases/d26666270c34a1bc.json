@@ -1,0 +1,48 @@
+{
+  "uid" : "d26666270c34a1bc",
+  "name" : "Verify that in Incident Summary right panel, under BASIC INFORMATION, clicking on edit icon of Incident Name field opens Incident Name modal-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that in Incident Summary right panel, under BASIC INFORMATION, clicking on edit icon of Incident Name field opens Incident Name modal-Dark",
+  "historyId" : "264ce320eb4f53699827dc2013f7cc04",
+  "time" : {
+    "start" : 1668412838682,
+    "stop" : 1668412867244,
+    "duration" : 28562
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Incident Summary right panel, under BASIC INFORMATION, clicking on edit icon of Incident Name field opens Incident Name modal-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d26666270c34a1bc.json",
+  "parameterValues" : [ ]
+}

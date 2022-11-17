@@ -1,0 +1,48 @@
+{
+  "uid" : "7349af8d427f4165",
+  "name" : "Verify that User is able to save playbook with 'On Incident Creation' and 'On Incident Updation' trigger checkboxes selected-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to save playbook with 'On Incident Creation' and 'On Incident Updation' trigger checkboxes selected-Light",
+  "historyId" : "e48cedab6ae0a012dd1ad61c9a265bd5",
+  "time" : {
+    "start" : 1668511546233,
+    "stop" : 1668511579187,
+    "duration" : 32954
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to save playbook with 'On Incident Creation' and 'On Incident Updation' trigger checkboxes selected-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7349af8d427f4165.json",
+  "parameterValues" : [ ]
+}

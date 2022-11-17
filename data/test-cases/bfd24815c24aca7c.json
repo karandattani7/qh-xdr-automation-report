@@ -1,0 +1,66 @@
+{
+  "uid" : "bfd24815c24aca7c",
+  "name" : "Verify that in User Correlation view, clicking on Add+ opens Add Filter modal-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that in User Correlation view, clicking on Add+ opens Add Filter modal-Dark",
+  "historyId" : "2c93e4ecbac11d3ff59d9be67cae868e",
+  "time" : {
+    "start" : 1668503520468,
+    "stop" : 1668503576794,
+    "duration" : 56326
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in User Correlation view, clicking on Add+ opens Add Filter modal-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "55c73874bc9fc1bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668432941246,
+        "stop" : 1668432996874,
+        "duration" : 55628
+      }
+    }, {
+      "uid" : "fe5c4f35fd3fe5c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668418048301,
+        "stop" : 1668418104087,
+        "duration" : 55786
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bfd24815c24aca7c.json",
+  "parameterValues" : [ ]
+}

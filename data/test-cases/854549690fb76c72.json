@@ -1,0 +1,48 @@
+{
+  "uid" : "854549690fb76c72",
+  "name" : "Verify User is able to Copy Draft Playbook-Light",
+  "fullName" : "Playbook Test Light theme.Verify User is able to Copy Draft Playbook-Light",
+  "historyId" : "f7049e423f95bb13bd70a2635e542e53",
+  "time" : {
+    "start" : 1668499369758,
+    "stop" : 1668499409308,
+    "duration" : 39550
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User is able to Copy Draft Playbook-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "854549690fb76c72.json",
+  "parameterValues" : [ ]
+}

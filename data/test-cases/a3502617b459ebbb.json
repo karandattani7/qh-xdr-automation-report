@@ -1,0 +1,67 @@
+{
+  "uid" : "a3502617b459ebbb",
+  "name" : "Verify that User is able to expand/collapse external functions inside Search field dropdown of FUNCTION field of Editable external function block right panel-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to expand/collapse external functions inside Search field dropdown of FUNCTION field of Editable external function block right panel-Dark",
+  "historyId" : "1179a9cf389c5b5dbf62cac403df9e4f",
+  "time" : {
+    "start" : 1668582393522,
+    "stop" : 1668582454843,
+    "duration" : 61321
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to expand/collapse external functions inside Search field dropdown of FUNCTION field of Editable external function block right panel-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e9cd088340d5bd55",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668546041457,
+        "stop" : 1668546044804,
+        "duration" : 3347
+      }
+    }, {
+      "uid" : "b3d425a39510b990",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668426225995,
+        "stop" : 1668426283772,
+        "duration" : 57777
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a3502617b459ebbb.json",
+  "parameterValues" : [ ]
+}

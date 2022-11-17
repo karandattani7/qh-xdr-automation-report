@@ -1,0 +1,48 @@
+{
+  "uid" : "750c2fe983e4b72a",
+  "name" : "Verify the selected row using checkbox is highlighted in Draft Playbooks list page-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify the selected row using checkbox is highlighted in Draft Playbooks list page-Dark",
+  "historyId" : "d7b20be7aac8ea9c18deb8781659a771",
+  "time" : {
+    "start" : 1668418195868,
+    "stop" : 1668418224044,
+    "duration" : 28176
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the selected row using checkbox is highlighted in Draft Playbooks list page-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "750c2fe983e4b72a.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "64c01395fa6b05b7",
+  "name" : "Verify that User is able to remove all the applied filters from Playbook list view using cross icon in Search filter component-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to remove all the applied filters from Playbook list view using cross icon in Search filter component-Light",
+  "historyId" : "77f515aa2ae0fe13fb27dc2c8ccfa620",
+  "time" : {
+    "start" : 1668513612778,
+    "stop" : 1668513726706,
+    "duration" : 113928
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to remove all the applied filters from Playbook list view using cross icon in Search filter component-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "64c01395fa6b05b7.json",
+  "parameterValues" : [ ]
+}

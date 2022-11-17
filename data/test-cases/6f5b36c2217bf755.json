@@ -1,0 +1,48 @@
+{
+  "uid" : "6f5b36c2217bf755",
+  "name" : "Verify that User is able to delete added/dragged block from the Main Canvas area of the Playbook Editor page-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to delete added/dragged block from the Main Canvas area of the Playbook Editor page-Dark",
+  "historyId" : "94164684c2e3279c72386cabbed7f97d",
+  "time" : {
+    "start" : 1668426850642,
+    "stop" : 1668426916164,
+    "duration" : 65522
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to delete added/dragged block from the Main Canvas area of the Playbook Editor page-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6f5b36c2217bf755.json",
+  "parameterValues" : [ ]
+}

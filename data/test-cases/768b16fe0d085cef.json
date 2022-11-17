@@ -1,0 +1,48 @@
+{
+  "uid" : "768b16fe0d085cef",
+  "name" : "Verify that user is able to switch between 'Add Filter' and 'Saved Filter' tabs in Incidents Add Filter modal-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that user is able to switch between 'Add Filter' and 'Saved Filter' tabs in Incidents Add Filter modal-Dark",
+  "historyId" : "ffaa26f28e87bb4e822fe38468b505d1",
+  "time" : {
+    "start" : 1668413660040,
+    "stop" : 1668413686792,
+    "duration" : 26752
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to switch between 'Add Filter' and 'Saved Filter' tabs in Incidents Add Filter modal-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "768b16fe0d085cef.json",
+  "parameterValues" : [ ]
+}

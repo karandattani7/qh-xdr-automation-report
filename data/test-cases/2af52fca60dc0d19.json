@@ -1,0 +1,76 @@
+{
+  "uid" : "2af52fca60dc0d19",
+  "name" : "Verify that clicking on 'Publish Later' of 'Validation Successful' modal, closes the modal and User remains on Playbook Editor-Light",
+  "fullName" : "Playbook Test Light theme.Verify that clicking on 'Publish Later' of 'Validation Successful' modal, closes the modal and User remains on Playbook Editor-Light",
+  "historyId" : "a6a6bce0be287a495d1b3c4b4c42f9fe",
+  "time" : {
+    "start" : 1668551610116,
+    "stop" : 1668551675225,
+    "duration" : 65109
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on 'Publish Later' of 'Validation Successful' modal, closes the modal and User remains on Playbook Editor-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "803ac0807facba50",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668516736547,
+        "stop" : 1668516740777,
+        "duration" : 4230
+      }
+    }, {
+      "uid" : "298940dfbc8c88a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668506155208,
+        "stop" : 1668506225041,
+        "duration" : 69833
+      }
+    }, {
+      "uid" : "f7efb1bc6b7afded",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504595897,
+        "stop" : 1668504600379,
+        "duration" : 4482
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2af52fca60dc0d19.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,66 @@
+{
+  "uid" : "3f445c5a1a4d74e1",
+  "name" : "Verify that clicking on close (cross x) icon in 'Playbook Action' modal closes the modal and does not execute the Playbook-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that clicking on close (cross x) icon in 'Playbook Action' modal closes the modal and does not execute the Playbook-Dark",
+  "historyId" : "768cdcbb2df4b85ea3c2d075611000e3",
+  "time" : {
+    "start" : 1668499113399,
+    "stop" : 1668499148187,
+    "duration" : 34788
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on close (cross x) icon in 'Playbook Action' modal closes the modal and does not execute the Playbook-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fdb67f07ac1fc0a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668428931133,
+        "stop" : 1668428966122,
+        "duration" : 34989
+      }
+    }, {
+      "uid" : "ec81c6146afeed37",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668413903097,
+        "stop" : 1668413938611,
+        "duration" : 35514
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3f445c5a1a4d74e1.json",
+  "parameterValues" : [ ]
+}

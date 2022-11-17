@@ -1,0 +1,48 @@
+{
+  "uid" : "656dbd7a9581118d",
+  "name" : "Verify that User is able to expand and collapse the 'Available Parameters' list in Create Playbook form-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to expand and collapse the 'Available Parameters' list in Create Playbook form-Light",
+  "historyId" : "3ebb1d83ce1175567a08c3cc3f4b31bb",
+  "time" : {
+    "start" : 1668510866784,
+    "stop" : 1668510893567,
+    "duration" : 26783
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to expand and collapse the 'Available Parameters' list in Create Playbook form-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "656dbd7a9581118d.json",
+  "parameterValues" : [ ]
+}

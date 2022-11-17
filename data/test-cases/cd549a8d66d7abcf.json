@@ -1,0 +1,48 @@
+{
+  "uid" : "cd549a8d66d7abcf",
+  "name" : "Verify User should be able to click on “Create Playbook” in header which should redirect User to Create New Playbook form in Draft Playbooks tab-Light",
+  "fullName" : "Playbook Test Light theme.Verify User should be able to click on “Create Playbook” in header which should redirect User to Create New Playbook form in Draft Playbooks tab-Light",
+  "historyId" : "e3d7586c859a9ba2f0cd0ba3362cf4e7",
+  "time" : {
+    "start" : 1668501442519,
+    "stop" : 1668501465670,
+    "duration" : 23151
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User should be able to click on “Create Playbook” in header which should redirect User to Create New Playbook form in Draft Playbooks tab-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cd549a8d66d7abcf.json",
+  "parameterValues" : [ ]
+}

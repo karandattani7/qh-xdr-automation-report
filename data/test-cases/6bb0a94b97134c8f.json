@@ -1,0 +1,68 @@
+{
+  "uid" : "6bb0a94b97134c8f",
+  "name" : "Verify a success toast notification is shown after a playbook has been published using 'Publish Playbook' button-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify a success toast notification is shown after a playbook has been published using 'Publish Playbook' button-Dark",
+  "historyId" : "e9da039c14e781abadd42c6048bc7626",
+  "time" : {
+    "start" : 1668582737568,
+    "stop" : 1668582844880,
+    "duration" : 107312
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify a success toast notification is shown after a playbook has been published using 'Publish Playbook' button-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "91a86aab06d9f0b1",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668546061866,
+        "stop" : 1668546065225,
+        "duration" : 3359
+      }
+    }, {
+      "uid" : "d2fd658e66e27e25",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1668426553280,
+        "stop" : 1668426553285,
+        "duration" : 5
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6bb0a94b97134c8f.json",
+  "parameterValues" : [ ]
+}

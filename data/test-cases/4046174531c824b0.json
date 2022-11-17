@@ -1,0 +1,50 @@
+{
+  "uid" : "4046174531c824b0",
+  "name" : "Verify that Incident summary right panel should get collapsed in several scenarios-Light",
+  "fullName" : "Incident Test Light theme.Verify that Incident summary right panel should get collapsed in several scenarios-Light",
+  "historyId" : "ec569655f4646ab1d7256ffd4734ff21",
+  "time" : {
+    "start" : 1668434135402,
+    "stop" : 1668434228504,
+    "duration" : 93102
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Incident summary right panel should get collapsed in several scenarios-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4046174531c824b0.json",
+  "parameterValues" : [ ]
+}

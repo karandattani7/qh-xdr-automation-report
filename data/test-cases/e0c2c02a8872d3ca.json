@@ -1,0 +1,48 @@
+{
+  "uid" : "e0c2c02a8872d3ca",
+  "name" : "Verify that after adding a external function, the right panel should show read only view of the added function with edit button and Name should be displayed in main canvas area-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that after adding a external function, the right panel should show read only view of the added function with edit button and Name should be displayed in main canvas area-Dark",
+  "historyId" : "89eef0a0445ccdbbad8a50bcb3f4c25e",
+  "time" : {
+    "start" : 1668423341359,
+    "stop" : 1668423389416,
+    "duration" : 48057
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that after adding a external function, the right panel should show read only view of the added function with edit button and Name should be displayed in main canvas area-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e0c2c02a8872d3ca.json",
+  "parameterValues" : [ ]
+}

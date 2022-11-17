@@ -1,0 +1,48 @@
+{
+  "uid" : "4783eb38ab6b9617",
+  "name" : "Verify that in User Correlation view, 'Key Attributes' count is shown in brackets above Key Attributes table-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that in User Correlation view, 'Key Attributes' count is shown in brackets above Key Attributes table-Dark",
+  "historyId" : "80fa41f84d055e5317357d130191e91f",
+  "time" : {
+    "start" : 1668418302225,
+    "stop" : 1668418363354,
+    "duration" : 61129
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in User Correlation view, 'Key Attributes' count is shown in brackets above Key Attributes table-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4783eb38ab6b9617.json",
+  "parameterValues" : [ ]
+}

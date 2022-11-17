@@ -1,0 +1,48 @@
+{
+  "uid" : "a0f887180a440260",
+  "name" : "Verify that clicking on create playbook button below 'No playbooks found' in empty state should redirect to create playbook form from published playbooks tab-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that clicking on create playbook button below 'No playbooks found' in empty state should redirect to create playbook form from published playbooks tab-Dark",
+  "historyId" : "a3fc6fdfeb3806fd0815330b898396c1",
+  "time" : {
+    "start" : 1668543604185,
+    "stop" : 1668543641920,
+    "duration" : 37735
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on create playbook button below 'No playbooks found' in empty state should redirect to create playbook form from published playbooks tab-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a0f887180a440260.json",
+  "parameterValues" : [ ]
+}

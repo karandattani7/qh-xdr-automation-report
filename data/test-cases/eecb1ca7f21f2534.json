@@ -1,0 +1,50 @@
+{
+  "uid" : "eecb1ca7f21f2534",
+  "name" : "Verify that in User List view, clicking on Add+ opens Add Filter modal-Light",
+  "fullName" : "Incident Test Light theme.Verify that in User List view, clicking on Add+ opens Add Filter modal-Light",
+  "historyId" : "aceaff679920f6fa01267bfa5a61b4e6",
+  "time" : {
+    "start" : 1668433285164,
+    "stop" : 1668433334589,
+    "duration" : 49425
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in User List view, clicking on Add+ opens Add Filter modal-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eecb1ca7f21f2534.json",
+  "parameterValues" : [ ]
+}

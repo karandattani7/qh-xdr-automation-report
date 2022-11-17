@@ -1,0 +1,66 @@
+{
+  "uid" : "ddc0adde2072ee8d",
+  "name" : "Verify that an error message is shown when User searches with invalid quick filter in Base Alerts tab-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that an error message is shown when User searches with invalid quick filter in Base Alerts tab-Dark",
+  "historyId" : "d471d4654c145e13ae80d0ba5db132a6",
+  "time" : {
+    "start" : 1668499842296,
+    "stop" : 1668499871567,
+    "duration" : 29271
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that an error message is shown when User searches with invalid quick filter in Base Alerts tab-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "79ab4c5230abc7dd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668429680013,
+        "stop" : 1668429709391,
+        "duration" : 29378
+      }
+    }, {
+      "uid" : "d72609c1f15f9d7f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668414661635,
+        "stop" : 1668414691533,
+        "duration" : 29898
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ddc0adde2072ee8d.json",
+  "parameterValues" : [ ]
+}

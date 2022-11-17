@@ -1,0 +1,66 @@
+{
+  "uid" : "dfc22cbb29c99cca",
+  "name" : "Verify User is able to select/deselect checkbox for a single row in Published Playbooks tab-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify User is able to select/deselect checkbox for a single row in Published Playbooks tab-Dark",
+  "historyId" : "a7fe293c4fb7456400e569853dc9de42",
+  "time" : {
+    "start" : 1668574275020,
+    "stop" : 1668574300573,
+    "duration" : 25553
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User is able to select/deselect checkbox for a single row in Published Playbooks tab-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9fb2c3be737d2a32",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668542892664,
+        "stop" : 1668542918261,
+        "duration" : 25597
+      }
+    }, {
+      "uid" : "860dd79949faef95",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668418327214,
+        "stop" : 1668418353266,
+        "duration" : 26052
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dfc22cbb29c99cca.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,50 @@
+{
+  "uid" : "9a3d24f585daab04",
+  "name" : "Verify that User is able to scroll up and down using Page Up and Page Down key in Create Playbook form-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to scroll up and down using Page Up and Page Down key in Create Playbook form-Dark",
+  "historyId" : "ad4c84c961536df884704707b7312c3e",
+  "time" : {
+    "start" : 1668419399328,
+    "stop" : 1668419399330,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to scroll up and down using Page Up and Page Down key in Create Playbook form-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9a3d24f585daab04.json",
+  "parameterValues" : [ ]
+}

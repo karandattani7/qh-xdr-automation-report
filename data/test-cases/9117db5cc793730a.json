@@ -1,0 +1,50 @@
+{
+  "uid" : "9117db5cc793730a",
+  "name" : "Verify that for SOC Manager user, total 18 widgets are there in SOC Manager Dashboard page-Dark",
+  "fullName" : "Dashboard Test Dark theme-SOC Manager.Verify that for SOC Manager user, total 18 widgets are there in SOC Manager Dashboard page-Dark",
+  "historyId" : "41538d274d9a88cd5eadac2ca63e6dc2",
+  "time" : {
+    "start" : 1668261893075,
+    "stop" : 1668261918146,
+    "duration" : 25071
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "testClass",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that for SOC Manager user, total 18 widgets are there in SOC Manager Dashboard page-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Dashboard Test Dark theme-SOC Manager"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9117db5cc793730a.json",
+  "parameterValues" : [ ]
+}

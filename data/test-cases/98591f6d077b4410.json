@@ -1,0 +1,48 @@
+{
+  "uid" : "98591f6d077b4410",
+  "name" : "Verify User should be able to see actions 'Edit', 'Copy', 'Export', and 'Delete' for playbooks in Draft Playbooks-Light",
+  "fullName" : "Playbook Test Light theme.Verify User should be able to see actions 'Edit', 'Copy', 'Export', and 'Delete' for playbooks in Draft Playbooks-Light",
+  "historyId" : "bd96eafadfc5611cdf557ddb5fde3719",
+  "time" : {
+    "start" : 1668499766057,
+    "stop" : 1668499786882,
+    "duration" : 20825
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User should be able to see actions 'Edit', 'Copy', 'Export', and 'Delete' for playbooks in Draft Playbooks-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "98591f6d077b4410.json",
+  "parameterValues" : [ ]
+}

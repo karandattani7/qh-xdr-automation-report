@@ -1,0 +1,66 @@
+{
+  "uid" : "9c4824121d5c8c5",
+  "name" : "Verify User gets a toast notification on deleting selected multiple playbooks successfully-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify User gets a toast notification on deleting selected multiple playbooks successfully-Dark",
+  "historyId" : "e34d9dea188a73cc6c2472ad81445cca",
+  "time" : {
+    "start" : 1668576480242,
+    "stop" : 1668576508260,
+    "duration" : 28018
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User gets a toast notification on deleting selected multiple playbooks successfully-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ac867914526c366c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668545112633,
+        "stop" : 1668545139508,
+        "duration" : 26875
+      }
+    }, {
+      "uid" : "db04d11adbba6037",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668420547082,
+        "stop" : 1668420575398,
+        "duration" : 28316
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9c4824121d5c8c5.json",
+  "parameterValues" : [ ]
+}

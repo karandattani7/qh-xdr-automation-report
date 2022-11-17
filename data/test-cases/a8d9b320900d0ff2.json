@@ -1,0 +1,50 @@
+{
+  "uid" : "a8d9b320900d0ff2",
+  "name" : "Verify that User is able to scroll up and down using Up and Down arrow key in Create Playbook form-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to scroll up and down using Up and Down arrow key in Create Playbook form-Light",
+  "historyId" : "a2287781ff01135a0bc1e73bf325bc53",
+  "time" : {
+    "start" : 1668510940798,
+    "stop" : 1668510940800,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to scroll up and down using Up and Down arrow key in Create Playbook form-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a8d9b320900d0ff2.json",
+  "parameterValues" : [ ]
+}

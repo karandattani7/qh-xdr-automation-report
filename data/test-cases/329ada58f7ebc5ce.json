@@ -1,0 +1,75 @@
+{
+  "uid" : "329ada58f7ebc5ce",
+  "name" : "Verify that User is able to remove added quick filters in Draft Playbooks-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to remove added quick filters in Draft Playbooks-Light",
+  "historyId" : "23f54e9544413f535b472c95bae8ea3",
+  "time" : {
+    "start" : 1668545829978,
+    "stop" : 1668545867118,
+    "duration" : 37140
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to remove added quick filters in Draft Playbooks-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b2525a01d388f980",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668512373952,
+        "stop" : 1668512412136,
+        "duration" : 38184
+      }
+    }, {
+      "uid" : "77601d3e141eb6c2",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //span[@class='available-filters ng-star-inserted' and text()=' playbook.name '])",
+      "time" : {
+        "start" : 1668504048147,
+        "stop" : 1668504063751,
+        "duration" : 15604
+      }
+    }, {
+      "uid" : "d4b9322aeb467a40",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668500041210,
+        "stop" : 1668500078392,
+        "duration" : 37182
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "329ada58f7ebc5ce.json",
+  "parameterValues" : [ ]
+}

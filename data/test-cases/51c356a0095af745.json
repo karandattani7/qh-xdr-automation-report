@@ -1,0 +1,66 @@
+{
+  "uid" : "51c356a0095af745",
+  "name" : "Verify that user is able to update Priority from Incident summary right panel using Incident Priority modal-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that user is able to update Priority from Incident summary right panel using Incident Priority modal-Dark",
+  "historyId" : "74660c0c6c9b4a2ff04beaf626fe42f6",
+  "time" : {
+    "start" : 1668501562222,
+    "stop" : 1668501600356,
+    "duration" : 38134
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to update Priority from Incident summary right panel using Incident Priority modal-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "649a13dedcb6dd94",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668431177089,
+        "stop" : 1668431216140,
+        "duration" : 39051
+      }
+    }, {
+      "uid" : "36be935e32b23a8f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668416327227,
+        "stop" : 1668416366800,
+        "duration" : 39573
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "51c356a0095af745.json",
+  "parameterValues" : [ ]
+}

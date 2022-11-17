@@ -1,0 +1,48 @@
+{
+  "uid" : "5b68b29360b776bb",
+  "name" : "Verify that clicking on Delete icon on internal function block in main canvas area shows Delete block modal-Light",
+  "fullName" : "Playbook Test Light theme.Verify that clicking on Delete icon on internal function block in main canvas area shows Delete block modal-Light",
+  "historyId" : "aae6784b384d63caa8fbb59b02bf4008",
+  "time" : {
+    "start" : 1668503100801,
+    "stop" : 1668503141741,
+    "duration" : 40940
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Delete icon on internal function block in main canvas area shows Delete block modal-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5b68b29360b776bb.json",
+  "parameterValues" : [ ]
+}

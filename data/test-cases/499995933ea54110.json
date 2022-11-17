@@ -1,0 +1,67 @@
+{
+  "uid" : "499995933ea54110",
+  "name" : "Verify that user is able to filter incidents list by single status and multiple status-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that user is able to filter incidents list by single status and multiple status-Dark",
+  "historyId" : "dd741b3070541dfc931c3d69c198de1d",
+  "time" : {
+    "start" : 1668500225967,
+    "stop" : 1668500281721,
+    "duration" : 55754
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to filter incidents list by single status and multiple status-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "81acf4298ea60e29",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668430037102,
+        "stop" : 1668430106467,
+        "duration" : 69365
+      }
+    }, {
+      "uid" : "676d4c8d77e02416",
+      "status" : "failed",
+      "statusDetails" : "Failed: Index out of bound. Trying to access element at index: -1, but there are only 0 elements that match locator By(xpath, //tbody//tr)",
+      "time" : {
+        "start" : 1668415022076,
+        "stop" : 1668415065948,
+        "duration" : 43872
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "499995933ea54110.json",
+  "parameterValues" : [ ]
+}

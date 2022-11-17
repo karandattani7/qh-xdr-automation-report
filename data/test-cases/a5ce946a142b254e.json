@@ -1,0 +1,66 @@
+{
+  "uid" : "a5ce946a142b254e",
+  "name" : "Verify that counts of incident status: New, Investigation, Remediation, Closed shown on top of table matches with number of rows in table for each status-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that counts of incident status: New, Investigation, Remediation, Closed shown on top of table matches with number of rows in table for each status-Dark",
+  "historyId" : "6a2b697ca52555baec7ea0ff9335f8a9",
+  "time" : {
+    "start" : 1668502353580,
+    "stop" : 1668502437114,
+    "duration" : 83534
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that counts of incident status: New, Investigation, Remediation, Closed shown on top of table matches with number of rows in table for each status-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d351b9fe231fb133",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668432043762,
+        "stop" : 1668432157941,
+        "duration" : 114179
+      }
+    }, {
+      "uid" : "d956cf0a1974fb7a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668417197266,
+        "stop" : 1668417278361,
+        "duration" : 81095
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a5ce946a142b254e.json",
+  "parameterValues" : [ ]
+}

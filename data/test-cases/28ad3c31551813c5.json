@@ -1,0 +1,50 @@
+{
+  "uid" : "28ad3c31551813c5",
+  "name" : "'Connecter Details' field is as expected before selecting Connector Name-Light",
+  "fullName" : "Connector Test Light theme.'Connecter Details' field is as expected before selecting Connector Name-Light",
+  "historyId" : "f55998e298e96c425827774a2dfe9950",
+  "time" : {
+    "start" : 1668259051672,
+    "stop" : 1668259076312,
+    "duration" : 24640
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "'Connecter Details' field is as expected before selecting Connector Name-Light"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "28ad3c31551813c5.json",
+  "parameterValues" : [ ]
+}

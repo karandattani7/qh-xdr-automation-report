@@ -1,0 +1,50 @@
+{
+  "uid" : "77cd036b2376e33e",
+  "name" : "Verify that Edit and Delete icon is visible for added SLA panel for Incident Type in SLA Configuration tab-Dark",
+  "fullName" : "SLA Test Dark theme.Verify that Edit and Delete icon is visible for added SLA panel for Incident Type in SLA Configuration tab-Dark",
+  "historyId" : "e83d73bc9324892be102b1a7d234f207",
+  "time" : {
+    "start" : 1668262360166,
+    "stop" : 1668262373644,
+    "duration" : 13478
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "SLA Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "SLA Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Edit and Delete icon is visible for added SLA panel for Incident Type in SLA Configuration tab-Dark"
+  }, {
+    "name" : "package",
+    "value" : "SLA Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "77cd036b2376e33e.json",
+  "parameterValues" : [ ]
+}

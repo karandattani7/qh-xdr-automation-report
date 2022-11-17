@@ -1,0 +1,48 @@
+{
+  "uid" : "561e430d6a156644",
+  "name" : "Verify that User is able to see Start and Stop block in the main canvas area-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to see Start and Stop block in the main canvas area-Dark",
+  "historyId" : "34aa27a6452bf280ea5300128226ce00",
+  "time" : {
+    "start" : 1668421472033,
+    "stop" : 1668421507091,
+    "duration" : 35058
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to see Start and Stop block in the main canvas area-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "561e430d6a156644.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,50 @@
+{
+  "uid" : "bb16e8187353a53b",
+  "name" : "Verify that 'View Playbook Output' link is clickable under BASIC INFORMATION Section in Incident Summary right panel-Light",
+  "fullName" : "Incident Test Light theme.Verify that 'View Playbook Output' link is clickable under BASIC INFORMATION Section in Incident Summary right panel-Light",
+  "historyId" : "3fb9d129e9a2004bb392207d6e846515",
+  "time" : {
+    "start" : 1668428132142,
+    "stop" : 1668428162230,
+    "duration" : 30088
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that 'View Playbook Output' link is clickable under BASIC INFORMATION Section in Incident Summary right panel-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bb16e8187353a53b.json",
+  "parameterValues" : [ ]
+}

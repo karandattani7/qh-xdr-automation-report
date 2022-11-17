@@ -1,0 +1,48 @@
+{
+  "uid" : "3cab1f0bbeb2c6e2",
+  "name" : "Verify that user is able to update Assigned To from Incident summary right panel using Incident Assignee modal-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that user is able to update Assigned To from Incident summary right panel using Incident Assignee modal-Dark",
+  "historyId" : "29cd4ec6b543a771925cd9e64b74686",
+  "time" : {
+    "start" : 1668416366800,
+    "stop" : 1668416413118,
+    "duration" : 46318
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to update Assigned To from Incident summary right panel using Incident Assignee modal-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3cab1f0bbeb2c6e2.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,50 @@
+{
+  "uid" : "cd09085268d5b4ac",
+  "name" : "Verify that Default SLA is at the bottom of the list in SLA Configuration tab-Light",
+  "fullName" : "SLA Test Light theme.Verify that Default SLA is at the bottom of the list in SLA Configuration tab-Light",
+  "historyId" : "f5893263db738f8b0f7ccc3d03895f7d",
+  "time" : {
+    "start" : 1668263356294,
+    "stop" : 1668263370884,
+    "duration" : 14590
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "SLA Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "SLA Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Default SLA is at the bottom of the list in SLA Configuration tab-Light"
+  }, {
+    "name" : "package",
+    "value" : "SLA Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cd09085268d5b4ac.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,50 @@
+{
+  "uid" : "febd41c173a2df",
+  "name" : "Verify that clicking on one connector row opens Connectors right panel with details and clicking on another row replaces the expanded right panel details-Light",
+  "fullName" : "Connector Test Light theme.Verify that clicking on one connector row opens Connectors right panel with details and clicking on another row replaces the expanded right panel details-Light",
+  "historyId" : "4b1fce47558ba543653d0e48a2f93ce2",
+  "time" : {
+    "start" : 1668259214834,
+    "stop" : 1668259252760,
+    "duration" : 37926
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on one connector row opens Connectors right panel with details and clicking on another row replaces the expanded right panel details-Light"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "febd41c173a2df.json",
+  "parameterValues" : [ ]
+}

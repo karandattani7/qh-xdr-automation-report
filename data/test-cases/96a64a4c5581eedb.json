@@ -1,0 +1,66 @@
+{
+  "uid" : "96a64a4c5581eedb",
+  "name" : "Verify that User is able to remove added quick filters in Draft Playbooks-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to remove added quick filters in Draft Playbooks-Dark",
+  "historyId" : "1c9ab50a69fd748acc21b4b8cadb7599",
+  "time" : {
+    "start" : 1668576676489,
+    "stop" : 1668576715219,
+    "duration" : 38730
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to remove added quick filters in Draft Playbooks-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "bcb9f58e6a2be4c2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668545296012,
+        "stop" : 1668545333230,
+        "duration" : 37218
+      }
+    }, {
+      "uid" : "e3e52e0fa064cd10",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668420743055,
+        "stop" : 1668420781277,
+        "duration" : 38222
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "96a64a4c5581eedb.json",
+  "parameterValues" : [ ]
+}

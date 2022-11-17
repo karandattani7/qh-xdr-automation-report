@@ -1,0 +1,66 @@
+{
+  "uid" : "5f847c742f5524f3",
+  "name" : "Verify that clicking on Incident name in breadcrumbs of User View page redirects to Incident Details page-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that clicking on Incident name in breadcrumbs of User View page redirects to Incident Details page-Dark",
+  "historyId" : "50019803f84a81c4241e8315f96ce01",
+  "time" : {
+    "start" : 1668502900927,
+    "stop" : 1668502955006,
+    "duration" : 54079
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Incident name in breadcrumbs of User View page redirects to Incident Details page-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "66a0c2f4bb8e4f22",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668432675018,
+        "stop" : 1668432727575,
+        "duration" : 52557
+      }
+    }, {
+      "uid" : "364809381eb504a9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668417775971,
+        "stop" : 1668417829929,
+        "duration" : 53958
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5f847c742f5524f3.json",
+  "parameterValues" : [ ]
+}

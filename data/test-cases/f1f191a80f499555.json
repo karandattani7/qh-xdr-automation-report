@@ -1,0 +1,48 @@
+{
+  "uid" : "f1f191a80f499555",
+  "name" : "Verify that clicking on filter search field shows dropdown with quick filter options in Published Playbooks tab-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that clicking on filter search field shows dropdown with quick filter options in Published Playbooks tab-Dark",
+  "historyId" : "88e5369b1b2ecba425604630fb3bd8ea",
+  "time" : {
+    "start" : 1668420911060,
+    "stop" : 1668420931934,
+    "duration" : 20874
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on filter search field shows dropdown with quick filter options in Published Playbooks tab-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f1f191a80f499555.json",
+  "parameterValues" : [ ]
+}

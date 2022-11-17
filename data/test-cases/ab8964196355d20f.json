@@ -1,0 +1,66 @@
+{
+  "uid" : "ab8964196355d20f",
+  "name" : "Verify User is able to see checkbox before PLAYBOOK NAME column for each row in Published Playbooks-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify User is able to see checkbox before PLAYBOOK NAME column for each row in Published Playbooks-Dark",
+  "historyId" : "88fc179b06d77f7d2457a591acd94a4c",
+  "time" : {
+    "start" : 1668574562044,
+    "stop" : 1668574573889,
+    "duration" : 11845
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User is able to see checkbox before PLAYBOOK NAME column for each row in Published Playbooks-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d00a49ca87f8be0b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668543249498,
+        "stop" : 1668543264021,
+        "duration" : 14523
+      }
+    }, {
+      "uid" : "938164be4f3bf6b2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668418679010,
+        "stop" : 1668418697787,
+        "duration" : 18777
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ab8964196355d20f.json",
+  "parameterValues" : [ ]
+}

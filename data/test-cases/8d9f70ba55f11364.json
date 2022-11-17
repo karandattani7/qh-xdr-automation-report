@@ -1,0 +1,67 @@
+{
+  "uid" : "8d9f70ba55f11364",
+  "name" : "Verify that User is able to select a external function from list by clicking on it-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to select a external function from list by clicking on it-Dark",
+  "historyId" : "2108eb059a701298ec41e3faab05bd4d",
+  "time" : {
+    "start" : 1668582454843,
+    "stop" : 1668582516278,
+    "duration" : 61435
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to select a external function from list by clicking on it-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c015a011da244a36",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668546044804,
+        "stop" : 1668546048186,
+        "duration" : 3382
+      }
+    }, {
+      "uid" : "552f7a912e0cd65e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668426283772,
+        "stop" : 1668426341731,
+        "duration" : 57959
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8d9f70ba55f11364.json",
+  "parameterValues" : [ ]
+}

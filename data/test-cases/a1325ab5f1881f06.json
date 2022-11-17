@@ -1,0 +1,48 @@
+{
+  "uid" : "a1325ab5f1881f06",
+  "name" : "Verify that User is able to save playbook with No Tags selected-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to save playbook with No Tags selected-Light",
+  "historyId" : "ccee4410d07bafcdf7de6e91d73b11ef",
+  "time" : {
+    "start" : 1668511412094,
+    "stop" : 1668511444028,
+    "duration" : 31934
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to save playbook with No Tags selected-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a1325ab5f1881f06.json",
+  "parameterValues" : [ ]
+}

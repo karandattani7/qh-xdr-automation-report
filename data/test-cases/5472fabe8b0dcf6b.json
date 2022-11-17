@@ -1,0 +1,74 @@
+{
+  "uid" : "5472fabe8b0dcf6b",
+  "name" : "Verify that clicking on 'Playbooks' in breadcrumbs of Edit Playbook form shows 'Work not saved' modal-Datk",
+  "fullName" : "Playbook Test Light theme.Verify that clicking on 'Playbooks' in breadcrumbs of Edit Playbook form shows 'Work not saved' modal-Datk",
+  "historyId" : "fc08e0eb1f2c87d1d9571fdaeb411083",
+  "time" : {
+    "start" : 1668545321578,
+    "stop" : 1668545346603,
+    "duration" : 25025
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on 'Playbooks' in breadcrumbs of Edit Playbook form shows 'Work not saved' modal-Datk"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6e1d516ffaede0cf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668511837184,
+        "stop" : 1668511863470,
+        "duration" : 26286
+      }
+    }, {
+      "uid" : "949f5daa1f0a0634",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668503514618,
+        "stop" : 1668503535385,
+        "duration" : 20767
+      }
+    }, {
+      "uid" : "138a363e0ade7f01",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668499530573,
+        "stop" : 1668499555656,
+        "duration" : 25083
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5472fabe8b0dcf6b.json",
+  "parameterValues" : [ ]
+}

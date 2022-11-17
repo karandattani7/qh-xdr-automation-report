@@ -1,0 +1,74 @@
+{
+  "uid" : "b0a38529d8a0bca2",
+  "name" : "Verify User is able to see all 7 columns showing playbook details in Draft Playbooks-Light",
+  "fullName" : "Playbook Test Light theme.Verify User is able to see all 7 columns showing playbook details in Draft Playbooks-Light",
+  "historyId" : "7e310b9539c14edaa6141450b4edc1e7",
+  "time" : {
+    "start" : 1668543139535,
+    "stop" : 1668543161839,
+    "duration" : 22304
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User is able to see all 7 columns showing playbook details in Draft Playbooks-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5f1a411c63f29f4b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668509542756,
+        "stop" : 1668509565756,
+        "duration" : 23000
+      }
+    }, {
+      "uid" : "9b309e3315a67438",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668501407034,
+        "stop" : 1668501428781,
+        "duration" : 21747
+      }
+    }, {
+      "uid" : "42dc8fc011ee67fb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668497390488,
+        "stop" : 1668497412265,
+        "duration" : 21777
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b0a38529d8a0bca2.json",
+  "parameterValues" : [ ]
+}

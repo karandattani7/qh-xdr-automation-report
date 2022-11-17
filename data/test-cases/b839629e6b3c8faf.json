@@ -1,0 +1,50 @@
+{
+  "uid" : "b839629e6b3c8faf",
+  "name" : "Verify that user is able to arrange/sort saved filters list using 'Timestamp' sorting icon in 'Saved Filter' tab's left side section of Incident Add Filter modal-Light",
+  "fullName" : "Incident Test Light theme.Verify that user is able to arrange/sort saved filters list using 'Timestamp' sorting icon in 'Saved Filter' tab's left side section of Incident Add Filter modal-Light",
+  "historyId" : "69ac0b5ece7cd6d9d029591b8d37613d",
+  "time" : {
+    "start" : 1668432230145,
+    "stop" : 1668432256501,
+    "duration" : 26356
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to arrange/sort saved filters list using 'Timestamp' sorting icon in 'Saved Filter' tab's left side section of Incident Add Filter modal-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b839629e6b3c8faf.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "12da8b34d7d50fb1",
+  "name" : "Verify that in Draft Playbooks tab, an error message 'Filter already selected.' is shown below filter search field if user adds quick filter with same value again-Light",
+  "fullName" : "Playbook Test Light theme.Verify that in Draft Playbooks tab, an error message 'Filter already selected.' is shown below filter search field if user adds quick filter with same value again-Light",
+  "historyId" : "ffcbaec12e41d33b386f6c78a1a03b5c",
+  "time" : {
+    "start" : 1668507786447,
+    "stop" : 1668507829026,
+    "duration" : 42579
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Draft Playbooks tab, an error message 'Filter already selected.' is shown below filter search field if user adds quick filter with same value again-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "12da8b34d7d50fb1.json",
+  "parameterValues" : [ ]
+}

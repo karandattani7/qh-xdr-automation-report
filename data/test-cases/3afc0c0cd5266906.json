@@ -1,0 +1,50 @@
+{
+  "uid" : "3afc0c0cd5266906",
+  "name" : "Verify that clicking on Incident name in breadcrumbs of User View page redirects to Incident Details page-Light",
+  "fullName" : "Incident Test Light theme.Verify that clicking on Incident name in breadcrumbs of User View page redirects to Incident Details page-Light",
+  "historyId" : "8d274e08bfc53b17ae2334204424e0a8",
+  "time" : {
+    "start" : 1668432896592,
+    "stop" : 1668432949497,
+    "duration" : 52905
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Incident name in breadcrumbs of User View page redirects to Incident Details page-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3afc0c0cd5266906.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "e39d6218b2284a0d",
+  "name" : "Verify that user is able to create playbook from empty state from draft playbooks tab",
+  "fullName" : "Playbook Test Light theme.Verify that user is able to create playbook from empty state from draft playbooks tab",
+  "historyId" : "ef94e4461f7860e561a51dfe39d471dc",
+  "time" : {
+    "start" : 1668502425373,
+    "stop" : 1668502480120,
+    "duration" : 54747
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to create playbook from empty state from draft playbooks tab"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e39d6218b2284a0d.json",
+  "parameterValues" : [ ]
+}

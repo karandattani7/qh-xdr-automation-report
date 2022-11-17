@@ -1,0 +1,50 @@
+{
+  "uid" : "cf58ad42190b0e2c",
+  "name" : "Verify that Incidents total count is same as total of Severity wise incident counts above table-Light",
+  "fullName" : "Incident Test Light theme.Verify that Incidents total count is same as total of Severity wise incident counts above table-Light",
+  "historyId" : "3e05b810b3370bb582026fbdfa783f6e",
+  "time" : {
+    "start" : 1668427595224,
+    "stop" : 1668427618106,
+    "duration" : 22882
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Incidents total count is same as total of Severity wise incident counts above table-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cf58ad42190b0e2c.json",
+  "parameterValues" : [ ]
+}

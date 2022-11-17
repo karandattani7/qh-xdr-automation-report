@@ -1,0 +1,75 @@
+{
+  "uid" : "fd1c7f5ed7e78a25",
+  "name" : "Verify that hovering on dragged 'Call External Function' block in main canvas area shows Edit and Delete icon-Light",
+  "fullName" : "Playbook Test Light theme.Verify that hovering on dragged 'Call External Function' block in main canvas area shows Edit and Delete icon-Light",
+  "historyId" : "30d122958482a6840e97f1914d749c4c",
+  "time" : {
+    "start" : 1668548137709,
+    "stop" : 1668548184114,
+    "duration" : 46405
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that hovering on dragged 'Call External Function' block in main canvas area shows Edit and Delete icon-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9e11e477bf299a06",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668514871611,
+        "stop" : 1668514986893,
+        "duration" : 115282
+      }
+    }, {
+      "uid" : "7093ec112387fed4",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504307113,
+        "stop" : 1668504311643,
+        "duration" : 4530
+      }
+    }, {
+      "uid" : "e66a127b3ef2b6ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668502376244,
+        "stop" : 1668502424734,
+        "duration" : 48490
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fd1c7f5ed7e78a25.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,66 @@
+{
+  "uid" : "d032e1cf1d84a98c",
+  "name" : "Verify that in Incident Summary right panel, clicking on a Playbook Actions button and then clicking Playbook's Run Playbook play icon opens Playbook Action modal-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that in Incident Summary right panel, clicking on a Playbook Actions button and then clicking Playbook's Run Playbook play icon opens Playbook Action modal-Dark",
+  "historyId" : "f81e2f36a4da57db3e8264e9dec59de0",
+  "time" : {
+    "start" : 1668499082760,
+    "stop" : 1668499113398,
+    "duration" : 30638
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Incident Summary right panel, clicking on a Playbook Actions button and then clicking Playbook's Run Playbook play icon opens Playbook Action modal-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ac7b1c6dff59796e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668428900314,
+        "stop" : 1668428931133,
+        "duration" : 30819
+      }
+    }, {
+      "uid" : "385b7b21f02712ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668413871674,
+        "stop" : 1668413903097,
+        "duration" : 31423
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d032e1cf1d84a98c.json",
+  "parameterValues" : [ ]
+}

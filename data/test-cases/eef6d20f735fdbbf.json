@@ -1,0 +1,48 @@
+{
+  "uid" : "eef6d20f735fdbbf",
+  "name" : "Verify that Incidents Add Filter modal shows two tabs Add Filter and Saved Filter-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that Incidents Add Filter modal shows two tabs Add Filter and Saved Filter-Dark",
+  "historyId" : "c2c750b2d83767e641ab6da6356f4974",
+  "time" : {
+    "start" : 1668413629063,
+    "stop" : 1668413660040,
+    "duration" : 30977
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Incidents Add Filter modal shows two tabs Add Filter and Saved Filter-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eef6d20f735fdbbf.json",
+  "parameterValues" : [ ]
+}

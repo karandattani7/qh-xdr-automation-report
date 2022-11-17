@@ -1,0 +1,66 @@
+{
+  "uid" : "8697378007131255",
+  "name" : "Verify the count shown on top in Draft Playbooks tab is equal to number of rows in the table-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify the count shown on top in Draft Playbooks tab is equal to number of rows in the table-Dark",
+  "historyId" : "e83395a7ecaeb2a6019572adf1cb628d",
+  "time" : {
+    "start" : 1668574606569,
+    "stop" : 1668574632356,
+    "duration" : 25787
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the count shown on top in Draft Playbooks tab is equal to number of rows in the table-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b4ac377acfdf4a85",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668543296287,
+        "stop" : 1668543343773,
+        "duration" : 47486
+      }
+    }, {
+      "uid" : "9c7a9b87ecf94f5c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668418729147,
+        "stop" : 1668418768119,
+        "duration" : 38972
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8697378007131255.json",
+  "parameterValues" : [ ]
+}

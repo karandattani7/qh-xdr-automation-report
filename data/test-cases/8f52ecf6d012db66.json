@@ -1,0 +1,67 @@
+{
+  "uid" : "8f52ecf6d012db66",
+  "name" : "Verify that clicking on Cross icon (Close) in Add Filter window closes the Add Filter window-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that clicking on Cross icon (Close) in Add Filter window closes the Add Filter window-Dark",
+  "historyId" : "fb29afa3060c9fb332c0aaaf563ea217",
+  "time" : {
+    "start" : 1668577341134,
+    "stop" : 1668577383768,
+    "duration" : 42634
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Cross icon (Close) in Add Filter window closes the Add Filter window-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b97403b77b843062",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668545729433,
+        "stop" : 1668545732838,
+        "duration" : 3405
+      }
+    }, {
+      "uid" : "ac3c402f3f1d8ef4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668421429403,
+        "stop" : 1668421472032,
+        "duration" : 42629
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8f52ecf6d012db66.json",
+  "parameterValues" : [ ]
+}

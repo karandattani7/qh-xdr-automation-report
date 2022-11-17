@@ -1,0 +1,50 @@
+{
+  "uid" : "1a19e142b97d22b0",
+  "name" : "Verify that User is able to select 'Connector Name' field in add instance form when coming from Connectors page header-Dark",
+  "fullName" : "Connector Test Dark theme.Verify that User is able to select 'Connector Name' field in add instance form when coming from Connectors page header-Dark",
+  "historyId" : "ee9fe43d253697feca72f76fe5dc9a26",
+  "time" : {
+    "start" : 1668256351565,
+    "stop" : 1668256368265,
+    "duration" : 16700
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to select 'Connector Name' field in add instance form when coming from Connectors page header-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1a19e142b97d22b0.json",
+  "parameterValues" : [ ]
+}

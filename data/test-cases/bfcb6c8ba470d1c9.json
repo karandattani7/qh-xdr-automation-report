@@ -1,0 +1,50 @@
+{
+  "uid" : "bfcb6c8ba470d1c9",
+  "name" : "Verify that base alerts list gets filtered with different combinations of alert ID filter-Light",
+  "fullName" : "Incident Test Light theme.Verify that base alerts list gets filtered with different combinations of alert ID filter-Light",
+  "historyId" : "f2c8be0cd83f07985b0ac45b3738ced2",
+  "time" : {
+    "start" : 1668430870494,
+    "stop" : 1668430964864,
+    "duration" : 94370
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that base alerts list gets filtered with different combinations of alert ID filter-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bfcb6c8ba470d1c9.json",
+  "parameterValues" : [ ]
+}

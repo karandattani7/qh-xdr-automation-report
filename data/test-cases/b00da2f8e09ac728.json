@@ -1,0 +1,75 @@
+{
+  "uid" : "b00da2f8e09ac728",
+  "name" : "Verify that after dragging 'Call External Function' to main canvas of playbook editor page, the block is displayed with text 'Call External Function'-Light",
+  "fullName" : "Playbook Test Light theme.Verify that after dragging 'Call External Function' to main canvas of playbook editor page, the block is displayed with text 'Call External Function'-Light",
+  "historyId" : "d791a3a5c01b651575f02521fe78c18e",
+  "time" : {
+    "start" : 1668548184114,
+    "stop" : 1668548230537,
+    "duration" : 46423
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that after dragging 'Call External Function' to main canvas of playbook editor page, the block is displayed with text 'Call External Function'-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1ce22ace601766a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668514986893,
+        "stop" : 1668515034610,
+        "duration" : 47717
+      }
+    }, {
+      "uid" : "92cb952b62350497",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504311643,
+        "stop" : 1668504316152,
+        "duration" : 4509
+      }
+    }, {
+      "uid" : "12dd19e076b8caca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668502424735,
+        "stop" : 1668502473738,
+        "duration" : 49003
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b00da2f8e09ac728.json",
+  "parameterValues" : [ ]
+}

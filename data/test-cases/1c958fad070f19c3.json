@@ -1,0 +1,66 @@
+{
+  "uid" : "1c958fad070f19c3",
+  "name" : "Verify that 3 tabs List, Timeline, Correlation are visible in User View page-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that 3 tabs List, Timeline, Correlation are visible in User View page-Dark",
+  "historyId" : "290de6d18c71c9a3c1346b413b884266",
+  "time" : {
+    "start" : 1668502688390,
+    "stop" : 1668502742691,
+    "duration" : 54301
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that 3 tabs List, Timeline, Correlation are visible in User View page-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c08f426b42e89e94",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668432456355,
+        "stop" : 1668432510176,
+        "duration" : 53821
+      }
+    }, {
+      "uid" : "3f0a48e878ad2841",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668417513779,
+        "stop" : 1668417617011,
+        "duration" : 103232
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1c958fad070f19c3.json",
+  "parameterValues" : [ ]
+}

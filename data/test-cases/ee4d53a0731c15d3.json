@@ -1,0 +1,48 @@
+{
+  "uid" : "ee4d53a0731c15d3",
+  "name" : "Verify that User is able to select tags using checkbox in Tags field of Create Playbook form-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to select tags using checkbox in Tags field of Create Playbook form-Light",
+  "historyId" : "3210851d58b10e6daed5b65e5b6b4d05",
+  "time" : {
+    "start" : 1668510800912,
+    "stop" : 1668510832736,
+    "duration" : 31824
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to select tags using checkbox in Tags field of Create Playbook form-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ee4d53a0731c15d3.json",
+  "parameterValues" : [ ]
+}

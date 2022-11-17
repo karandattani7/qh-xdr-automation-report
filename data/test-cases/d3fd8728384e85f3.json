@@ -1,0 +1,75 @@
+{
+  "uid" : "d3fd8728384e85f3",
+  "name" : "Verify that User is able to see added quick filters count in search filter component in Published Playbooks-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to see added quick filters count in search filter component in Published Playbooks-Light",
+  "historyId" : "45a75ca8a8416573c44d0d7fb3b0acf3",
+  "time" : {
+    "start" : 1668545893092,
+    "stop" : 1668545920295,
+    "duration" : 27203
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to see added quick filters count in search filter component in Published Playbooks-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6812708823a0ea3b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668512439076,
+        "stop" : 1668512467291,
+        "duration" : 28215
+      }
+    }, {
+      "uid" : "d89ca1d7e7e0521e",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Published Playbooks')])",
+      "time" : {
+        "start" : 1668504093076,
+        "stop" : 1668504097892,
+        "duration" : 4816
+      }
+    }, {
+      "uid" : "bb86de47e4819b61",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668500104352,
+        "stop" : 1668500131544,
+        "duration" : 27192
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d3fd8728384e85f3.json",
+  "parameterValues" : [ ]
+}

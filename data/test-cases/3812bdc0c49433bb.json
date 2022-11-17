@@ -1,0 +1,50 @@
+{
+  "uid" : "3812bdc0c49433bb",
+  "name" : "Verify that Incidents count is shown in List view like 'Incidents (32)'-Light",
+  "fullName" : "Incident Test Light theme.Verify that Incidents count is shown in List view like 'Incidents (32)'-Light",
+  "historyId" : "108d391b2199fb0123e044581aab34cd",
+  "time" : {
+    "start" : 1668427900518,
+    "stop" : 1668427923214,
+    "duration" : 22696
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Incidents count is shown in List view like 'Incidents (32)'-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3812bdc0c49433bb.json",
+  "parameterValues" : [ ]
+}

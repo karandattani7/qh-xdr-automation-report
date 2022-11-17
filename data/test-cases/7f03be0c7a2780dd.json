@@ -1,0 +1,66 @@
+{
+  "uid" : "7f03be0c7a2780dd",
+  "name" : "Verify that 3 columns 'Timestamp', 'Filter Name', 'Created By' are shown in left side section in 'Saved Filter' tab of Incident Add Filter modal-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that 3 columns 'Timestamp', 'Filter Name', 'Created By' are shown in left side section in 'Saved Filter' tab of Incident Add Filter modal-Dark",
+  "historyId" : "64749dd9ce0e56cd1f81828dde8dbc60",
+  "time" : {
+    "start" : 1668498934523,
+    "stop" : 1668498958372,
+    "duration" : 23849
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that 3 columns 'Timestamp', 'Filter Name', 'Created By' are shown in left side section in 'Saved Filter' tab of Incident Add Filter modal-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "15859e0b94634ffc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668428719087,
+        "stop" : 1668428742984,
+        "duration" : 23897
+      }
+    }, {
+      "uid" : "9ad474461710d88d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668413719000,
+        "stop" : 1668413743420,
+        "duration" : 24420
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7f03be0c7a2780dd.json",
+  "parameterValues" : [ ]
+}

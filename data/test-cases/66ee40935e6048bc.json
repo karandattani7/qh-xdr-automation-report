@@ -1,0 +1,48 @@
+{
+  "uid" : "66ee40935e6048bc",
+  "name" : "Verify that clicking on 'No' in Work not saved modal at Playbook Editor page, closes the Work not saved modal and remains on Playbook Editor page-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that clicking on 'No' in Work not saved modal at Playbook Editor page, closes the Work not saved modal and remains on Playbook Editor page-Dark",
+  "historyId" : "aa81793618967b3ca25bee4d472461e7",
+  "time" : {
+    "start" : 1668422994681,
+    "stop" : 1668423027820,
+    "duration" : 33139
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on 'No' in Work not saved modal at Playbook Editor page, closes the Work not saved modal and remains on Playbook Editor page-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "66ee40935e6048bc.json",
+  "parameterValues" : [ ]
+}

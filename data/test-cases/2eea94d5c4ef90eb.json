@@ -1,0 +1,66 @@
+{
+  "uid" : "2eea94d5c4ef90eb",
+  "name" : "Verify that Incident Summary right panel has 6 sections in it-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that Incident Summary right panel has 6 sections in it-Dark",
+  "historyId" : "f29fd9ae7033a1f9df0a22ae474ddbd8",
+  "time" : {
+    "start" : 1668497617938,
+    "stop" : 1668497651122,
+    "duration" : 33184
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Incident Summary right panel has 6 sections in it-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ac7de273d09e571a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668427313717,
+        "stop" : 1668427346988,
+        "duration" : 33271
+      }
+    }, {
+      "uid" : "93d1f42f9cc11b06",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668412353400,
+        "stop" : 1668412387378,
+        "duration" : 33978
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2eea94d5c4ef90eb.json",
+  "parameterValues" : [ ]
+}

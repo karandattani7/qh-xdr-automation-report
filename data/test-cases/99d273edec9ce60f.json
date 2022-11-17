@@ -1,0 +1,48 @@
+{
+  "uid" : "99d273edec9ce60f",
+  "name" : "Verify User gets a toast notification on deleting selected multiple playbooks successfully-Light",
+  "fullName" : "Playbook Test Light theme.Verify User gets a toast notification on deleting selected multiple playbooks successfully-Light",
+  "historyId" : "3ca59645ec1318240d7e06006a812ee0",
+  "time" : {
+    "start" : 1668499854155,
+    "stop" : 1668499881033,
+    "duration" : 26878
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User gets a toast notification on deleting selected multiple playbooks successfully-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "99d273edec9ce60f.json",
+  "parameterValues" : [ ]
+}

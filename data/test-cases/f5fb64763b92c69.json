@@ -1,0 +1,66 @@
+{
+  "uid" : "f5fb64763b92c69",
+  "name" : "Verify that Base Alerts list table has 5 columns with expected column names in expected order-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that Base Alerts list table has 5 columns with expected column names in expected order-Dark",
+  "historyId" : "3e0d884be53d730af9e3e5005a9f86ef",
+  "time" : {
+    "start" : 1668497484651,
+    "stop" : 1668497523291,
+    "duration" : 38640
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Base Alerts list table has 5 columns with expected column names in expected order-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "bb77e5b4254df4b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668427180072,
+        "stop" : 1668427218695,
+        "duration" : 38623
+      }
+    }, {
+      "uid" : "cccdfead0f069181",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668412217137,
+        "stop" : 1668412256314,
+        "duration" : 39177
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f5fb64763b92c69.json",
+  "parameterValues" : [ ]
+}

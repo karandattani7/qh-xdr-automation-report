@@ -1,0 +1,48 @@
+{
+  "uid" : "2680683dafa9a560",
+  "name" : "Verify that in User Details right panel, there are 3 sections: INCIDENT DETAILS, USER DETAILS, KEY ATTRIBUTES-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that in User Details right panel, there are 3 sections: INCIDENT DETAILS, USER DETAILS, KEY ATTRIBUTES-Dark",
+  "historyId" : "46f77a564d65781f9efdd4df86c457ef",
+  "time" : {
+    "start" : 1668433094156,
+    "stop" : 1668433143941,
+    "duration" : 49785
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in User Details right panel, there are 3 sections: INCIDENT DETAILS, USER DETAILS, KEY ATTRIBUTES-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2680683dafa9a560.json",
+  "parameterValues" : [ ]
+}

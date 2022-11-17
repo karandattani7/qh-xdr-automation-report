@@ -1,0 +1,50 @@
+{
+  "uid" : "e603ccb43b1ca41d",
+  "name" : "Verify that 'My Incidents' toggle is turned OFF by default in Incidents List view page-Light",
+  "fullName" : "Incident Test Light theme.Verify that 'My Incidents' toggle is turned OFF by default in Incidents List view page-Light",
+  "historyId" : "be24b3bb91a23e797b180f713aa8453b",
+  "time" : {
+    "start" : 1668427333494,
+    "stop" : 1668427363091,
+    "duration" : 29597
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that 'My Incidents' toggle is turned OFF by default in Incidents List view page-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e603ccb43b1ca41d.json",
+  "parameterValues" : [ ]
+}

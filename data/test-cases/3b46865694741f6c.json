@@ -1,0 +1,48 @@
+{
+  "uid" : "3b46865694741f6c",
+  "name" : "Verify that User is able to see All Playbooks when 'My Playbooks' toggle is OFF in Published Playbooks tab-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to see All Playbooks when 'My Playbooks' toggle is OFF in Published Playbooks tab-Light",
+  "historyId" : "f40c45a22e17c44b3ad6821af967bb2",
+  "time" : {
+    "start" : 1668512885069,
+    "stop" : 1668512936061,
+    "duration" : 50992
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to see All Playbooks when 'My Playbooks' toggle is OFF in Published Playbooks tab-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3b46865694741f6c.json",
+  "parameterValues" : [ ]
+}

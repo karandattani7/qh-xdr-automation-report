@@ -1,0 +1,50 @@
+{
+  "uid" : "4adc9392118cc24d",
+  "name" : "Verify that in Connector Add Filter window, user is able to remove multiple filters from SELECTED FILTERS section-Light",
+  "fullName" : "Connector Test Light theme.Verify that in Connector Add Filter window, user is able to remove multiple filters from SELECTED FILTERS section-Light",
+  "historyId" : "2fb6d6b79e368df631cdae8f13ef0d38",
+  "time" : {
+    "start" : 1668259761637,
+    "stop" : 1668259865706,
+    "duration" : 104069
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Connector Add Filter window, user is able to remove multiple filters from SELECTED FILTERS section-Light"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4adc9392118cc24d.json",
+  "parameterValues" : [ ]
+}

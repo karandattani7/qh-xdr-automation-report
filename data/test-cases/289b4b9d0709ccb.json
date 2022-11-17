@@ -1,0 +1,75 @@
+{
+  "uid" : "289b4b9d0709ccb",
+  "name" : "Verify that dragging and dropping 'Call Internal Function' to main canvas area of Playbook Editor opens Call Internal Function right panel initial view showing list of functions-Light",
+  "fullName" : "Playbook Test Light theme.Verify that dragging and dropping 'Call Internal Function' to main canvas area of Playbook Editor opens Call Internal Function right panel initial view showing list of functions-Light",
+  "historyId" : "13748ee24db689c2a8f37e9b055b1467",
+  "time" : {
+    "start" : 1668548104742,
+    "stop" : 1668548137709,
+    "duration" : 32967
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that dragging and dropping 'Call Internal Function' to main canvas area of Playbook Editor opens Call Internal Function right panel initial view showing list of functions-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "318c328e14c2893a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668514836852,
+        "stop" : 1668514871611,
+        "duration" : 34759
+      }
+    }, {
+      "uid" : "433961c0d69e22c8",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504302712,
+        "stop" : 1668504307113,
+        "duration" : 4401
+      }
+    }, {
+      "uid" : "fa54c9b5a0f89de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668502343220,
+        "stop" : 1668502376244,
+        "duration" : 33024
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "289b4b9d0709ccb.json",
+  "parameterValues" : [ ]
+}

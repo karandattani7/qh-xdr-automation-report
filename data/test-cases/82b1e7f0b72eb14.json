@@ -1,0 +1,48 @@
+{
+  "uid" : "82b1e7f0b72eb14",
+  "name" : "Verify that User is able to resize the mini canvas blue window on the Playbook Editor page-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to resize the mini canvas blue window on the Playbook Editor page-Dark",
+  "historyId" : "c4f2a5bdbe1573706815856cb1f805ef",
+  "time" : {
+    "start" : 1668426916164,
+    "stop" : 1668426963775,
+    "duration" : 47611
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to resize the mini canvas blue window on the Playbook Editor page-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "82b1e7f0b72eb14.json",
+  "parameterValues" : [ ]
+}

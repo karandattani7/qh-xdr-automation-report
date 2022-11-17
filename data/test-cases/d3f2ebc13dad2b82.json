@@ -1,0 +1,48 @@
+{
+  "uid" : "d3f2ebc13dad2b82",
+  "name" : "Verify that clicking on added filters count '3 Filter(s)' opens Add Filter overlay window with same 3 filters shown in Selected Filters section in Published Playbooks tab-Light",
+  "fullName" : "Playbook Test Light theme.Verify that clicking on added filters count '3 Filter(s)' opens Add Filter overlay window with same 3 filters shown in Selected Filters section in Published Playbooks tab-Light",
+  "historyId" : "dfa99a92abe627a122ca587ea88a9761",
+  "time" : {
+    "start" : 1668513002660,
+    "stop" : 1668513043806,
+    "duration" : 41146
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on added filters count '3 Filter(s)' opens Add Filter overlay window with same 3 filters shown in Selected Filters section in Published Playbooks tab-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d3f2ebc13dad2b82.json",
+  "parameterValues" : [ ]
+}

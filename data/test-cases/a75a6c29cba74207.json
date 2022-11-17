@@ -1,0 +1,48 @@
+{
+  "uid" : "a75a6c29cba74207",
+  "name" : "Verify that in 'Other Incidents Associated with User' modal, user is able to search Active Incidents by INCIDENT ID and INCIDENT NAME both-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that in 'Other Incidents Associated with User' modal, user is able to search Active Incidents by INCIDENT ID and INCIDENT NAME both-Dark",
+  "historyId" : "32d34fb5bd888104cd854004c5d6ab1",
+  "time" : {
+    "start" : 1668418916637,
+    "stop" : 1668419034092,
+    "duration" : 117455
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in 'Other Incidents Associated with User' modal, user is able to search Active Incidents by INCIDENT ID and INCIDENT NAME both-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a75a6c29cba74207.json",
+  "parameterValues" : [ ]
+}

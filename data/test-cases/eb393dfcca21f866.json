@@ -1,0 +1,48 @@
+{
+  "uid" : "eb393dfcca21f866",
+  "name" : "Verify that user is able to switch between 3 tabs List, Timeline, Correlation in User View page-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that user is able to switch between 3 tabs List, Timeline, Correlation in User View page-Dark",
+  "historyId" : "fa9aae393ca951003a59b9de9be25e01",
+  "time" : {
+    "start" : 1668417617011,
+    "stop" : 1668417678094,
+    "duration" : 61083
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to switch between 3 tabs List, Timeline, Correlation in User View page-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eb393dfcca21f866.json",
+  "parameterValues" : [ ]
+}

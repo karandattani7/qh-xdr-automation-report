@@ -1,0 +1,50 @@
+{
+  "uid" : "10abd45a742cdc03",
+  "name" : "Verify that in Incident Summary right panel, under BASIC INFORMATION, clicking on edit icon of Incident Name field opens Incident Name modal-Light",
+  "fullName" : "Incident Test Light theme.Verify that in Incident Summary right panel, under BASIC INFORMATION, clicking on edit icon of Incident Name field opens Incident Name modal-Light",
+  "historyId" : "647423c149d0ca999f77db40dbbdaa72",
+  "time" : {
+    "start" : 1668428162230,
+    "stop" : 1668428190210,
+    "duration" : 27980
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Incident Summary right panel, under BASIC INFORMATION, clicking on edit icon of Incident Name field opens Incident Name modal-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "10abd45a742cdc03.json",
+  "parameterValues" : [ ]
+}

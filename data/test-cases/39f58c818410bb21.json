@@ -1,0 +1,50 @@
+{
+  "uid" : "39f58c818410bb21",
+  "name" : "Verify that user is able to update Incident Name from Incident summary right panel using Incident Name modal-Light",
+  "fullName" : "Incident Test Light theme.Verify that user is able to update Incident Name from Incident summary right panel using Incident Name modal-Light",
+  "historyId" : "d5a7eb61f06b9a2a44dbc9a2da9db8f7",
+  "time" : {
+    "start" : 1668431385370,
+    "stop" : 1668431422463,
+    "duration" : 37093
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to update Incident Name from Incident summary right panel using Incident Name modal-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "39f58c818410bb21.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,50 @@
+{
+  "uid" : "f4a5cfb8d6e3887b",
+  "name" : "Verify that user is able to save/update Default SLA table without any changes or edits-Dark",
+  "fullName" : "SLA Test Dark theme.Verify that user is able to save/update Default SLA table without any changes or edits-Dark",
+  "historyId" : "e98b321787a2f4d7879cb40843a6b60a",
+  "time" : {
+    "start" : 1668262476072,
+    "stop" : 1668262493493,
+    "duration" : 17421
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "SLA Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "SLA Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to save/update Default SLA table without any changes or edits-Dark"
+  }, {
+    "name" : "package",
+    "value" : "SLA Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f4a5cfb8d6e3887b.json",
+  "parameterValues" : [ ]
+}

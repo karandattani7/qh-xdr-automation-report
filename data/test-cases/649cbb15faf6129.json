@@ -1,0 +1,50 @@
+{
+  "uid" : "649cbb15faf6129",
+  "name" : "Verify scroll up and down using up and down arrow key in Published Playbooks list-Light",
+  "fullName" : "Playbook Test Light theme.Verify scroll up and down using up and down arrow key in Published Playbooks list-Light",
+  "historyId" : "48cccc1ba2466ed176feff4da16f07a9",
+  "time" : {
+    "start" : 1668510161781,
+    "stop" : 1668510161784,
+    "duration" : 3
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify scroll up and down using up and down arrow key in Published Playbooks list-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "649cbb15faf6129.json",
+  "parameterValues" : [ ]
+}

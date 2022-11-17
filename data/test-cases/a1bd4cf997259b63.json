@@ -1,0 +1,48 @@
+{
+  "uid" : "a1bd4cf997259b63",
+  "name" : "Verify that clicking on Cancel when updating decision block in right panel, discards the changes and closes the right panel-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that clicking on Cancel when updating decision block in right panel, discards the changes and closes the right panel-Dark",
+  "historyId" : "4a19104d2f4ed84adf814bd04d0ace00",
+  "time" : {
+    "start" : 1668425508548,
+    "stop" : 1668425574603,
+    "duration" : 66055
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Cancel when updating decision block in right panel, discards the changes and closes the right panel-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a1bd4cf997259b63.json",
+  "parameterValues" : [ ]
+}

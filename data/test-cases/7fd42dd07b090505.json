@@ -1,0 +1,66 @@
+{
+  "uid" : "7fd42dd07b090505",
+  "name" : "Verify that user is able to associate the selected one base alert with a new incident using 'Create New Incident' modal-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that user is able to associate the selected one base alert with a new incident using 'Create New Incident' modal-Dark",
+  "historyId" : "cfe38818fc0cffba94c848817c592c86",
+  "time" : {
+    "start" : 1668504339486,
+    "stop" : 1668504402845,
+    "duration" : 63359
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to associate the selected one base alert with a new incident using 'Create New Incident' modal-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d1ef758f357a82f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668433691405,
+        "stop" : 1668433732698,
+        "duration" : 41293
+      }
+    }, {
+      "uid" : "ca178d48eb0838a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668418806097,
+        "stop" : 1668418868644,
+        "duration" : 62547
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7fd42dd07b090505.json",
+  "parameterValues" : [ ]
+}

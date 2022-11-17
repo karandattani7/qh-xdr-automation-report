@@ -1,0 +1,76 @@
+{
+  "uid" : "a8c99bf255928be6",
+  "name" : "Verify that user is able to drag and drop the Filter block on main canvas area of Playbook Editor-Light",
+  "fullName" : "Playbook Test Light theme.Verify that user is able to drag and drop the Filter block on main canvas area of Playbook Editor-Light",
+  "historyId" : "70ff0fe62682b939e62eb5335de257e8",
+  "time" : {
+    "start" : 1668549271010,
+    "stop" : 1668549316870,
+    "duration" : 45860
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to drag and drop the Filter block on main canvas area of Playbook Editor-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5317b3a36b8dea4f",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668516564863,
+        "stop" : 1668516569066,
+        "duration" : 4203
+      }
+    }, {
+      "uid" : "2b62f684c69aca3c",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504412954,
+        "stop" : 1668504417291,
+        "duration" : 4337
+      }
+    }, {
+      "uid" : "f692a8eff2f75bf9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668503607880,
+        "stop" : 1668503658145,
+        "duration" : 50265
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a8c99bf255928be6.json",
+  "parameterValues" : [ ]
+}

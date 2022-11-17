@@ -1,0 +1,66 @@
+{
+  "uid" : "1018d597e2f24f85",
+  "name" : "Verify that selected checkboxes on draft playbooks are cleared when navigating to published playbooks and switching back to draft playbooks tab-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that selected checkboxes on draft playbooks are cleared when navigating to published playbooks and switching back to draft playbooks tab-Dark",
+  "historyId" : "9edb20d4df77ca918d209fd33c76ae1f",
+  "time" : {
+    "start" : 1668574082189,
+    "stop" : 1668574126221,
+    "duration" : 44032
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that selected checkboxes on draft playbooks are cleared when navigating to published playbooks and switching back to draft playbooks tab-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7c5d245fd4e499b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668542648331,
+        "stop" : 1668542691987,
+        "duration" : 43656
+      }
+    }, {
+      "uid" : "81833f0e26f0aed1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668418126928,
+        "stop" : 1668418171386,
+        "duration" : 44458
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1018d597e2f24f85.json",
+  "parameterValues" : [ ]
+}

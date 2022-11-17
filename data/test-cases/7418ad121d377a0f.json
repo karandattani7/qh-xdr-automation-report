@@ -1,0 +1,50 @@
+{
+  "uid" : "7418ad121d377a0f",
+  "name" : "Verify that in Incident Summary right panel, under RESPONSE SUMMARY section, clicking on edit icon of Priority field opens Incident Priority modal-Light",
+  "fullName" : "Incident Test Light theme.Verify that in Incident Summary right panel, under RESPONSE SUMMARY section, clicking on edit icon of Priority field opens Incident Priority modal-Light",
+  "historyId" : "558df65b567b95d637645a260bd99f59",
+  "time" : {
+    "start" : 1668428190210,
+    "stop" : 1668428228889,
+    "duration" : 38679
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Incident Summary right panel, under RESPONSE SUMMARY section, clicking on edit icon of Priority field opens Incident Priority modal-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7418ad121d377a0f.json",
+  "parameterValues" : [ ]
+}

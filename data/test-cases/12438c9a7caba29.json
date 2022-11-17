@@ -1,0 +1,67 @@
+{
+  "uid" : "12438c9a7caba29",
+  "name" : "Verify that hovering on filter block with added condition and clicking on Edit icon opens editable right panel with Cancel and Save Changes button-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that hovering on filter block with added condition and clicking on Edit icon opens editable right panel with Cancel and Save Changes button-Dark",
+  "historyId" : "80bb35723a44a3dbcac2e22dfc78583",
+  "time" : {
+    "start" : 1668579569426,
+    "stop" : 1668579658251,
+    "duration" : 88825
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that hovering on filter block with added condition and clicking on Edit icon opens editable right panel with Cancel and Save Changes button-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "def1af7db40de7bf",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <a href=\"\">...</a> is not clickable at point (104, 25). Other element would receive the click: <modal-container role=\"dialog\" tabindex=\"-1\" class=\"modal show\" aria-modal=\"true\" style=\"display: block;\">...</modal-container>\n                  (Session info: chrome=107.0.5304.107)\n                  (Driver info: chromedriver=107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}),platform=Windows NT 10.0.19045 x86_64)",
+      "time" : {
+        "start" : 1668545875311,
+        "stop" : 1668545878731,
+        "duration" : 3420
+      }
+    }, {
+      "uid" : "aceaa7ea55f46fd8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668423570354,
+        "stop" : 1668423652285,
+        "duration" : 81931
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "12438c9a7caba29.json",
+  "parameterValues" : [ ]
+}

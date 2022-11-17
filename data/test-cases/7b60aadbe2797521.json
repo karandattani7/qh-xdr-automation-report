@@ -1,0 +1,75 @@
+{
+  "uid" : "7b60aadbe2797521",
+  "name" : "Verify that clicking on Delete icon on internal function block in main canvas area shows Delete block modal-Light",
+  "fullName" : "Playbook Test Light theme.Verify that clicking on Delete icon on internal function block in main canvas area shows Delete block modal-Light",
+  "historyId" : "aae6784b384d63caa8fbb59b02bf4008",
+  "time" : {
+    "start" : 1668548825042,
+    "stop" : 1668548862924,
+    "duration" : 37882
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Delete icon on internal function block in main canvas area shows Delete block modal-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b2043ada0abd260b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668515716282,
+        "stop" : 1668515753992,
+        "duration" : 37710
+      }
+    }, {
+      "uid" : "359553a2ce3029c3",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504364763,
+        "stop" : 1668504369232,
+        "duration" : 4469
+      }
+    }, {
+      "uid" : "5b68b29360b776bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668503100801,
+        "stop" : 1668503141741,
+        "duration" : 40940
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7b60aadbe2797521.json",
+  "parameterValues" : [ ]
+}

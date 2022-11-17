@@ -1,0 +1,48 @@
+{
+  "uid" : "c30c24e72ba7726b",
+  "name" : "Verify that filter right panel is opened when user clicks on Filter Block on main canvas area when right panel is in collapsed state-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that filter right panel is opened when user clicks on Filter Block on main canvas area when right panel is in collapsed state-Dark",
+  "historyId" : "3ccc204667763eb59701cc1fddc2c91a",
+  "time" : {
+    "start" : 1668425695592,
+    "stop" : 1668425744311,
+    "duration" : 48719
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that filter right panel is opened when user clicks on Filter Block on main canvas area when right panel is in collapsed state-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c30c24e72ba7726b.json",
+  "parameterValues" : [ ]
+}

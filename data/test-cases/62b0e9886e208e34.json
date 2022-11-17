@@ -1,0 +1,48 @@
+{
+  "uid" : "62b0e9886e208e34",
+  "name" : "Verify that user is able to move specific published playbook to draft playbooks tab successfully using 'Move to drafts' in action menu of a Published Playbook-Light",
+  "fullName" : "Playbook Test Light theme.Verify that user is able to move specific published playbook to draft playbooks tab successfully using 'Move to drafts' in action menu of a Published Playbook-Light",
+  "historyId" : "f3fc9c8f65bb0b05f1b029010a66c5e0",
+  "time" : {
+    "start" : 1668510304197,
+    "stop" : 1668510358716,
+    "duration" : 54519
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to move specific published playbook to draft playbooks tab successfully using 'Move to drafts' in action menu of a Published Playbook-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "62b0e9886e208e34.json",
+  "parameterValues" : [ ]
+}

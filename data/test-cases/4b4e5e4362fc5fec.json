@@ -1,0 +1,50 @@
+{
+  "uid" : "4b4e5e4362fc5fec",
+  "name" : "Verify SOC Manager user is able to view the count of 'Total incidents' on Donut chart of 'Overall Incident Summary' widgets of SOC Manager Dashboard Page-Light",
+  "fullName" : "Dashboard Test Light theme-SOC Manager.Verify SOC Manager user is able to view the count of 'Total incidents' on Donut chart of 'Overall Incident Summary' widgets of SOC Manager Dashboard Page-Light",
+  "historyId" : "d2b732fd0462b3b0635990d6b3c165c4",
+  "time" : {
+    "start" : 1668262987411,
+    "stop" : 1668262997462,
+    "duration" : 10051
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Dashboard Test Light theme-SOC Manager"
+  }, {
+    "name" : "testClass",
+    "value" : "Dashboard Test Light theme-SOC Manager"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify SOC Manager user is able to view the count of 'Total incidents' on Donut chart of 'Overall Incident Summary' widgets of SOC Manager Dashboard Page-Light"
+  }, {
+    "name" : "package",
+    "value" : "Dashboard Test Light theme-SOC Manager"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4b4e5e4362fc5fec.json",
+  "parameterValues" : [ ]
+}

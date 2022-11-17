@@ -1,0 +1,66 @@
+{
+  "uid" : "328f2c86fb6c54f9",
+  "name" : "Verify that clicking on 'No' button on Work not saved modal keeps User on Create Playbook form (Published and Draft)-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that clicking on 'No' button on Work not saved modal keeps User on Create Playbook form (Published and Draft)-Dark",
+  "historyId" : "40ddf71d133bd404d325b779164c79ed",
+  "time" : {
+    "start" : 1668575354116,
+    "stop" : 1668575389966,
+    "duration" : 35850
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on 'No' button on Work not saved modal keeps User on Create Playbook form (Published and Draft)-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "70b4be85d10b8dea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668544042747,
+        "stop" : 1668544076571,
+        "duration" : 33824
+      }
+    }, {
+      "uid" : "8df14da5bdfc0203",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668419468016,
+        "stop" : 1668419501891,
+        "duration" : 33875
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "328f2c86fb6c54f9.json",
+  "parameterValues" : [ ]
+}

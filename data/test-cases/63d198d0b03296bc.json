@@ -1,0 +1,66 @@
+{
+  "uid" : "63d198d0b03296bc",
+  "name" : "Verify that 3 options 'Last 7 Days, Last 15 Days, Last 30 Days' are shown for 'Search For' dropdown in 'Saved Filter' tab of Incident Add Filter window-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that 3 options 'Last 7 Days, Last 15 Days, Last 30 Days' are shown for 'Search For' dropdown in 'Saved Filter' tab of Incident Add Filter window-Dark",
+  "historyId" : "3342e70d346d1a8f58dd7175cbd7bd2a",
+  "time" : {
+    "start" : 1668498958373,
+    "stop" : 1668498984223,
+    "duration" : 25850
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that 3 options 'Last 7 Days, Last 15 Days, Last 30 Days' are shown for 'Search For' dropdown in 'Saved Filter' tab of Incident Add Filter window-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "bdd9e17270e04656",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668428742985,
+        "stop" : 1668428769068,
+        "duration" : 26083
+      }
+    }, {
+      "uid" : "4cdf94a69b22c8ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668413743420,
+        "stop" : 1668413770065,
+        "duration" : 26645
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "63d198d0b03296bc.json",
+  "parameterValues" : [ ]
+}

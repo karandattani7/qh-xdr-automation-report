@@ -1,0 +1,48 @@
+{
+  "uid" : "19cb021651b9e1be",
+  "name" : "Verify the error toast notifications for different scenarios of created flow diagram when validating in Playbook Editor page is as expected-Light",
+  "fullName" : "Playbook Test Light theme.Verify the error toast notifications for different scenarios of created flow diagram when validating in Playbook Editor page is as expected-Light",
+  "historyId" : "db85c4525716bd981c21f06294f80f6b",
+  "time" : {
+    "start" : 1668506303588,
+    "stop" : 1668506474855,
+    "duration" : 171267
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the error toast notifications for different scenarios of created flow diagram when validating in Playbook Editor page is as expected-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "19cb021651b9e1be.json",
+  "parameterValues" : [ ]
+}

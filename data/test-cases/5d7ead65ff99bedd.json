@@ -1,0 +1,50 @@
+{
+  "uid" : "5d7ead65ff99bedd",
+  "name" : "Verify that user is able to filter incidents list by single severity and multiple severity-Light",
+  "fullName" : "Incident Test Light theme.Verify that user is able to filter incidents list by single severity and multiple severity-Light",
+  "historyId" : "e7a4cff4dea92498b3f0cdc44ff3eaa1",
+  "time" : {
+    "start" : 1668430964864,
+    "stop" : 1668431029427,
+    "duration" : 64563
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to filter incidents list by single severity and multiple severity-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5d7ead65ff99bedd.json",
+  "parameterValues" : [ ]
+}

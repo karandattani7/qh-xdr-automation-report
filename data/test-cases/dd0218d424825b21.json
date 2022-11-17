@@ -1,0 +1,48 @@
+{
+  "uid" : "dd0218d424825b21",
+  "name" : "Verify that clicking on Delete icon on initial view of Call External Function Right Panel shows Delete Block modal-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that clicking on Delete icon on initial view of Call External Function Right Panel shows Delete Block modal-Dark",
+  "historyId" : "e5c8333ee9da8c3ca2f0c5a728466de7",
+  "time" : {
+    "start" : 1668424759573,
+    "stop" : 1668424809356,
+    "duration" : 49783
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on Delete icon on initial view of Call External Function Right Panel shows Delete Block modal-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dd0218d424825b21.json",
+  "parameterValues" : [ ]
+}

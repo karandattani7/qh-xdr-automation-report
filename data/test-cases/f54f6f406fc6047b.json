@@ -1,0 +1,50 @@
+{
+  "uid" : "f54f6f406fc6047b",
+  "name" : "Verify the Status wise Incidents count is shown in Incident Timeline view-Light",
+  "fullName" : "Incident Test Light theme.Verify the Status wise Incidents count is shown in Incident Timeline view-Light",
+  "historyId" : "6d7188d676ef7d8b909ff068823c7431",
+  "time" : {
+    "start" : 1668427642779,
+    "stop" : 1668427667395,
+    "duration" : 24616
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the Status wise Incidents count is shown in Incident Timeline view-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f54f6f406fc6047b.json",
+  "parameterValues" : [ ]
+}

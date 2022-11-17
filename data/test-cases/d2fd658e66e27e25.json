@@ -1,0 +1,50 @@
+{
+  "uid" : "d2fd658e66e27e25",
+  "name" : "Verify a success toast notification is shown after a playbook has been published using 'Publish Playbook' button-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify a success toast notification is shown after a playbook has been published using 'Publish Playbook' button-Dark",
+  "historyId" : "e9da039c14e781abadd42c6048bc7626",
+  "time" : {
+    "start" : 1668426553280,
+    "stop" : 1668426553285,
+    "duration" : 5
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify a success toast notification is shown after a playbook has been published using 'Publish Playbook' button-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d2fd658e66e27e25.json",
+  "parameterValues" : [ ]
+}

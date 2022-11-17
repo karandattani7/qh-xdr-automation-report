@@ -1,0 +1,48 @@
+{
+  "uid" : "9f2812404af80c17",
+  "name" : "Verify User is able to Edit Draft Playbook-Light",
+  "fullName" : "Playbook Test Light theme.Verify User is able to Edit Draft Playbook-Light",
+  "historyId" : "1fb6f4b8298fd49ee9d34320ef318023",
+  "time" : {
+    "start" : 1668499786882,
+    "stop" : 1668499821920,
+    "duration" : 35038
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User is able to Edit Draft Playbook-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9f2812404af80c17.json",
+  "parameterValues" : [ ]
+}

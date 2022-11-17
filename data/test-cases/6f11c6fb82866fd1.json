@@ -1,0 +1,48 @@
+{
+  "uid" : "6f11c6fb82866fd1",
+  "name" : "Verify that User is able to save playbook with No Tags selected-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to save playbook with No Tags selected-Dark",
+  "historyId" : "6487e9f3de86618e6b6acf0b9bf61105",
+  "time" : {
+    "start" : 1668419789234,
+    "stop" : 1668419821421,
+    "duration" : 32187
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to save playbook with No Tags selected-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6f11c6fb82866fd1.json",
+  "parameterValues" : [ ]
+}

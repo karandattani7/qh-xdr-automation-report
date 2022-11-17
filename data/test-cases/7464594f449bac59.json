@@ -1,0 +1,50 @@
+{
+  "uid" : "7464594f449bac59",
+  "name" : "Verify that user is able to filter incidents list by single incident name and multiple incident names-Light",
+  "fullName" : "Incident Test Light theme.Verify that user is able to filter incidents list by single incident name and multiple incident names-Light",
+  "historyId" : "9c708e4996f61490b09bbae4b12cc62d",
+  "time" : {
+    "start" : 1668430404045,
+    "stop" : 1668430455927,
+    "duration" : 51882
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to filter incidents list by single incident name and multiple incident names-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7464594f449bac59.json",
+  "parameterValues" : [ ]
+}

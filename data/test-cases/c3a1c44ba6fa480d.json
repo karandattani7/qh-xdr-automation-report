@@ -1,0 +1,48 @@
+{
+  "uid" : "c3a1c44ba6fa480d",
+  "name" : "Verify that in Create/Edit Playbook form, when no tags are selected in Tags dropdown, the Triggers and Conditions section should be enabled-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that in Create/Edit Playbook form, when no tags are selected in Tags dropdown, the Triggers and Conditions section should be enabled-Dark",
+  "historyId" : "2c273be0ce12319f5ab7caf15c8f0ee3",
+  "time" : {
+    "start" : 1668427898449,
+    "stop" : 1668427938164,
+    "duration" : 39715
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in Create/Edit Playbook form, when no tags are selected in Tags dropdown, the Triggers and Conditions section should be enabled-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c3a1c44ba6fa480d.json",
+  "parameterValues" : [ ]
+}

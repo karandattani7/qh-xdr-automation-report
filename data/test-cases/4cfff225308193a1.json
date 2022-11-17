@@ -1,0 +1,75 @@
+{
+  "uid" : "4cfff225308193a1",
+  "name" : "Verify that given decision name by user is reflected on main canvas area on decision block after addition-Light",
+  "fullName" : "Playbook Test Light theme.Verify that given decision name by user is reflected on main canvas area on decision block after addition-Light",
+  "historyId" : "50b00ef5e51851381aefbcddaf660e9f",
+  "time" : {
+    "start" : 1668548411673,
+    "stop" : 1668548453540,
+    "duration" : 41867
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that given decision name by user is reflected on main canvas area on decision block after addition-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2e8790d4ac24e3f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668515297594,
+        "stop" : 1668515342523,
+        "duration" : 44929
+      }
+    }, {
+      "uid" : "ffa3adccd0bf6629",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504333748,
+        "stop" : 1668504338108,
+        "duration" : 4360
+      }
+    }, {
+      "uid" : "57e45861fb24daac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668502650630,
+        "stop" : 1668502697073,
+        "duration" : 46443
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4cfff225308193a1.json",
+  "parameterValues" : [ ]
+}

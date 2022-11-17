@@ -1,0 +1,50 @@
+{
+  "uid" : "423ce5671db20198",
+  "name" : "Verify that in SLA Configuration tab, a success toast notification is shown after the SLA Panel is updated using edit icon-Dark",
+  "fullName" : "SLA Test Dark theme.Verify that in SLA Configuration tab, a success toast notification is shown after the SLA Panel is updated using edit icon-Dark",
+  "historyId" : "59d880d30d8d7edcd18a519ba4d91d2b",
+  "time" : {
+    "start" : 1668262449936,
+    "stop" : 1668262476072,
+    "duration" : 26136
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "SLA Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "SLA Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in SLA Configuration tab, a success toast notification is shown after the SLA Panel is updated using edit icon-Dark"
+  }, {
+    "name" : "package",
+    "value" : "SLA Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "423ce5671db20198.json",
+  "parameterValues" : [ ]
+}

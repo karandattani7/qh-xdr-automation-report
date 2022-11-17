@@ -1,0 +1,76 @@
+{
+  "uid" : "9ca101c1ea438dd6",
+  "name" : "Verify that User is able to delete added/dragged block from the Main Canvas area of the Playbook Editor page-Light",
+  "fullName" : "Playbook Test Light theme.Verify that User is able to delete added/dragged block from the Main Canvas area of the Playbook Editor page-Light",
+  "historyId" : "549fb15ff54e6e440e0b5c1ab9f71632",
+  "time" : {
+    "start" : 1668551970164,
+    "stop" : 1668552031375,
+    "duration" : 61211
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to delete added/dragged block from the Main Canvas area of the Playbook Editor page-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ef5ceaa15b7bbb01",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668516753353,
+        "stop" : 1668516757533,
+        "duration" : 4180
+      }
+    }, {
+      "uid" : "df9d2c426c040060",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668506527954,
+        "stop" : 1668506592517,
+        "duration" : 64563
+      }
+    }, {
+      "uid" : "2bffbd70d77ca668",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504613862,
+        "stop" : 1668504618406,
+        "duration" : 4544
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9ca101c1ea438dd6.json",
+  "parameterValues" : [ ]
+}

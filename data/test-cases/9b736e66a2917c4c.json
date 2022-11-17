@@ -1,0 +1,48 @@
+{
+  "uid" : "9b736e66a2917c4c",
+  "name" : "Verify that in clicking on Condition field shows dropdown with 3 options: Block, Incident, Incident.alert-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that in clicking on Condition field shows dropdown with 3 options: Block, Incident, Incident.alert-Dark",
+  "historyId" : "6d6cabf440ba9322219b10fd68fc11e0",
+  "time" : {
+    "start" : 1668424023829,
+    "stop" : 1668424059016,
+    "duration" : 35187
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that in clicking on Condition field shows dropdown with 3 options: Block, Incident, Incident.alert-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9b736e66a2917c4c.json",
+  "parameterValues" : [ ]
+}

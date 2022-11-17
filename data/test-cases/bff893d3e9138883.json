@@ -1,0 +1,50 @@
+{
+  "uid" : "bff893d3e9138883",
+  "name" : "Verify that clicking on enabled 'Create New Incident' button opens Create New Incident modal-Light",
+  "fullName" : "Incident Test Light theme.Verify that clicking on enabled 'Create New Incident' button opens Create New Incident modal-Light",
+  "historyId" : "7b76f6af6ef9477e6e9a90499c7cc7f0",
+  "time" : {
+    "start" : 1668428295399,
+    "stop" : 1668428325845,
+    "duration" : 30446
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that clicking on enabled 'Create New Incident' button opens Create New Incident modal-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bff893d3e9138883.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "19c459cd7474c43f",
+  "name" : "Verify that user is able to resize the rectangle slider box on the x-axis in timeline graph in Incident Timeline view-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that user is able to resize the rectangle slider box on the x-axis in timeline graph in Incident Timeline view-Dark",
+  "historyId" : "16f484dd0280ebf8933e36c3ad9002ae",
+  "time" : {
+    "start" : 1668416437539,
+    "stop" : 1668416480194,
+    "duration" : 42655
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to resize the rectangle slider box on the x-axis in timeline graph in Incident Timeline view-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "19c459cd7474c43f.json",
+  "parameterValues" : [ ]
+}

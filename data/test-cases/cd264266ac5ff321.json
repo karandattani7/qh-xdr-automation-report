@@ -1,0 +1,66 @@
+{
+  "uid" : "cd264266ac5ff321",
+  "name" : "Verify that Incidents Add Filter modal shows two tabs Add Filter and Saved Filter-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that Incidents Add Filter modal shows two tabs Add Filter and Saved Filter-Dark",
+  "historyId" : "c2c750b2d83767e641ab6da6356f4974",
+  "time" : {
+    "start" : 1668498846578,
+    "stop" : 1668498876865,
+    "duration" : 30287
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Incidents Add Filter modal shows two tabs Add Filter and Saved Filter-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a76770b57dac8d12",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668428630437,
+        "stop" : 1668428660889,
+        "duration" : 30452
+      }
+    }, {
+      "uid" : "eef6d20f735fdbbf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668413629063,
+        "stop" : 1668413660040,
+        "duration" : 30977
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cd264266ac5ff321.json",
+  "parameterValues" : [ ]
+}

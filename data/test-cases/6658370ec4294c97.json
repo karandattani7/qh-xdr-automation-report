@@ -1,0 +1,50 @@
+{
+  "uid" : "6658370ec4294c97",
+  "name" : "Verify Admin is able to view timeframe breakpoints on each widget of Admin Dashboard Page.-Dark",
+  "fullName" : "Dashboard Test Dark theme-Admin.Verify Admin is able to view timeframe breakpoints on each widget of Admin Dashboard Page.-Dark",
+  "historyId" : "44bdd4fc4fab6cdf885c7850b047de82",
+  "time" : {
+    "start" : 1668261768613,
+    "stop" : 1668261774964,
+    "duration" : 6351
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Dashboard Test Dark theme-Admin"
+  }, {
+    "name" : "testClass",
+    "value" : "Dashboard Test Dark theme-Admin"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify Admin is able to view timeframe breakpoints on each widget of Admin Dashboard Page.-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Dashboard Test Dark theme-Admin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6658370ec4294c97.json",
+  "parameterValues" : [ ]
+}

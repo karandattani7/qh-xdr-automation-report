@@ -1,0 +1,50 @@
+{
+  "uid" : "df3af07566f422c1",
+  "name" : "Verify User should be able to see Connectors count on top of the table in Enrichment, Ingestion and Response Connectors tab-Dark",
+  "fullName" : "Connector Test Dark theme.Verify User should be able to see Connectors count on top of the table in Enrichment, Ingestion and Response Connectors tab-Dark",
+  "historyId" : "af2a7270de5f5bcf320efced55723b35",
+  "time" : {
+    "start" : 1668256811665,
+    "stop" : 1668256842431,
+    "duration" : 30766
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify User should be able to see Connectors count on top of the table in Enrichment, Ingestion and Response Connectors tab-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Connector Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "df3af07566f422c1.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,74 @@
+{
+  "uid" : "9a5ddcbff9415dd6",
+  "name" : "Verify that an error toast notification is shown when User creates a playbook with same name of an existing playbook-Light",
+  "fullName" : "Playbook Test Light theme.Verify that an error toast notification is shown when User creates a playbook with same name of an existing playbook-Light",
+  "historyId" : "243d82362dd20813c282f642f54ab413",
+  "time" : {
+    "start" : 1668544317164,
+    "stop" : 1668544360672,
+    "duration" : 43508
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that an error toast notification is shown when User creates a playbook with same name of an existing playbook-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2f75755fe9776e4c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668510755341,
+        "stop" : 1668510800911,
+        "duration" : 45570
+      }
+    }, {
+      "uid" : "42147f5d2853d09a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668502501870,
+        "stop" : 1668502547706,
+        "duration" : 45836
+      }
+    }, {
+      "uid" : "182f695b4a0489c5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668498535587,
+        "stop" : 1668498578972,
+        "duration" : 43385
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9a5ddcbff9415dd6.json",
+  "parameterValues" : [ ]
+}

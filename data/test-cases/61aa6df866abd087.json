@@ -1,0 +1,75 @@
+{
+  "uid" : "61aa6df866abd087",
+  "name" : "Verify that user is able to draw connection line from added available block to Stop block in Playbook Editor page-Light",
+  "fullName" : "Playbook Test Light theme.Verify that user is able to draw connection line from added available block to Stop block in Playbook Editor page-Light",
+  "historyId" : "305e96c3dc534494741a32208d728735",
+  "time" : {
+    "start" : 1668546524523,
+    "stop" : 1668546560246,
+    "duration" : 35723
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that user is able to draw connection line from added available block to Stop block in Playbook Editor page-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f91bc3dd07a4c3fb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668513162268,
+        "stop" : 1668513199492,
+        "duration" : 37224
+      }
+    }, {
+      "uid" : "5480c015f78343a4",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(xpath, //a[contains(text(),'Draft Playbooks')])",
+      "time" : {
+        "start" : 1668504164497,
+        "stop" : 1668504168966,
+        "duration" : 4469
+      }
+    }, {
+      "uid" : "6faafcaf601e2c5d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668500738449,
+        "stop" : 1668500774260,
+        "duration" : 35811
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "61aa6df866abd087.json",
+  "parameterValues" : [ ]
+}

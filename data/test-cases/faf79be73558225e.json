@@ -1,0 +1,48 @@
+{
+  "uid" : "faf79be73558225e",
+  "name" : "Verify the selected row using checkbox is highlighted in Published Playbooks list page-Light",
+  "fullName" : "Playbook Test Light theme.Verify the selected row using checkbox is highlighted in Published Playbooks list page-Light",
+  "historyId" : "d4c8e8c83c79e1bfd769680060876cbb",
+  "time" : {
+    "start" : 1668497531485,
+    "stop" : 1668497554816,
+    "duration" : 23331
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the selected row using checkbox is highlighted in Published Playbooks list page-Light"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "faf79be73558225e.json",
+  "parameterValues" : [ ]
+}

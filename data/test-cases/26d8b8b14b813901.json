@@ -1,0 +1,50 @@
+{
+  "uid" : "26d8b8b14b813901",
+  "name" : "Verify that Search filter component is visible and shown in correct place on Incident List view page-Light",
+  "fullName" : "Incident Test Light theme.Verify that Search filter component is visible and shown in correct place on Incident List view page-Light",
+  "historyId" : "95c2b87f46fdff798d205448be08afd1",
+  "time" : {
+    "start" : 1668427224781,
+    "stop" : 1668427249549,
+    "duration" : 24768
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Search filter component is visible and shown in correct place on Incident List view page-Light"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Light theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "26d8b8b14b813901.json",
+  "parameterValues" : [ ]
+}

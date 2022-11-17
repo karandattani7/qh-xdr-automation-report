@@ -1,0 +1,50 @@
+{
+  "uid" : "d80d146bac5a9bea",
+  "name" : "Verify SOC Manager  is able to view 1 week, 1 month and 3 months of timeframe breakpoint on 'False Positive Rate' widget on SOC Manager Dashboard Page.-Light",
+  "fullName" : "Dashboard Test Light theme-SOC Manager.Verify SOC Manager  is able to view 1 week, 1 month and 3 months of timeframe breakpoint on 'False Positive Rate' widget on SOC Manager Dashboard Page.-Light",
+  "historyId" : "cdeb14e9efa7fc4fae7b940ab75ef514",
+  "time" : {
+    "start" : 1668263140282,
+    "stop" : 1668263152563,
+    "duration" : 12281
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Dashboard Test Light theme-SOC Manager"
+  }, {
+    "name" : "testClass",
+    "value" : "Dashboard Test Light theme-SOC Manager"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify SOC Manager  is able to view 1 week, 1 month and 3 months of timeframe breakpoint on 'False Positive Rate' widget on SOC Manager Dashboard Page.-Light"
+  }, {
+    "name" : "package",
+    "value" : "Dashboard Test Light theme-SOC Manager"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d80d146bac5a9bea.json",
+  "parameterValues" : [ ]
+}

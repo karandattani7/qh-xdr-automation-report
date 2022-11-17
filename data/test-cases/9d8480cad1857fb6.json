@@ -1,0 +1,48 @@
+{
+  "uid" : "9d8480cad1857fb6",
+  "name" : "Verify that User is able to expand and collapse the 'Available Parameters' list in Create Playbook form-Dark",
+  "fullName" : "Playbook Test Dark theme.Verify that User is able to expand and collapse the 'Available Parameters' list in Create Playbook form-Dark",
+  "historyId" : "dfbc4cbae69defe443a0185c50988a39",
+  "time" : {
+    "start" : 1668419327032,
+    "stop" : 1668419352505,
+    "duration" : 25473
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that User is able to expand and collapse the 'Available Parameters' list in Create Playbook form-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Playbook Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9d8480cad1857fb6.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "ec7f1ce584954532",
+  "name" : "Verify that Filter component, My Incidents toggle, View dropdown is shown in Incident Timeline view-Dark",
+  "fullName" : "Incident Test Dark theme.Verify that Filter component, My Incidents toggle, View dropdown is shown in Incident Timeline view-Dark",
+  "historyId" : "6cc86218ee0e60bf80866870abda681b",
+  "time" : {
+    "start" : 1668411961669,
+    "stop" : 1668411986745,
+    "duration" : 25076
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testClass",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Filter component, My Incidents toggle, View dropdown is shown in Incident Timeline view-Dark"
+  }, {
+    "name" : "package",
+    "value" : "Incident Test Dark theme"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ec7f1ce584954532.json",
+  "parameterValues" : [ ]
+}
